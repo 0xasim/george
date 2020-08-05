@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.399" end="00:00:05.610" style="s2">all right</p>
+<p begin="00:00:09.309" end="00:00:15.680" style="s2">people join up ask up one person one</p>
+<p begin="00:00:12.350" end="00:00:17.889" style="s2">person in us six people seven nine here</p>
+<p begin="00:00:15.680" end="00:00:17.889" style="s2">we go</p>
+<p begin="00:00:24.450" end="00:00:30.300" style="s2">what up crow welcome to myself driving</p>
+<p begin="00:00:28.500" end="00:00:31.830" style="s2">til your little Prius commas</p>
+<p begin="00:00:30.300" end="00:00:32.730" style="s2">self-driving Toyota Prius I didn&#39;t</p>
+<p begin="00:00:31.830" end="00:00:35.040" style="s2">really do anything</p>
+<p begin="00:00:32.730" end="00:00:39.690" style="s2">I just Cheerilee it and talk I&#39;m the</p>
+<p begin="00:00:35.040" end="00:00:42.210" style="s2">periscope so we&#39;re actually using the</p>
+<p begin="00:00:39.690" end="00:00:45.930" style="s2">Prius is longitudinal control and this</p>
+<p begin="00:00:42.210" end="00:00:47.970" style="s2">is the comma a I lateral control oh oh</p>
+<p begin="00:00:45.930" end="00:00:52.500" style="s2">wait a second we have something we can&#39;t</p>
+<p begin="00:00:47.970" end="00:00:56.370" style="s2">show off in this car we show well hey</p>
+<p begin="00:00:52.500" end="00:01:00.229" style="s2">you know cats out know that don&#39;t worry</p>
+<p begin="00:00:56.370" end="00:01:03.260" style="s2">internal prototypes in total from tennis</p>
+<p begin="00:01:00.229" end="00:01:05.640" style="s2">yeah no I&#39;m not</p>
+<p begin="00:01:03.260" end="00:01:07.290" style="s2">we won&#39;t even talk about it don&#39;t don&#39;t</p>
+<p begin="00:01:05.640" end="00:01:08.820" style="s2">talk about it just like yeah it&#39;s an e</p>
+<p begin="00:01:07.290" end="00:01:11.070" style="s2">oh yeah we have an e out yeah I mean our</p>
+<p begin="00:01:08.820" end="00:01:12.000" style="s2">self-driving Prius Wow can&#39;t believe I</p>
+<p begin="00:01:11.070" end="00:01:17.010" style="s2">forgot about that</p>
+<p begin="00:01:12.000" end="00:01:19.080" style="s2">yeah um we have an extra you know well</p>
+<p begin="00:01:17.010" end="00:01:23.010" style="s2">that&#39;s yeah that Prius has a computer in</p>
+<p begin="00:01:19.080" end="00:01:24.630" style="s2">it too um yeah the periscopes and we</p>
+<p begin="00:01:23.010" end="00:01:30.960" style="s2">didn&#39;t like why are the periscopes</p>
+<p begin="00:01:24.630" end="00:01:32.670" style="s2">always kind of low-quality but yeah so</p>
+<p begin="00:01:30.960" end="00:01:35.909" style="s2">we&#39;re using the longitudinal control</p>
+<p begin="00:01:32.670" end="00:01:40.469" style="s2">that&#39;s built into this car lateral</p>
+<p begin="00:01:35.909" end="00:01:42.270" style="s2">control is what we have we&#39;re actually</p>
+<p begin="00:01:40.469" end="00:01:46.619" style="s2">on our way right now to the Toyota</p>
+<p begin="00:01:42.270" end="00:01:48.539" style="s2">dealership to buy another Toyota</p>
+<p begin="00:01:46.619" end="00:01:49.920" style="s2">we love Toyota man Toyota&#39;s are great</p>
+<p begin="00:01:48.539" end="00:01:50.189" style="s2">right this turn here and we&#39;ll see what</p>
+<p begin="00:01:49.920" end="00:01:54.450" style="s2">it does</p>
+<p begin="00:01:50.189" end="00:01:57.299" style="s2">oh not what&#39;s with our fare um the Prius</p>
+<p begin="00:01:54.450" end="00:02:00.170" style="s2">has a significantly higher torque limit</p>
+<p begin="00:01:57.299" end="00:02:00.170" style="s2">than the Honda Civic</p>
+<p begin="00:02:00.270" end="00:02:05.110" style="s2">significantly higher so that&#39;s why when</p>
+<p begin="00:02:03.760" end="00:02:06.970" style="s2">I&#39;m driving the Prius I always keep my</p>
+<p begin="00:02:05.110" end="00:02:08.740" style="s2">hands touching the wheel it&#39;s not</p>
+<p begin="00:02:06.970" end="00:02:13.670" style="s2">actually moving the wheel I&#39;m not moving</p>
+<p begin="00:02:08.740" end="00:02:17.120" style="s2">the my god yeah</p>
+<p begin="00:02:13.670" end="00:02:19.660" style="s2">but yeah I put the speed up here get on</p>
+<p begin="00:02:17.120" end="00:02:19.660" style="s2">this Highway</p>
+<p begin="00:02:22.980" end="00:02:26.909" style="s2">doesn&#39;t that thing park by itself yeah</p>
+<p begin="00:02:24.930" end="00:02:28.409" style="s2">it does it does park by itself but it</p>
+<p begin="00:02:26.909" end="00:02:30.959" style="s2">does not drive itself</p>
+<p begin="00:02:28.409" end="00:02:32.430" style="s2">the Honda lane-keeping system is much</p>
+<p begin="00:02:30.959" end="00:02:33.900" style="s2">better than the Toyotas line keeping</p>
+<p begin="00:02:32.430" end="00:02:36.920" style="s2">system the Toyotas lean keeping systems</p>
+<p begin="00:02:33.900" end="00:02:36.920" style="s2">practically non-existent</p>
+<p begin="00:02:39.630" end="00:02:45.690" style="s2">yeah there&#39;s a lot of berry researchy</p>
+<p begin="00:02:42.250" end="00:02:45.690" style="s2">stuff going on in this car right now</p>
+<p begin="00:02:49.080" end="00:02:53.920" style="s2">yeah check out the wheel</p>
+<p begin="00:02:51.010" end="00:02:58.980" style="s2">my hands and hands are an inch from the</p>
+<p begin="00:02:53.920" end="00:02:58.980" style="s2">steering wheel sturdy</p>
+<p begin="00:03:00.470" end="00:03:04.730" style="s2">it&#39;s just ready in case it does do</p>
+<p begin="00:03:02.840" end="00:03:06.590" style="s2">anything if you&#39;ve been quickly to</p>
+<p begin="00:03:04.730" end="00:03:09.220" style="s2">respond to this the release version this</p>
+<p begin="00:03:06.590" end="00:03:11.890" style="s2">probably won&#39;t be the case</p>
+<p begin="00:03:09.220" end="00:03:14.380" style="s2">oh yeah pretty well when I said we got</p>
+<p begin="00:03:11.890" end="00:03:16.830" style="s2">off of three three be a billion for each</p>
+<p begin="00:03:14.380" end="00:03:16.830" style="s2">other</p>
+<p begin="00:03:24.629" end="00:03:30.859" style="s2">ready through me look at that term</p>
+<p begin="00:03:27.499" end="00:03:30.859" style="s2">that&#39;s good</p>
+<p begin="00:03:31.930" end="00:03:36.069" style="s2">thanks genders diners on our thing yeah</p>
+<p begin="00:03:35.260" end="00:03:38.470" style="s2">ten days of thoughts</p>
+<p begin="00:03:36.069" end="00:03:42.689" style="s2">where is e where does it yesterday man</p>
+<p begin="00:03:38.470" end="00:03:42.689" style="s2">people have a lot of computer questions</p>
+<p begin="00:03:43.530" end="00:03:54.959" style="s2">genders is tech ops a comma AI it does</p>
+<p begin="00:03:48.790" end="00:03:58.329" style="s2">something of interest oh yeah right</p>
+<p begin="00:03:54.959" end="00:04:01.890" style="s2">wow this is huge props of the controls</p>
+<p begin="00:03:58.329" end="00:04:01.890" style="s2">team forgetting this to work</p>
+<p begin="00:04:09.270" end="00:04:14.799" style="s2">is it better than Tesla out of Paris</p>
+<p begin="00:04:12.400" end="00:04:17.530" style="s2">did not a miss Carnot so the Civic is</p>
+<p begin="00:04:14.799" end="00:04:20.049" style="s2">actually even better than this car this</p>
+<p begin="00:04:17.530" end="00:04:22.180" style="s2">is our latest in prototype so our plan</p>
+<p begin="00:04:20.049" end="00:04:23.949" style="s2">is by the end of the year to support</p>
+<p begin="00:04:22.180" end="00:04:28.570" style="s2">almost all the Honda&#39;s and all the</p>
+<p begin="00:04:23.949" end="00:04:30.820" style="s2">Toyota rav4 hybrid absolutely well what</p>
+<p begin="00:04:28.570" end="00:04:33.130" style="s2">year what year what year for your rav4</p>
+<p begin="00:04:30.820" end="00:04:35.370" style="s2">we&#39;re actually going to buy a rav4 right</p>
+<p begin="00:04:33.130" end="00:04:35.370" style="s2">now</p>
+<p begin="00:04:39.179" end="00:04:49.509" style="s2">20:17 absolutely absolutely it&#39;s gonna</p>
+<p begin="00:04:42.759" end="00:04:50.709" style="s2">work yeah it&#39;ll work on all someone&#39;s</p>
+<p begin="00:04:49.509" end="00:04:52.209" style="s2">asking me what the best part for this</p>
+<p begin="00:04:50.709" end="00:04:55.300" style="s2">isn&#39;t if there are any Hyundai said oh</p>
+<p begin="00:04:52.209" end="00:04:58.659" style="s2">no Hyundai&#39;s now the best car right now</p>
+<p begin="00:04:55.300" end="00:05:00.819" style="s2">is the Honda Civic our flagship by the</p>
+<p begin="00:04:58.659" end="00:05:04.569" style="s2">end of this year will be the Toyota</p>
+<p begin="00:05:00.819" end="00:05:07.709" style="s2">Prius so if you want now Civic if you</p>
+<p begin="00:05:04.569" end="00:05:07.709" style="s2">want future Prius</p>
+<p begin="00:05:09.050" end="00:05:16.240" style="s2">free stuff no no no when I wrap it today</p>
+<p begin="00:05:12.169" end="00:05:16.240" style="s2">what about Chrysler Dodge No</p>
+<p begin="00:05:25.449" end="00:05:31.480" style="s2">this is a greeting</p>
+<p begin="00:05:27.950" end="00:05:31.480" style="s2">into the wheel accident</p>
+<p begin="00:05:31.660" end="00:05:36.010" style="s2">makes the Prius the future so the Prius</p>
+<p begin="00:05:34.540" end="00:05:38.230" style="s2">does a lot of really cool sensors in it</p>
+<p begin="00:05:36.010" end="00:05:41.550" style="s2">so we have like a blind spot awareness</p>
+<p begin="00:05:38.230" end="00:05:41.550" style="s2">sensor see the mirror over there</p>
+<p begin="00:05:42.639" end="00:05:48.460" style="s2">it has an electric motor which you can</p>
+<p begin="00:05:46.749" end="00:05:53.169" style="s2">control much more precisely than a</p>
+<p begin="00:05:48.460" end="00:05:54.729" style="s2">gasoline motor it&#39;s a nice car I&#39;m happy</p>
+<p begin="00:05:53.169" end="00:05:56.139" style="s2">with this I&#39;m impressed with Toyota I</p>
+<p begin="00:05:54.729" end="00:05:58.389" style="s2">say the same thing about the Civic like</p>
+<p begin="00:05:56.139" end="00:06:00.569" style="s2">both of these when you compare like like</p>
+<p begin="00:05:58.389" end="00:06:05.199" style="s2">a Honda Civic</p>
+<p begin="00:06:00.569" end="00:06:07.389" style="s2">oh I went on with the GM with the GM</p>
+<p begin="00:06:05.199" end="00:06:08.759" style="s2">looking a buyer look at a buyer a bolt a</p>
+<p begin="00:06:07.389" end="00:06:11.499" style="s2">bolt</p>
+<p begin="00:06:08.759" end="00:06:19.300" style="s2">man that&#39;s that&#39;s that&#39;s that&#39;s see</p>
+<p begin="00:06:11.499" end="00:06:20.349" style="s2">that&#39;s a prototype neo yeah I mean you</p>
+<p begin="00:06:19.300" end="00:06:21.639" style="s2">couldn&#39;t even like look and see what&#39;s</p>
+<p begin="00:06:20.349" end="00:06:23.199" style="s2">on the screen it&#39;s no different from</p>
+<p begin="00:06:21.639" end="00:06:26.680" style="s2">open pilot except it&#39;s got a pink line</p>
+<p begin="00:06:23.199" end="00:06:27.789" style="s2">instead of a purple yeah maybe yeah</p>
+<p begin="00:06:26.680" end="00:06:34.830" style="s2">we&#39;ll see we got we can we have a</p>
+<p begin="00:06:27.789" end="00:06:34.830" style="s2">phenomenal new intern yeah yeah</p>
+<p begin="00:06:35.069" end="00:06:39.909" style="s2">the pink line control pink line control</p>
+<p begin="00:06:38.259" end="00:06:42.510" style="s2">is great man man when I talked about</p>
+<p begin="00:06:39.909" end="00:06:44.760" style="s2">silky smooth</p>
+<p begin="00:06:42.510" end="00:06:46.610" style="s2">that&#39;s fine so we&#39;ve gone we&#39;ve gone</p>
+<p begin="00:06:44.760" end="00:06:52.670" style="s2">five minutes now without a disengagement</p>
+<p begin="00:06:46.610" end="00:06:52.670" style="s2">this is coming eyes real</p>
+<p begin="00:06:52.830" end="00:06:56.940" style="s2">your turn free labor and no we pay our</p>
+<p begin="00:06:54.840" end="00:06:58.530" style="s2">interns oh absolutely better interns we</p>
+<p begin="00:06:56.940" end="00:07:00.060" style="s2">parent does really well can you apply it</p>
+<p begin="00:06:58.530" end="00:07:02.750" style="s2">more torque to the first in the Civic</p>
+<p begin="00:07:00.060" end="00:07:02.750" style="s2">yes we can</p>
+<p begin="00:07:03.729" end="00:07:09.159" style="s2">our go driving in Pittsburgh</p>
+<p begin="00:07:06.449" end="00:07:11.279" style="s2">each autonomous driving up anything</p>
+<p begin="00:07:09.159" end="00:07:15.819" style="s2">outfits book</p>
+<p begin="00:07:11.279" end="00:07:17.319" style="s2">autonomy we are - - and no one else and</p>
+<p begin="00:07:15.819" end="00:07:20.319" style="s2">no one else has anything else that isn&#39;t</p>
+<p begin="00:07:17.319" end="00:07:22.719" style="s2">- anybody who tells Balkan one exception</p>
+<p begin="00:07:20.319" end="00:07:23.830" style="s2">Howdy&#39;s traffic em assist might be level</p>
+<p begin="00:07:22.719" end="00:07:25.979" style="s2">three but the only difference between</p>
+<p begin="00:07:23.830" end="00:07:28.389" style="s2">level two three and four is liability</p>
+<p begin="00:07:25.979" end="00:07:30.309" style="s2">there&#39;s no other difference between</p>
+<p begin="00:07:28.389" end="00:07:42.369" style="s2">these levels so I&#39;m actually gonna</p>
+<p begin="00:07:30.309" end="00:07:48.699" style="s2">disengage and engage because which it</p>
+<p begin="00:07:42.369" end="00:07:50.349" style="s2">cannot so Oh sort of no I can&#39;t no but</p>
+<p begin="00:07:48.699" end="00:07:55.360" style="s2">that&#39;s what what&#39;s nice about having the</p>
+<p begin="00:07:50.349" end="00:07:57.039" style="s2">Blind Spot Assist incentives if you got</p>
+<p begin="00:07:55.360" end="00:07:58.269" style="s2">charged for your panda it means it&#39;s on</p>
+<p begin="00:07:57.039" end="00:07:59.319" style="s2">the way it means we sent it out</p>
+<p begin="00:07:58.269" end="00:08:00.999" style="s2">absolutely</p>
+<p begin="00:07:59.319" end="00:08:02.679" style="s2">yeah you got charged for your pair that</p>
+<p begin="00:08:00.999" end="00:08:06.699" style="s2">means it shipped either yesterday or</p>
+<p begin="00:08:02.679" end="00:08:08.110" style="s2">will ship tonight yeah and us uh you</p>
+<p begin="00:08:06.699" end="00:08:09.909" style="s2">know what if you can do a close-up of</p>
+<p begin="00:08:08.110" end="00:08:10.449" style="s2">the giraffe I showed off giraffes this</p>
+<p begin="00:08:09.909" end="00:08:14.769" style="s2">morning</p>
+<p begin="00:08:10.449" end="00:08:16.300" style="s2">so these cones be mine on that I got</p>
+<p begin="00:08:14.769" end="00:08:19.959" style="s2">this long jab</p>
+<p begin="00:08:16.300" end="00:08:24.459" style="s2">I got it I gotta see the shoes I&#39;m</p>
+<p begin="00:08:19.959" end="00:08:26.499" style="s2">driving a car oh man this is not the car</p>
+<p begin="00:08:24.459" end="00:08:28.029" style="s2">driver you guys the cars not this bad</p>
+<p begin="00:08:26.499" end="00:08:32.970" style="s2">but yeah so we&#39;re actually driving on a</p>
+<p begin="00:08:28.029" end="00:08:35.250" style="s2">panda right now which way straight</p>
+<p begin="00:08:32.970" end="00:08:37.229" style="s2">so this is actually all of the control</p>
+<p begin="00:08:35.250" end="00:08:41.370" style="s2">signals being spoken to the priest right</p>
+<p begin="00:08:37.229" end="00:08:43.410" style="s2">now are going through a panda pandas are</p>
+<p begin="00:08:41.370" end="00:08:44.940" style="s2">universal car interfaces they can be</p>
+<p begin="00:08:43.410" end="00:08:46.710" style="s2">used for shipper apps they can be used</p>
+<p begin="00:08:44.940" end="00:08:49.880" style="s2">for anything you&#39;re gonna be turning</p>
+<p begin="00:08:46.710" end="00:08:49.880" style="s2">left up at the top</p>
+<p begin="00:08:51.199" end="00:08:56.480" style="s2">so yeah if you if you bought a panda you</p>
+<p begin="00:08:53.749" end="00:08:58.279" style="s2">are getting in early yeah this is this</p>
+<p begin="00:08:56.480" end="00:08:59.720" style="s2">this panda that&#39;s running right here is</p>
+<p begin="00:08:58.279" end="00:09:02.949" style="s2">the exact same panda that we&#39;re shipping</p>
+<p begin="00:08:59.720" end="00:09:02.949" style="s2">out there&#39;s nothing special about it</p>
+<p begin="00:09:03.129" end="00:09:07.910" style="s2">wait what no you&#39;re actually following</p>
+<p begin="00:09:06.559" end="00:09:14.480" style="s2">turn left and then you&#39;re yeah you&#39;re</p>
+<p begin="00:09:07.910" end="00:09:16.370" style="s2">getting this Lane right there on our way</p>
+<p begin="00:09:14.480" end="00:09:18.470" style="s2">to melody Toyota should we live stream</p>
+<p begin="00:09:16.370" end="00:09:20.019" style="s2">the Toyota dealership oh we love Toyota</p>
+<p begin="00:09:18.470" end="00:09:22.819" style="s2">dealership I realized it people we got</p>
+<p begin="00:09:20.019" end="00:09:24.800" style="s2">66 mom oh yes they should wash off the</p>
+<p begin="00:09:22.819" end="00:09:29.149" style="s2">giraffe yeah check out so that&#39;s a</p>
+<p begin="00:09:24.800" end="00:09:30.499" style="s2">that&#39;s a panda up there yeah that&#39;s a</p>
+<p begin="00:09:29.149" end="00:09:34.790" style="s2">that&#39;s a giraffe which is how we&#39;re</p>
+<p begin="00:09:30.499" end="00:09:36.829" style="s2">connected into the Toyota we have a zoo</p>
+<p begin="00:09:34.790" end="00:09:39.410" style="s2">we have it&#39;s a whale we have giraffes</p>
+<p begin="00:09:36.829" end="00:09:42.079" style="s2">and pandas yeah we&#39;re gonna we&#39;re gonna</p>
+<p begin="00:09:39.410" end="00:09:44.629" style="s2">we&#39;re gonna make Li be koalas but koalas</p>
+<p begin="00:09:42.079" end="00:09:52.759" style="s2">were cancelled yeah yeah no one really</p>
+<p begin="00:09:44.629" end="00:09:53.959" style="s2">is time for koalas yeah yeah I&#39;m see</p>
+<p begin="00:09:52.759" end="00:09:55.069" style="s2">also don&#39;t replace the rear view mirror</p>
+<p begin="00:09:53.959" end="00:09:58.790" style="s2">on cars anymore</p>
+<p begin="00:09:55.069" end="00:10:00.559" style="s2">we mount right to the windshield so this</p>
+<p begin="00:09:58.790" end="00:10:03.199" style="s2">neo has radar disabled and using the</p>
+<p begin="00:10:00.559" end="00:10:06.230" style="s2">Prius ACC oh so we&#39;re using the Prius</p>
+<p begin="00:10:03.199" end="00:10:07.429" style="s2">radar as well and we&#39;re using the</p>
+<p begin="00:10:06.230" end="00:10:09.249" style="s2">Priuses ACC yeah</p>
+<p begin="00:10:07.429" end="00:10:11.809" style="s2">well we&#39;re talking to the Prius trainer</p>
+<p begin="00:10:09.249" end="00:10:13.490" style="s2">is it possible to make a sound happen to</p>
+<p begin="00:10:11.809" end="00:10:16.429" style="s2">the neo and a certain effect occurs oh</p>
+<p begin="00:10:13.490" end="00:10:17.389" style="s2">we use the sounds from the car but yeah</p>
+<p begin="00:10:16.429" end="00:10:19.879" style="s2">I mean that&#39;s certainly possible</p>
+<p begin="00:10:17.389" end="00:10:22.970" style="s2">remember Neos run a OS which is just</p>
+<p begin="00:10:19.879" end="00:10:24.439" style="s2">like a slight variant to Android so yeah</p>
+<p begin="00:10:22.970" end="00:10:25.819" style="s2">it&#39;s really easy if you can make Android</p>
+<p begin="00:10:24.439" end="00:10:30.950" style="s2">class sound you can make a deal play us</p>
+<p begin="00:10:25.819" end="00:10:32.990" style="s2">out which point six miles your time</p>
+<p begin="00:10:30.950" end="00:10:38.510" style="s2">stay straight cool now unfortunately</p>
+<p begin="00:10:32.990" end="00:10:41.390" style="s2">since I&#39;m using the Toyota ACC I have to</p>
+<p begin="00:10:38.510" end="00:10:43.220" style="s2">wait until we get to let&#39;s see if we can</p>
+<p begin="00:10:41.390" end="00:10:46.310" style="s2">make this turn here there you go guys</p>
+<p begin="00:10:43.220" end="00:10:49.580" style="s2">there you go look at that um since I&#39;m</p>
+<p begin="00:10:46.310" end="00:10:54.680" style="s2">using the Toyota ACC I can&#39;t engage it</p>
+<p begin="00:10:49.580" end="00:10:56.570" style="s2">below 28 it also does a terrible job of</p>
+<p begin="00:10:54.680" end="00:10:59.690" style="s2">fusing with stopped cars like this is on</p>
+<p begin="00:10:56.570" end="00:11:02.450" style="s2">oh my god this you see it felt that hard</p>
+<p begin="00:10:59.690" end="00:11:05.420" style="s2">stop this is not our system that is what</p>
+<p begin="00:11:02.450" end="00:11:08.750" style="s2">our system does so much better yeah all</p>
+<p begin="00:11:05.420" end="00:11:09.710" style="s2">the steering has been our system but</p>
+<p begin="00:11:08.750" end="00:11:11.900" style="s2">we&#39;re gonna we&#39;re gonna work on getting</p>
+<p begin="00:11:09.710" end="00:11:16.430" style="s2">on getting the off so no stopping</p>
+<p begin="00:11:11.900" end="00:11:18.200" style="s2">yes stop it well Toyota low quality stop</p>
+<p begin="00:11:16.430" end="00:11:20.420" style="s2">and go yeah like look here so you can</p>
+<p begin="00:11:18.200" end="00:11:24.230" style="s2">see here like we&#39;re eight meters from</p>
+<p begin="00:11:20.420" end="00:11:26.630" style="s2">the UH from the car in front of us like</p>
+<p begin="00:11:24.230" end="00:11:30.050" style="s2">why did it stop Oh</p>
+<p begin="00:11:26.630" end="00:11:32.270" style="s2">vision only ACC not a high priority for</p>
+<p begin="00:11:30.050" end="00:11:33.920" style="s2">us a lot of these cars do have radars so</p>
+<p begin="00:11:32.270" end="00:11:40.280" style="s2">I also have to tap on the pedal to get</p>
+<p begin="00:11:33.920" end="00:11:42.260" style="s2">it to resume I see and it disengages the</p>
+<p begin="00:11:40.280" end="00:11:44.600" style="s2">cruise control if it loses the radar</p>
+<p begin="00:11:42.260" end="00:11:47.320" style="s2">track our system doesn&#39;t do this you</p>
+<p begin="00:11:44.600" end="00:11:47.320" style="s2">don&#39;t really need to</p>
+<p begin="00:11:50.830" end="00:11:55.899" style="s2">the volta loss up two to three meters on</p>
+<p begin="00:11:53.050" end="00:11:57.130" style="s2">stop and go after tree two to three is a</p>
+<p begin="00:11:55.899" end="00:11:58.959" style="s2">lot more reasonable eight is completely</p>
+<p begin="00:11:57.130" end="00:12:00.220" style="s2">unfeasible like eight meters from the</p>
+<p begin="00:11:58.959" end="00:12:00.700" style="s2">front of your car to the front of their</p>
+<p begin="00:12:00.220" end="00:12:05.800" style="s2">car</p>
+<p begin="00:12:00.700" end="00:12:09.760" style="s2">I thought Pierce at full speed DRC see</p>
+<p begin="00:12:05.800" end="00:12:14.250" style="s2">it does try to use it I would not call</p>
+<p begin="00:12:09.760" end="00:12:16.420" style="s2">it good good is not the word I used here</p>
+<p begin="00:12:14.250" end="00:12:31.500" style="s2">good is not the word I would use to</p>
+<p begin="00:12:16.420" end="00:12:31.500" style="s2">describe the nowhere</p>
+<p begin="00:12:47.079" end="00:12:51.390" style="s2">you guys who watch these periscopes you</p>
+<p begin="00:12:48.820" end="00:12:53.769" style="s2">get it on the latest and greatest stock</p>
+<p begin="00:12:51.390" end="00:12:57.700" style="s2">you say sign priority but is it viable</p>
+<p begin="00:12:53.769" end="00:12:59.529" style="s2">for open pilot users what oh oh oh</p>
+<p begin="00:12:57.700" end="00:13:01.000" style="s2">vision only as you see what car do you</p>
+<p begin="00:12:59.529" end="00:13:03.779" style="s2">have that you&#39;re really deep vision only</p>
+<p begin="00:13:01.000" end="00:13:03.779" style="s2">as you see far</p>
+<p begin="00:13:03.910" end="00:13:10.019" style="s2">you&#39;re better off just going on eBay and</p>
+<p begin="00:13:06.009" end="00:13:10.019" style="s2">buying like a Delfy radar or something</p>
+<p begin="00:13:10.380" end="00:13:20.350" style="s2">there it is melody Toyota you - you big</p>
+<p begin="00:13:15.759" end="00:13:21.970" style="s2">fan of Toyota dealership is the master</p>
+<p begin="00:13:20.350" end="00:13:22.600" style="s2">fest same thing I was right Turner</p>
+<p begin="00:13:21.970" end="00:13:30.329" style="s2">sketchy</p>
+<p begin="00:13:22.600" end="00:13:30.329" style="s2">left left - neow the right time</p>
+<p begin="00:13:32.180" end="00:13:38.290" style="s2">this vision ACC landing the video</p>
+<p begin="00:13:34.400" end="00:13:38.290" style="s2">combined with existing radar data yes</p>
+<p begin="00:13:38.390" end="00:13:44.120" style="s2">but what car do you have that you want</p>
+<p begin="00:13:40.519" end="00:13:46.370" style="s2">vision only ACC for Subarus originally</p>
+<p begin="00:13:44.120" end="00:13:48.649" style="s2">yeah I know superficially super us have</p>
+<p begin="00:13:46.370" end="00:13:51.519" style="s2">two cameras with a wide base line that</p>
+<p begin="00:13:48.649" end="00:13:56.959" style="s2">makes vision only a lot easier</p>
+<p begin="00:13:51.519" end="00:13:59.000" style="s2">my q5 doesn&#39;t have freedom but sue</p>
+<p begin="00:13:56.959" end="00:14:00.829" style="s2">by the way if you don&#39;t have radar you</p>
+<p begin="00:13:59.000" end="00:14:04.100" style="s2">can certainly still get open pilot to</p>
+<p begin="00:14:00.829" end="00:14:05.390" style="s2">work longitudinally yeah so this this</p>
+<p begin="00:14:04.100" end="00:14:09.740" style="s2">isn&#39;t you can actually just turn this</p>
+<p begin="00:14:05.390" end="00:14:17.600" style="s2">off in the in the settings the use of</p>
+<p begin="00:14:09.740" end="00:14:21.320" style="s2">the customs Canela yeah really</p>
+<p begin="00:14:17.600" end="00:14:30.140" style="s2">when they switch that&#39;s all a Bosch mor</p>
+<p begin="00:14:21.320" end="00:14:31.310" style="s2">for a while yeah I mean only ACC it</p>
+<p begin="00:14:30.140" end="00:14:34.190" style="s2">really depends on what you want to do</p>
+<p begin="00:14:31.310" end="00:14:36.680" style="s2">like if all you want to do is gas only</p>
+<p begin="00:14:34.190" end="00:14:37.790" style="s2">cruise control then the vision only ACC</p>
+<p begin="00:14:36.680" end="00:14:40.399" style="s2">and open Pilar is already good enough</p>
+<p begin="00:14:37.790" end="00:14:43.130" style="s2">for that if you want to start doing the</p>
+<p begin="00:14:40.399" end="00:14:44.720" style="s2">brake if you want to smooth braking</p>
+<p begin="00:14:43.130" end="00:14:46.820" style="s2">experience you&#39;ll have to wait for it to</p>
+<p begin="00:14:44.720" end="00:14:49.100" style="s2">get a bit better but show me that you</p>
+<p begin="00:14:46.820" end="00:14:50.899" style="s2">have a car that you can control the gas</p>
+<p begin="00:14:49.100" end="00:14:52.790" style="s2">and the brakes on if you show me that</p>
+<p begin="00:14:50.899" end="00:14:56.329" style="s2">I&#39;ll put some more engineering effort</p>
+<p begin="00:14:52.790" end="00:15:01.930" style="s2">into uh will open pilots doing work with</p>
+<p begin="00:14:56.329" end="00:15:01.930" style="s2">that radar yes absolutely yeah</p>
+<p begin="00:15:02.149" end="00:15:09.019" style="s2">the entrance I missed the entry using</p>
+<p begin="00:15:05.370" end="00:15:09.019" style="s2">the street you can go straight in around</p>
+<p begin="00:15:09.709" end="00:15:25.019" style="s2">that time my band&#39;s because I haven&#39;t</p>
+<p begin="00:15:15.149" end="00:15:29.129" style="s2">left the house in thoughts on Google and</p>
+<p begin="00:15:25.019" end="00:15:31.529" style="s2">pressing 1 billion and lift oh you guys</p>
+<p begin="00:15:29.129" end="00:15:35.509" style="s2">won&#39;t see self-park oh ho this is not</p>
+<p begin="00:15:31.529" end="00:15:35.509" style="s2">our son nervous myself Park is too bad</p>
+<p begin="00:15:39.980" end="00:15:46.910" style="s2">Georgia spiking my partner also you can</p>
+<p begin="00:15:43.230" end="00:15:46.910" style="s2">judge it to set some more fun you know</p>
+<p begin="00:15:47.910" end="00:15:51.049" style="s2">[Music]</p>
+<p begin="00:15:51.290" end="00:15:55.249" style="s2">this car has so many things that beep at</p>
+<p begin="00:15:54.420" end="00:15:59.759" style="s2">you</p>
+<p begin="00:15:55.249" end="00:16:01.410" style="s2">it&#39;s really like poorly done because</p>
+<p begin="00:15:59.759" end="00:16:03.689" style="s2">like you never know which beeps are like</p>
+<p begin="00:16:01.410" end="00:16:11.579" style="s2">important beeps this this is the car who</p>
+<p begin="00:16:03.689" end="00:16:13.550" style="s2">like you know the boy beep wolf oh it&#39;s</p>
+<p begin="00:16:11.579" end="00:16:18.860" style="s2">the P button</p>
+<p begin="00:16:13.550" end="00:16:18.860" style="s2">all right periscope yo yo</p>
+<p begin="00:16:23.480" end="00:16:27.530" style="s2">so we&#39;re out</p>
+<p begin="00:16:25.130" end="00:16:30.320" style="s2">to buy a Toyota but yeah by the end of</p>
+<p begin="00:16:27.530" end="00:16:34.250" style="s2">the year guys open pilots should support</p>
+<p begin="00:16:30.320" end="00:16:36.590" style="s2">top 10 cars sold in America the top 3</p>
+<p begin="00:16:34.250" end="00:16:38.330" style="s2">things won&#39;t buy Tesla oh I think has</p>
+<p begin="00:16:36.590" end="00:16:39.470" style="s2">will take over the auto industry in</p>
+<p begin="00:16:38.330" end="00:16:40.370" style="s2">America I think they&#39;re already worth</p>
+<p begin="00:16:39.470" end="00:16:42.470" style="s2">more than 4</p>
+<p begin="00:16:40.370" end="00:16:43.910" style="s2">um well someone buy for it I don&#39;t know</p>
+<p begin="00:16:42.470" end="00:16:45.490" style="s2">they&#39;ve been a company for it&#39;s kind of</p>
+<p begin="00:16:43.910" end="00:16:47.480" style="s2">sad when you think about it</p>
+<p begin="00:16:45.490" end="00:16:50.780" style="s2">Ford&#39;s been a company for like a hundred</p>
+<p begin="00:16:47.480" end="00:16:53.810" style="s2">years and like your mustache showed up I</p>
+<p begin="00:16:50.780" end="00:16:55.550" style="s2">don&#39;t know where that was true</p>
+<p begin="00:16:53.810" end="00:17:00.200" style="s2">no but guys um so by the end of the year</p>
+<p begin="00:16:55.550" end="00:17:02.030" style="s2">open pilot we&#39;re gonna support top 10</p>
+<p begin="00:17:00.200" end="00:17:04.520" style="s2">cars sold in America at the top 3 or</p>
+<p begin="00:17:02.030" end="00:17:09.160" style="s2">pickup trucks go pick up trucks on the</p>
+<p begin="00:17:04.520" end="00:17:14.410" style="s2">top the fourth is the Camry the Camry is</p>
+<p begin="00:17:09.160" end="00:17:17.630" style="s2">going to work if you have the 2018 Camry</p>
+<p begin="00:17:14.410" end="00:17:21.530" style="s2">number 5 is the Honda Civic the Civic is</p>
+<p begin="00:17:17.630" end="00:17:23.660" style="s2">going to work if you have the Honda</p>
+<p begin="00:17:21.530" end="00:17:25.939" style="s2">sensing package then the next two I</p>
+<p begin="00:17:23.660" end="00:17:28.910" style="s2">believe are the Corolla and the rav4 and</p>
+<p begin="00:17:25.939" end="00:17:31.400" style="s2">both of those either the Corolla CRV and</p>
+<p begin="00:17:28.910" end="00:17:33.440" style="s2">the rav4 CRV is gonna be supporting the</p>
+<p begin="00:17:31.400" end="00:17:35.750" style="s2">Touring package parole in the rav4 all</p>
+<p begin="00:17:33.440" end="00:17:37.520" style="s2">of them are gonna work gas and brake on</p>
+<p begin="00:17:35.750" end="00:17:39.050" style="s2">Subaru so when you show me a video of</p>
+<p begin="00:17:37.520" end="00:17:41.360" style="s2">gas and brake on Subaru like with a</p>
+<p begin="00:17:39.050" end="00:17:42.710" style="s2">joystick and I&#39;ll work on I&#39;ll work on</p>
+<p begin="00:17:41.360" end="00:17:45.020" style="s2">organ vision for ya</p>
+<p begin="00:17:42.710" end="00:17:52.090" style="s2">well I won&#39;t work on the pitch but kabel</p>
+<p begin="00:17:45.020" end="00:17:52.090" style="s2">work on the vision you are</p>
+<p begin="00:17:55.020" end="00:18:02.290" style="s2">the new Bojack season was disappointing</p>
+<p begin="00:17:57.840" end="00:18:05.860" style="s2">just putting that out there but uh yeah</p>
+<p begin="00:18:02.290" end="00:18:07.210" style="s2">all right we&#39;re gonna buy a car</p>
+<p begin="00:18:05.860" end="00:18:10.230" style="s2">was it really disappointing the new Bo</p>
+<p begin="00:18:07.210" end="00:18:10.230" style="s2">Jackson oh yeah</p>
+</div>
+</body>
+</tt>

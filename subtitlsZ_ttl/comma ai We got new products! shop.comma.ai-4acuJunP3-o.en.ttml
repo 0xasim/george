@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.229" end="00:00:07.439" style="s2">yo yo yo good morning snow peas good</p>
+<p begin="00:00:04.560" end="00:00:10.290" style="s2">morning comma army come on of us five</p>
+<p begin="00:00:07.439" end="00:00:12.420" style="s2">there buddy we got some exciting stuff</p>
+<p begin="00:00:10.290" end="00:00:15.529" style="s2">for you today I can&#39;t show you these TVs</p>
+<p begin="00:00:12.420" end="00:00:18.720" style="s2">there&#39;s secret stuff on these TVs um yo</p>
+<p begin="00:00:15.529" end="00:00:21.599" style="s2">yo that guy look no we got new products</p>
+<p begin="00:00:18.720" end="00:00:23.550" style="s2">that they&#39;re actually kind of excited so</p>
+<p begin="00:00:21.599" end="00:00:25.589" style="s2">let&#39;s give everyone minute to get in</p>
+<p begin="00:00:23.550" end="00:00:26.939" style="s2">here we&#39;ll listen to fan joy to the</p>
+<p begin="00:00:25.589" end="00:00:29.880" style="s2">world while we wait you guys know this</p>
+<p begin="00:00:26.939" end="00:00:36.480" style="s2">song called fans right of the world it&#39;s</p>
+<p begin="00:00:29.880" end="00:00:38.580" style="s2">a song about about merch oh yeah so I&#39;m</p>
+<p begin="00:00:36.480" end="00:00:42.540" style="s2">repping some new merch right now</p>
+<p begin="00:00:38.580" end="00:00:55.980" style="s2">it&#39;s calm a t-shirt $20 right now shop</p>
+<p begin="00:00:42.540" end="00:00:57.930" style="s2">comma thought I&#39;d check it out okay the</p>
+<p begin="00:00:55.980" end="00:01:04.140" style="s2">shirt is made from I don&#39;t know versus</p>
+<p begin="00:00:57.930" end="00:01:08.039" style="s2">like $20 right shield for a company no</p>
+<p begin="00:01:04.140" end="00:01:10.950" style="s2">we are army yeah I wish I could put my</p>
+<p begin="00:01:08.039" end="00:01:16.649" style="s2">thing on a drum we&#39;re not some</p>
+<p begin="00:01:10.950" end="00:01:17.369" style="s2">flamethrowers chick Paula&#39;s no two</p>
+<p begin="00:01:16.649" end="00:01:19.939" style="s2">backslashes</p>
+<p begin="00:01:17.369" end="00:01:19.939" style="s2">all right</p>
+<p begin="00:01:21.640" end="00:01:25.340" style="s2">let&#39;s get everyone maybe we&#39;ll get sixty</p>
+<p begin="00:01:24.110" end="00:01:27.140" style="s2">people and then we&#39;ll go over the new</p>
+<p begin="00:01:25.340" end="00:01:29.119" style="s2">products shop that come that I&#39;d check</p>
+<p begin="00:01:27.140" end="00:01:32.509" style="s2">it out no beanies we have launched</p>
+<p begin="00:01:29.119" end="00:01:36.939" style="s2">t-shirts for twenty dollars now we&#39;ll</p>
+<p begin="00:01:32.509" end="00:01:36.939" style="s2">just go now let&#39;s go um so</p>
+<p begin="00:01:37.979" end="00:01:41.700" style="s2">drop up here hopefully you guys are</p>
+<p begin="00:01:40.350" end="00:01:45.240" style="s2">seeing the same shop I didn&#39;t actually</p>
+<p begin="00:01:41.700" end="00:01:46.829" style="s2">check it from an external IP but please</p>
+<p begin="00:01:45.240" end="00:01:48.000" style="s2">make this stream in 30 minutes not the</p>
+<p begin="00:01:46.829" end="00:01:51.299" style="s2">streams right now you can watch it on to</p>
+<p begin="00:01:48.000" end="00:01:53.610" style="s2">replay but so first the hoodie is gone</p>
+<p begin="00:01:51.299" end="00:01:56.579" style="s2">there is no more comedy i buddy if you</p>
+<p begin="00:01:53.610" end="00:01:59.009" style="s2">got one that shit&#39;s gonna be rare and</p>
+<p begin="00:01:56.579" end="00:02:03.539" style="s2">valuable because now all you can buy is</p>
+<p begin="00:01:59.009" end="00:02:06.090" style="s2">a common AI t-shirt okay okay we heard</p>
+<p begin="00:02:03.539" end="00:02:08.580" style="s2">you we aren&#39;t a high-end fashion brand</p>
+<p begin="00:02:06.090" end="00:02:12.170" style="s2">we are a tech company we sell a company</p>
+<p begin="00:02:08.580" end="00:02:12.170" style="s2">t-shirt for a reasonable price</p>
+<p begin="00:02:12.180" end="00:02:15.630" style="s2">so actually have to do this on this</p>
+<p begin="00:02:13.860" end="00:02:21.750" style="s2">monitor because dropdowns don&#39;t work on</p>
+<p begin="00:02:15.630" end="00:02:25.130" style="s2">the other monitor so the shirt comes in</p>
+<p begin="00:02:21.750" end="00:02:28.200" style="s2">four sizes it comes in medium large</p>
+<p begin="00:02:25.130" end="00:02:31.310" style="s2">small and extra-large all the sizes are</p>
+<p begin="00:02:28.200" end="00:02:35.010" style="s2">$20 except for extra-large which is $30</p>
+<p begin="00:02:31.310" end="00:02:36.900" style="s2">so the extra-large shirts are $30 don&#39;t</p>
+<p begin="00:02:35.010" end="00:02:38.130" style="s2">worry we&#39;ll get to we&#39;ll get to the</p>
+<p begin="00:02:36.900" end="00:02:40.290" style="s2">other products that I met at the extra</p>
+<p begin="00:02:38.130" end="00:02:42.840" style="s2">larges or $30 but all the other shirts</p>
+<p begin="00:02:40.290" end="00:02:44.220" style="s2">are are $20 you have to pay the extra</p>
+<p begin="00:02:42.840" end="00:02:46.350" style="s2">large tax okay cool</p>
+<p begin="00:02:44.220" end="00:02:48.269" style="s2">those shirts take up a lot of room we do</p>
+<p begin="00:02:46.350" end="00:02:49.739" style="s2">have a fulfillment packer absolutely all</p>
+<p begin="00:02:48.269" end="00:02:51.090" style="s2">right now you know hey man you know</p>
+<p begin="00:02:49.739" end="00:02:52.769" style="s2">we&#39;re not gonna shame fatties we&#39;re just</p>
+<p begin="00:02:51.090" end="00:02:55.470" style="s2">gonna charge them $10 more it&#39;s fine</p>
+<p begin="00:02:52.769" end="00:02:56.910" style="s2">fat shaming is bad but charging $10 tax</p>
+<p begin="00:02:55.470" end="00:02:59.459" style="s2">that&#39;s good we gotta incentivize good</p>
+<p begin="00:02:56.910" end="00:03:02.100" style="s2">behavior uncle now that that&#39;s out of</p>
+<p begin="00:02:59.459" end="00:03:04.200" style="s2">the way we can get to the actual product</p>
+<p begin="00:03:02.100" end="00:03:05.069" style="s2">launches oh we got 65 people in here all</p>
+<p begin="00:03:04.200" end="00:03:09.810" style="s2">right all right all right</p>
+<p begin="00:03:05.069" end="00:03:17.670" style="s2">so the comma space add two USB and an</p>
+<p begin="00:03:09.810" end="00:03:19.230" style="s2">Ethernet port black Leon here my</p>
+<p begin="00:03:17.670" end="00:03:20.340" style="s2">midnight black e on let me just show you</p>
+<p begin="00:03:19.230" end="00:03:24.870" style="s2">how this stuff works</p>
+<p begin="00:03:20.340" end="00:03:27.450" style="s2">by that Murch bought a primer cool so</p>
+<p begin="00:03:24.870" end="00:03:28.920" style="s2">this is the midnight black eon you&#39;ll</p>
+<p begin="00:03:27.450" end="00:03:30.239" style="s2">see what actually i use a comma space</p>
+<p begin="00:03:28.920" end="00:03:32.970" style="s2">you know I&#39;m not even lying like I use</p>
+<p begin="00:03:30.239" end="00:03:34.560" style="s2">this stuff this is a commis maze this is</p>
+<p begin="00:03:32.970" end="00:03:37.169" style="s2">the first of the three development</p>
+<p begin="00:03:34.560" end="00:03:40.290" style="s2">products you know we&#39;re interested in</p>
+<p begin="00:03:37.169" end="00:03:43.290" style="s2">making our development as accessible to</p>
+<p begin="00:03:40.290" end="00:03:44.910" style="s2">the world as possible so here&#39;s a here&#39;s</p>
+<p begin="00:03:43.290" end="00:03:49.470" style="s2">a commis maze just like the one that you</p>
+<p begin="00:03:44.910" end="00:03:50.790" style="s2">will get it adds two USB ports and an</p>
+<p begin="00:03:49.470" end="00:03:52.739" style="s2">Ethernet port to</p>
+<p begin="00:03:50.790" end="00:03:54.150" style="s2">Rhian do not plug this into your giraffe</p>
+<p begin="00:03:52.739" end="00:03:56.040" style="s2">it&#39;s not that kind of Ethernet it&#39;s</p>
+<p begin="00:03:54.150" end="00:03:58.709" style="s2">plugged into a computer a hundred</p>
+<p begin="00:03:56.040" end="00:04:01.230" style="s2">megabit Ethernet port for your e on this</p>
+<p begin="00:03:58.709" end="00:04:03.000" style="s2">side goes into the e on and this side</p>
+<p begin="00:04:01.230" end="00:04:05.010" style="s2">goes into the panda so you can continue</p>
+<p begin="00:04:03.000" end="00:04:07.500" style="s2">to use it as before you just get an</p>
+<p begin="00:04:05.010" end="00:04:09.870" style="s2">Ethernet and two more USBs perfect if</p>
+<p begin="00:04:07.500" end="00:04:15.480" style="s2">you want to add like cameras GPS is</p>
+<p begin="00:04:09.870" end="00:04:24.000" style="s2">anything you can think of now you&#39;re</p>
+<p begin="00:04:15.480" end="00:04:25.650" style="s2">about to get banned sup plugs into the e</p>
+<p begin="00:04:24.000" end="00:04:28.410" style="s2">on like that nope it doesn&#39;t work with</p>
+<p begin="00:04:25.650" end="00:04:31.380" style="s2">neo Neos are kind of retired we don&#39;t</p>
+<p begin="00:04:28.410" end="00:04:34.860" style="s2">really use Neos anymore look if you&#39;re</p>
+<p begin="00:04:31.380" end="00:04:37.289" style="s2">buying a $60 USB hub from us you</p>
+<p begin="00:04:34.860" end="00:04:41.039" style="s2">probably are the Neo kind of person</p>
+<p begin="00:04:37.289" end="00:04:41.849" style="s2">you&#39;re the young person cameras you can</p>
+<p begin="00:04:41.039" end="00:04:44.160" style="s2">do whatever you want</p>
+<p begin="00:04:41.849" end="00:04:46.080" style="s2">um I don&#39;t waste me oh yeah neo</p>
+<p begin="00:04:44.160" end="00:04:47.430" style="s2">Deathwatch I don&#39;t wish them to die but</p>
+<p begin="00:04:46.080" end="00:04:49.889" style="s2">yeah they&#39;re kind of diorite Neos are</p>
+<p begin="00:04:47.430" end="00:04:52.979" style="s2">kind of over you guys Neos are over in</p>
+<p begin="00:04:49.889" end="00:04:54.930" style="s2">the same way clip alright cool so that&#39;s</p>
+<p begin="00:04:52.979" end="00:04:57.030" style="s2">the comma space add to USB and Ethernet</p>
+<p begin="00:04:54.930" end="00:04:59.520" style="s2">port to Erie on we could just click in</p>
+<p begin="00:04:57.030" end="00:05:04.590" style="s2">here and see what I wrote allianz have</p>
+<p begin="00:04:59.520" end="00:05:06.990" style="s2">the same ip address 192 168 5.11 um be</p>
+<p begin="00:05:04.590" end="00:05:08.729" style="s2">like a common employee you can buy your</p>
+<p begin="00:05:06.990" end="00:05:12.810" style="s2">common space this is life right now on</p>
+<p begin="00:05:08.729" end="00:05:15.389" style="s2">shop comma a I everybody can go check</p>
+<p begin="00:05:12.810" end="00:05:19.169" style="s2">that out now the second of the new</p>
+<p begin="00:05:15.389" end="00:05:23.690" style="s2">products the Panda debug board use a</p>
+<p begin="00:05:19.169" end="00:05:26.190" style="s2">debug board and develop like the pros so</p>
+<p begin="00:05:23.690" end="00:05:28.169" style="s2">what we use this for you can see that I</p>
+<p begin="00:05:26.190" end="00:05:29.669" style="s2">have one here it&#39;s a good way to get</p>
+<p begin="00:05:28.169" end="00:05:33.810" style="s2">power to everything so you can power</p>
+<p begin="00:05:29.669" end="00:05:35.010" style="s2">things off of 12 volts you just take two</p>
+<p begin="00:05:33.810" end="00:05:38.099" style="s2">pandas here</p>
+<p begin="00:05:35.010" end="00:05:43.020" style="s2">and shove it in here and what we use</p>
+<p begin="00:05:38.099" end="00:05:44.460" style="s2">this for is it basically you connect one</p>
+<p begin="00:05:43.020" end="00:05:45.870" style="s2">of these to a neon you connect the other</p>
+<p begin="00:05:44.460" end="00:05:48.210" style="s2">one to a computer and then you can use</p>
+<p begin="00:05:45.870" end="00:05:50.330" style="s2">your computer to emulate a car so it</p>
+<p begin="00:05:48.210" end="00:05:52.349" style="s2">just connects these two pandas together</p>
+<p begin="00:05:50.330" end="00:05:54.070" style="s2">you can use it for you can use your</p>
+<p begin="00:05:52.349" end="00:05:57.430" style="s2">panda development you could use it</p>
+<p begin="00:05:54.070" end="00:05:59.770" style="s2">any kind of development you want $100 so</p>
+<p begin="00:05:57.430" end="00:06:03.460" style="s2">you&#39;ll see you like see the unrooted we</p>
+<p begin="00:05:59.770" end="00:06:05.020" style="s2">just read with the CEO let&#39;s reboot the</p>
+<p begin="00:06:03.460" end="00:06:07.570" style="s2">Seon and then I&#39;ll flip the switch that</p>
+<p begin="00:06:05.020" end="00:06:09.670" style="s2">like virtually starts the car they&#39;re</p>
+<p begin="00:06:07.570" end="00:06:12.010" style="s2">pretty cool or what car can you emulate</p>
+<p begin="00:06:09.670" end="00:06:15.550" style="s2">so the open palette software can emulate</p>
+<p begin="00:06:12.010" end="00:06:18.790" style="s2">a Honda Acura ILX so you can emulate</p>
+<p begin="00:06:15.550" end="00:06:21.700" style="s2">that we include a high quality 12 volt</p>
+<p begin="00:06:18.790" end="00:06:23.680" style="s2">adapter here so this is good for</p>
+<p begin="00:06:21.700" end="00:06:25.570" style="s2">emulating car Oh bro you don&#39;t have a</p>
+<p begin="00:06:23.680" end="00:06:27.310" style="s2">panda you&#39;ve got to get a panda how long</p>
+<p begin="00:06:25.570" end="00:06:31.900" style="s2">will this integrated you know - there is</p>
+<p begin="00:06:27.310" end="00:06:33.640" style="s2">no eon - there is only yon you know and</p>
+<p begin="00:06:31.900" end="00:06:34.660" style="s2">get your last midnight black eon that&#39;s</p>
+<p begin="00:06:33.640" end="00:06:36.400" style="s2">an icy on man</p>
+<p begin="00:06:34.660" end="00:06:39.400" style="s2">that&#39;s an icy and you can buy your today</p>
+<p begin="00:06:36.400" end="00:06:41.620" style="s2">right here at shop comedy I we got eons</p>
+<p begin="00:06:39.400" end="00:06:43.960" style="s2">for sale right here - yeah - camp dad</p>
+<p begin="00:06:41.620" end="00:06:45.520" style="s2">kit maybe you guys want to drop down</p>
+<p begin="00:06:43.960" end="00:06:46.600" style="s2">I&#39;ve told you drop downs don&#39;t work on</p>
+<p begin="00:06:45.520" end="00:06:47.740" style="s2">this monitor they work on the other</p>
+<p begin="00:06:46.600" end="00:06:49.990" style="s2">monitor so you might want to get that</p>
+<p begin="00:06:47.740" end="00:06:53.650" style="s2">midnight black get that midnight black</p>
+<p begin="00:06:49.990" end="00:06:54.640" style="s2">eon so let&#39;s see if this one&#39;s got a</p>
+<p begin="00:06:53.650" end="00:06:55.900" style="s2">boot up I don&#39;t know if it&#39;s gonna boot</p>
+<p begin="00:06:54.640" end="00:06:57.790" style="s2">up I don&#39;t know what stay my yawns all</p>
+<p begin="00:06:55.900" end="00:07:01.330" style="s2">right this is this mic this is my</p>
+<p begin="00:06:57.790" end="00:07:03.280" style="s2">personal development Aeon so every comma</p>
+<p begin="00:07:01.330" end="00:07:10.450" style="s2">employee has this stuff on their desk</p>
+<p begin="00:07:03.280" end="00:07:12.160" style="s2">has a debug board has a commis maze yeah</p>
+<p begin="00:07:10.450" end="00:07:14.230" style="s2">so you can play back your idea we&#39;re</p>
+<p begin="00:07:12.160" end="00:07:17.140" style="s2">working on open sourcing the tooling do</p>
+<p begin="00:07:14.230" end="00:07:19.250" style="s2">that that&#39;s basic</p>
+<p begin="00:07:17.140" end="00:07:23.780" style="s2">yeah that&#39;s exactly what we do with that</p>
+<p begin="00:07:19.250" end="00:07:27.700" style="s2">so we just take a this USB wires</p>
+<p begin="00:07:23.780" end="00:07:27.700" style="s2">connected to my computer down here and</p>
+<p begin="00:07:27.970" end="00:07:35.780" style="s2">that brings us to the third of the</p>
+<p begin="00:07:31.760" end="00:07:37.730" style="s2">products this is a panda Paul and what</p>
+<p begin="00:07:35.780" end="00:07:41.810" style="s2">panda paw does is it makes your panda</p>
+<p begin="00:07:37.730" end="00:07:43.700" style="s2">unbreakable so you can go in here and if</p>
+<p begin="00:07:41.810" end="00:07:45.320" style="s2">you press this button it&#39;ll always go</p>
+<p begin="00:07:43.700" end="00:07:47.330" style="s2">into boot mode no matter what you flash</p>
+<p begin="00:07:45.320" end="00:07:50.690" style="s2">it on it right so I just connect this</p>
+<p begin="00:07:47.330" end="00:07:53.210" style="s2">guy right up here and now we&#39;re in we&#39;re</p>
+<p begin="00:07:50.690" end="00:07:55.220" style="s2">in emulation mode so this is every</p>
+<p begin="00:07:53.210" end="00:07:56.540" style="s2">product that&#39;s launched all working</p>
+<p begin="00:07:55.220" end="00:07:59.230" style="s2">together this is the setup on every</p>
+<p begin="00:07:56.540" end="00:08:02.600" style="s2">comment I employees desk</p>
+<p begin="00:07:59.230" end="00:08:04.310" style="s2">here&#39;s a commis maze that&#39;s comedy bug</p>
+<p begin="00:08:02.600" end="00:08:07.190" style="s2">board those are obviously pandas this is</p>
+<p begin="00:08:04.310" end="00:08:10.070" style="s2">a white panda this is a gray panda there</p>
+<p begin="00:08:07.190" end="00:08:11.150" style="s2">is a pan to pull right there and you see</p>
+<p begin="00:08:10.070" end="00:08:13.880" style="s2">that it&#39;s connected down here in my</p>
+<p begin="00:08:11.150" end="00:08:16.370" style="s2">computer cable not included a panda paws</p>
+<p begin="00:08:13.880" end="00:08:18.800" style="s2">are very cheap throwing $20 say price a</p>
+<p begin="00:08:16.370" end="00:08:20.300" style="s2">t-shirt add a paw and make your Panda</p>
+<p begin="00:08:18.800" end="00:08:22.490" style="s2">unbreakable so we could view the Panda</p>
+<p begin="00:08:20.300" end="00:08:24.290" style="s2">paw right here berkshire panda you must</p>
+<p begin="00:08:22.490" end="00:08:26.990" style="s2">be kidding because panda unbreakable if</p>
+<p begin="00:08:24.290" end="00:08:28.400" style="s2">you have the convenient panda paw</p>
+<p begin="00:08:26.990" end="00:08:29.780" style="s2">uh now to be fair if you only making</p>
+<p begin="00:08:28.400" end="00:08:30.800" style="s2">small change to the firmware probably</p>
+<p begin="00:08:29.780" end="00:08:32.540" style="s2">like the briquette but if you want to</p>
+<p begin="00:08:30.800" end="00:08:35.960" style="s2">make big changes with confidence</p>
+<p begin="00:08:32.540" end="00:08:39.530" style="s2">get yourself a panda paw today for sale</p>
+<p begin="00:08:35.960" end="00:08:41.450" style="s2">at shop calm down AI shop kamidana yeah</p>
+<p begin="00:08:39.530" end="00:08:43.340" style="s2">i we have a car simulator and we have</p>
+<p begin="00:08:41.450" end="00:08:45.520" style="s2">replay we have both there&#39;s actually</p>
+<p begin="00:08:43.340" end="00:08:48.890" style="s2">open source car simulator in oppa violet</p>
+<p begin="00:08:45.520" end="00:08:51.380" style="s2">you just run board d with mock equals</p>
+<p begin="00:08:48.890" end="00:08:53.750" style="s2">one and we&#39;ll be releasing some</p>
+<p begin="00:08:51.380" end="00:08:55.760" style="s2">instructions on how to do all this stuff</p>
+<p begin="00:08:53.750" end="00:08:58.280" style="s2">but first we&#39;re getting the hardware out</p>
+<p begin="00:08:55.760" end="00:09:00.020" style="s2">there so everybody can buy that merch</p>
+<p begin="00:08:58.280" end="00:09:02.240" style="s2">alright so you&#39;ll see that the way this</p>
+<p begin="00:09:00.020" end="00:09:03.980" style="s2">works here&#39;s my Aeon let&#39;s give it a</p>
+<p begin="00:09:02.240" end="00:09:07.270" style="s2">second round of funding who talked about</p>
+<p begin="00:09:03.980" end="00:09:09.680" style="s2">that I&#39;m talking about that</p>
+<p begin="00:09:07.270" end="00:09:11.180" style="s2">so wait that sounds like fake news okay</p>
+<p begin="00:09:09.680" end="00:09:13.130" style="s2">so I can just flip this switch on the</p>
+<p begin="00:09:11.180" end="00:09:15.020" style="s2">debug board and it&#39;ll basically start my</p>
+<p begin="00:09:13.130" end="00:09:17.150" style="s2">virtual car so you&#39;ll see that the power</p>
+<p begin="00:09:15.020" end="00:09:18.590" style="s2">is up here and this is a great</p>
+<p begin="00:09:17.150" end="00:09:20.060" style="s2">environment notice that green light</p>
+<p begin="00:09:18.590" end="00:09:22.640" style="s2">comes on so you know that your car is</p>
+<p begin="00:09:20.060" end="00:09:23.379" style="s2">started and now it&#39;s you know just like</p>
+<p begin="00:09:22.640" end="00:09:26.349" style="s2">starting</p>
+<p begin="00:09:23.379" end="00:09:29.220" style="s2">virtual car so how nice is that guys</p>
+<p begin="00:09:26.349" end="00:09:31.689" style="s2">this is how we do all our developments</p>
+<p begin="00:09:29.220" end="00:09:33.220" style="s2">GPS capture yeah the GPS is in the</p>
+<p begin="00:09:31.689" end="00:09:36.369" style="s2">flyback we&#39;re working on external izing</p>
+<p begin="00:09:33.220" end="00:09:38.019" style="s2">those tools over time but for now we&#39;re</p>
+<p begin="00:09:36.369" end="00:09:42.129" style="s2">open sort where we&#39;re releasing all the</p>
+<p begin="00:09:38.019" end="00:09:44.409" style="s2">hardware on chop comedy III you know</p>
+<p begin="00:09:42.129" end="00:09:45.429" style="s2">people you don&#39;t know tell me about my</p>
+<p begin="00:09:44.409" end="00:09:48.009" style="s2">second round of funding</p>
+<p begin="00:09:45.429" end="00:09:50.619" style="s2">I don&#39;t got all right so we got</p>
+<p begin="00:09:48.009" end="00:09:52.709" style="s2">panda paw we got ass maze and we got a</p>
+<p begin="00:09:50.619" end="00:09:55.419" style="s2">panda debug board small announcement</p>
+<p begin="00:09:52.709" end="00:09:59.489" style="s2">nothing too big this is mostly for</p>
+<p begin="00:09:55.419" end="00:10:04.029" style="s2">developers of course we have come AI</p>
+<p begin="00:09:59.489" end="00:10:06.729" style="s2">t-shirt by your commented a for the very</p>
+<p begin="00:10:04.029" end="00:10:10.209" style="s2">reasonable price of $20 great pandas are</p>
+<p begin="00:10:06.729" end="00:10:13.720" style="s2">coming well here&#39;s a great Panda they</p>
+<p begin="00:10:10.209" end="00:10:17.859" style="s2">are in progress coming very soon notice</p>
+<p begin="00:10:13.720" end="00:10:19.359" style="s2">it says gray on it that gray panda yeah</p>
+<p begin="00:10:17.859" end="00:10:22.799" style="s2">great pandas are coming along really</p>
+<p begin="00:10:19.359" end="00:10:25.539" style="s2">well here&#39;s a naked grape Anna</p>
+<p begin="00:10:22.799" end="00:10:28.059" style="s2">here&#39;s a what are the new pandas</p>
+<p begin="00:10:25.539" end="00:10:30.279" style="s2">shipping out oh you mean the injection</p>
+<p begin="00:10:28.059" end="00:10:34.470" style="s2">molded pandas injection molded pandas</p>
+<p begin="00:10:30.279" end="00:10:36.729" style="s2">will come out mid-february probably</p>
+<p begin="00:10:34.470" end="00:10:38.259" style="s2">whenever they get here who won the</p>
+<p begin="00:10:36.729" end="00:10:39.939" style="s2">contest all the contests all you</p>
+<p begin="00:10:38.259" end="00:10:42.249" style="s2">remember I&#39;ll talk about that later um</p>
+<p begin="00:10:39.939" end="00:10:43.959" style="s2">it would be spelled gray wrong no wheels</p>
+<p begin="00:10:42.249" end="00:10:46.089" style="s2">no gray wrong Gray&#39;s with thee</p>
+<p begin="00:10:43.959" end="00:10:47.589" style="s2">it&#39;s with thee everywhere it&#39;s with the</p>
+<p begin="00:10:46.089" end="00:10:48.999" style="s2">e we tried really hard to do we had a</p>
+<p begin="00:10:47.589" end="00:10:52.149" style="s2">company meeting where we know it&#39;s not</p>
+<p begin="00:10:48.999" end="00:10:57.639" style="s2">gray inside we fixed that Rose you fixed</p>
+<p begin="00:10:52.149" end="00:11:00.189" style="s2">that fix on that one so what I could all</p>
+<p begin="00:10:57.639" end="00:11:02.470" style="s2">get that one bottom no we fixed it brows</p>
+<p begin="00:11:00.189" end="00:11:03.819" style="s2">we fixed it all right let&#39;s see yeah our</p>
+<p begin="00:11:02.470" end="00:11:04.869" style="s2">orders coming in let me check let me</p>
+<p begin="00:11:03.819" end="00:11:08.529" style="s2">check the admin panel let&#39;s see if we&#39;re</p>
+<p begin="00:11:04.869" end="00:11:11.049" style="s2">getting orders yo we&#39;re getting orders</p>
+<p begin="00:11:08.529" end="00:11:13.689" style="s2">today shits flying off the shelf</p>
+<p begin="00:11:11.049" end="00:11:15.279" style="s2">everyone&#39;s buying t-shirts Brown went</p>
+<p begin="00:11:13.689" end="00:11:17.259" style="s2">buying a lot of t-shirts you guys invite</p>
+<p begin="00:11:15.279" end="00:11:19.389" style="s2">a lot of teachers guys we got a lot of</p>
+<p begin="00:11:17.259" end="00:11:21.819" style="s2">t-shirts we bought these in huge bulk</p>
+<p begin="00:11:19.389" end="00:11:24.699" style="s2">because we know comm AI t-shirts are the</p>
+<p begin="00:11:21.819" end="00:11:25.449" style="s2">hottest item on the Tommy I shop so get</p>
+<p begin="00:11:24.699" end="00:11:28.359" style="s2">in today</p>
+<p begin="00:11:25.449" end="00:11:33.609" style="s2">buy a t-shirt buy your space by your</p>
+<p begin="00:11:28.359" end="00:11:35.619" style="s2">debug I never stop shilling and comma</p>
+<p begin="00:11:33.609" end="00:11:37.630" style="s2">are me go out there you know no no no</p>
+<p begin="00:11:35.619" end="00:11:40.810" style="s2">Susan I was talking about starting last</p>
+<p begin="00:11:37.630" end="00:11:41.950" style="s2">my friend okay so we have $20 t-shirts</p>
+<p begin="00:11:40.810" end="00:11:44.140" style="s2">now this is typical for a tech company</p>
+<p begin="00:11:41.950" end="00:11:46.480" style="s2">and like we look at our hoodies and guys</p>
+<p begin="00:11:44.140" end="00:11:48.190" style="s2">the hoodies are nice but but is this the</p>
+<p begin="00:11:46.480" end="00:11:52.180" style="s2">a/v company or mark it&#39;s all the same</p>
+<p begin="00:11:48.190" end="00:11:54.550" style="s2">bros it&#39;s all the same ballpark and</p>
+<p begin="00:11:52.180" end="00:11:56.170" style="s2">number of Aeon sold hundreds we have</p>
+<p begin="00:11:54.550" end="00:11:58.210" style="s2">sold hundreds of eons and thousands of</p>
+<p begin="00:11:56.170" end="00:12:00.490" style="s2">pandas and by the end of this year we&#39;re</p>
+<p begin="00:11:58.210" end="00:12:01.720" style="s2">hoping to 10x both of those numbers will</p>
+<p begin="00:12:00.490" end="00:12:04.000" style="s2">be selling thousands of units and tens</p>
+<p begin="00:12:01.720" end="00:12:05.800" style="s2">of thousands of pandas these things are</p>
+<p begin="00:12:04.000" end="00:12:07.390" style="s2">flying off the shelves we can&#39;t keep</p>
+<p begin="00:12:05.800" end="00:12:08.560" style="s2">them in stock quick enough some of you</p>
+<p begin="00:12:07.390" end="00:12:10.480" style="s2">guys might know that if you bought a</p>
+<p begin="00:12:08.560" end="00:12:11.800" style="s2">panda nothing showing up yeah don&#39;t</p>
+<p begin="00:12:10.480" end="00:12:13.990" style="s2">worry we&#39;re working on it they&#39;ll be</p>
+<p begin="00:12:11.800" end="00:12:16.029" style="s2">coming you real soon real soon we&#39;ll be</p>
+<p begin="00:12:13.990" end="00:12:18.670" style="s2">getting you pandas on pause they&#39;re</p>
+<p begin="00:12:16.029" end="00:12:21.430" style="s2">shipping out right now spaces they&#39;re</p>
+<p begin="00:12:18.670" end="00:12:24.250" style="s2">shipping out right now and debug boards</p>
+<p begin="00:12:21.430" end="00:12:25.779" style="s2">they&#39;re shipping out right now if you</p>
+<p begin="00:12:24.250" end="00:12:27.160" style="s2">hadn&#39;t guessed you know what let&#39;s go to</p>
+<p begin="00:12:25.779" end="00:12:29.790" style="s2">the stockroom I&#39;ll show you guys the</p>
+<p begin="00:12:27.160" end="00:12:31.980" style="s2">kind of stock we got and then</p>
+<p begin="00:12:29.790" end="00:12:34.829" style="s2">the scope is kind of our military badges</p>
+<p begin="00:12:31.980" end="00:12:36.510" style="s2">I want to make nice comma uniforms right</p>
+<p begin="00:12:34.829" end="00:12:40.050" style="s2">like army uniforms right</p>
+<p begin="00:12:36.510" end="00:12:41.760" style="s2">um so come over to the debug we got</p>
+<p begin="00:12:40.050" end="00:12:52.470" style="s2">debug boards we get deep on boards for</p>
+<p begin="00:12:41.760" end="00:12:57.139" style="s2">days there&#39;s some debug boards right now</p>
+<p begin="00:12:52.470" end="00:12:57.139" style="s2">you can get this smooth can be your</p>
+<p begin="00:12:57.260" end="00:13:04.889" style="s2">everybody we got giraffes for days look</p>
+<p begin="00:13:01.829" end="00:13:07.410" style="s2">at all these giraffes Toyota giraffes of</p>
+<p begin="00:13:04.889" end="00:13:10.529" style="s2">the giraffes bros we got we got stuff</p>
+<p begin="00:13:07.410" end="00:13:14.010" style="s2">ready to go we got eons up here these</p>
+<p begin="00:13:10.529" end="00:13:15.300" style="s2">are V arms got plenty of yawns oh yeah</p>
+<p begin="00:13:14.010" end="00:13:18.389" style="s2">you notice how I&#39;m not showing any</p>
+<p begin="00:13:15.300" end="00:13:20.100" style="s2">pandas in progress</p>
+<p begin="00:13:18.389" end="00:13:21.360" style="s2">so dad we didn&#39;t Hannah&#39;s listing now we</p>
+<p begin="00:13:20.100" end="00:13:25.410" style="s2">are getting some patties okay grab the</p>
+<p begin="00:13:21.360" end="00:13:26.430" style="s2">panelist have a few pandas no I actually</p>
+<p begin="00:13:25.410" end="00:13:27.870" style="s2">sent them out I think we&#39;ve actually</p>
+<p begin="00:13:26.430" end="00:13:29.550" style="s2">sent out every panda in this place so</p>
+<p begin="00:13:27.870" end="00:13:33.089" style="s2">there&#39;s no more pens all right cool</p>
+<p begin="00:13:29.550" end="00:13:34.079" style="s2">thank you for joining and we will see</p>
+<p begin="00:13:33.089" end="00:13:36.540" style="s2">you next time</p>
+<p begin="00:13:34.079" end="00:13:38.010" style="s2">comma army bumper stickers and decals</p>
+<p begin="00:13:36.540" end="00:13:40.139" style="s2">you know we can&#39;t do everything</p>
+<p begin="00:13:38.010" end="00:13:42.360" style="s2">we got t-shirts we&#39;re listening to what</p>
+<p begin="00:13:40.139" end="00:13:44.069" style="s2">the people want we got t-shirts go buy</p>
+<p begin="00:13:42.360" end="00:13:48.060" style="s2">your t-shirt right now if you haven&#39;t</p>
+<p begin="00:13:44.069" end="00:13:51.139" style="s2">shopped comma dot ai go buy merch you&#39;ll</p>
+<p begin="00:13:48.060" end="00:13:51.139" style="s2">feel good thank you</p>
+</div>
+</body>
+</tt>

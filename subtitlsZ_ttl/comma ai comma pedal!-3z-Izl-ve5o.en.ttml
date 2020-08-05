@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.110" end="00:00:07.300" style="s2">yo what up scope he&#39;s happy Friday</p>
+<p begin="00:00:03.939" end="00:00:08.950" style="s2">everybody happy Friday we&#39;ll wait for a</p>
+<p begin="00:00:07.300" end="00:00:11.080" style="s2">few people to get in here look you can</p>
+<p begin="00:00:08.950" end="00:00:13.869" style="s2">see her broken metrics they&#39;re broken</p>
+<p begin="00:00:11.080" end="00:00:16.150" style="s2">broken metrics wait for a few people to</p>
+<p begin="00:00:13.869" end="00:00:19.779" style="s2">show up welcome to the comma a periscope</p>
+<p begin="00:00:16.150" end="00:00:24.720" style="s2">it is it&#39;s not a scope you Friday we&#39;re</p>
+<p begin="00:00:19.779" end="00:00:27.699" style="s2">here today to talk about the comma pedal</p>
+<p begin="00:00:24.720" end="00:00:29.769" style="s2">I&#39;m this Claud you know now I&#39;m in a</p>
+<p begin="00:00:27.699" end="00:00:34.180" style="s2">good mood today I&#39;m in a good mood today</p>
+<p begin="00:00:29.769" end="00:00:37.480" style="s2">but but Subaru in the chat ban yo pedal</p>
+<p begin="00:00:34.180" end="00:00:39.190" style="s2">pedal pedal pedal yo yo yo what up okay</p>
+<p begin="00:00:37.480" end="00:00:43.750" style="s2">guys I have I have a new piece of</p>
+<p begin="00:00:39.190" end="00:00:49.030" style="s2">hardware to announce I have a new piece</p>
+<p begin="00:00:43.750" end="00:00:52.120" style="s2">of hardware it&#39;s right here in my other</p>
+<p begin="00:00:49.030" end="00:00:53.050" style="s2">hand let&#39;s wait till we get 60 people we</p>
+<p begin="00:00:52.120" end="00:00:55.359" style="s2">can do 60</p>
+<p begin="00:00:53.050" end="00:00:57.370" style="s2">let&#39;s get 60 people in here and then I</p>
+<p begin="00:00:55.359" end="00:01:00.429" style="s2">will show you all the hardware for kamma</p>
+<p begin="00:00:57.370" end="00:01:02.320" style="s2">pedal we got 50 for your base station DS</p>
+<p begin="00:01:00.429" end="00:01:04.390" style="s2">not ready yet your your your base</p>
+<p begin="00:01:02.320" end="00:01:06.670" style="s2">station DS not ready yet no come on we</p>
+<p begin="00:01:04.390" end="00:01:09.040" style="s2">got 56 come on let&#39;s get it up to 60 and</p>
+<p begin="00:01:06.670" end="00:01:11.970" style="s2">then you guys can see it 59 we&#39;re almost</p>
+<p begin="00:01:09.040" end="00:01:15.220" style="s2">there 60 okay welcome welcome welcome</p>
+<p begin="00:01:11.970" end="00:01:20.619" style="s2">check it out the pedal is quality just</p>
+<p begin="00:01:15.220" end="00:01:23.070" style="s2">like the sign says okay so here I am on</p>
+<p begin="00:01:20.619" end="00:01:23.070" style="s2">the comment</p>
+<p begin="00:01:23.340" end="00:01:34.690" style="s2">this is the world&#39;s first comma pedal</p>
+<p begin="00:01:30.960" end="00:01:36.640" style="s2">super-strong glue holding it together it</p>
+<p begin="00:01:34.690" end="00:01:40.060" style="s2">looks like an Apple charger look at that</p>
+<p begin="00:01:36.640" end="00:01:42.010" style="s2">thing comes in light blue check it out</p>
+<p begin="00:01:40.060" end="00:01:43.180" style="s2">now remember comma petals are not for</p>
+<p begin="00:01:42.010" end="00:01:44.380" style="s2">sale we&#39;re gonna open source them</p>
+<p begin="00:01:43.180" end="00:01:48.790" style="s2">sometime next week whenever Eddie</p>
+<p begin="00:01:44.380" end="00:01:50.680" style="s2">finishes them ah here&#39;s a petal so this</p>
+<p begin="00:01:48.790" end="00:01:54.400" style="s2">is a pedal it&#39;s a pedal from an Acura</p>
+<p begin="00:01:50.680" end="00:01:56.920" style="s2">ILX the way the column petal works is</p>
+<p begin="00:01:54.400" end="00:02:00.580" style="s2">you plug it into your existing pedal and</p>
+<p begin="00:01:56.920" end="00:02:04.630" style="s2">it makes your pedal digital so here&#39;s a</p>
+<p begin="00:02:00.580" end="00:02:07.270" style="s2">pedal that&#39;s a common pedal and I will</p>
+<p begin="00:02:04.630" end="00:02:10.959" style="s2">just plug this in right here and now we</p>
+<p begin="00:02:07.270" end="00:02:12.700" style="s2">are ready to come a pedal this USB</p>
+<p begin="00:02:10.959" end="00:02:16.000" style="s2">connector is used for debugging and</p>
+<p begin="00:02:12.700" end="00:02:18.850" style="s2">updating the , pedal firmware of course</p>
+<p begin="00:02:16.000" end="00:02:21.130" style="s2">it has firmware and this Ethernet</p>
+<p begin="00:02:18.850" end="00:02:23.290" style="s2">connector is the same fake Ethernet</p>
+<p begin="00:02:21.130" end="00:02:24.730" style="s2">connector that&#39;s on the giraffe&#39;s what</p>
+<p begin="00:02:23.290" end="00:02:27.340" style="s2">cars work with it it should be all</p>
+<p begin="00:02:24.730" end="00:02:28.780" style="s2">Honda&#39;s we think it&#39;s all Honda&#39;s well</p>
+<p begin="00:02:27.340" end="00:02:30.459" style="s2">we don&#39;t actually know if common pedals</p>
+<p begin="00:02:28.780" end="00:02:34.300" style="s2">work yet we just got this from the</p>
+<p begin="00:02:30.459" end="00:02:37.450" style="s2">hardware division right now so cardona</p>
+<p begin="00:02:34.300" end="00:02:39.910" style="s2">are gonna go out to the Acura and we&#39;re</p>
+<p begin="00:02:37.450" end="00:02:43.060" style="s2">gonna try to make it work um so of</p>
+<p begin="00:02:39.910" end="00:02:46.900" style="s2">course the Civic needs it a lot less the</p>
+<p begin="00:02:43.060" end="00:02:48.820" style="s2">Civic needs it a lot less then then the</p>
+<p begin="00:02:46.900" end="00:02:51.070" style="s2">other stuff because the Civic can</p>
+<p begin="00:02:48.820" end="00:02:52.989" style="s2">already do stop and go but the common</p>
+<p begin="00:02:51.070" end="00:02:55.390" style="s2">pedal adds stop and go to the rest of</p>
+<p begin="00:02:52.989" end="00:02:58.140" style="s2">the Honda&#39;s and gives you better more</p>
+<p begin="00:02:55.390" end="00:03:01.450" style="s2">precise gas pedal control less pulsing</p>
+<p begin="00:02:58.140" end="00:03:04.480" style="s2">super precision from the common panel in</p>
+<p begin="00:03:01.450" end="00:03:07.890" style="s2">fact it&#39;s just as good as you pressing</p>
+<p begin="00:03:04.480" end="00:03:14.110" style="s2">the pedal widow the Kama steer comes out</p>
+<p begin="00:03:07.890" end="00:03:16.000" style="s2">so let&#39;s go to the here with Ricardo got</p>
+<p begin="00:03:14.110" end="00:03:18.100" style="s2">108 people are excited about the column</p>
+<p begin="00:03:16.000" end="00:03:19.959" style="s2">pedal oh come on fella buzz right so</p>
+<p begin="00:03:18.100" end="00:03:22.480" style="s2">we&#39;re gonna go to the car right now and</p>
+<p begin="00:03:19.959" end="00:03:24.580" style="s2">we&#39;re gonna try it out and we&#39;re gonna</p>
+<p begin="00:03:22.480" end="00:03:26.860" style="s2">see if it works this is completely</p>
+<p begin="00:03:24.580" end="00:03:28.360" style="s2">untested the codes not tested it is</p>
+<p begin="00:03:26.860" end="00:03:31.260" style="s2">merged though it&#39;s upstreams now you can</p>
+<p begin="00:03:28.360" end="00:03:34.730" style="s2">check it out on github karma a I pedal</p>
+<p begin="00:03:31.260" end="00:03:38.750" style="s2">how&#39;s the lawyers going</p>
+<p begin="00:03:34.730" end="00:03:38.750" style="s2">want to say hi this scope is real quick</p>
+<p begin="00:03:40.040" end="00:03:45.270" style="s2">alright Eddie we&#39;re showing the scope is</p>
+<p begin="00:03:43.770" end="00:03:52.820" style="s2">a comma pedal we&#39;re gonna go test it for</p>
+<p begin="00:03:45.270" end="00:03:56.310" style="s2">the first time ever what do you think</p>
+<p begin="00:03:52.820" end="00:03:59.940" style="s2">right it&#39;s it needs a little bit to seal</p>
+<p begin="00:03:56.310" end="00:04:01.560" style="s2">properly yeah huh too bad you can see oh</p>
+<p begin="00:03:59.940" end="00:04:03.630" style="s2">you want to see the board no I mean -</p>
+<p begin="00:04:01.560" end="00:04:06.390" style="s2">bet you can see why so mom yeah Oh</p>
+<p begin="00:04:03.630" end="00:04:08.400" style="s2">the car is beautiful I advise looks like</p>
+<p begin="00:04:06.390" end="00:04:09.840" style="s2">an eye you know what I was looking at</p>
+<p begin="00:04:08.400" end="00:04:13.050" style="s2">our car I was looking at our car garage</p>
+<p begin="00:04:09.840" end="00:04:14.640" style="s2">those white USB cables are gross can</p>
+<p begin="00:04:13.050" end="00:04:18.440" style="s2">confirm does work on apologize to that</p>
+<p begin="00:04:14.640" end="00:04:18.440" style="s2">one look that door works</p>
+<p begin="00:04:21.480" end="00:04:30.120" style="s2">you have the good old Acura then you go</p>
+<p begin="00:04:24.300" end="00:04:33.030" style="s2">to get an iPad charger all right what&#39;s</p>
+<p begin="00:04:30.120" end="00:04:51.330" style="s2">my gamer - IRA you you&#39;re you asking</p>
+<p begin="00:04:33.030" end="00:04:53.430" style="s2">about Subaru your band bro there&#39;s</p>
+<p begin="00:04:51.330" end="00:04:56.670" style="s2">definitely a connector pedal you guys</p>
+<p begin="00:04:53.430" end="00:04:58.710" style="s2">could definitely get a common pedal yep</p>
+<p begin="00:04:56.670" end="00:05:02.760" style="s2">you asked about Subaru and you asked for</p>
+<p begin="00:04:58.710" end="00:05:04.920" style="s2">my phone number bad band I better I</p>
+<p begin="00:05:02.760" end="00:05:07.590" style="s2">better movie with savage today Savage</p>
+<p begin="00:05:04.920" end="00:05:08.970" style="s2">right so the actor is disgusting and we</p>
+<p begin="00:05:07.590" end="00:05:11.190" style="s2">haven&#39;t gotten it washed in a while</p>
+<p begin="00:05:08.970" end="00:05:13.440" style="s2">we&#39;re gonna do that today but it rained</p>
+<p begin="00:05:11.190" end="00:05:15.600" style="s2">and the car washes are closed when it</p>
+<p begin="00:05:13.440" end="00:05:19.230" style="s2">rains all right so we already have it</p>
+<p begin="00:05:15.600" end="00:05:20.640" style="s2">Ethernet wire down there don&#39;t we do you</p>
+<p begin="00:05:19.230" end="00:05:26.430" style="s2">know if that&#39;s actually like plugged in</p>
+<p begin="00:05:20.640" end="00:05:28.470" style="s2">to the right stuff I think so cool what</p>
+<p begin="00:05:26.430" end="00:05:30.990" style="s2">does pedal do panel gives you super</p>
+<p begin="00:05:28.470" end="00:05:33.570" style="s2">precise digital control over your gas</p>
+<p begin="00:05:30.990" end="00:05:36.090" style="s2">pedal um you can do the same thing with</p>
+<p begin="00:05:33.570" end="00:05:37.680" style="s2">an ECU mod but hardware team is better</p>
+<p begin="00:05:36.090" end="00:05:39.990" style="s2">than car hacking team all right</p>
+<p begin="00:05:37.680" end="00:05:41.880" style="s2">um it&#39;s also more Universal so here&#39;s</p>
+<p begin="00:05:39.990" end="00:05:43.230" style="s2">your column pedal up check the top</p>
+<p begin="00:05:41.880" end="00:05:44.010" style="s2">connector first cuz we&#39;re not actually</p>
+<p begin="00:05:43.230" end="00:05:46.350" style="s2">sure if that fits</p>
+<p begin="00:05:44.010" end="00:05:48.390" style="s2">yeah that doesn&#39;t fit we&#39;re gonna have</p>
+<p begin="00:05:46.350" end="00:05:49.680" style="s2">to stop the scope e-everyone gonna have</p>
+<p begin="00:05:48.390" end="00:05:53.970" style="s2">to fix it yeah check out this is my</p>
+<p begin="00:05:49.680" end="00:05:56.670" style="s2">display childen my acura up this is a</p>
+<p begin="00:05:53.970" end="00:05:58.350" style="s2">commis maze you can buy this on shop</p>
+<p begin="00:05:56.670" end="00:06:01.200" style="s2">comedy yard when they&#39;re not out of</p>
+<p begin="00:05:58.350" end="00:06:02.820" style="s2">stock this is a gray panda you can buy</p>
+<p begin="00:06:01.200" end="00:06:04.470" style="s2">that on shop and come down I would saw</p>
+<p begin="00:06:02.820" end="00:06:06.480" style="s2">this stock it&#39;s an old granite before we</p>
+<p begin="00:06:04.470" end="00:06:07.860" style="s2">have the proper thing that&#39;s actually</p>
+<p begin="00:06:06.480" end="00:06:12.030" style="s2">terrible mounting the antenna don&#39;t</p>
+<p begin="00:06:07.860" end="00:06:13.440" style="s2">learn from us um here&#39;s a neon what</p>
+<p begin="00:06:12.030" end="00:06:15.600" style="s2">about brake we already have really good</p>
+<p begin="00:06:13.440" end="00:06:16.890" style="s2">brake control actually how the brake</p>
+<p begin="00:06:15.600" end="00:06:18.270" style="s2">digital brake control is really good</p>
+<p begin="00:06:16.890" end="00:06:19.590" style="s2">what&#39;s just surprising since the gas</p>
+<p begin="00:06:18.270" end="00:06:20.730" style="s2">smells already digital I don&#39;t know why</p>
+<p begin="00:06:19.590" end="00:06:22.470" style="s2">they don&#39;t just give you good control</p>
+<p begin="00:06:20.730" end="00:06:24.330" style="s2">but they don&#39;t so that&#39;s why we built</p>
+<p begin="00:06:22.470" end="00:06:25.310" style="s2">the common pedal you can check out my</p>
+<p begin="00:06:24.330" end="00:06:27.780" style="s2">yarn</p>
+<p begin="00:06:25.310" end="00:06:30.960" style="s2">check out my gear and we save them in my</p>
+<p begin="00:06:27.780" end="00:06:32.240" style="s2">black Aeons for you guys doing any</p>
+<p begin="00:06:30.960" end="00:06:36.110" style="s2">meetups we really do</p>
+<p begin="00:06:32.240" end="00:06:39.259" style="s2">meetups not will Phelps bro bro bro</p>
+<p begin="00:06:36.110" end="00:06:41.750" style="s2">you&#39;re gonna be bad no way to hack into</p>
+<p begin="00:06:39.259" end="00:06:45.470" style="s2">guys people control we could hack it but</p>
+<p begin="00:06:41.750" end="00:06:47.030" style="s2">I&#39;m lazy you want to see it you want to</p>
+<p begin="00:06:45.470" end="00:06:49.370" style="s2">see the calm pedal in person it&#39;s not</p>
+<p begin="00:06:47.030" end="00:06:51.259" style="s2">that great we are gonna open source the</p>
+<p begin="00:06:49.370" end="00:06:53.360" style="s2">comic pedal the firm was early open</p>
+<p begin="00:06:51.259" end="00:06:56.270" style="s2">source you guys can go to github come AI</p>
+<p begin="00:06:53.360" end="00:06:58.190" style="s2">Panda and you guys can check it out</p>
+<p begin="00:06:56.270" end="00:07:12.199" style="s2">this open source to me have you is a</p>
+<p begin="00:06:58.190" end="00:07:13.940" style="s2">laptop running ricardo&#39;s trying to get</p>
+<p begin="00:07:12.199" end="00:07:16.430" style="s2">the wires plugged into the comic peddle</p>
+<p begin="00:07:13.940" end="00:07:18.650" style="s2">comic pedals are new anyway for</p>
+<p begin="00:07:16.430" end="00:07:20.930" style="s2">simulation with the github Oh failure</p>
+<p begin="00:07:18.650" end="00:07:22.520" style="s2">pedal hardware um so if it truly</p>
+<p begin="00:07:20.930" end="00:07:25.580" style="s2">catastrophic lis fails then you will</p>
+<p begin="00:07:22.520" end="00:07:27.949" style="s2">just lose acceleration on your car it&#39;s</p>
+<p begin="00:07:25.580" end="00:07:29.539" style="s2">pretty safe basically yeah your car</p>
+<p begin="00:07:27.949" end="00:07:32.900" style="s2">doesn&#39;t accelerate put your hands on</p>
+<p begin="00:07:29.539" end="00:07:35.300" style="s2">pull to the side of the road yeah so</p>
+<p begin="00:07:32.900" end="00:07:40.460" style="s2">what&#39;s that is that is that Q is that as</p>
+<p begin="00:07:35.300" end="00:07:46.219" style="s2">well if you lose if you lose</p>
+<p begin="00:07:40.460" end="00:07:48.380" style="s2">acceleration yeah it&#39;s QM yeah yeah I&#39;m</p>
+<p begin="00:07:46.219" end="00:07:50.630" style="s2">here with Ricardo new calibration not</p>
+<p begin="00:07:48.380" end="00:07:51.699" style="s2">coming with HDR though new calibration</p>
+<p begin="00:07:50.630" end="00:07:53.659" style="s2">is in progress</p>
+<p begin="00:07:51.699" end="00:07:59.330" style="s2">we&#39;ve actually done calibration</p>
+<p begin="00:07:53.659" end="00:08:02.210" style="s2">correctly now wait no no you want to put</p>
+<p begin="00:07:59.330" end="00:08:03.830" style="s2">this one into the top yeah the one that</p>
+<p begin="00:08:02.210" end="00:08:06.650" style="s2">sticks out more gets plugged into the</p>
+<p begin="00:08:03.830" end="00:08:08.539" style="s2">wire does it does it not that can you</p>
+<p begin="00:08:06.650" end="00:08:12.169" style="s2">fix the slow acceleration on the Civic</p>
+<p begin="00:08:08.539" end="00:08:13.759" style="s2">can we fix that software yeah we gotta</p>
+<p begin="00:08:12.169" end="00:08:18.800" style="s2">fix that the software I complained about</p>
+<p begin="00:08:13.759" end="00:08:24.159" style="s2">it - it was bad anyone who reminds me of</p>
+<p begin="00:08:18.800" end="00:08:27.500" style="s2">will Phelps is bad calibration soon TM</p>
+<p begin="00:08:24.159" end="00:08:31.069" style="s2">eventually TM is like never soon TM as</p>
+<p begin="00:08:27.500" end="00:08:33.079" style="s2">is maybe yeah I got an already on what</p>
+<p begin="00:08:31.069" end="00:08:35.690" style="s2">is on pilot getting HDR after after</p>
+<p begin="00:08:33.079" end="00:08:40.159" style="s2">Scheffer plus I think that&#39;s gonna be</p>
+<p begin="00:08:35.690" end="00:08:42.530" style="s2">Andi sprint next week will come a pedal</p>
+<p begin="00:08:40.159" end="00:08:45.110" style="s2">also work with Toyota</p>
+<p begin="00:08:42.530" end="00:08:47.600" style="s2">do the Toyotas with hacking because the</p>
+<p begin="00:08:45.110" end="00:08:48.590" style="s2">Toyotas don&#39;t really separate the gas in</p>
+<p begin="00:08:47.600" end="00:08:53.750" style="s2">the brake you just feed them</p>
+<p begin="00:08:48.590" end="00:08:56.420" style="s2">acceleration is that true yes yeah and</p>
+<p begin="00:08:53.750" end="00:08:58.580" style="s2">like I mean like on a Prius how much</p>
+<p begin="00:08:56.420" end="00:09:00.080" style="s2">sense does it really make to like Jack</p>
+<p begin="00:08:58.580" end="00:09:03.260" style="s2">the pedal and you don&#39;t want the pedal</p>
+<p begin="00:09:00.080" end="00:09:05.180" style="s2">you want acceleration control shiver&#39;d</p>
+<p begin="00:09:03.260" end="00:09:09.190" style="s2">plus usage versus open pilot usage</p>
+<p begin="00:09:05.180" end="00:09:09.190" style="s2">that&#39;s a very secret number very secret</p>
+<p begin="00:09:09.400" end="00:09:17.330" style="s2">we&#39;re doing we don&#39;t have for</p>
+<p begin="00:09:11.330" end="00:09:19.100" style="s2">pussies is it it doesn&#39;t fit I&#39;ll try a</p>
+<p begin="00:09:17.330" end="00:09:21.020" style="s2">little bet if you want to if you want to</p>
+<p begin="00:09:19.100" end="00:09:22.880" style="s2">take the phone and then if the common</p>
+<p begin="00:09:21.020" end="00:09:25.700" style="s2">pedal doesn&#39;t fit we&#39;ll have to send it</p>
+<p begin="00:09:22.880" end="00:09:28.220" style="s2">back to hardware and we&#39;ll have to come</p>
+<p begin="00:09:25.700" end="00:09:34.510" style="s2">on the periscope later tonight once we</p>
+<p begin="00:09:28.220" end="00:09:34.510" style="s2">have it fixed all right</p>
+<p begin="00:09:36.930" end="00:09:46.410" style="s2">here&#39;s a skull piece yeah I don&#39;t know</p>
+<p begin="00:09:44.640" end="00:09:52.950" style="s2">any thought that just by clicking that</p>
+<p begin="00:09:46.410" end="00:09:55.260" style="s2">it would floor Thursday I think this is</p>
+<p begin="00:09:52.950" end="00:09:59.750" style="s2">the part coming I think it&#39;s this part</p>
+<p begin="00:09:55.260" end="00:09:59.750" style="s2">okay on the other one we totally had to</p>
+<p begin="00:10:30.680" end="00:10:36.750" style="s2">all rights copies well guess what</p>
+<p begin="00:10:33.890" end="00:10:38.940" style="s2">we will be back later tonight to show</p>
+<p begin="00:10:36.750" end="00:10:40.550" style="s2">you a fully operational comma pedal</p>
+<p begin="00:10:38.940" end="00:10:43.050" style="s2">we&#39;re gonna we&#39;re gonna return this one</p>
+<p begin="00:10:40.550" end="00:10:45.029" style="s2">we&#39;re gonna return it to comment down a</p>
+<p begin="00:10:43.050" end="00:10:47.010" style="s2">I slash shop you guys should go there</p>
+<p begin="00:10:45.029" end="00:10:48.690" style="s2">and buy things today is a great day to</p>
+<p begin="00:10:47.010" end="00:10:51.060" style="s2">buy things tomorrow&#39;s great day to buy</p>
+<p begin="00:10:48.690" end="00:10:53.390" style="s2">things yesterday was also a great day to</p>
+<p begin="00:10:51.060" end="00:10:53.390" style="s2">fight us</p>
+</div>
+</body>
+</tt>

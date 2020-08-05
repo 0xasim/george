@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:01.000" style="s2">Up in your car.</p>
+<p begin="00:00:01.140" end="00:00:03.740" style="s2">It used to replace the rear view mirror but</p>
+<p begin="00:00:03.740" end="00:00:05.740" style="s2">the government told us that was illegal,</p>
+<p begin="00:00:05.920" end="00:00:06.920" style="s2">so we don&#39;t do that anymore.</p>
+<p begin="00:00:07.040" end="00:00:07.900" style="s2">OK.</p>
+<p begin="00:00:07.900" end="00:00:08.580" style="s2">It&#39;s like a GoPro mount.</p>
+<p begin="00:00:08.780" end="00:00:09.840" style="s2">What&#39;s in it?</p>
+<p begin="00:00:09.900" end="00:00:11.220" style="s2">What&#39;s in it? Magic.</p>
+<p begin="00:00:12.320" end="00:00:13.120" style="s2">Magic in a box.</p>
+<p begin="00:00:13.480" end="00:00:14.620" style="s2">Is it a raspberry pi in it?</p>
+<p begin="00:00:14.620" end="00:00:17.200" style="s2">No, no, no, way way more powerful than a raspberry<br />pi.</p>
+<p begin="00:00:17.240" end="00:00:19.160" style="s2">This is seriously powerful computer in here.</p>
+<p begin="00:00:19.160" end="00:00:20.080" style="s2">Nice!</p>
+<p begin="00:00:20.800" end="00:00:22.580" style="s2">Then you connect this wire up to your car</p>
+<p begin="00:00:23.020" end="00:00:24.600" style="s2">and it can control the steering wheel,</p>
+<p begin="00:00:24.720" end="00:00:28.120" style="s2">the gas and the breaks and...</p>
+<p begin="00:00:30.540" end="00:00:32.740" style="s2">You put this in your car and it turns your<br />car...</p>
+<p begin="00:00:32.920" end="00:00:35.240" style="s2">It&#39;s like Tesla autopilot... so if you are</p>
+<p begin="00:00:35.240" end="00:00:37.180" style="s2">on the highway you can drive for hours without</p>
+<p begin="00:00:37.360" end="00:00:39.100" style="s2">having to touch anything.</p>
+<p begin="00:00:39.280" end="00:00:40.760" style="s2">Yaay...</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.100" end="00:00:00.100" style="s2">thisisuntrackable: hi</p>
+<p begin="00:00:00.100" end="00:00:00.100" style="s2">Crannigan: Hey I&#39;m new to the stream</p>
+<p begin="00:00:00.100" end="00:00:00.100" style="s2">lil_cheet0: &lt;3</p>
+<p begin="00:00:00.100" end="00:00:00.100" style="s2">Crannigan: decided to follow you on a youtube binge earlier :)</p>
+<p begin="00:00:00.100" end="00:00:00.100" style="s2">lil_cheet0: shamaDab shamaKiss</p>
+<p begin="00:00:00.100" end="00:00:00.100" style="s2">coProof: BCash?</p>
+<p begin="00:00:07.270" end="00:00:12.270" style="s2">coProof: how much will the transaction be</p>
+<p begin="00:00:54.372" end="00:00:59.372" style="s2">LeviStreams: lol @Crannigan</p>
+<p begin="00:01:04.949" end="00:01:09.949" style="s2">Crannigan: monkaS @LeviStreams</p>
+<p begin="00:01:15.329" end="00:01:20.329" style="s2">Crannigan: needed something to watch while finishing my genetic algo</p>
+<p begin="00:01:19.863" end="00:01:24.863" style="s2">coProof: what are transactions fees these days?</p>
+<p begin="00:01:39.817" end="00:01:44.817" style="s2">LeviStreams: commanaiarchive kept popping up in my youtube recommendations</p>
+<p begin="00:01:44.040" end="00:01:49.040" style="s2">Bryanswagbeast: Eh!</p>
+<p begin="00:01:50.478" end="00:01:55.478" style="s2">moreningwould: same</p>
+<p begin="00:01:58.515" end="00:02:03.515" style="s2">Bryanswagbeast: whats he up to?</p>
+<p begin="00:01:59.250" end="00:02:04.250" style="s2">crazyserb011: I was watching an older video on youtube :D</p>
+<p begin="00:02:04.254" end="00:02:09.254" style="s2">quillford: can you check my speed challenge?</p>
+<p begin="00:02:08.282" end="00:02:13.282" style="s2">suurrend3r: hiii</p>
+<p begin="00:02:27.440" end="00:02:32.440" style="s2">LeviStreams: great content to binge for sure</p>
+<p begin="00:02:48.121" end="00:02:53.121" style="s2">coProof: are you doing bcash or bitcoin</p>
+<p begin="00:02:50.840" end="00:02:55.840" style="s2">suurrend3r: I know you won&#39;t use brave for a long time</p>
+<p begin="00:03:04.340" end="00:03:09.340" style="s2">suurrend3r: the same thing you did with Startpage xD</p>
+<p begin="00:03:15.575" end="00:03:20.575" style="s2">coProof: can you make a bitconnect transaction from scratch plz?</p>
+<p begin="00:03:22.228" end="00:03:27.228" style="s2">ThatGuyChaos: Thoughts on Coinbase CEO saying they’re going to be “the next Wells Fargo”? Seems like he doesn’t understand the point of crypto is to not have have massive centralization hubs</p>
+<p begin="00:03:28.010" end="00:03:33.010" style="s2">spellwish: how come you use iOS and not linux or windows</p>
+<p begin="00:03:45.080" end="00:03:50.080" style="s2">Bryanswagbeast: lol what are u about to hack? -_-</p>
+<p begin="00:04:27.954" end="00:04:32.954" style="s2">Bryanswagbeast: ninjaCreep mthGrin</p>
+<p begin="00:04:38.471" end="00:04:43.471" style="s2">coProof: MAC OSX</p>
+<p begin="00:04:43.417" end="00:04:48.417" style="s2">abstractingagent: YES GEORGE WHAT&#39;S GOOD HOMIE</p>
+<p begin="00:04:50.780" end="00:04:55.780" style="s2">crazyserb011: hahah</p>
+<p begin="00:04:55.591" end="00:05:00.591" style="s2">Crannigan: fuck politics</p>
+<p begin="00:05:05.236" end="00:05:10.236" style="s2">coProof: can you make the transaction dependent on rsi crossover?</p>
+<p begin="00:05:06.325" end="00:05:11.325" style="s2">ThatGuyChaos: @ me bro</p>
+<p begin="00:05:55.240" end="00:06:00.240" style="s2">Bryanswagbeast: ill donate if you teach us a little bit of hacking!</p>
+<p begin="00:06:08.164" end="00:06:13.164" style="s2">ViktorTV: @tomcr00s3 are you by any chance looking for interns are would even consider having an intern?</p>
+<p begin="00:06:10.398" end="00:06:15.398" style="s2">bjornswife: just just coinbase bruh</p>
+<p begin="00:06:15.164" end="00:06:20.164" style="s2">Mac_33: I&#39;m supposed to be working on class assignments, but I&#39;d rather implement AI-denoising for my renderer instead</p>
+<p begin="00:06:36.722" end="00:06:41.722" style="s2">littlebighead82: what the point of using SHA-256 encryption Kappa</p>
+<p begin="00:07:01.872" end="00:07:06.872" style="s2">Jewishrambo: Yo</p>
+<p begin="00:07:25.931" end="00:07:30.931" style="s2">coProof: rand(1,100)</p>
+<p begin="00:07:36.709" end="00:07:41.709" style="s2">Mac_33: what happened to &#39;fuck chrome&#39; Kappa</p>
+<p begin="00:08:17.171" end="00:08:22.171" style="s2">Mac_33: check out ungoogled-chromium</p>
+<p begin="00:08:28.549" end="00:08:33.549" style="s2">kkuette: I hate google but tensorflow&#39;s fine :D</p>
+<p begin="00:08:47.683" end="00:08:52.683" style="s2">Bryanswagbeast: Reverse Engineering? @tomcr00s3</p>
+<p begin="00:09:39.483" end="00:09:44.483" style="s2">coProof: why is it not changing</p>
+<p begin="00:10:04.624" end="00:10:09.624" style="s2">bjornswife: yoink</p>
+<p begin="00:10:08.535" end="00:10:13.535" style="s2">bjornswife: bitcoin cash is not bitcoin</p>
+<p begin="00:10:11.617" end="00:10:16.617" style="s2">Bryanswagbeast: lmao</p>
+<p begin="00:10:13.025" end="00:10:18.025" style="s2">crazyserb011: I told everyone on facebook that i&#39;m not voting they all got offended</p>
+<p begin="00:10:21.482" end="00:10:26.482" style="s2">coProof: yeah no dont worry i wont touch the BCH chain</p>
+<p begin="00:10:23.428" end="00:10:28.428" style="s2">Mac_33: Do you have a public twitter acct?</p>
+<p begin="00:10:27.391" end="00:10:32.391" style="s2">ViktorTV: @tomcr00s3 would you by any chance have an intern at comma?</p>
+<p begin="00:10:32.865" end="00:10:37.865" style="s2">bjornswife: imagine using facebook in 2018 lul</p>
+<p begin="00:10:38.893" end="00:10:43.893" style="s2">Crannigan: if I told my dad i don&#39;t vote he&#39;d have a heart attack @crazyserb011</p>
+<p begin="00:10:40.534" end="00:10:45.534" style="s2">coProof: ourselves</p>
+<p begin="00:10:40.796" end="00:10:45.796" style="s2">Bryanswagbeast: if you can track where i live, ill believe u! @tomcr00s3</p>
+<p begin="00:10:48.705" end="00:10:53.705" style="s2">Jewishrambo: Do math ourselves</p>
+<p begin="00:10:48.897" end="00:10:53.897" style="s2">littlebighead82: bch DansGame</p>
+<p begin="00:11:07.114" end="00:11:12.114" style="s2">LeviStreams: hotz, when you gonna do a from the transistor stream?</p>
+<p begin="00:11:28.836" end="00:11:33.836" style="s2">Mac_33: ripemd160 is a shorter hash used for the address string</p>
+<p begin="00:11:47.889" end="00:11:52.889" style="s2">quillford: cheer1</p>
+<p begin="00:11:55.203" end="00:12:00.203" style="s2">crazyserb011: I find it funny. they don&#39;t care who i vote for just that i do</p>
+<p begin="00:12:09.984" end="00:12:14.984" style="s2">coProof: Mac sounds correct</p>
+<p begin="00:12:10.194" end="00:12:15.194" style="s2">littlebighead82: why is that funny lul</p>
+<p begin="00:12:16.717" end="00:12:21.717" style="s2">bjornswife: do your public duty and vote for trump</p>
+<p begin="00:12:25.547" end="00:12:30.547" style="s2">crazyserb011: hahha</p>
+<p begin="00:12:30.620" end="00:12:35.620" style="s2">coProof: right after I buy some BCH</p>
+<p begin="00:12:32.282" end="00:12:37.282" style="s2">Mac_33: If I don&#39;t forget, ripemd160 is then converted to base58 for the presentable public keystring</p>
+<p begin="00:12:33.453" end="00:12:38.453" style="s2">Bryanswagbeast: #fuckTrump</p>
+<p begin="00:12:45.856" end="00:12:50.856" style="s2">bjornswife: hotz wants to build the wall</p>
+<p begin="00:12:59.775" end="00:13:04.775" style="s2">Mac_33: base58 because they wanted to take out some similar chars like O-&gt;0</p>
+<p begin="00:13:05.444" end="00:13:10.444" style="s2">crazyserb011: not into politics.</p>
+<p begin="00:13:15.502" end="00:13:20.502" style="s2">littlebighead82: how old r u</p>
+<p begin="00:13:15.974" end="00:13:20.974" style="s2">Mac_33: I actually tried writing a cryptocurrency in Swift</p>
+<p begin="00:13:20.371" end="00:13:25.371" style="s2">crazyserb011: 26</p>
+<p begin="00:13:45.583" end="00:13:50.583" style="s2">littlebighead82: and u don&#39;t care who makes the laws?</p>
+<p begin="00:13:58.165" end="00:14:03.165" style="s2">crazyserb011: it&#39;s all the same</p>
+<p begin="00:14:05.256" end="00:14:10.256" style="s2">coProof: can the private key be randomly generated from your toy slam algo?</p>
+<p begin="00:14:06.308" end="00:14:11.308" style="s2">bjornswife: replace politicians with smart contracts</p>
+<p begin="00:14:14.203" end="00:14:19.203" style="s2">crazyserb011: the 1% make the laws</p>
+<p begin="00:14:22.310" end="00:14:27.310" style="s2">littlebighead82: big yikes</p>
+<p begin="00:14:46.155" end="00:14:51.155" style="s2">Bryanswagbeast: do you still need money for rice? lol! @tomcr00s3</p>
+<p begin="00:15:39.892" end="00:15:44.892" style="s2">bjornswife: poggers</p>
+<p begin="00:16:00.792" end="00:16:05.792" style="s2">Mac_33: Hotz, we should automate governance.</p>
+<p begin="00:16:10.948" end="00:16:15.948" style="s2">Jeppelelle: Dude, come on, close the update notification RuleFive</p>
+<p begin="00:16:17.768" end="00:16:22.768" style="s2">bjornswife: use tezos</p>
+<p begin="00:16:32.323" end="00:16:37.323" style="s2">crazyserb011: ios want&#39;s an update</p>
+<p begin="00:16:35.211" end="00:16:40.211" style="s2">coProof: Updates Ready to Install</p>
+<p begin="00:16:54.236" end="00:16:59.236" style="s2">revler1: i like money :)</p>
+<p begin="00:17:01.586" end="00:17:06.586" style="s2">bjornswife: give this millionaire your bitcoins</p>
+<p begin="00:17:06.273" end="00:17:11.273" style="s2">coProof: zqr</p>
+<p begin="00:17:08.880" end="00:17:13.880" style="s2">bjornswife: hurry</p>
+<p begin="00:17:44.238" end="00:17:49.238" style="s2">glitchedoutt: Are bitcoins still useful to purchase?</p>
+<p begin="00:17:51.479" end="00:17:56.479" style="s2">littlebighead82: gotta love open source</p>
+<p begin="00:17:53.493" end="00:17:58.493" style="s2">Bryanswagbeast: wait... were u serious? r u teaching us how to hack? @tomcr00s3</p>
+<p begin="00:18:11.748" end="00:18:16.748" style="s2">coProof: hurry up</p>
+<p begin="00:18:13.787" end="00:18:18.787" style="s2">Bryanswagbeast: for white hat hackers?</p>
+<p begin="00:18:18.267" end="00:18:23.267" style="s2">Mac_33: Do you even ethereum</p>
+<p begin="00:18:21.473" end="00:18:26.473" style="s2">sfmoose: this is where geo hot looses his bitcoin live</p>
+<p begin="00:18:33.732" end="00:18:38.732" style="s2">coProof: if this was ethereum i&#39;d send you some but no</p>
+<p begin="00:18:38.597" end="00:18:43.597" style="s2">littlebighead82: Ethereum Kreygasm Kreygasm</p>
+<p begin="00:19:08.012" end="00:19:13.012" style="s2">Mac_33: Up next: we wait 45 minutes for the transaction to confirm</p>
+<p begin="00:19:08.504" end="00:19:13.504" style="s2">bjornswife: dont trust us</p>
+<p begin="00:19:08.896" end="00:19:13.896" style="s2">sfmoose: STEALING IT NOW</p>
+<p begin="00:19:14.956" end="00:19:19.956" style="s2">coProof: that sounds like a challenge</p>
+<p begin="00:19:24.719" end="00:19:29.719" style="s2">littlebighead82: downloading the main frame now</p>
+<p begin="00:19:25.271" end="00:19:30.271" style="s2">quillford: cheer1</p>
+<p begin="00:19:36.893" end="00:19:41.893" style="s2">revler1: i am a noob :(</p>
+<p begin="00:19:41.051" end="00:19:46.051" style="s2">sfmoose: BCH PLZ</p>
+<p begin="00:19:51.225" end="00:19:56.225" style="s2">coProof: i&#39;m gonna need to donwload a little more ram if i run that</p>
+<p begin="00:19:59.636" end="00:20:04.636" style="s2">crazyserb011: and it&#39;s gone</p>
+<p begin="00:20:00.817" end="00:20:05.817" style="s2">unctarheelss: no 1080</p>
+<p begin="00:20:11.377" end="00:20:16.377" style="s2">bjornswife: seed=1337</p>
+<p begin="00:20:37.815" end="00:20:42.815" style="s2">crazyserb011: https://imgur.com/gallery/lcxyE0D</p>
+<p begin="00:20:40.529" end="00:20:45.529" style="s2">coProof: most common seed therefore easiest to be haxed</p>
+<p begin="00:20:43.082" end="00:20:48.082" style="s2">brandoncode: do you go live every day?</p>
+<p begin="00:21:01.784" end="00:21:06.784" style="s2">sfmoose: does comma ai not provide enough work for you?</p>
+<p begin="00:21:14.140" end="00:21:19.140" style="s2">sfmoose: sorry no speaky of it again</p>
+<p begin="00:21:17.983" end="00:21:22.983" style="s2">sfmoose: audio is fantastic</p>
+<p begin="00:21:22.840" end="00:21:27.840" style="s2">quillford: audio is fine</p>
+<p begin="00:21:25.143" end="00:21:30.143" style="s2">pugs0n: audio is fine</p>
+<p begin="00:21:27.378" end="00:21:32.378" style="s2">Jewishrambo: This stream is scuffed.</p>
+<p begin="00:21:36.993" end="00:21:41.993" style="s2">Crannigan: what if I really am fucked?</p>
+<p begin="00:21:41.301" end="00:21:46.301" style="s2">Jebbbbbbbbbbb: comma ai confirmed dead PepeHands</p>
+<p begin="00:21:42.871" end="00:21:47.871" style="s2">sfmoose: audio is great dont fuck with it</p>
+<p begin="00:21:57.928" end="00:22:02.928" style="s2">808kid: Audio is fine</p>
+<p begin="00:22:11.232" end="00:22:16.232" style="s2">Jewishrambo: Is he drunk ? What you drinking ?</p>
+<p begin="00:22:11.276" end="00:22:16.276" style="s2">littlebighead82: &quot;You&#39;re fucked. That&#39;s right!&quot; LUL</p>
+<p begin="00:22:11.582" end="00:22:16.582" style="s2">Mac_33: Are you intoxicated? I see you&#39;re only typing at 200WPM...</p>
+<p begin="00:22:19.587" end="00:22:24.587" style="s2">sfmoose: play us something in Hungarian minor on the keyboard</p>
+<p begin="00:22:42.746" end="00:22:47.746" style="s2">coProof: No one wants yur bch</p>
+<p begin="00:22:56.369" end="00:23:01.369" style="s2">littlebighead82: bch is like dirt to us Tom</p>
+<p begin="00:23:32.919" end="00:23:37.919" style="s2">sfmoose: yeah do 480 or higher</p>
+<p begin="00:23:35.615" end="00:23:40.615" style="s2">Jebbbbbbbbbbb: D:</p>
+<p begin="00:23:35.948" end="00:23:40.948" style="s2">coProof: You’d have to pay me to take your BCH</p>
+<p begin="00:23:42.365" end="00:23:47.365" style="s2">crazyserb011: hahah</p>
+<p begin="00:23:44.252" end="00:23:49.252" style="s2">crazyserb011: ban</p>
+<p begin="00:23:44.299" end="00:23:49.299" style="s2">Crannigan: pwned</p>
+<p begin="00:23:44.536" end="00:23:49.536" style="s2">Jebbbbbbbbbbb: Geohot booli D:</p>
+<p begin="00:23:45.065" end="00:23:50.065" style="s2">sfmoose: LOL</p>
+<p begin="00:23:45.840" end="00:23:50.840" style="s2">brandoncode: Audio is very good</p>
+<p begin="00:23:52.065" end="00:23:57.065" style="s2">Jewishrambo: PogChamp</p>
+<p begin="00:23:52.673" end="00:23:57.673" style="s2">suurrend3r: LUL LUL</p>
+<p begin="00:23:53.598" end="00:23:58.598" style="s2">Crannigan: audio is much nice</p>
+<p begin="00:23:54.762" end="00:23:59.762" style="s2">littlebighead82: lol coProof</p>
+<p begin="00:23:57.762" end="00:24:02.762" style="s2">LeviStreams: lol</p>
+<p begin="00:24:04.293" end="00:24:09.293" style="s2">unctarheelss: dictatorship</p>
+<p begin="00:24:10.194" end="00:24:15.194" style="s2">Jebbbbbbbbbbb: cash.coin.dance LULW</p>
+<p begin="00:24:10.302" end="00:24:15.302" style="s2">crazyserb011: on to youtube</p>
+<p begin="00:24:10.638" end="00:24:15.638" style="s2">glitchedoutt: audio is awesome (gulp)</p>
+<p begin="00:24:11.197" end="00:24:16.197" style="s2">Jewishrambo: Audio is good BibleThump don’t hurt me</p>
+<p begin="00:24:12.830" end="00:24:17.830" style="s2">crazyserb011: lol</p>
+<p begin="00:24:13.600" end="00:24:18.600" style="s2">CharlieKelly_aka_Dayman: lol well it was a fun stream</p>
+<p begin="00:24:27.037" end="00:24:32.037" style="s2">ThatGuyChaos: Lol</p>
+<p begin="00:24:27.980" end="00:24:32.980" style="s2">glitchedoutt: heil audio</p>
+<p begin="00:24:28.732" end="00:24:33.732" style="s2">Crannigan: LOL ^</p>
+<p begin="00:24:32.531" end="00:24:37.531" style="s2">Jeppelelle: Why not just start a normal bank and then just put 393 billion into your account balance</p>
+<p begin="00:24:32.941" end="00:24:37.941" style="s2">bjornswife: roger ver made you</p>
+<p begin="00:24:34.957" end="00:24:39.957" style="s2">suurrend3r: say a guy who streams once a month</p>
+<p begin="00:24:37.990" end="00:24:42.990" style="s2">Bryanswagbeast: yeah the stream is over and he will hack u!</p>
+<p begin="00:25:03.554" end="00:25:08.554" style="s2">suurrend3r: did you ever try a git alternative?</p>
+<p begin="00:25:35.156" end="00:25:40.156" style="s2">ThatGuyChaos: What’s the over/under on minutes until someone steals it</p>
+<p begin="00:25:35.315" end="00:25:40.315" style="s2">coProof: Yeah pls integrate twitchslam here</p>
+<p begin="00:25:39.328" end="00:25:44.328" style="s2">Jebbbbbbbbbbb: exbosed</p>
+<p begin="00:25:52.765" end="00:25:57.765" style="s2">crazyserb011: he will hack your moms pacemaker then what</p>
+<p begin="00:25:52.847" end="00:25:57.847" style="s2">Jewishrambo: Exposed</p>
+<p begin="00:25:59.633" end="00:26:04.633" style="s2">bjornswife: lol</p>
+<p begin="00:26:17.809" end="00:26:22.809" style="s2">brandoncode: what time is it where you live?</p>
+<p begin="00:26:34.200" end="00:26:39.200" style="s2">littlebighead82: take his bch and he will hack ur amygdala</p>
+<p begin="00:26:38.096" end="00:26:43.096" style="s2">minhazm: Git amend and force push</p>
+<p begin="00:27:10.517" end="00:27:15.517" style="s2">bjornswife: that was quick</p>
+<p begin="00:27:10.633" end="00:27:15.633" style="s2">Jebbbbbbbbbbb: @tomcr00s3 Are pop tarts sandwiches? 🤔</p>
+<p begin="00:27:14.717" end="00:27:19.717" style="s2">SnakeOneMLG: VoHiYo</p>
+<p begin="00:27:25.560" end="00:27:30.560" style="s2">coProof: Git push origin master</p>
+<p begin="00:28:14.256" end="00:28:19.256" style="s2">suurrend3r: did you ever try a git alternative @tomcr00s3 ?</p>
+<p begin="00:28:34.720" end="00:28:39.720" style="s2">Jebbbbbbbbbbb: D:</p>
+<p begin="00:28:37.507" end="00:28:42.507" style="s2">Jebbbbbbbbbbb: SO MEAN</p>
+<p begin="00:28:42.159" end="00:28:47.159" style="s2">KhanDesi: lol</p>
+<p begin="00:28:48.041" end="00:28:53.041" style="s2">suurrend3r: LUL LUL</p>
+<p begin="00:29:09.940" end="00:29:14.940" style="s2">bjornswife: fake</p>
+<p begin="00:29:36.919" end="00:29:41.919" style="s2">sfmoose: please show the private key so we know you&#39;re public key matches.</p>
+<p begin="00:29:47.306" end="00:29:52.306" style="s2">suurrend3r: LUL</p>
+<p begin="00:29:48.351" end="00:29:53.351" style="s2">KhanDesi: ^</p>
+<p begin="00:29:50.937" end="00:29:55.937" style="s2">KhanDesi: we must verify</p>
+<p begin="00:29:56.536" end="00:30:01.536" style="s2">Jewishrambo: Use vscode I plen</p>
+<p begin="00:29:56.946" end="00:30:01.946" style="s2">sfmoose: it&#39;s the only way</p>
+<p begin="00:30:01.872" end="00:30:06.872" style="s2">Jewishrambo: Use vscode pleb</p>
+<p begin="00:30:21.629" end="00:30:26.629" style="s2">KhanDesi: @sfmoose damn, you subbed, but there&#39;s no emotes for this channel</p>
+<p begin="00:30:29.204" end="00:30:34.204" style="s2">KhanDesi: that&#39;s either dedication or desperation</p>
+<p begin="00:30:31.936" end="00:30:36.936" style="s2">coProof: @jewishrambo is right</p>
+<p begin="00:30:34.413" end="00:30:39.413" style="s2">SnakeOneMLG: is the audio broken for you aswell chat?</p>
+<p begin="00:30:40.017" end="00:30:45.017" style="s2">KhanDesi: @SnakeOneMLG no</p>
+<p begin="00:30:41.670" end="00:30:46.670" style="s2">pugs0n: AUDIO IS FINE</p>
+<p begin="00:30:43.498" end="00:30:48.498" style="s2">Mac_33: I have a screencap of your privkey, but I feel merciful tonight.</p>
+<p begin="00:30:50.273" end="00:30:55.273" style="s2">SnakeOneMLG: hmmm 🤔</p>
+<p begin="00:30:57.394" end="00:31:02.394" style="s2">Jok4ndre: https://clips.twitch.tv/ArbitraryEnchantingWolfBloodTrail</p>
+<p begin="00:31:03.844" end="00:31:08.844" style="s2">crazyserb011: Microsoft bought git. how do you feel about that</p>
+<p begin="00:31:34.196" end="00:31:39.196" style="s2">quillford: no they bought github</p>
+<p begin="00:31:46.172" end="00:31:51.172" style="s2">bjornswife: basically same thing tho...</p>
+<p begin="00:31:59.732" end="00:32:04.732" style="s2">crazyserb011: wow</p>
+<p begin="00:32:22.264" end="00:32:27.264" style="s2">Jebbbbbbbbbbb: &quot;:Microsoft bought git &quot;🤔</p>
+<p begin="00:32:35.650" end="00:32:40.650" style="s2">ThatGuyChaos: Definitely not the same thing</p>
+<p begin="00:32:41.698" end="00:32:46.698" style="s2">SnakeOneMLG: hmmm interesting, when I have quality on 360p the audio is completelly broken but on 480p it is normal</p>
+<p begin="00:32:55.738" end="00:33:00.738" style="s2">weedlord666: git===github</p>
+<p begin="00:32:57.243" end="00:33:02.243" style="s2">pugs0n: solution: don&#39;t use 360p</p>
+<p begin="00:33:03.709" end="00:33:08.709" style="s2">SnakeOneMLG: B)</p>
+<p begin="00:33:42.486" end="00:33:47.486" style="s2">Mac_33: sell toaster, buy internet</p>
+<p begin="00:33:46.237" end="00:33:51.237" style="s2">Jok4ndre: git == github?</p>
+<p begin="00:34:07.194" end="00:34:12.194" style="s2">SnakeOneMLG: git = github</p>
+<p begin="00:34:09.000" end="00:34:14.000" style="s2">Mac_33: Just as I sent that, my player downgraded to 360p</p>
+<p begin="00:34:19.132" end="00:34:24.132" style="s2">SnakeOneMLG: haa</p>
+<p begin="00:34:20.642" end="00:34:25.642" style="s2">SnakeOneMLG: haha</p>
+<p begin="00:34:24.639" end="00:34:29.639" style="s2">kkuette: Please just check git wiki page</p>
+<p begin="00:34:33.013" end="00:34:38.013" style="s2">KhanDesi: git != github</p>
+<p begin="00:34:33.212" end="00:34:38.212" style="s2">kkuette: you&#39;ll see</p>
+<p begin="00:34:36.101" end="00:34:41.101" style="s2">Jeppelelle: you guys sitting on toaster internet speeds?</p>
+<p begin="00:34:36.408" end="00:34:41.408" style="s2">KhanDesi: gitlab &gt; github</p>
+<p begin="00:34:37.353" end="00:34:42.353" style="s2">Jebbbbbbbbbbb: @tomcr00s3 Was JS a mistake? 🤔</p>
+<p begin="00:34:49.738" end="00:34:54.738" style="s2">bjornswife: bitbucket andy</p>
+<p begin="00:35:39.821" end="00:35:44.821" style="s2">Mac_33: Endianness - Fucken computers, amirite?</p>
+<p begin="00:35:39.979" end="00:35:44.979" style="s2">Jebbbbbbbbbbb: D:</p>
+<p begin="00:35:43.153" end="00:35:48.153" style="s2">brandoncode: don&#39;t like youtube to stream?</p>
+<p begin="00:35:49.342" end="00:35:54.342" style="s2">KhanDesi: JS = John Swick</p>
+<p begin="00:35:52.624" end="00:35:57.624" style="s2">CharlieKelly_aka_Dayman: jon snow</p>
+<p begin="00:35:52.695" end="00:35:57.695" style="s2">Jewishrambo: JavaScript u noob</p>
+<p begin="00:36:09.778" end="00:36:14.778" style="s2">Jebbbbbbbbbbb: JS = Jour Smom Kappa</p>
+<p begin="00:36:09.950" end="00:36:14.950" style="s2">sfmoose: Jet Ski</p>
+<p begin="00:36:11.051" end="00:36:16.051" style="s2">KhanDesi: jon snow dies</p>
+<p begin="00:36:14.028" end="00:36:19.028" style="s2">KhanDesi: snape kills him</p>
+<p begin="00:36:14.049" end="00:36:19.049" style="s2">glitchedoutt: jamba shake</p>
+<p begin="00:36:28.498" end="00:36:33.498" style="s2">CharlieKelly_aka_Dayman: NotLikeThis</p>
+<p begin="00:36:45.070" end="00:36:50.070" style="s2">RenderMonkey: python 3 was a mistake!</p>
+<p begin="00:36:55.875" end="00:37:00.875" style="s2">KhanDesi: Jebaited</p>
+<p begin="00:37:39.300" end="00:37:44.300" style="s2">coProof: Just do a Tripp’s handshake and yur good</p>
+<p begin="00:37:41.108" end="00:37:46.108" style="s2">sfmoose: time to just use BTC</p>
+<p begin="00:37:49.525" end="00:37:54.525" style="s2">Mac_33: Do you have an opinion of the Swift language?</p>
+<p begin="00:38:09.731" end="00:38:14.731" style="s2">Jok4ndre: is there a python 1?</p>
+<p begin="00:38:12.391" end="00:38:17.391" style="s2">KhanDesi: yes</p>
+<p begin="00:38:18.770" end="00:38:23.770" style="s2">KhanDesi: it&#39;s a snek</p>
+<p begin="00:38:29.996" end="00:38:34.996" style="s2">coProof: This is good bedtime material</p>
+<p begin="00:38:55.176" end="00:39:00.176" style="s2">suurrend3r: that&#39;s some clean code</p>
+<p begin="00:38:58.450" end="00:39:03.450" style="s2">FalconJet_: what keyboard do you have?</p>
+<p begin="00:39:09.753" end="00:39:14.753" style="s2">sfmoose: I can&#39;t wait until he goes to send and the wallet is empty and he just RAGE QUITS</p>
+<p begin="00:39:30.855" end="00:39:35.855" style="s2">OMG_STD: @tomcr00s3 have you used Go or rust? Any opinion on either?</p>
+<p begin="00:39:33.747" end="00:39:38.747" style="s2">Bryanswagbeast: dont know what type but he mentioned a mechanical keyboard with no letters</p>
+<p begin="00:39:41.972" end="00:39:46.972" style="s2">sfmoose: @FalconJet_ just buy Ergo Ez Dock and call it a day</p>
+<p begin="00:39:51.568" end="00:39:56.568" style="s2">KhanDesi: how he type letters if keyboad have no letters</p>
+<p begin="00:40:24.129" end="00:40:29.129" style="s2">sfmoose: ErgoDox EZ</p>
+<p begin="00:40:25.804" end="00:40:30.804" style="s2">Jeppelelle: Guys, build a dactyl keyboard, thank me later</p>
+<p begin="00:40:40.662" end="00:40:45.662" style="s2">Mac_33: @KhanDesi Whatever the opposite of hunt-and-peck is I suppose.</p>
+<p begin="00:40:57.120" end="00:41:02.120" style="s2">KhanDesi: hunted-and-pecked</p>
+<p begin="00:41:04.754" end="00:41:09.754" style="s2">glitchedoutt: what&#39;s dactyl</p>
+<p begin="00:41:28.028" end="00:41:33.028" style="s2">Jok4ndre: what is he doing?</p>
+<p begin="00:41:41.861" end="00:41:46.861" style="s2">Mac_33: Sending fake bitcoins from one address to another</p>
+<p begin="00:41:45.511" end="00:41:50.511" style="s2">littlebighead82: 80  viewers POGGERS</p>
+<p begin="00:41:46.400" end="00:41:51.400" style="s2">Mac_33: With raw python3</p>
+<p begin="00:41:47.197" end="00:41:52.197" style="s2">sfmoose: WIN A JET SKI!</p>
+<p begin="00:42:28.502" end="00:42:33.502" style="s2">KhanDesi: Yo, who wants to send me like $300, I gotta put my team together for DreamHack Atlanta. #BrownWall</p>
+<p begin="00:43:02.171" end="00:43:07.171" style="s2">suurrend3r: b&#39;&#39; for what?</p>
+<p begin="00:43:10.849" end="00:43:15.849" style="s2">Mac_33: Why are you not writing this in x86 assembly my dude?</p>
+<p begin="00:43:11.968" end="00:43:16.968" style="s2">coProof: Okay going to bed. I expect my wallet to have 30 BCH in it by am.</p>
+<p begin="00:43:13.115" end="00:43:18.115" style="s2">ViktorTV: @suurrend3r byte</p>
+<p begin="00:43:27.774" end="00:43:32.774" style="s2">KhanDesi: @suurrend3r to convert to byets</p>
+<p begin="00:43:28.707" end="00:43:33.707" style="s2">suurrend3r: @ViktorTV sure</p>
+<p begin="00:43:34.236" end="00:43:39.236" style="s2">suurrend3r: thx</p>
+<p begin="00:43:40.755" end="00:43:45.755" style="s2">Targon28: just found your videos on youtube today and just watching you program is insane. How often do you stream</p>
+<p begin="00:43:51.583" end="00:43:56.583" style="s2">KhanDesi: ^ same lol</p>
+<p begin="00:43:59.734" end="00:44:04.734" style="s2">KhanDesi: I want more SLAM</p>
+<p begin="00:44:12.424" end="00:44:17.424" style="s2">Jeppelelle: Isnt the youtube channel just someone that ripped of his streams and uploaded?</p>
+<p begin="00:44:19.647" end="00:44:24.647" style="s2">suurrend3r: @Jebbbbbbbbbbb yeah</p>
+<p begin="00:44:23.550" end="00:44:28.550" style="s2">KhanDesi: yeah, sounds about right</p>
+<p begin="00:44:27.156" end="00:44:32.156" style="s2">suurrend3r: @Jeppelelle yeah xD</p>
+<p begin="00:44:32.648" end="00:44:37.648" style="s2">suurrend3r: LUL</p>
+<p begin="00:44:46.248" end="00:44:51.248" style="s2">CharlieKelly_aka_Dayman: i only found this stream cuz of that youtube channel tho</p>
+<p begin="00:44:59.081" end="00:45:04.081" style="s2">KhanDesi: falcatedFacts only</p>
+<p begin="00:45:14.268" end="00:45:19.268" style="s2">Mac_33: Bitcoin Cash = Fake News Bitcoin</p>
+<p begin="00:45:24.737" end="00:45:29.737" style="s2">Mac_33: As we all know, the only *real* bitcoin is Ethereum.</p>
+<p begin="00:45:31.166" end="00:45:36.166" style="s2">Mac_33: Kappa</p>
+<p begin="00:45:38.062" end="00:45:43.062" style="s2">trashcan___: at least call it by its real name</p>
+<p begin="00:45:40.962" end="00:45:45.962" style="s2">trashcan___: bcash</p>
+<p begin="00:45:50.309" end="00:45:55.309" style="s2">KhanDesi: the only real crypto is KhanDesium, please send it to me</p>
+<p begin="00:45:56.651" end="00:46:01.651" style="s2">Bryanswagbeast: just give yourself 1000 bitcoins! @tomcr00s3</p>
+<p begin="00:45:58.575" end="00:46:03.575" style="s2">Jok4ndre: i also come from that channel.</p>
+<p begin="00:46:40.009" end="00:46:45.009" style="s2">sfmoose: Yeah youtube is how I found this channel as well. Binge watched the archive.</p>
+<p begin="00:46:55.809" end="00:47:00.809" style="s2">Mac_33: The script part is a bit annoying to implement tbh</p>
+<p begin="00:47:02.192" end="00:47:07.192" style="s2">KhanDesi: you binge watched a bunch of 10 hour streams?</p>
+<p begin="00:47:04.391" end="00:47:09.391" style="s2">Mac_33: You need OP_CHECKSIG at least</p>
+<p begin="00:47:38.223" end="00:47:43.223" style="s2">Mac_33: You need to gather inputs and form a new output, append script and sig</p>
+<p begin="00:47:41.249" end="00:47:46.249" style="s2">Mac_33: And S E N D</p>
+<p begin="00:48:37.603" end="00:48:42.603" style="s2">Mac_33: You literally just send the shit to the node</p>
+<p begin="00:48:42.215" end="00:48:47.215" style="s2">Mac_33: *in the correct format</p>
+<p begin="00:48:50.430" end="00:48:55.430" style="s2">Mac_33: Ah yeah, handshake first</p>
+<p begin="00:49:44.683" end="00:49:49.683" style="s2">Mac_33: You can just broadcast the TX, if it&#39;s valid it&#39;ll be accepted by the nodes</p>
+<p begin="00:50:18.838" end="00:50:23.838" style="s2">SnakeOneMLG: !uptime</p>
+<p begin="00:51:24.555" end="00:51:29.555" style="s2">Jok4ndre: no bots</p>
+<p begin="00:51:27.781" end="00:51:32.781" style="s2">Mac_33: I believe TX witness is for the newer type of txn</p>
+<p begin="00:51:33.537" end="00:51:38.537" style="s2">Mac_33: SEGWIT</p>
+<p begin="00:51:36.288" end="00:51:41.288" style="s2">Mac_33: Google it</p>
+<p begin="00:53:39.693" end="00:53:44.693" style="s2">CharlieKelly_aka_Dayman: i just did 3 politics tho</p>
+<p begin="00:54:37.817" end="00:54:42.817" style="s2">CharlieKelly_aka_Dayman: ok thanks! ill try that</p>
+<p begin="00:54:54.315" end="00:54:59.315" style="s2">un3okapi: guys, how do I git gud like geohot?</p>
+<p begin="00:54:54.371" end="00:54:59.371" style="s2">suurrend3r: WutFace WutFace</p>
+<p begin="00:54:59.001" end="00:55:04.001" style="s2">Targon28: Tips on learning even 1/100th of what you know? lol</p>
+<p begin="00:55:13.916" end="00:55:18.916" style="s2">suurrend3r: I think hotz is drinking too much enery drinks</p>
+<p begin="00:55:15.042" end="00:55:20.042" style="s2">kkuette: Google it ?</p>
+<p begin="00:55:21.295" end="00:55:26.295" style="s2">SnakeOneMLG: He is just very good at working with little information</p>
+<p begin="00:55:40.398" end="00:55:45.398" style="s2">trashcan___: i think its a spindrift</p>
+<p begin="00:56:08.509" end="00:56:13.509" style="s2">suurrend3r: LUL LUL LUL</p>
+<p begin="00:56:11.979" end="00:56:16.979" style="s2">SnakeOneMLG: monkaS</p>
+<p begin="00:56:28.380" end="00:56:33.380" style="s2">suurrend3r: NotLikeThis NotLikeThis</p>
+<p begin="00:56:30.218" end="00:56:35.218" style="s2">Mac_33: What are you on</p>
+<p begin="00:56:41.952" end="00:56:46.952" style="s2">suurrend3r: Cocaine and Python</p>
+<p begin="00:56:42.127" end="00:56:47.127" style="s2">Mac_33: You can ask other nodes for key balance</p>
+<p begin="00:56:56.188" end="00:57:01.188" style="s2">Mac_33: You do not need to sync the chain. You&#39;re creating a light node</p>
+<p begin="00:57:32.046" end="00:57:37.046" style="s2">Mac_33: getreceivedbyaddress</p>
+<p begin="00:57:34.300" end="00:57:39.300" style="s2">Nagato_Pain: heyyy</p>
+<p begin="00:57:55.041" end="00:58:00.041" style="s2">Mac_33: May not be the right one</p>
+<p begin="00:58:16.518" end="00:58:21.518" style="s2">Mac_33: Like, you need to get the inputs for your address</p>
+<p begin="00:58:21.141" end="00:58:26.141" style="s2">Mac_33: And then count up the satoshis</p>
+<p begin="00:58:37.421" end="00:58:42.421" style="s2">Mac_33: Since you only have 1 txn, you just use that amount</p>
+<p begin="00:58:41.341" end="00:58:46.341" style="s2">suurrend3r: do you like Ruby hotz?</p>
+<p begin="00:59:02.551" end="00:59:07.551" style="s2">Mac_33: Yeah I noticed that, my bad!</p>
+<p begin="00:59:34.752" end="00:59:39.752" style="s2">Mac_33: I&#39;m sure you could ping some service for the balance!</p>
+<p begin="01:00:44.306" end="01:00:49.306" style="s2">Mac_33: If you don&#39;t want to use other nodes, you *have* to sync the blockchain</p>
+<p begin="01:00:57.103" end="01:01:02.103" style="s2">Mac_33: I guess you could only sync the last 100 or so blocks for this purpose</p>
+<p begin="01:01:03.258" end="01:01:08.258" style="s2">Mac_33: You just request the blocks from other nodes</p>
+<p begin="01:02:14.602" end="01:02:19.602" style="s2">Mac_33: I think you could just ping a full BTC node for the balance too, and rely on that data</p>
+<p begin="01:03:21.965" end="01:03:26.965" style="s2">Mac_33: Yeah there&#39;s no protocol call for getting balance, since an address doesn&#39;t have a balance, you have to read the ledger to figure out the &quot;balance&quot;</p>
+<p begin="01:04:44.784" end="01:04:49.784" style="s2">quillford: is this blockchain for sensorless openpilot?</p>
+<p begin="01:04:51.792" end="01:04:56.792" style="s2">Mac_33: You really just want to download blocks, find the single input to your old address, and use that to form a new output to send</p>
+<p begin="01:05:31.366" end="01:05:36.366" style="s2">Mac_33: Important: Nodes may ban you if you don&#39;t follow the protocol properly</p>
+<p begin="01:05:36.002" end="01:05:41.002" style="s2">Mac_33: So make sure to ping different nodes</p>
+<p begin="01:07:38.553" end="01:07:43.553" style="s2">Mac_33: Are you trying a random node each time?</p>
+<p begin="01:07:53.726" end="01:07:58.726" style="s2">Mac_33: You are, yeah</p>
+<p begin="01:07:59.495" end="01:08:04.495" style="s2">honeybadger_____: do u have a full time job or used to?</p>
+<p begin="01:08:10.917" end="01:08:15.917" style="s2">un3okapi: comma.io</p>
+<p begin="01:09:05.428" end="01:09:10.428" style="s2">Jeppelelle: hes working for Sony</p>
+<p begin="01:09:08.567" end="01:09:13.567" style="s2">Jeppelelle: ;)</p>
+<p begin="01:09:20.779" end="01:09:25.779" style="s2">PENK4: 1080p please</p>
+<p begin="01:09:27.212" end="01:09:32.212" style="s2">CharlieTLe: Hi George, was just watching your SLAM video!</p>
+<p begin="01:09:40.813" end="01:09:45.813" style="s2">scriptedp0ison_: im hyped</p>
+<p begin="01:11:23.239" end="01:11:28.239" style="s2">suurrend3r: EleGiggle EleGiggle EleGiggle</p>
+<p begin="01:11:39.500" end="01:11:44.500" style="s2">suurrend3r: PJSugar PJSugar</p>
+<p begin="01:13:01.055" end="01:13:06.055" style="s2">Mac_33: Have you gotten any response? Network byte order?</p>
+<p begin="01:14:02.092" end="01:14:07.092" style="s2">scriptedp0ison_: how do i become a part of google project zero?</p>
+<p begin="01:14:42.005" end="01:14:47.005" style="s2">Mac_33: You find 10 0days in 10 hours, and then send a tweet to sergey. Then the ritual will begin.</p>
+<p begin="01:14:52.913" end="01:14:57.913" style="s2">scriptedp0ison_: lol</p>
+<p begin="01:15:47.904" end="01:15:52.904" style="s2">Mac_33: What are you doing differently now apart from the call? Try version again?</p>
+<p begin="01:16:13.206" end="01:16:18.206" style="s2">kimmilol: LUL</p>
+<p begin="01:16:17.034" end="01:16:22.034" style="s2">Mac_33: DAMNIT</p>
+<p begin="01:16:17.630" end="01:16:22.630" style="s2">Crannigan: Kappa</p>
+<p begin="01:16:20.689" end="01:16:25.689" style="s2">suurrend3r: daaaammnnn</p>
+<p begin="01:16:21.533" end="01:16:26.533" style="s2">Jeppelelle: hahhahah</p>
+<p begin="01:16:21.586" end="01:16:26.586" style="s2">Mac_33: That&#39;s lame as fuck</p>
+<p begin="01:16:25.658" end="01:16:30.658" style="s2">suurrend3r: LUL LUL LUL LUL LUL LUL LUL</p>
+<p begin="01:16:29.536" end="01:16:34.536" style="s2">scriptedp0ison_: seriously?</p>
+<p begin="01:16:31.695" end="01:16:36.695" style="s2">OPHaru: LUL</p>
+<p begin="01:16:34.453" end="01:16:39.453" style="s2">akalioceania: clip it boys</p>
+<p begin="01:16:35.208" end="01:16:40.208" style="s2">honeybadger_____: i hope u didnt lose alot lol</p>
+<p begin="01:16:37.633" end="01:16:42.633" style="s2">suurrend3r: for real?</p>
+<p begin="01:16:38.088" end="01:16:43.088" style="s2">abadonna6: EZ</p>
+<p begin="01:16:43.518" end="01:16:48.518" style="s2">Jeppelelle: who was it, confess guys</p>
+<p begin="01:16:45.604" end="01:16:50.604" style="s2">sfmoose: fuck man I just shit myself</p>
+<p begin="01:16:52.222" end="01:16:57.222" style="s2">Mac_33: That reaction WAS priceless, however.</p>
+<p begin="01:16:56.674" end="01:17:01.674" style="s2">Crannigan: LOL</p>
+<p begin="01:16:58.975" end="01:17:03.975" style="s2">scriptedp0ison_: same</p>
+<p begin="01:17:01.289" end="01:17:06.289" style="s2">OPHaru: nice Jebaited</p>
+<p begin="01:17:09.853" end="01:17:14.853" style="s2">sfmoose: RAGE QUIT!</p>
+<p begin="01:17:13.040" end="01:17:18.040" style="s2">Quiplash: congrats u played urself</p>
+<p begin="01:17:15.325" end="01:17:20.325" style="s2">Boblikesdoritos: The bitcoins are safe!</p>
+<p begin="01:17:18.124" end="01:17:23.124" style="s2">akalioceania: https://clips.twitch.tv/FurryGlamorousLousePipeHype</p>
+<p begin="01:17:19.044" end="01:17:24.044" style="s2">ThatGuyChaos: Lol</p>
+<p begin="01:17:30.508" end="01:17:35.508" style="s2">sfmoose: This stream is amazing</p>
+<p begin="01:17:47.310" end="01:17:52.310" style="s2">scriptedp0ison_: hype</p>
+<p begin="01:18:51.609" end="01:18:56.609" style="s2">ThatGuyChaos: Spindrift shill</p>
+<p begin="01:18:53.868" end="01:18:58.868" style="s2">Mac_33: Hotz, I challenge you to a Type-off</p>
+<p begin="01:19:00.837" end="01:19:05.837" style="s2">sfmoose: 23</p>
+<p begin="01:19:04.559" end="01:19:09.559" style="s2">sfmoose: i bad at math</p>
+<p begin="01:19:06.621" end="01:19:11.621" style="s2">Mac_33: Tomorrow, the internet. Be there.</p>
+<p begin="01:19:09.330" end="01:19:14.330" style="s2">Jeppelelle: Forget about this bitcoin crap, just create a new cryptocurrency that mines with the tp:s from SLAM</p>
+<p begin="01:19:37.099" end="01:19:42.099" style="s2">ThatGuyChaos: When’s the spindrift ICO</p>
+<p begin="01:20:59.234" end="01:21:04.234" style="s2">scriptedp0ison_: B)</p>
+<p begin="01:21:18.899" end="01:21:23.899" style="s2">trashcan___: right after the lacroix ico</p>
+<p begin="01:22:37.959" end="01:22:42.959" style="s2">Mac_33: Bitcoin will end world hunger.</p>
+<p begin="01:22:48.599" end="01:22:53.599" style="s2">Mac_33: Everybody says so.</p>
+<p begin="01:22:57.996" end="01:23:02.996" style="s2">scriptedp0ison_: George you don&#39;t use cake?</p>
+<p begin="01:24:09.716" end="01:24:14.716" style="s2">scriptedp0ison_: cake browser</p>
+<p begin="01:24:24.561" end="01:24:29.561" style="s2">Mac_33: ungoogled-chromium is neat</p>
+<p begin="01:24:36.562" end="01:24:41.562" style="s2">Mac_33: Also can you close that update notif in the top right</p>
+<p begin="01:25:11.056" end="01:25:16.056" style="s2">sfmoose: steven hawking loved strip clubs, google images that shit</p>
+<p begin="01:25:25.405" end="01:25:30.405" style="s2">sfmoose: need more bitcoin to cover tx fees to steal bitcoin. fuck this broke ass bastard.</p>
+<p begin="01:25:56.910" end="01:26:01.910" style="s2">scriptedp0ison_: north korea is really banging the blockchain</p>
+<p begin="01:26:16.249" end="01:26:21.249" style="s2">Mac_33: Everything you have to work with is in that one BTC protocol doc</p>
+<p begin="01:26:49.095" end="01:26:54.095" style="s2">Mac_33: If you were stephen hawking, you&#39;d be dead.</p>
+<p begin="01:26:51.306" end="01:26:56.306" style="s2">gofaq: Hello... What are best choice: python or clojure?</p>
+<p begin="01:27:27.223" end="01:27:32.223" style="s2">scriptedp0ison_: python 100% right now</p>
+<p begin="01:27:51.730" end="01:27:56.730" style="s2">sfmoose: python if you enjoy employment</p>
+<p begin="01:29:22.123" end="01:29:27.123" style="s2">gofaq: should i learn python? ok)</p>
+<p begin="01:29:23.733" end="01:29:28.733" style="s2">gofaq: i try</p>
+<p begin="01:30:00.646" end="01:30:05.646" style="s2">gunnaren: Yey - finally made it to a livestream!</p>
+<p begin="01:30:02.448" end="01:30:07.448" style="s2">gofaq: love u vids and stream</p>
+<p begin="01:30:26.623" end="01:30:31.623" style="s2">Mac_33: what music are you digginga tm</p>
+<p begin="01:32:13.817" end="01:32:18.817" style="s2">syte29: The legend geohot at it again</p>
+<p begin="01:32:18.455" end="01:32:23.455" style="s2">sfmoose: you need more bitcoin so e40</p>
+<p begin="01:32:23.776" end="01:32:28.776" style="s2">sfmoose: e40</p>
+<p begin="01:32:34.091" end="01:32:39.091" style="s2">sfmoose: e40 choices</p>
+<p begin="01:32:37.695" end="01:32:42.695" style="s2">akalioceania: play infant annihilator OMEGALUL</p>
+<p begin="01:33:07.045" end="01:33:12.045" style="s2">Quiplash: rest ez lil peepee</p>
+<p begin="01:36:16.612" end="01:36:21.612" style="s2">Mac_33: Don&#39;t you just hash the tx, sign that and append it?</p>
+<p begin="01:36:21.306" end="01:36:26.306" style="s2">syte29: I wish I had this much focus. I&#39;ve been coding the past hr and still haven&#39;t produced anything noteworthy. :(</p>
+<p begin="01:37:05.471" end="01:37:10.471" style="s2">Mac_33: George, how well did you do in university?</p>
+<p begin="01:38:22.317" end="01:38:27.317" style="s2">sfmoose: That&#39;s why I don&#39;t go outside, I like to do stuff.</p>
+<p begin="01:38:36.070" end="01:38:41.070" style="s2">abadonna6: i&#39;m good at masterbating</p>
+<p begin="01:38:43.838" end="01:38:48.838" style="s2">scriptedp0ison_: mad respect George stays grinding 💯</p>
+<p begin="01:38:45.717" end="01:38:50.717" style="s2">sfmoose: can you teach me?</p>
+<p begin="01:39:08.584" end="01:39:13.584" style="s2">jitterbug_gang: how often do you masturbate george?</p>
+<p begin="01:39:12.958" end="01:39:17.958" style="s2">syte29: George too busy putting reverse shells into bitches so he can pop it later</p>
+<p begin="01:39:46.594" end="01:39:51.594" style="s2">Jok4ndre: !song</p>
+<p begin="01:40:23.161" end="01:40:28.161" style="s2">sfmoose: he likes his tx raw</p>
+<p begin="01:40:46.344" end="01:40:51.344" style="s2">CharlieTLe: Noticed you used vim a lot, why not download the vimium plugin for chrome?</p>
+<p begin="01:41:05.346" end="01:41:10.346" style="s2">Jeppelelle: Whats the theory behind that a reverse would work?</p>
+<p begin="01:41:17.772" end="01:41:22.772" style="s2">Mac_33: Because a website said so</p>
+<p begin="01:41:23.955" end="01:41:28.955" style="s2">Jeppelelle: ok :D</p>
+<p begin="01:42:42.711" end="01:42:47.711" style="s2">syte29: He really is like the new Martin Shkreli</p>
+<p begin="01:42:47.694" end="01:42:52.694" style="s2">foxubu: Back to Chrome? :(</p>
+<p begin="01:43:30.246" end="01:43:35.246" style="s2">un3okapi: martin shkreli is irreplaceable</p>
+<p begin="01:43:48.538" end="01:43:53.538" style="s2">syte29: RIP Shkreli. He still updates his blog though :)</p>
+<p begin="01:43:55.681" end="01:44:00.681" style="s2">syte29: They do have similar personalities though</p>
+<p begin="01:44:06.048" end="01:44:11.048" style="s2">Mac_33: I forked your repo, YEBOI</p>
+<p begin="01:44:06.122" end="01:44:11.122" style="s2">scriptedp0ison_: george you ever work with opencv?</p>
+<p begin="01:44:07.307" end="01:44:12.307" style="s2">suurrend3r: it fucking works</p>
+<p begin="01:44:08.518" end="01:44:13.518" style="s2">akalioceania: is this guy on drugs?</p>
+<p begin="01:44:17.714" end="01:44:22.714" style="s2">Mac_33: This guy is on LIFE</p>
+<p begin="01:44:23.820" end="01:44:28.820" style="s2">syte29: Adderall most likely</p>
+<p begin="01:44:29.334" end="01:44:34.334" style="s2">syte29: I would like some too :)</p>
+<p begin="01:44:51.519" end="01:44:56.519" style="s2">jitterbug_gang: this is what a peak alpha male looks like</p>
+<p begin="01:45:37.815" end="01:45:42.815" style="s2">foxubu: wait till he gets neck and back problems the way he sits</p>
+<p begin="01:45:40.289" end="01:45:45.289" style="s2">5umu: hey george what are u coding</p>
+<p begin="01:46:06.137" end="01:46:11.137" style="s2">Jeppelelle: 5umu he is teaching us how to steal his bitcoins</p>
+<p begin="01:46:28.492" end="01:46:33.492" style="s2">5umu: Ah thanks</p>
+<p begin="01:46:29.487" end="01:46:34.487" style="s2">suurrend3r: he hit this high only once a month thats because he stream so irregularly</p>
+<p begin="01:46:32.933" end="01:46:37.933" style="s2">5umu: just tuned in</p>
+<p begin="01:46:43.332" end="01:46:48.332" style="s2">RedzaMusic: i love lil pump</p>
+<p begin="01:47:07.385" end="01:47:12.385" style="s2">Mac_33: Merkle root of the block</p>
+<p begin="01:47:15.167" end="01:47:20.167" style="s2">Mac_33: you can traverse that and find a given txn</p>
+<p begin="01:47:33.799" end="01:47:38.799" style="s2">scriptedp0ison_: lil peep?</p>
+<p begin="01:48:09.809" end="01:48:14.809" style="s2">foxubu: we want kitty</p>
+<p begin="01:48:18.564" end="01:48:23.564" style="s2">jitterbug_gang: hey george have you ever done DMT?</p>
+<p begin="01:48:25.147" end="01:48:30.147" style="s2">scriptedp0ison_: shes okay</p>
+<p begin="01:48:38.486" end="01:48:43.486" style="s2">suurrend3r: I hate lil pump but love geohot</p>
+<p begin="01:49:24.065" end="01:49:29.065" style="s2">Mac_33: hotz will you join my discord for COOL PEOPLE</p>
+<p begin="01:49:35.925" end="01:49:40.925" style="s2">Mac_33: I haven&#39;t created it yet, but I may if you want to join.</p>
+<p begin="01:49:47.357" end="01:49:52.357" style="s2">Mac_33: Oh I was right about SOMETHING</p>
+<p begin="01:50:54.862" end="01:50:59.862" style="s2">foxubu: Code this in Java ... Gosh Kreygasm Kreygasm</p>
+<p begin="01:51:56.667" end="01:52:01.667" style="s2">CharlieTLe: Noticed you used vim a lot, why not download the vimium plugin for chrome?</p>
+<p begin="01:52:24.185" end="01:52:29.185" style="s2">scriptedp0ison_: python is life thats why no java</p>
+<p begin="01:52:56.877" end="01:53:01.877" style="s2">foxubu: Subscribers have a longer Squid4</p>
+<p begin="01:53:20.520" end="01:53:25.520" style="s2">scriptedp0ison_: ?</p>
+<p begin="01:53:32.028" end="01:53:37.028" style="s2">foxubu: @scriptedp0ison_ true</p>
+<p begin="01:53:52.076" end="01:53:57.076" style="s2">michalmx2: u</p>
+<p begin="01:54:15.047" end="01:54:20.047" style="s2">sfmoose: hacky hacky hacky</p>
+<p begin="01:54:22.449" end="01:54:27.449" style="s2">abadonna6: where&#39;s the like button</p>
+<p begin="01:54:25.651" end="01:54:30.651" style="s2">Mac_33: and SMASH that like button</p>
+<p begin="01:54:27.240" end="01:54:32.240" style="s2">sfmoose: we love you george</p>
+<p begin="01:54:27.493" end="01:54:32.493" style="s2">gunnaren: we love u</p>
+<p begin="01:54:35.495" end="01:54:40.495" style="s2">scriptedp0ison_: were here for you george</p>
+<p begin="01:54:39.904" end="01:54:44.904" style="s2">jitterbug_gang: wholesome geohot</p>
+<p begin="01:54:41.437" end="01:54:46.437" style="s2">foxubu: we love geohot</p>
+<p begin="01:54:56.924" end="01:55:01.924" style="s2">scriptedp0ison_: lord geohot</p>
+<p begin="01:55:01.592" end="01:55:06.592" style="s2">abadonna6: i rate this broadcast 5 stars</p>
+<p begin="01:55:55.913" end="01:56:00.913" style="s2">v0lko: @CharlieTLe does that do muhc? I used to use vimperator, but it&#39;s not supported anymore</p>
+<p begin="01:57:05.306" end="01:57:10.306" style="s2">sfmoose: please play us out on that keyboard tonight. something soft so I can fall asleep.</p>
+<p begin="01:57:51.953" end="01:57:56.953" style="s2">sfmoose: yes yes</p>
+<p begin="01:58:00.848" end="01:58:05.848" style="s2">scriptedp0ison_: hype</p>
+<p begin="01:58:13.162" end="01:58:18.162" style="s2">CharlieTLe: @v0lko Yeah, it&#39;s pretty awesome. Highly recommend.</p>
+<p begin="01:58:18.992" end="01:58:23.992" style="s2">abadonna6: 2 dollars closer to a jet ski</p>
+<p begin="01:59:03.219" end="01:59:08.219" style="s2">scriptedp0ison_: ever listen to froggy fresh?</p>
+<p begin="01:59:09.301" end="01:59:14.301" style="s2">Mac_33: No ice? Just freeze some water. BAM!</p>
+<p begin="02:00:19.638" end="02:00:24.638" style="s2">sfmoose: gimme 2 dollar I make you holla</p>
+<p begin="02:01:11.867" end="02:01:16.867" style="s2">foxubu: Kitty Music Please°</p>
+<p begin="02:01:57.976" end="02:02:02.976" style="s2">foxubu:  / Ty</p>
+<p begin="02:02:06.612" end="02:02:11.612" style="s2">foxubu: Ty  /</p>
+<p begin="02:02:12.695" end="02:02:17.695" style="s2">CharlieTLe: I like &quot;kasbo aldrig mer&quot; or &quot;martin garrix&quot;</p>
+<p begin="02:04:19.897" end="02:04:24.897" style="s2">CharlieTLe: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en</p>
+<p begin="02:04:25.708" end="02:04:30.708" style="s2">foxubu: Damn he jumped out of the screen lol</p>
+<p begin="02:05:26.446" end="02:05:31.446" style="s2">scriptedp0ison_: got me dancin in my sheets</p>
+<p begin="02:06:36.686" end="02:06:41.686" style="s2">NoPartiesGuy: Guys, I have a question, what linux distro for a dev (mostly node, but python is planned also), ubuntu, fedora or manjaro. I heard ubuntu collects data, so I am sceptic to this one. I am just curious, maybe there is other distro, but I tried couple times and had certain problems, e.g. with mmy mechanical corsair keyboard. I thought this will be good place to ask, if I was wrong sorry :p</p>
+<p begin="02:07:37.625" end="02:07:42.625" style="s2">Mac_33: macOS is by far the best distro.</p>
+<p begin="02:07:47.002" end="02:07:52.002" style="s2">foxubu: Manjaro if you wanna stay update to date with packages.</p>
+<p begin="02:07:50.344" end="02:07:55.344" style="s2">scriptedp0ison_: ubuntu gives you the choice to send your usage statistics for future development. it has a far bigger user base..so when you need help its there</p>
+<p begin="02:08:10.480" end="02:08:15.480" style="s2">scriptedp0ison_: ubuntu can be configured for bleeding edge too</p>
+<p begin="02:08:14.830" end="02:08:19.830" style="s2">Mac_33: You don&#39;t have to send *all* the satoshi, you can send the excess back to yourself.</p>
+<p begin="02:08:54.995" end="02:08:59.995" style="s2">Mac_33: LAME</p>
+<p begin="02:08:57.328" end="02:09:02.328" style="s2">un3okapi: uh oh</p>
+<p begin="02:09:00.675" end="02:09:05.675" style="s2">foxubu: WTF</p>
+<p begin="02:09:02.939" end="02:09:07.939" style="s2">5umu: woww</p>
+<p begin="02:09:05.965" end="02:09:10.965" style="s2">gunnaren: what a douche</p>
+<p begin="02:09:06.963" end="02:09:11.963" style="s2">OPHaru: LUL</p>
+<p begin="02:09:13.992" end="02:09:18.992" style="s2">NoPartiesGuy: wow</p>
+<p begin="02:09:14.510" end="02:09:19.510" style="s2">quillford: if i send you bitcoins, will you check my speed challenge?</p>
+<p begin="02:09:19.105" end="02:09:24.105" style="s2">honeybadger_____: lol</p>
+<p begin="02:09:32.283" end="02:09:37.283" style="s2">Froopyland: lmao this stream</p>
+<p begin="02:09:41.637" end="02:09:46.637" style="s2">syte29: let&#39;s find that person</p>
+<p begin="02:09:49.358" end="02:09:54.358" style="s2">sfmoose: I&#39;ll send you some bitcoins, if that means the project continues</p>
+<p begin="02:09:49.838" end="02:09:54.838" style="s2">syte29: and beat &#39;em :(</p>
+<p begin="02:10:00.983" end="02:10:05.983" style="s2">abadonna6: we will find you and we will dismember you</p>
+<p begin="02:10:25.548" end="02:10:30.548" style="s2">gunnaren: that was our uber eats money</p>
+<p begin="02:10:28.188" end="02:10:33.188" style="s2">Bryanswagbeast: will i make your day if i donate you? @tomcr00s3</p>
+<p begin="02:10:29.648" end="02:10:34.648" style="s2">scriptedp0ison_: pull apart everyone to find the block address</p>
+<p begin="02:10:45.567" end="02:10:50.567" style="s2">NoPartiesGuy: LUL</p>
+<p begin="02:10:55.209" end="02:11:00.209" style="s2">syte29: yes :)!</p>
+<p begin="02:11:07.552" end="02:11:12.552" style="s2">tacorising3: LUL</p>
+<p begin="02:11:21.246" end="02:11:26.246" style="s2">OPHaru: time to steal 2,300 back</p>
+<p begin="02:11:24.359" end="02:11:29.359" style="s2">tomcr00s3: qq7pxh4xfyqype5nqynt4h6zxz0ma4du6cl47kva2f</p>
+<p begin="02:11:41.106" end="02:11:46.106" style="s2">scriptedp0ison_: #geohunt</p>
+<p begin="02:11:57.617" end="02:12:02.617" style="s2">JoneKone: no doxing</p>
+<p begin="02:11:58.110" end="02:12:03.110" style="s2">5umu: LOL</p>
+<p begin="02:12:01.691" end="02:12:06.691" style="s2">gunnaren: LUL</p>
+<p begin="02:12:02.389" end="02:12:07.389" style="s2">syte29: dox &#39;em anyway :)</p>
+<p begin="02:12:04.221" end="02:12:09.221" style="s2">xEHLE_: twitch gets really upset if you do that</p>
+<p begin="02:12:09.043" end="02:12:14.043" style="s2">Bryanswagbeast: lmao</p>
+<p begin="02:12:11.934" end="02:12:16.934" style="s2">OPHaru: TOS forsenS</p>
+<p begin="02:12:20.620" end="02:12:25.620" style="s2">notbigd: lol wild</p>
+<p begin="02:12:31.894" end="02:12:36.894" style="s2">Bryanswagbeast: Hey brother will i make your day if i sub? @tomcr00s3</p>
+<p begin="02:12:46.300" end="02:12:51.300" style="s2">michalmx2: hello George. do you know gynvael coldwind?</p>
+<p begin="02:13:08.314" end="02:13:13.314" style="s2">sfmoose: but you only had $2 something</p>
+<p begin="02:13:14.901" end="02:13:19.901" style="s2">sfmoose: not saying that was wrong</p>
+<p begin="02:13:17.767" end="02:13:22.767" style="s2">sfmoose: wasnt</p>
+<p begin="02:13:28.155" end="02:13:33.155" style="s2">JoneKone: how did he steal it?</p>
+<p begin="02:13:29.754" end="02:13:34.754" style="s2">syte29: what a dick</p>
+<p begin="02:13:31.603" end="02:13:36.603" style="s2">Bryanswagbeast: is there a way you can get his ip address ?</p>
+<p begin="02:13:36.330" end="02:13:41.330" style="s2">syte29: private key posted</p>
+<p begin="02:13:56.086" end="02:14:01.086" style="s2">syte29: what a cunt :(</p>
+<p begin="02:14:03.813" end="02:14:08.813" style="s2">scriptedp0ison_: bioluminescent cia agent took it</p>
+<p begin="02:14:04.118" end="02:14:09.118" style="s2">JoneKone: asshole</p>
+<p begin="02:14:10.893" end="02:14:15.893" style="s2">Crannigan: the private way posted for a good hour before anyone did anything though</p>
+<p begin="02:14:12.387" end="02:14:17.387" style="s2">Mac_33: Other nodes know which IP submitted the txn</p>
+<p begin="02:14:14.261" end="02:14:19.261" style="s2">abadonna6: who knew</p>
+<p begin="02:14:16.598" end="02:14:21.598" style="s2">notbigd: no surprise</p>
+<p begin="02:14:42.317" end="02:14:47.317" style="s2">scriptedp0ison_: cant you check or request the transaction ledger?</p>
+<p begin="02:14:44.808" end="02:14:49.808" style="s2">lupo1989: well if your hackimg playstation you can also to be hacked once you publish your private key xD</p>
+<p begin="02:14:51.537" end="02:14:56.537" style="s2">syte29: :O</p>
+<p begin="02:14:52.504" end="02:14:57.504" style="s2">xEHLE_: @scriptedp0ison_ is that a reference to the less PC version of that phrase from Terry Davis? LUL</p>
+<p begin="02:15:08.098" end="02:15:13.098" style="s2">honeybadger_____: lmao</p>
+<p begin="02:15:09.844" end="02:15:14.844" style="s2">OPHaru: lmao</p>
+<p begin="02:15:10.627" end="02:15:15.627" style="s2">abadonna6: lmao</p>
+<p begin="02:15:21.552" end="02:15:26.552" style="s2">syte29: which will be stolen it in a second :(</p>
+<p begin="02:15:24.193" end="02:15:29.193" style="s2">abadonna6: someones getting rich today</p>
+<p begin="02:15:24.839" end="02:15:29.839" style="s2">OPHaru: another 4usd to steal TriHard</p>
+<p begin="02:15:25.572" end="02:15:30.572" style="s2">sfmoose: how do you have a sound when it deposits?</p>
+<p begin="02:15:28.268" end="02:15:33.268" style="s2">sfmoose: that&#39;s awesome</p>
+<p begin="02:15:36.070" end="02:15:41.070" style="s2">sfmoose: you&#39;re welcome for the $4</p>
+<p begin="02:15:37.219" end="02:15:42.219" style="s2">scriptedp0ison_: lmfao maybe</p>
+<p begin="02:15:44.122" end="02:15:49.122" style="s2">Bryanswagbeast: I subbed brother!</p>
+<p begin="02:16:23.681" end="02:16:28.681" style="s2">foxubu: Send him 3 dollars back just in case</p>
+<p begin="02:16:29.815" end="02:16:34.815" style="s2">sfmoose: :)</p>
+<p begin="02:16:33.851" end="02:16:38.851" style="s2">sfmoose: i know just gotta move fast</p>
+<p begin="02:16:54.117" end="02:16:59.117" style="s2">quillford: you should just go back to twitchchess</p>
+<p begin="02:17:07.969" end="02:17:12.969" style="s2">ziggyzergling: asking for civility in twitch chat</p>
+<p begin="02:17:18.620" end="02:17:23.620" style="s2">suurrend3r: Yeah, what happened with twitchchess</p>
+<p begin="02:17:46.251" end="02:17:51.251" style="s2">suurrend3r: this is fucking cool too</p>
+<p begin="02:17:49.885" end="02:17:54.885" style="s2">Bryanswagbeast: whats twitchchess?</p>
+<p begin="02:18:34.913" end="02:18:39.913" style="s2">foxubu: @Bryanswagbeast see github.com/geohot It was a project he streamed to build neural nets for playing chess</p>
+<p begin="02:18:52.160" end="02:18:57.160" style="s2">Bryanswagbeast: ok thanks!</p>
+<p begin="02:19:16.625" end="02:19:21.625" style="s2">scriptedp0ison_: contact the BIA (blockchain intelligence agency)</p>
+<p begin="02:20:39.352" end="02:20:44.352" style="s2">eionard: !playlist</p>
+<p begin="02:20:49.794" end="02:20:54.794" style="s2">syte29: i never got my bch from the split. stupid gdax :(</p>
+<p begin="02:21:05.062" end="02:21:10.062" style="s2">scriptedp0ison_: arent those nightbot commands</p>
+<p begin="02:21:41.024" end="02:21:46.024" style="s2">syte29: geohot in mission impossible</p>
+<p begin="02:21:49.743" end="02:21:54.743" style="s2">sfmoose: still pending confirmations</p>
+<p begin="02:21:51.772" end="02:21:56.772" style="s2">foxubu: time&#39;s race #ACTION</p>
+<p begin="02:21:57.080" end="02:22:02.080" style="s2">Bryanswagbeast: lol</p>
+<p begin="02:22:23.765" end="02:22:28.765" style="s2">Bryanswagbeast: lets track that b****</p>
+<p begin="02:22:28.752" end="02:22:33.752" style="s2">syte29: dude&#39;s probably just waiting</p>
+<p begin="02:23:18.242" end="02:23:23.242" style="s2">xEHLE_: if im not fully retarded, which i may be, the stolen bitcoins got sent to the BTC donation wallet of Khan Academy</p>
+<p begin="02:24:04.555" end="02:24:09.555" style="s2">xEHLE_: at least it went to a good cause, i guess</p>
+<p begin="02:24:28.179" end="02:24:33.179" style="s2">sfmoose: good sluthing</p>
+<p begin="02:24:34.959" end="02:24:39.959" style="s2">Mac_33: I don&#39;t see it</p>
+<p begin="02:24:45.161" end="02:24:50.161" style="s2">sfmoose: I do I do</p>
+<p begin="02:24:51.151" end="02:24:56.151" style="s2">honeybadger_____: Pog</p>
+<p begin="02:24:54.147" end="02:24:59.147" style="s2">honeybadger_____: PogChamp</p>
+<p begin="02:24:59.918" end="02:25:04.918" style="s2">abadonna6: cliffhanger</p>
+<p begin="02:25:31.642" end="02:25:36.642" style="s2">JoneKone: @xEHLE_ All &quot;non&quot; profit organizations are a like.. like the cake</p>
+<p begin="02:25:48.916" end="02:25:53.916" style="s2">guishade: PJSalt</p>
+<p begin="02:26:50.760" end="02:26:55.760" style="s2">Bryanswagbeast: how many exploits do you currently own?</p>
+<p begin="02:27:49.055" end="02:27:54.055" style="s2">sfmoose: Slow AF</p>
+<p begin="02:28:35.298" end="02:28:40.298" style="s2">sfmoose: spin drift sounds like a race car</p>
+<p begin="02:28:40.920" end="02:28:45.920" style="s2">Mac_33: up next: we wait 45 minutes for the transaction to confirm while hotz plays us music on his piano</p>
+<p begin="02:29:24.223" end="02:29:29.223" style="s2">Bryanswagbeast: lol he took roche! you can tell since he&#39;s rubbing his nose! lol</p>
+<p begin="02:29:25.485" end="02:29:30.485" style="s2">syte29: blockchain confirmation, so fast</p>
+<p begin="02:29:28.655" end="02:29:33.655" style="s2">syte29: someone wake me up</p>
+<p begin="02:29:31.327" end="02:29:36.327" style="s2">syte29: :(</p>
+<p begin="02:29:52.498" end="02:29:57.498" style="s2">syte29: geohot you investing in EOS?</p>
+<p begin="02:30:23.510" end="02:30:28.510" style="s2">syte29: Also, https://quadency.com/ very useful :)</p>
+<p begin="02:30:56.862" end="02:31:01.862" style="s2">Mac_33: EOS is a scam</p>
+<p begin="02:31:16.272" end="02:31:21.272" style="s2">stoogethomas: bch is a scam as well</p>
+<p begin="02:31:47.492" end="02:31:52.492" style="s2">Mac_33: That&#39;s way too much</p>
+<p begin="02:31:52.753" end="02:31:57.753" style="s2">Mac_33: Like 50sat/byte is enough</p>
+<p begin="02:33:01.109" end="02:33:06.109" style="s2">eionard: LUL</p>
+<p begin="02:33:17.188" end="02:33:22.188" style="s2">Jok4ndre: fbi</p>
+<p begin="02:33:32.504" end="02:33:37.504" style="s2">sfmoose: maxLOL</p>
+<p begin="02:33:33.826" end="02:33:38.826" style="s2">gunnaren: lol</p>
+<p begin="02:33:34.662" end="02:33:39.662" style="s2">syte29: lmfao</p>
+<p begin="02:33:36.638" end="02:33:41.638" style="s2">suurrend3r: lmao</p>
+<p begin="02:33:45.095" end="02:33:50.095" style="s2">5umu: LOL</p>
+<p begin="02:33:47.340" end="02:33:52.340" style="s2">OPHaru: LUL</p>
+<p begin="02:33:52.301" end="02:33:57.301" style="s2">syte29: geohot gonna fuck you up</p>
+<p begin="02:33:54.475" end="02:33:59.475" style="s2">suurrend3r: WutFace WutFace</p>
+<p begin="02:34:22.148" end="02:34:27.148" style="s2">Bryanswagbeast: Do you own any exploits? @tomcr00s3</p>
+<p begin="02:34:25.621" end="02:34:30.621" style="s2">syte29: watch it beep again</p>
+<p begin="02:34:34.686" end="02:34:39.686" style="s2">5umu: lmao imagine</p>
+<p begin="02:34:36.478" end="02:34:41.478" style="s2">CharlieTLe: KAPOW</p>
+<p begin="02:34:37.426" end="02:34:42.426" style="s2">5umu: all of that gone</p>
+<p begin="02:35:10.262" end="02:35:15.262" style="s2">syte29: isn&#39;t there a lib for this?</p>
+<p begin="02:36:24.592" end="02:36:29.592" style="s2">syte29: lots of libs. why is he packing these transactions manually. just for torture :(?</p>
+<p begin="02:36:28.059" end="02:36:33.059" style="s2">honeybadger_____: lmao</p>
+<p begin="02:36:28.443" end="02:36:33.443" style="s2">sfmoose: So simple</p>
+<p begin="02:36:39.111" end="02:36:44.111" style="s2">Mac_33: he wants to do it by hand</p>
+<p begin="02:36:42.841" end="02:36:47.841" style="s2">Mac_33: Yeah, when you coded SLAM</p>
+<p begin="02:36:51.008" end="02:36:56.008" style="s2">syte29: ah :)</p>
+<p begin="02:36:57.659" end="02:37:02.659" style="s2">syte29: good way of learning</p>
+<p begin="02:37:17.302" end="02:37:22.302" style="s2">sfmoose: use vscode and let twitchees finish writing the code while you sip spin drifts</p>
+<p begin="02:37:52.961" end="02:37:57.961" style="s2">syte29: if he were a javascript dev, it would&#39;ve just been this import * from &quot;react-bitcoin-cash&quot;; Sigh, no wonder js is a meme :(</p>
+<p begin="02:38:06.137" end="02:38:11.137" style="s2">Mac_33: The whole JS culture is flawed</p>
+<p begin="02:38:21.463" end="02:38:26.463" style="s2">Mac_33: &quot;how do I append to an array?&quot; &quot;INSTALL J-QUERY&quot;</p>
+<p begin="02:38:23.699" end="02:38:28.699" style="s2">syte29: Agreed, we had a kid doing frontend for us, who couldn&#39;t write a nested for loop</p>
+<p begin="02:38:28.658" end="02:38:33.658" style="s2">syte29: ...</p>
+<p begin="02:38:48.410" end="02:38:53.410" style="s2">gunnaren: @Mac_33 dont you mean &quot;you need to make a library for that &quot; Kappa</p>
+<p begin="02:38:51.298" end="02:38:56.298" style="s2">syte29: Or struggled to do fizzbuzz. It made me die on the inside</p>
+<p begin="02:39:06.959" end="02:39:11.959" style="s2">sfmoose: https://www.npmjs.com/package/true is my fav npm package. it returns True for you.</p>
+<p begin="02:39:20.499" end="02:39:25.499" style="s2">sfmoose: left pad is pretty good too</p>
+<p begin="02:39:20.947" end="02:39:25.947" style="s2">syte29: 100% used in a serious way</p>
+<p begin="02:39:44.881" end="02:39:49.881" style="s2">syte29: Tj Holowaychuk left for that reason :(. I love JS. I hate the community</p>
+<p begin="02:40:02.533" end="02:40:07.533" style="s2">Bryanswagbeast: what programming languages do you know? @tomcr00s3</p>
+<p begin="02:40:04.624" end="02:40:09.624" style="s2">syte29: Everything is &quot;pull in package&quot;</p>
+<p begin="02:40:15.387" end="02:40:20.387" style="s2">stoogethomas: I don&#39;t get why geohot would support bch makes no sense. Everyone on the bch side are marketers while the people that support btc like nick szabo and adam back are actual cryptographers...</p>
+<p begin="02:40:35.686" end="02:40:40.686" style="s2">syte29: dude wrote a validation library that validated fields based on their name. wtf... :(</p>
+<p begin="02:40:41.546" end="02:40:46.546" style="s2">Mac_33: I know there are scripts that scrape github commits for privkeys and automatically steal any coin there</p>
+<p begin="02:40:57.238" end="02:41:02.238" style="s2">Mac_33: Maybe someone has a script that tries to look for bch privkeys on twitch streams?</p>
+<p begin="02:41:20.260" end="02:41:25.260" style="s2">syte29: Ah :O. That maybe it :(</p>
+<p begin="02:41:32.557" end="02:41:37.557" style="s2">Mac_33: Public key is the key you make public</p>
+<p begin="02:41:34.449" end="02:41:39.449" style="s2">sfmoose: 1McTRkmGKV59o2Wfpqh4N1mXKypyALfCMc</p>
+<p begin="02:41:35.457" end="02:41:40.457" style="s2">syte29: Makes me sad that some dick would steal over 4 dollars</p>
+<p begin="02:41:39.795" end="02:41:44.795" style="s2">Mac_33: So the non-base58 ripemd160 key</p>
+<p begin="02:43:07.784" end="02:43:12.784" style="s2">AJCrow: what a nerd this guy.. lol</p>
+<p begin="02:43:28.899" end="02:43:33.899" style="s2">sfmoose: @stoogethomas I can only surmise that BCH was used it currently has lower average block confirmation times for a quick project like this.</p>
+<p begin="02:44:05.187" end="02:44:10.187" style="s2">Mac_33: Could just use LTC for that</p>
+<p begin="02:44:08.132" end="02:44:13.132" style="s2">Mac_33: It&#39;s identical to BTC</p>
+<p begin="02:44:13.065" end="02:44:18.065" style="s2">stoogethomas: @sfmoose Ehhh no bch has 10 minute confirmation/block times much like btc. If you wanted quicker confirmation times you could use doge or ltc</p>
+<p begin="02:44:13.220" end="02:44:18.220" style="s2">Mac_33: Save for the block time</p>
+<p begin="02:44:16.945" end="02:44:21.945" style="s2">scriptedp0ison_: nerdlife</p>
+<p begin="02:44:32.045" end="02:44:37.045" style="s2">scriptedp0ison_: were all nerds</p>
+<p begin="02:44:39.379" end="02:44:44.379" style="s2">AJCrow: yes we are</p>
+<p begin="02:44:43.739" end="02:44:48.739" style="s2">Mac_33: Yeah @tomcr00s3 why didn&#39;t you use dogecoin for this</p>
+<p begin="02:45:01.758" end="02:45:06.758" style="s2">Bryanswagbeast: how many programming languages do you know? @tomcr00s3</p>
+<p begin="02:46:10.709" end="02:46:15.709" style="s2">stoogethomas: well respect to geohot either way his been doing amazing work for years much more than anything i&#39;ve done</p>
+<p begin="02:46:31.598" end="02:46:36.598" style="s2">syte29: his progress makes mine looked like shit :(</p>
+<p begin="02:46:36.103" end="02:46:41.103" style="s2">syte29: look*</p>
+<p begin="02:46:49.087" end="02:46:54.087" style="s2">Mac_33: With enough practice, you can become like him</p>
+<p begin="02:47:07.492" end="02:47:12.492" style="s2">Mac_33: @tomcr00s3 what&#39;s your vimrc like</p>
+<p begin="02:47:07.623" end="02:47:12.623" style="s2">syte29: I feel like I probably couldn&#39;t. Geohot has a lot of natural ability</p>
+<p begin="02:47:10.462" end="02:47:15.462" style="s2">syte29: :(</p>
+<p begin="02:47:29.714" end="02:47:34.714" style="s2">scriptedp0ison_: SSSsss</p>
+<p begin="02:47:38.783" end="02:47:43.783" style="s2">sfmoose: ok signing off, that was a fun one. keep up the crypto streams.</p>
+<p begin="02:47:46.864" end="02:47:51.864" style="s2">xEHLE_: 2 bucks illegally donated to khan :(</p>
+<p begin="02:47:47.092" end="02:47:52.092" style="s2">syte29: later @sfmoose</p>
+<p begin="02:48:08.661" end="02:48:13.661" style="s2">scriptedp0ison_: FBBlock</p>
+<p begin="02:48:58.502" end="02:49:03.502" style="s2">suurrend3r: getting crazy now</p>
+<p begin="02:49:00.321" end="02:49:05.321" style="s2">5umu: LOL</p>
+<p begin="02:49:17.084" end="02:49:22.084" style="s2">stoogethomas: I&#39;d be happy to send you like $20 worth of bch</p>
+<p begin="02:49:18.184" end="02:49:23.184" style="s2">AJCrow: George of the cryptojungle</p>
+<p begin="02:49:29.425" end="02:49:34.425" style="s2">scriptedp0ison_: lmao</p>
+<p begin="02:49:36.047" end="02:49:41.047" style="s2">Mac_33: How many hours do you sleep at night?</p>
+<p begin="02:49:42.774" end="02:49:47.774" style="s2">crazyserb011: I was AFK did someone steal the money</p>
+<p begin="02:49:51.000" end="02:49:56.000" style="s2">Mac_33: Yeah, but someone sent more</p>
+<p begin="02:50:09.188" end="02:50:14.188" style="s2">stoogethomas: block explorers are usually delayed. just saying</p>
+<p begin="02:50:20.206" end="02:50:25.206" style="s2">xEHLE_: Looks like none @mac_33</p>
+<p begin="02:50:30.693" end="02:50:35.693" style="s2">Bryanswagbeast: Getters n Setters maybe? @tomcr00s3</p>
+<p begin="02:50:50.216" end="02:50:55.216" style="s2">scriptedp0ison_: after you get it setup. use argparse to turn it into a cli tool for btc transactions</p>
+<p begin="02:51:04.612" end="02:51:09.612" style="s2">stoogethomas: what language is he programming this in? python?</p>
+<p begin="02:51:11.682" end="02:51:16.682" style="s2">syte29: python</p>
+<p begin="02:51:13.868" end="02:51:18.868" style="s2">scriptedp0ison_: yea</p>
+<p begin="02:51:15.753" end="02:51:20.753" style="s2">stoogethomas: thought so</p>
+<p begin="02:51:29.188" end="02:51:34.188" style="s2">syte29: :), i like python</p>
+<p begin="02:51:31.393" end="02:51:36.393" style="s2">crazyserb011: do you know who took it. do we know</p>
+<p begin="02:51:33.713" end="02:51:38.713" style="s2">Bryanswagbeast: yes Python 3</p>
+<p begin="02:51:49.021" end="02:51:54.021" style="s2">stoogethomas: I think pythons good but I like my code separated by brackets :/</p>
+<p begin="02:51:54.265" end="02:51:59.265" style="s2">syte29: any of you guys competent with sed or awk?</p>
+<p begin="02:51:55.119" end="02:52:00.119" style="s2">crazyserb011: is he going to hack them?</p>
+<p begin="02:51:58.846" end="02:52:03.846" style="s2">suurrend3r: give me a job hotz</p>
+<p begin="02:52:05.192" end="02:52:10.192" style="s2">scriptedp0ison_: yes awk</p>
+<p begin="02:52:07.976" end="02:52:12.976" style="s2">syte29: trying to learn &#39;em to get better at file manipulation which i have to do a lot</p>
+<p begin="02:52:13.623" end="02:52:18.623" style="s2">xEHLE_: No, but it got sent to the donation wallet of khan academy LUL @crazyserb011</p>
+<p begin="02:52:31.091" end="02:52:36.091" style="s2">scriptedp0ison_: awk is grep for parsing field delimiters</p>
+<p begin="02:52:45.021" end="02:52:50.021" style="s2">suurrend3r: getting stuck here</p>
+<p begin="02:52:55.430" end="02:53:00.430" style="s2">slovn1k: why do u use VIM? it&#39;s supper hard to learn</p>
+<p begin="02:53:00.150" end="02:53:05.150" style="s2">suurrend3r: hard af</p>
+<p begin="02:53:02.183" end="02:53:07.183" style="s2">Bryanswagbeast: lol hey geo, roll out the Job Applications!</p>
+<p begin="02:53:08.683" end="02:53:13.683" style="s2">suurrend3r: @slovn1k nah it&#39;s easy</p>
+<p begin="02:53:11.139" end="02:53:16.139" style="s2">scriptedp0ison_: vim isn&#39;t hard to learn</p>
+<p begin="02:53:16.092" end="02:53:21.092" style="s2">crazyserb011: hack khan academy lol</p>
+<p begin="02:53:19.008" end="02:53:24.008" style="s2">syte29: I&#39;m trying to learn the entire language right now.</p>
+<p begin="02:53:23.814" end="02:53:28.814" style="s2">syte29: Syntax feels funny :)</p>
+<p begin="02:53:41.068" end="02:53:46.068" style="s2">Bryanswagbeast: @syte29 which language?</p>
+<p begin="02:53:44.848" end="02:53:49.848" style="s2">scriptedp0ison_: yeah gonna take a few years</p>
+<p begin="02:53:46.918" end="02:53:51.918" style="s2">syte29: Awk Programming Language</p>
+<p begin="02:54:00.217" end="02:54:05.217" style="s2">scriptedp0ison_: oh nvr mind</p>
+<p begin="02:54:03.622" end="02:54:08.622" style="s2">Mac_33: @tomcr00s3 Why don&#39;t you use ed?</p>
+<p begin="02:54:12.588" end="02:54:17.588" style="s2">scriptedp0ison_: its oldddd</p>
+<p begin="02:54:14.865" end="02:54:19.865" style="s2">Mac_33: ed is the standard text editor.</p>
+<p begin="02:54:21.597" end="02:54:26.597" style="s2">vtcN_: edlin</p>
+<p begin="02:54:30.419" end="02:54:35.419" style="s2">scriptedp0ison_: nano anyone?</p>
+<p begin="02:54:39.773" end="02:54:44.773" style="s2">syte29: people use nano :O</p>
+<p begin="02:54:44.249" end="02:54:49.249" style="s2">syte29: I kid I kid :P</p>
+<p begin="02:54:50.586" end="02:54:55.586" style="s2">scriptedp0ison_: lol</p>
+<p begin="02:54:57.304" end="02:55:02.304" style="s2">Bryanswagbeast: Getters n setters!</p>
+<p begin="02:55:05.880" end="02:55:10.880" style="s2">crazyserb011: It&#39;s funny his like the only streamer that everyone is afraid to steal from lol</p>
+<p begin="02:55:18.974" end="02:55:23.974" style="s2">syte29: Trying out spacemacs right now. Learning that common lisp</p>
+<p begin="02:55:20.220" end="02:55:25.220" style="s2">scriptedp0ison_: nooooo</p>
+<p begin="02:55:32.844" end="02:55:37.844" style="s2">Mac_33: Told ya</p>
+<p begin="02:55:55.956" end="02:56:00.956" style="s2">blizz191: Add me on league when you get on :)</p>
+<p begin="02:56:04.046" end="02:56:09.046" style="s2">syte29: Everything suddenly became about functional programming all of the sudden. Presenting it like some new and revolutionary idea. Sigh</p>
+<p begin="02:56:13.551" end="02:56:18.551" style="s2">scriptedp0ison_: lisp is good for learning the programming principles</p>
+<p begin="02:56:22.504" end="02:56:27.504" style="s2">suurrend3r: just reset the router</p>
+<p begin="02:56:22.701" end="02:56:27.701" style="s2">Mac_33: I don&#39;t think the nodes share ban info</p>
+<p begin="02:56:26.896" end="02:56:31.896" style="s2">Mac_33: So try another node</p>
+<p begin="02:56:30.053" end="02:56:35.053" style="s2">Bryanswagbeast: Just hack that guy Geo! @tomcr00s3</p>
+<p begin="02:56:32.868" end="02:56:37.868" style="s2">syte29: Agreed @scriptedp0ison_ :)</p>
+<p begin="02:56:51.607" end="02:56:56.607" style="s2">suurrend3r: @Mac_33 oh yeah LUL</p>
+<p begin="02:57:33.329" end="02:57:38.329" style="s2">scriptedp0ison_: @syte29 I need to learn more of it lol, only watched the derek banas tutorial :D</p>
+<p begin="02:57:59.466" end="02:58:04.466" style="s2">Bryanswagbeast: his tutorial is trash</p>
+<p begin="02:58:11.939" end="02:58:16.939" style="s2">Bryanswagbeast: you wont learn sh**</p>
+<p begin="02:58:31.253" end="02:58:36.253" style="s2">Bryanswagbeast: try Thenewboston</p>
+<p begin="02:59:05.535" end="02:59:10.535" style="s2">syte29: Oh nice, learning it from Land Of Lisp. I have a hard time listening to video tutorials</p>
+<p begin="02:59:15.704" end="02:59:20.704" style="s2">syte29: Are they any good?</p>
+<p begin="02:59:24.754" end="02:59:29.754" style="s2">scriptedp0ison_: Derek banas goes over the core so you can build from it yourself</p>
+<p begin="02:59:31.214" end="02:59:36.214" style="s2">Bryanswagbeast: yeah thenewboston</p>
+<p begin="02:59:58.219" end="03:00:03.219" style="s2">syte29: Ah, not too long of a video. Thanks @scriptedp0ison_</p>
+<p begin="03:00:13.122" end="03:00:18.122" style="s2">Bryanswagbeast: derek makes the core in one video! it could be confusing for beginners</p>
+<p begin="03:00:16.582" end="03:00:21.582" style="s2">scriptedp0ison_: Derek banas for a quick go over. then use what you learn to build from it</p>
+<p begin="03:00:29.462" end="03:00:34.462" style="s2">syte29: Yeah, I&#39;m really just looking for something quick</p>
+<p begin="03:00:37.516" end="03:00:42.516" style="s2">syte29: I&#39;ve used other functional languages just not Lisp</p>
+<p begin="03:00:57.623" end="03:01:02.623" style="s2">scriptedp0ison_: derek goes over it fast lol youll get the hang of it</p>
+<p begin="03:03:10.890" end="03:03:15.890" style="s2">syte29: This is good :). Just skipped around throughout the video. Will watch tomorrow. Had never heard of Derek prior to this.</p>
+<p begin="03:03:27.352" end="03:03:32.352" style="s2">syte29: Also an emacs tutorial &lt;3</p>
+<p begin="03:03:52.941" end="03:03:57.941" style="s2">scriptedp0ison_: He&#39;s a really good teacher. :)</p>
+<p begin="03:04:06.844" end="03:04:11.844" style="s2">Mac_33: You&#39;re not using multisig here dude</p>
+<p begin="03:04:44.195" end="03:04:49.195" style="s2">Mac_33: Luckily there are a lot of nodes to get banned from</p>
+<p begin="03:05:22.282" end="03:05:27.282" style="s2">scriptedp0ison_: 200  lines of code, your crazy</p>
+<p begin="03:05:30.388" end="03:05:35.388" style="s2">Nagato_Pain: read the chat @tomcr00s3</p>
+<p begin="03:05:33.578" end="03:05:38.578" style="s2">scriptedp0ison_: jk</p>
+<p begin="03:05:43.262" end="03:05:48.262" style="s2">Bryanswagbeast: lol</p>
+<p begin="03:08:48.509" end="03:08:53.509" style="s2">sfmoose: I want money</p>
+<p begin="03:08:53.583" end="03:08:58.583" style="s2">abadonna6: LUL</p>
+<p begin="03:09:10.149" end="03:09:15.149" style="s2">scriptedp0ison_: BCWarrior BCWarrior</p>
+<p begin="03:09:12.068" end="03:09:17.068" style="s2">foxubu: No, The more money you receive, the faster you have to code LOL</p>
+<p begin="03:09:43.177" end="03:09:48.177" style="s2">Mac_33: Doesn&#39;t it find a new node each time?</p>
+<p begin="03:09:44.246" end="03:09:49.246" style="s2">xEHLE_: ^</p>
+<p begin="03:10:07.873" end="03:10:12.873" style="s2">Nagato_Pain: some one explain im new here and im still noob in coding</p>
+<p begin="03:10:22.940" end="03:10:27.940" style="s2">twitchmiker: that&#39;s probably why people run local nodes on testnet to test their incomplete code ;)</p>
+<p begin="03:10:32.186" end="03:10:37.186" style="s2">scriptedp0ison_: george can you auto request a node if you get blocked</p>
+<p begin="03:11:09.654" end="03:11:14.654" style="s2">scriptedp0ison_: make a fuction to handle it</p>
+<p begin="03:11:42.916" end="03:11:47.916" style="s2">Mac_33: Code FASTER HOTZ</p>
+<p begin="03:11:56.081" end="03:12:01.081" style="s2">foxubu: CODE FASTER HOTZ LOL</p>
+<p begin="03:11:56.321" end="03:12:01.321" style="s2">Mac_33: FASTER my boi!</p>
+<p begin="03:11:59.479" end="03:12:04.479" style="s2">OPHaru: take my money :)</p>
+<p begin="03:12:34.859" end="03:12:39.859" style="s2">Mac_33: This is pretty hilarious</p>
+<p begin="03:12:36.416" end="03:12:41.416" style="s2">Tanthny: LUL</p>
+<p begin="03:12:42.597" end="03:12:47.597" style="s2">sfmoose: cracking up</p>
+<p begin="03:12:42.983" end="03:12:47.983" style="s2">scriptedp0ison_: ArsonNoSexy</p>
+<p begin="03:12:43.557" end="03:12:48.557" style="s2">syte29: at this point</p>
+<p begin="03:12:48.469" end="03:12:53.469" style="s2">syte29: it&#39;s just kind of fun to send</p>
+<p begin="03:13:02.203" end="03:13:07.203" style="s2">Mac_33: Now you need to gather all the inputs, loop thru em and add them to your output</p>
+<p begin="03:13:02.898" end="03:13:07.898" style="s2">honeybadger_____: randomly mutes</p>
+<p begin="03:13:03.363" end="03:13:08.363" style="s2">suurrend3r: focus on the finish</p>
+<p begin="03:13:11.656" end="03:13:16.656" style="s2">syte29: increase temptation for the thief :O</p>
+<p begin="03:13:22.805" end="03:13:27.805" style="s2">xEHLE_: Seems like everyone in here got bitcoins LUL</p>
+<p begin="03:13:24.255" end="03:13:29.255" style="s2">honeybadger_____: the steam randomly mutes</p>
+<p begin="03:13:29.564" end="03:13:34.564" style="s2">NoPartiesGuy: Br PogChamp PogChamp kf PogChamp st</p>
+<p begin="03:13:36.929" end="03:13:41.929" style="s2">syte29: i just bought some bch just to have him freak out</p>
+<p begin="03:13:43.891" end="03:13:48.891" style="s2">scriptedp0ison_: @mac_33 you seem really versed, its impressive</p>
+<p begin="03:14:05.622" end="03:14:10.622" style="s2">honeybadger_____: ur muted...</p>
+<p begin="03:14:08.921" end="03:14:13.921" style="s2">Mac_33: I just tried implementing a cryptocurrency from scratch</p>
+<p begin="03:14:18.049" end="03:14:23.049" style="s2">Mac_33: It&#39;s incomplete, but on my github</p>
+<p begin="03:14:24.782" end="03:14:29.782" style="s2">eionard: LUL</p>
+<p begin="03:14:28.188" end="03:14:33.188" style="s2">OPHaru: LUL</p>
+<p begin="03:14:36.491" end="03:14:41.491" style="s2">scriptedp0ison_: oh lol its too complicated for me. i dont have that much experience yet</p>
+<p begin="03:14:37.944" end="03:14:42.944" style="s2">syte29: that&#39;s pretty cool. I may try that project at some point :)</p>
+<p begin="03:14:40.965" end="03:14:45.965" style="s2">abadonna6: yoink</p>
+<p begin="03:15:16.964" end="03:15:21.964" style="s2">syte29: what language are you using @Mac_33?</p>
+<p begin="03:15:22.251" end="03:15:27.251" style="s2">syte29: Also, do you have a repo up :)</p>
+<p begin="03:15:32.094" end="03:15:37.094" style="s2">scriptedp0ison_: every time someone donates Mario hits a block...get it (blockchain joke)</p>
+<p begin="03:15:41.915" end="03:15:46.915" style="s2">Mac_33: @tomcr00s3 is it okay to post my github repo link here</p>
+<p begin="03:15:49.977" end="03:15:54.977" style="s2">syte29: pretty soon george bouta go over one of them turtles</p>
+<p begin="03:16:42.237" end="03:16:47.237" style="s2">syte29: I posted a link earlier @Mac_33 . I don&#39;t think he cares :)</p>
+<p begin="03:22:03.549" end="03:22:08.549" style="s2">scriptedp0ison_: love the stream</p>
+<p begin="03:23:46.628" end="03:23:51.628" style="s2">foxubu: Drink Mate @tomcr00s3</p>
+<p begin="03:25:23.123" end="03:25:28.123" style="s2">syte29: bedtime</p>
+<p begin="03:25:28.232" end="03:25:33.232" style="s2">syte29: goodnight peeps :)</p>
+<p begin="03:25:42.477" end="03:25:47.477" style="s2">Mac_33: @syte29 https://github.com/VKoskiv/VaporCoin</p>
+<p begin="03:25:55.527" end="03:26:00.527" style="s2">un3okapi: f.lux SeemsGood</p>
+<p begin="03:25:56.505" end="03:26:01.505" style="s2">scriptedp0ison_: later @syte29 hopefully Derek Banas can teach you</p>
+<p begin="03:26:41.230" end="03:26:46.230" style="s2">syte29: Thanks @scriptedp0ison_ . @Mac_33 , will definitely star. Looks interesting. Thanks man</p>
+<p begin="03:35:37.714" end="03:35:42.714" style="s2">scriptedp0ison_: George what gave you the innovation to create comma.ai?</p>
+<p begin="03:37:44.831" end="03:37:49.831" style="s2">quillford: what does that even mean&gt;</p>
+<p begin="03:37:46.694" end="03:37:51.694" style="s2">quillford: ?</p>
+<p begin="03:38:13.613" end="03:38:18.613" style="s2">suurrend3r: this is depressing</p>
+<p begin="03:38:28.993" end="03:38:33.993" style="s2">Mac_33: https://xkcd.com/1728/</p>
+<p begin="03:41:22.489" end="03:41:27.489" style="s2">Nagato_Pain: guys i want learn coding should i start with python or java script ?????</p>
+<p begin="03:41:31.171" end="03:41:36.171" style="s2">Nagato_Pain: @tomcr00s3</p>
+<p begin="03:41:31.552" end="03:41:36.552" style="s2">scriptedp0ison_: python</p>
+<p begin="03:41:58.551" end="03:42:03.551" style="s2">Mac_33: You should start with x86 asm and work your way up</p>
+<p begin="03:42:01.032" end="03:42:06.032" style="s2">un3okapi: LUL</p>
+<p begin="03:42:02.503" end="03:42:07.503" style="s2">scriptedp0ison_: javascript or ecma script is for the front end development aka web pages etc</p>
+<p begin="03:42:07.647" end="03:42:12.647" style="s2">Mac_33: You have to EARN the privilege of using a compiler</p>
+<p begin="03:42:24.493" end="03:42:29.493" style="s2">Mac_33: Which input are you trying to spend?</p>
+<p begin="03:42:25.912" end="03:42:30.912" style="s2">scriptedp0ison_: lol @mac_33 i dont know about that</p>
+<p begin="03:42:38.662" end="03:42:43.662" style="s2">vtcN_: lmao start with asm...</p>
+<p begin="03:42:50.946" end="03:42:55.946" style="s2">Nagato_Pain: @scriptedp0ison_ thnx Dude</p>
+<p begin="03:43:03.383" end="03:43:08.383" style="s2">scriptedp0ison_: assembly ARM architecture is easy starting point</p>
+<p begin="03:43:08.802" end="03:43:13.802" style="s2">Nagato_Pain: @Mac_33 lol so funny</p>
+<p begin="03:43:19.729" end="03:43:24.729" style="s2">scriptedp0ison_: then you can write POS malware :D</p>
+<p begin="03:44:03.274" end="03:44:08.274" style="s2">suurrend3r: just keep trying hotz</p>
+<p begin="03:45:06.942" end="03:45:11.942" style="s2">scriptedp0ison_: trying to make an IP camera exploitation and exfiltration framework but i need to load and emulate like 20  firmware and mip architecture sets</p>
+<p begin="03:45:32.949" end="03:45:37.949" style="s2">suurrend3r: LUL LUL LUL</p>
+<p begin="03:45:51.739" end="03:45:56.739" style="s2">scriptedp0ison_: to try and desanitize some of the built in security methods..need to make a script to automate that</p>
+<p begin="03:45:53.749" end="03:45:58.749" style="s2">SnakeOneMLG: Is this Chrome?</p>
+<p begin="03:45:55.385" end="03:46:00.385" style="s2">sfmoose: blockchain.info</p>
+<p begin="03:45:58.882" end="03:46:03.882" style="s2">SnakeOneMLG: I thought you were using Brave</p>
+<p begin="03:46:07.503" end="03:46:12.503" style="s2">blizz191: Hotz can i make you a website ur web design skills are sub par</p>
+<p begin="03:46:12.269" end="03:46:17.269" style="s2">jotembruv: !uptime</p>
+<p begin="03:46:18.839" end="03:46:23.839" style="s2">suurrend3r: theres no bot</p>
+<p begin="03:46:29.975" end="03:46:34.975" style="s2">sfmoose: you can make a wallet with a private key at blockchain.info</p>
+<p begin="03:46:31.872" end="03:46:36.872" style="s2">Mac_33: Can you not import the privkey to your phone wallet app</p>
+<p begin="03:46:34.113" end="03:46:39.113" style="s2">sfmoose: then send the BCH elsewhere</p>
+<p begin="03:48:58.275" end="03:49:03.275" style="s2">pau1riddle: Guys, please help with a problem from a textbook. How can I represent n * (-6) with 2 shifts and 1 add/sub?</p>
+<p begin="03:49:33.411" end="03:49:38.411" style="s2">scriptedp0ison_: is this assembly?</p>
+<p begin="03:49:37.237" end="03:49:42.237" style="s2">pau1riddle: No</p>
+<p begin="03:49:43.380" end="03:49:48.380" style="s2">pau1riddle: Well, yes</p>
+<p begin="03:49:55.550" end="03:50:00.550" style="s2">vtcN_: if people do your homework for you you will never learn</p>
+<p begin="03:50:54.172" end="03:50:59.172" style="s2">pau1riddle: I know you can do n * 6. It is the same as n &lt;&lt; 2   n &lt;&lt; 1.</p>
+<p begin="03:50:59.507" end="03:51:04.507" style="s2">pau1riddle: But -6 I don&#39;t know.</p>
+<p begin="03:51:13.147" end="03:51:18.147" style="s2">pau1riddle: Can&#39;t use ^ or &amp;</p>
+<p begin="03:51:19.152" end="03:51:24.152" style="s2">scriptedp0ison_: what type of register are you working with? if this is assembly? there are different opcodes for each architecture and it&#39;s mostly based on the register type</p>
+<p begin="03:51:30.589" end="03:51:35.589" style="s2">suurrend3r: we getting close to depression</p>
+<p begin="03:51:37.417" end="03:51:42.417" style="s2">Mac_33: https://i.redd.it/y59sstwfphs11.jpg</p>
+<p begin="03:51:45.552" end="03:51:50.552" style="s2">scriptedp0ison_: otherwise if not assembly, then what language</p>
+<p begin="03:51:55.337" end="03:52:00.337" style="s2">pau1riddle: C</p>
+<p begin="03:52:13.785" end="03:52:18.785" style="s2">scriptedp0ison_: ouch haven&#39;t touched C in a year</p>
+<p begin="03:52:23.557" end="03:52:28.557" style="s2">Mac_33: I&#39;ve been working on a path tracer in C</p>
+<p begin="03:52:25.814" end="03:52:30.814" style="s2">Mac_33: It&#39;s a lot of fun</p>
+<p begin="03:52:28.798" end="03:52:33.798" style="s2">pau1riddle: It&#39;s just to be clever. Usually compiler does such things because shifts and addition is faster than multiplication.</p>
+<p begin="03:52:34.369" end="03:52:39.369" style="s2">Mac_33: I&#39;m trying to train a model and add AI denoising</p>
+<p begin="03:52:52.493" end="03:52:57.493" style="s2">suurrend3r: &quot;Nobody likes C&quot; - Geohot</p>
+<p begin="03:53:14.826" end="03:53:19.826" style="s2">scriptedp0ison_: I stopped learning C, maybe I&#39;ll pick up when I learn reverse engineering</p>
+<p begin="03:53:28.148" end="03:53:33.148" style="s2">pau1riddle: The only reason I learn C is because books use it. And because I want to fix 2 HUGE bugs in kernel drivers.</p>
+<p begin="03:53:31.075" end="03:53:36.075" style="s2">Mac_33: i like c</p>
+<p begin="03:54:05.455" end="03:54:10.455" style="s2">scriptedp0ison_: I like C too just got lazy, i should pick up again</p>
+<p begin="03:54:25.479" end="03:54:30.479" style="s2">suurrend3r: Go GeoHot Go</p>
+<p begin="03:54:59.069" end="03:55:04.069" style="s2">scriptedp0ison_: @pau1riddle yeah i have no clue about the answer you queued, i havent been on c in ages</p>
+<p begin="03:55:15.307" end="03:55:20.307" style="s2">pau1riddle: It is not about C. It is for all languages.</p>
+<p begin="03:55:37.211" end="03:55:42.211" style="s2">newtomcroose: @tomcr00s3 my bro</p>
+<p begin="03:55:42.391" end="03:55:47.391" style="s2">pau1riddle: Where N is either unsigned integer or two&#39;s complement.</p>
+<p begin="03:55:44.391" end="03:55:49.391" style="s2">suurrend3r: C will die soon</p>
+<p begin="03:55:53.690" end="03:55:58.690" style="s2">Mac_33: It will not.</p>
+<p begin="03:55:54.844" end="03:55:59.844" style="s2">pau1riddle: Will be superseded by Rust and Go.</p>
+<p begin="03:55:56.508" end="03:56:01.508" style="s2">scriptedp0ison_: @suurrend3r it really wont</p>
+<p begin="03:56:05.804" end="03:56:10.804" style="s2">pitersk: so wrong</p>
+<p begin="03:56:07.417" end="03:56:12.417" style="s2">Mac_33: It is the only system implementation language that is widely used</p>
+<p begin="03:56:10.606" end="03:56:15.606" style="s2">scriptedp0ison_: the hardware your using has C built into it</p>
+<p begin="03:56:12.765" end="03:56:17.765" style="s2">pau1riddle: It will remain as assembly language.</p>
+<p begin="03:56:34.059" end="03:56:39.059" style="s2">suurrend3r: @Mac_33 C   is</p>
+<p begin="03:56:39.517" end="03:56:44.517" style="s2">newtomcroose: Cool , u writing a code for bitcoin , so where is taylor swfit ?</p>
+<p begin="03:56:49.261" end="03:56:54.261" style="s2">Mac_33: Try committing C   to the linux kernel</p>
+<p begin="03:56:59.726" end="03:57:04.726" style="s2">scriptedp0ison_: hell the servers that is housing Twitch has some C built into its drivers, etc</p>
+<p begin="03:57:15.175" end="03:57:20.175" style="s2">Mac_33: Every single device you use and see in the world has C code in it</p>
+<p begin="03:57:19.624" end="03:57:24.624" style="s2">scriptedp0ison_: so C is here for all..its great</p>
+<p begin="03:57:19.817" end="03:57:24.817" style="s2">Mac_33: It&#39;s not going away</p>
+<p begin="03:57:45.886" end="03:57:50.886" style="s2">scriptedp0ison_: I wonder what the B language was like</p>
+<p begin="03:57:48.877" end="03:57:53.877" style="s2">pau1riddle: But it is not evolving either.</p>
+<p begin="03:57:56.919" end="03:58:01.919" style="s2">newtomcroose: stream is lag ?</p>
+<p begin="03:58:00.267" end="03:58:05.267" style="s2">scriptedp0ison_: it doesn&#39;t need to</p>
+<p begin="03:58:10.710" end="03:58:15.710" style="s2">Mac_33: It was updated in 2011</p>
+<p begin="03:58:12.765" end="03:58:17.765" style="s2">jotembruv: stream is not lag</p>
+<p begin="03:58:29.125" end="03:58:34.125" style="s2">blackburn1911: hey</p>
+<p begin="03:59:08.302" end="03:59:13.302" style="s2">newtomcroose: come on , stream is lag :|</p>
+<p begin="03:59:51.826" end="03:59:56.826" style="s2">scriptedp0ison_: I always have to specify -std=c11 or my shared object will not compile and ill get an error. need to reconfigure gcc, did some tinkering and messed things up</p>
+<p begin="03:59:52.368" end="03:59:57.368" style="s2">lolcoolkat: no lag for me</p>
+<p begin="03:59:57.084" end="04:00:02.084" style="s2">newtomcroose: a technical guy , dirty hand ? right ?</p>
+<p begin="04:01:25.160" end="04:01:30.160" style="s2">newtomcroose: @tomcr00s3 do u have donation like ninja in twitch ?</p>
+<p begin="04:03:24.755" end="04:03:29.755" style="s2">scriptedp0ison_: @newtomcroose go reverse dns lookup twitch, and check the MS response time to the ICMP echo reply, that might be your issue if the response time is really high</p>
+<p begin="04:03:46.019" end="04:03:51.019" style="s2">Mac_33: typeof(NaN) = number</p>
+<p begin="04:04:27.402" end="04:04:32.402" style="s2">Mac_33: Remember to increment transaction nonce!</p>
+<p begin="04:05:07.278" end="04:05:12.278" style="s2">newtomcroose: guys , maybe i be found dead in my apartment</p>
+<p begin="04:05:40.948" end="04:05:45.948" style="s2">PEREZthe1: @newtomcroose cool :)</p>
+<p begin="04:05:40.951" end="04:05:45.951" style="s2">scriptedp0ison_: I&#39;m getting latency too but I&#39;m on a cellular connection, in the middle of no where</p>
+<p begin="04:05:58.673" end="04:06:03.673" style="s2">vtcN_: lol</p>
+<p begin="04:06:03.997" end="04:06:08.997" style="s2">Bryanswagbeast: hey mac what programming languages do you know?</p>
+<p begin="04:06:06.378" end="04:06:11.378" style="s2">scriptedp0ison_: MrDestructoid</p>
+<p begin="04:06:10.921" end="04:06:15.921" style="s2">chloven: LUL</p>
+<p begin="04:06:13.381" end="04:06:18.381" style="s2">newtomcroose: :))</p>
+<p begin="04:06:28.577" end="04:06:33.577" style="s2">newtomcroose: i use assembly for everything , even AI :|</p>
+<p begin="04:07:00.277" end="04:07:05.277" style="s2">scriptedp0ison_: ouch sounds rough</p>
+<p begin="04:07:14.954" end="04:07:19.954" style="s2">newtomcroose: geo get heater :D</p>
+<p begin="04:07:15.772" end="04:07:20.772" style="s2">Bryanswagbeast: @mac_33</p>
+<p begin="04:07:34.605" end="04:07:39.605" style="s2">Mac_33: ye?</p>
+<p begin="04:07:41.901" end="04:07:46.901" style="s2">Mac_33: oh</p>
+<p begin="04:07:47.634" end="04:07:52.634" style="s2">Mac_33: Quite a few?</p>
+<p begin="04:07:51.582" end="04:07:56.582" style="s2">Mac_33: Depends on what level</p>
+<p begin="04:07:52.016" end="04:07:57.016" style="s2">newtomcroose: @Mac_33 what is your favorite food ?</p>
+<p begin="04:08:09.181" end="04:08:14.181" style="s2">Mac_33: I like me some good wings</p>
+<p begin="04:08:21.380" end="04:08:26.380" style="s2">scriptedp0ison_: waffles are best</p>
+<p begin="04:08:23.790" end="04:08:28.790" style="s2">Mac_33: I mainly use Swift and C in personal projects</p>
+<p begin="04:08:39.991" end="04:08:44.991" style="s2">scriptedp0ison_: how is IOS development?</p>
+<p begin="04:09:00.256" end="04:09:05.256" style="s2">Mac_33: Okay, haven&#39;t done much of that lately</p>
+<p begin="04:09:16.250" end="04:09:21.250" style="s2">Bryanswagbeast: I was gone for a while right now! Did they take his bitcoin again?</p>
+<p begin="04:09:17.750" end="04:09:22.750" style="s2">scriptedp0ison_: Ever touch up on Objective C?</p>
+<p begin="04:09:32.238" end="04:09:37.238" style="s2">Bryanswagbeast: swift is better</p>
+<p begin="04:09:34.770" end="04:09:39.770" style="s2">Mac_33: I can still manage it</p>
+<p begin="04:09:39.634" end="04:09:44.634" style="s2">Mac_33: But swift is more prevalent</p>
+<p begin="04:09:42.899" end="04:09:47.899" style="s2">newtomcroose: :| why people talk about programming langues too much ? just learn python and pick a project :|</p>
+<p begin="04:09:47.098" end="04:09:52.098" style="s2">pau1riddle: I came up with new revolutinary optimizarion technique based on machine learning. You build ML module into kernel, it learns on your behaviour as computer user, and then loads caches and shift, across the whole stack, even making it so that branch prediction doesn&#39;t make mistakes.</p>
+<p begin="04:09:56.262" end="04:10:01.262" style="s2">suurrend3r: @newtomcroose so freaking true</p>
+<p begin="04:10:07.535" end="04:10:12.535" style="s2">Mac_33: You can&#39;t write performant code with python</p>
+<p begin="04:10:16.719" end="04:10:21.719" style="s2">Mac_33: It&#39;s good for a quick script/prototyping</p>
+<p begin="04:10:23.085" end="04:10:28.085" style="s2">Mac_33: But I need my stuff to be fast</p>
+<p begin="04:10:27.834" end="04:10:32.834" style="s2">newtomcroose: @Mac_33 yes yes , u right . learn assembly</p>
+<p begin="04:10:36.839" end="04:10:41.839" style="s2">suurrend3r: You can write in python first and then in C</p>
+<p begin="04:10:39.657" end="04:10:44.657" style="s2">Mac_33: I&#39;m fine with just -O3</p>
+<p begin="04:10:40.988" end="04:10:45.988" style="s2">suurrend3r: LUL</p>
+<p begin="04:10:44.795" end="04:10:49.795" style="s2">pau1riddle: Caring about programming languages is a sign of Level 1 programmer.</p>
+<p begin="04:10:47.165" end="04:10:52.165" style="s2">scriptedp0ison_: @newtomcroose why do people use a spoon for eating oatmeal but not a spoon for spaghetti?</p>
+<p begin="04:10:51.630" end="04:10:56.630" style="s2">vtcN_: Mac_33 thoughts on jon blows language jai?</p>
+<p begin="04:10:54.005" end="04:10:59.005" style="s2">newtomcroose: ohhhhhhhhhhhh i fall a part</p>
+<p begin="04:11:05.850" end="04:11:10.850" style="s2">pau1riddle: Nobody who achived anything cared. They just did.</p>
+<p begin="04:11:12.492" end="04:11:17.492" style="s2">Bryanswagbeast: i first learned C  , java and then python</p>
+<p begin="04:11:21.703" end="04:11:26.703" style="s2">pau1riddle: Others were arguing on forums and imageboards about which one is better.</p>
+<p begin="04:11:28.368" end="04:11:33.368" style="s2">newtomcroose: @scriptedp0ison_ why people need se.x toys :| ?</p>
+<p begin="04:11:51.489" end="04:11:56.489" style="s2">blackburn1911: I use php and I&#39;m happy MVGame</p>
+<p begin="04:11:57.052" end="04:12:02.052" style="s2">un3okapi: oooooooooooooo</p>
+<p begin="04:12:05.505" end="04:12:10.505" style="s2">scriptedp0ison_: @newtomcroose I don&#39;t know, maybe to make people like you happy?</p>
+<p begin="04:12:13.099" end="04:12:18.099" style="s2">newtomcroose: We should talking about bitcoin right now . we are not good twitches right now :|</p>
+<p begin="04:12:15.081" end="04:12:20.081" style="s2">scriptedp0ison_: lol jk</p>
+<p begin="04:12:26.222" end="04:12:31.222" style="s2">Mac_33: I mentioned that earlier!</p>
+<p begin="04:12:40.091" end="04:12:45.091" style="s2">foxubu: Give up Goerge ... You feel so tired FortBush</p>
+<p begin="04:12:52.237" end="04:12:57.237" style="s2">blackburn1911: George is a winner</p>
+<p begin="04:12:52.825" end="04:12:57.825" style="s2">newtomcroose: how can i do scam with cryptocurrency ?</p>
+<p begin="04:12:55.468" end="04:13:00.468" style="s2">Mac_33: You should google UTXO if it&#39;s not clear</p>
+<p begin="04:13:14.516" end="04:13:19.516" style="s2">scriptedp0ison_: @newtomcroose you dont, thats how you do it</p>
+<p begin="04:13:30.315" end="04:13:35.315" style="s2">newtomcroose: be smart , do scam , be rich , get fcked . right ?</p>
+<p begin="04:13:40.374" end="04:13:45.374" style="s2">Bryanswagbeast: ninjaCreep mthGrin</p>
+<p begin="04:13:45.567" end="04:13:50.567" style="s2">foxubu: same day lays only lol</p>
+<p begin="04:13:51.871" end="04:13:56.871" style="s2">suurrend3r: TearGlove</p>
+<p begin="04:13:56.578" end="04:14:01.578" style="s2">scriptedp0ison_: PogChamp</p>
+<p begin="04:14:08.774" end="04:14:13.774" style="s2">Bryanswagbeast: mrmuff21</p>
+<p begin="04:14:14.289" end="04:14:19.289" style="s2">un3okapi: :(</p>
+<p begin="04:14:17.966" end="04:14:22.966" style="s2">scriptedp0ison_: ThunBeast</p>
+<p begin="04:14:25.481" end="04:14:30.481" style="s2">suurrend3r: monkAS</p>
+<p begin="04:14:29.556" end="04:14:34.556" style="s2">scriptedp0ison_: BrokeBack</p>
+<p begin="04:14:37.180" end="04:14:42.180" style="s2">Bryanswagbeast: SeemsGood</p>
+<p begin="04:14:44.660" end="04:14:49.660" style="s2">scriptedp0ison_: HassaanChop</p>
+<p begin="04:14:46.785" end="04:14:51.785" style="s2">suurrend3r: cmonBruh cmonBruh</p>
+<p begin="04:14:50.941" end="04:14:55.941" style="s2">scriptedp0ison_: HeyGuys</p>
+<p begin="04:14:51.407" end="04:14:56.407" style="s2">Bryanswagbeast: DrinkPurple</p>
+<p begin="04:15:05.473" end="04:15:10.473" style="s2">foxubu: Get Mate George! You look tired ^_^</p>
+<p begin="04:15:06.683" end="04:15:11.683" style="s2">blackburn1911: the stream will be saved?</p>
+<p begin="04:15:18.336" end="04:15:23.336" style="s2">Bryanswagbeast: ninjaBlank mthMad</p>
+<p begin="04:15:21.713" end="04:15:26.713" style="s2">scriptedp0ison_: NomNom</p>
+<p begin="04:15:23.018" end="04:15:28.018" style="s2">foxubu: @blackburn1911 for 7 days</p>
+<p begin="04:15:38.593" end="04:15:43.593" style="s2">newtomcroose: @tomcr00s3 write a code to learn how to break bitcoin hash with ML and ... . what do u think ?</p>
+<p begin="04:15:58.146" end="04:16:03.146" style="s2">Bryanswagbeast: AI</p>
+<p begin="04:16:11.522" end="04:16:16.522" style="s2">foxubu: Fuzzing</p>
+<p begin="04:16:59.099" end="04:17:04.099" style="s2">newtomcroose: naaaaaaaaaaaaaahhhhhhhhhh</p>
+<p begin="04:17:30.936" end="04:17:35.936" style="s2">Bryanswagbeast: You need help? Call Elon Musk! @tomcr00s3</p>
+<p begin="04:17:44.100" end="04:17:49.100" style="s2">newtomcroose: elon musk just coding in php :|</p>
+<p begin="04:17:45.483" end="04:17:50.483" style="s2">scriptedp0ison_: or just call the nsa</p>
+<p begin="04:18:13.834" end="04:18:18.834" style="s2">newtomcroose: but its crazy what u can see</p>
+<p begin="04:18:29.298" end="04:18:34.298" style="s2">chloven: LUL Chrome</p>
+<p begin="04:18:35.204" end="04:18:40.204" style="s2">blackburn1911: I know the feeling</p>
+<p begin="04:18:44.101" end="04:18:49.101" style="s2">newtomcroose: chrome . can i kill you ?</p>
+<p begin="04:19:05.380" end="04:19:10.380" style="s2">denim_lap: !uptime</p>
+<p begin="04:19:11.047" end="04:19:16.047" style="s2">newtomcroose: !uptime</p>
+<p begin="04:19:13.380" end="04:19:18.380" style="s2">denim_lap: no bot D:</p>
+<p begin="04:19:24.192" end="04:19:29.192" style="s2">newtomcroose: we hate bots :| ?</p>
+<p begin="04:19:55.464" end="04:20:00.464" style="s2">vtcN_: i&#39;ve had to hot-add ram because of chrome</p>
+<p begin="04:19:57.392" end="04:20:02.392" style="s2">denim_lap: anyone having idea of upitme</p>
+<p begin="04:19:59.911" end="04:20:04.911" style="s2">denim_lap: ?</p>
+<p begin="04:20:08.571" end="04:20:13.571" style="s2">newtomcroose: who need a hero ?</p>
+<p begin="04:20:24.886" end="04:20:29.886" style="s2">scriptedp0ison_: we all do</p>
+<p begin="04:20:30.479" end="04:20:35.479" style="s2">Bryanswagbeast: yupp! Chrome sucks the rams titties</p>
+<p begin="04:20:37.532" end="04:20:42.532" style="s2">denim_lap: D:</p>
+<p begin="04:20:44.328" end="04:20:49.328" style="s2">pau1riddle: Chome is now 51% of browser market</p>
+<p begin="04:20:47.114" end="04:20:52.114" style="s2">newtomcroose: She&#39;s got me spending Oh, spending all your money on me And spending time on me She&#39;s got me spending</p>
+<p begin="04:20:47.754" end="04:20:52.754" style="s2">denim_lap: that&#39;s one way to say it</p>
+<p begin="04:20:52.515" end="04:20:57.515" style="s2">scriptedp0ison_: Chromes a RAM whore</p>
+<p begin="04:20:59.959" end="04:21:04.959" style="s2">denim_lap: ok gus</p>
+<p begin="04:21:25.943" end="04:21:30.943" style="s2">scriptedp0ison_: @newtomcroose you have the voice of an angel</p>
+<p begin="04:21:46.933" end="04:21:51.933" style="s2">newtomcroose: @scriptedp0ison_ i wanna be taylor swift bf</p>
+<p begin="04:22:14.277" end="04:22:19.277" style="s2">scriptedp0ison_: @newtomcroose some serious goals you got there</p>
+<p begin="04:22:22.782" end="04:22:27.782" style="s2">Bryanswagbeast: so that computer that geo has is a borrowed computer from commaai and has 4 gtx 1080 ti and probably about 8 gb of ram! LMAO</p>
+<p begin="04:22:31.625" end="04:22:36.625" style="s2">chloven: :O</p>
+<p begin="04:23:09.151" end="04:23:14.151" style="s2">scriptedp0ison_: my computer is like Chrome cum take my RAM</p>
+<p begin="04:23:21.718" end="04:23:26.718" style="s2">scriptedp0ison_: *come</p>
+<p begin="04:23:38.258" end="04:23:43.258" style="s2">denim_lap: enough with chrome already</p>
+<p begin="04:23:46.755" end="04:23:51.755" style="s2">newtomcroose: realy ? he is a genius ? should i be a genius to do scam ?</p>
+<p begin="04:24:21.141" end="04:24:26.141" style="s2">scriptedp0ison_: okay @denim_lap whatever makes you happy</p>
+<p begin="04:24:32.457" end="04:24:37.457" style="s2">newtomcroose: @tomcr00s3 omg its 1:58 AM :))</p>
+<p begin="04:24:32.604" end="04:24:37.604" style="s2">denim_lap: thanks :D</p>
+<p begin="04:24:34.969" end="04:24:39.969" style="s2">scriptedp0ison_: @newtomcroose what are you talking about?</p>
+<p begin="04:24:51.887" end="04:24:56.887" style="s2">newtomcroose: @scriptedp0ison_ what going on in this chat ? :|</p>
+<p begin="04:24:54.277" end="04:24:59.277" style="s2">suurrend3r: you gotta make it work @tomcr00s3</p>
+<p begin="04:24:58.031" end="04:25:03.031" style="s2">Mac_33: i am falling asleep, put on music</p>
+<p begin="04:25:11.504" end="04:25:16.504" style="s2">pau1riddle: Lol it&#39;s 2 pm</p>
+<p begin="04:25:11.807" end="04:25:16.807" style="s2">newtomcroose: hard things for a legend</p>
+<p begin="04:25:16.381" end="04:25:21.381" style="s2">suurrend3r: put some hardcore music and keep going</p>
+<p begin="04:25:33.519" end="04:25:38.519" style="s2">newtomcroose: @suurrend3r what about energy drinks :D ?</p>
+<p begin="04:25:37.495" end="04:25:42.495" style="s2">Bryanswagbeast: some fucking slipknot brother</p>
+<p begin="04:25:43.882" end="04:25:48.882" style="s2">scriptedp0ison_: put some ytcracker on</p>
+<p begin="04:26:05.603" end="04:26:10.603" style="s2">suurrend3r: @newtomcroose that will work too</p>
+<p begin="04:26:31.760" end="04:26:36.760" style="s2">Bryanswagbeast: Sponsored by red bull!</p>
+<p begin="04:27:16.750" end="04:27:21.750" style="s2">vtcN_: dual core</p>
+<p begin="04:27:22.400" end="04:27:27.400" style="s2">pau1riddle: i dont like it</p>
+<p begin="04:27:22.751" end="04:27:27.751" style="s2">newtomcroose: @tomcr00s3 put some neffex one shot</p>
+<p begin="04:27:30.831" end="04:27:35.831" style="s2">Bryanswagbeast: wtf is that?</p>
+<p begin="04:27:45.647" end="04:27:50.647" style="s2">vtcN_: bone thugs n harmony</p>
+<p begin="04:27:51.541" end="04:27:56.541" style="s2">suurrend3r: LUL LUL</p>
+<p begin="04:28:08.001" end="04:28:13.001" style="s2">scriptedp0ison_: 😢</p>
+<p begin="04:28:16.593" end="04:28:21.593" style="s2">suurrend3r: @tomcr00s3 I think a little break drinking coffee will help you</p>
+<p begin="04:28:17.999" end="04:28:22.999" style="s2">Bryanswagbeast: i rather listen to you play the piano! @tomcr00s3</p>
+<p begin="04:28:28.846" end="04:28:33.846" style="s2">newtomcroose: @tomcr00s3 i recommend dua lipa musics for you</p>
+<p begin="04:28:40.741" end="04:28:45.741" style="s2">suurrend3r: a little break*</p>
+<p begin="04:29:14.038" end="04:29:19.038" style="s2">pau1riddle: george&#39;s IQ is now diminished to that of a cat because of sleep deprivation</p>
+<p begin="04:29:26.482" end="04:29:31.482" style="s2">newtomcroose: we dont talking about IQ</p>
+<p begin="04:29:31.560" end="04:29:36.560" style="s2">Bryanswagbeast: surrender!? Please have some manners! Its Break;</p>
+<p begin="04:29:35.294" end="04:29:40.294" style="s2">pau1riddle: no willpower to execute, just clicking around</p>
+<p begin="04:29:43.537" end="04:29:48.537" style="s2">newtomcroose: EQ is important</p>
+<p begin="04:29:55.099" end="04:30:00.099" style="s2">suurrend3r: LUL</p>
+<p begin="04:30:03.762" end="04:30:08.762" style="s2">scriptedp0ison_: @bryanswagbeast no its &quot;break &lt;ENTER&gt;&quot;</p>
+<p begin="04:30:17.458" end="04:30:22.458" style="s2">suurrend3r: LUL LUL</p>
+<p begin="04:30:24.584" end="04:30:29.584" style="s2">suurrend3r: &quot;break n&quot;</p>
+<p begin="04:30:29.386" end="04:30:34.386" style="s2">scriptedp0ison_: BrokeBack</p>
+<p begin="04:30:33.502" end="04:30:38.502" style="s2">newtomcroose: I see the moon I see the moon I see the moon Oh, when you&#39;re looking at the sun I&#39;m not a fool I&#39;m not a fool I&#39;m not a fool No, you&#39;re not fooling anyone</p>
+<p begin="04:30:36.186" end="04:30:41.186" style="s2">Bryanswagbeast: kill all python lmao</p>
+<p begin="04:30:53.492" end="04:30:58.492" style="s2">suurrend3r: sudo killall Xorg &amp;&amp; rm -rf /</p>
+<p begin="04:31:03.876" end="04:31:08.876" style="s2">scriptedp0ison_: lol..err..c..aN..t..Ty....p3</p>
+<p begin="04:31:12.764" end="04:31:17.764" style="s2">newtomcroose: @suurrend3r and hello to the real world :D ?</p>
+<p begin="04:31:30.649" end="04:31:35.649" style="s2">suurrend3r: geohot it&#39;s time to get a real job</p>
+<p begin="04:31:40.736" end="04:31:45.736" style="s2">newtomcroose: PogChamp PogChamp</p>
+<p begin="04:31:45.324" end="04:31:50.324" style="s2">suurrend3r: LUL</p>
+<p begin="04:31:53.996" end="04:31:58.996" style="s2">newtomcroose: what is your mean about real job ? work for google :D ?</p>
+<p begin="04:31:54.335" end="04:31:59.335" style="s2">pau1riddle: yeah fck this comma ai self driving shit</p>
+<p begin="04:32:08.137" end="04:32:13.137" style="s2">suurrend3r: LUL LUL LUL</p>
+<p begin="04:32:08.197" end="04:32:13.197" style="s2">pau1riddle: go church some jira tickets for ecommerce website</p>
+<p begin="04:32:29.031" end="04:32:34.031" style="s2">newtomcroose: fck ML coding . just learn php</p>
+<p begin="04:32:56.667" end="04:33:01.667" style="s2">suurrend3r: &quot;nobodies code in php since 2004&quot; - geohot</p>
+<p begin="04:32:57.192" end="04:33:02.192" style="s2">Bryanswagbeast: for(int i = 0; i &lt;= twitchViewers.length; i  )</p>
+<p begin="04:33:13.847" end="04:33:18.847" style="s2">newtomcroose: @suurrend3r except facebook</p>
+<p begin="04:33:17.753" end="04:33:22.753" style="s2">scriptedp0ison_: why not sudo ps -aux | grep &quot;Xorg&quot; | awk -F &quot;pid:&quot; &#39;{print $2}&#39;</p>
+<p begin="04:33:32.179" end="04:33:37.179" style="s2">Bryanswagbeast: System.out.println(&quot;Hello&quot;)</p>
+<p begin="04:33:41.200" end="04:33:46.200" style="s2">suurrend3r: @newtomcroose facebook got hacked</p>
+<p begin="04:33:44.424" end="04:33:49.424" style="s2">pau1riddle: because nobody uses grep anymore, it&#39;s ripgrep everywhere</p>
+<p begin="04:33:45.919" end="04:33:50.919" style="s2">scriptedp0ison_: no Java up in here son!</p>
+<p begin="04:34:02.384" end="04:34:07.384" style="s2">Bryanswagbeast: python then</p>
+<p begin="04:34:24.677" end="04:34:29.677" style="s2">scriptedp0ison_: @pau1riddle riddle me this why do I still see its usage deployed in professional development environments?</p>
+<p begin="04:34:32.147" end="04:34:37.147" style="s2">newtomcroose: JUST ASSEMBLY</p>
+<p begin="04:34:38.759" end="04:34:43.759" style="s2">scriptedp0ison_: lol jk</p>
+<p begin="04:34:43.731" end="04:34:48.731" style="s2">Bryanswagbeast: oops! gtg! Fornite update out!</p>
+<p begin="04:34:49.235" end="04:34:54.235" style="s2">suurrend3r: @newtomcroose I think wikipedia is in php too</p>
+<p begin="04:35:15.250" end="04:35:20.250" style="s2">scriptedp0ison_: @bryanswagbeast eww Cod Blackout is where its at</p>
+<p begin="04:35:18.449" end="04:35:23.449" style="s2">Bryanswagbeast: html</p>
+<p begin="04:35:19.889" end="04:35:24.889" style="s2">lolcoolkat: fmt.Println(“Hello”) Kappa</p>
+<p begin="04:35:20.676" end="04:35:25.676" style="s2">newtomcroose: Knock knock, let the devil in Malevolent as I’ve ever been, head is spinnin’ This medicine’s screamin’, “L-l-l-let us in!” L-l-lick like a salad bowl, Edgar Allen Poe Bedridden, shoulda been dead a long time ago</p>
+<p begin="04:35:35.379" end="04:35:40.379" style="s2">scriptedp0ison_: @newtomcroose Venom was good</p>
+<p begin="04:35:55.283" end="04:36:00.283" style="s2">scriptedp0ison_: George play Eminem - Venom</p>
+<p begin="04:36:06.715" end="04:36:11.715" style="s2">pau1riddle: nooo eminem</p>
+<p begin="04:36:20.277" end="04:36:25.277" style="s2">newtomcroose: george is not high right now :D</p>
+<p begin="04:36:22.947" end="04:36:27.947" style="s2">lolcoolkat: watching this is hurting my head WutFace</p>
+<p begin="04:37:18.335" end="04:37:23.335" style="s2">denim_lap: man I work well to your sound of working</p>
+<p begin="04:37:49.524" end="04:37:54.524" style="s2">scriptedp0ison_: @lolcoolkat how is the fmt method, redirecting standard in to your teletype device through stdout?</p>
+<p begin="04:38:17.264" end="04:38:22.264" style="s2">lolcoolkat: what lol</p>
+<p begin="04:38:43.404" end="04:38:48.404" style="s2">newtomcroose: what lol ? or what is lol :| ?</p>
+<p begin="04:39:00.969" end="04:39:05.969" style="s2">lolcoolkat: idk what u are asking</p>
+<p begin="04:39:07.239" end="04:39:12.239" style="s2">scriptedp0ison_: @newtomcroose why you so :Z all the time?</p>
+<p begin="04:39:31.625" end="04:39:36.625" style="s2">scriptedp0ison_: george get some rest man</p>
+<p begin="04:39:40.638" end="04:39:45.638" style="s2">newtomcroose: @scriptedp0ison_ because my iq is 2,000</p>
+<p begin="04:40:09.317" end="04:40:14.317" style="s2">newtomcroose: @scriptedp0ison_ LIFE IS WORK . not rest</p>
+<p begin="04:40:10.047" end="04:40:15.047" style="s2">suurrend3r: This is like send a post petition without libraries and a lot of captchas Kappa</p>
+<p begin="04:40:12.431" end="04:40:17.431" style="s2">lolcoolkat: iq is 2000 but your english level is a solid 5 Kappa</p>
+<p begin="04:40:32.960" end="04:40:37.960" style="s2">newtomcroose: @lolcoolkat because i am a legend Kappa</p>
+<p begin="04:40:34.839" end="04:40:39.839" style="s2">scriptedp0ison_: @lolcoolkat lol</p>
+<p begin="04:40:44.211" end="04:40:49.211" style="s2">lolcoolkat: CoolStoryBob</p>
+<p begin="04:42:03.022" end="04:42:08.022" style="s2">newtomcroose: http://fortune.com/2018/05/05/warren-buffett-elon-musk-trolling-sees-candies-moats/</p>
+<p begin="04:42:43.654" end="04:42:48.654" style="s2">lolcoolkat: does anyone know whats going on anymore :D</p>
+<p begin="04:42:59.441" end="04:43:04.441" style="s2">scriptedp0ison_: YTCracker is literally nerdcore/hacker genre music, some of his other songs are better</p>
+<p begin="04:43:03.245" end="04:43:08.245" style="s2">suurrend3r: I think when Geohot says &quot;life is work&quot;, what he is trying to say is that it&#39;s not worth work for somebody</p>
+<p begin="04:43:21.746" end="04:43:26.746" style="s2">suurrend3r: because life is work!</p>
+<p begin="04:43:31.660" end="04:43:36.660" style="s2">scriptedp0ison_: George much respect for sticking through this</p>
+<p begin="04:43:40.525" end="04:43:45.525" style="s2">slapusillydawg: my favorite change in python 3 was making parentheses necessary for the print statement, dont fukin @ me</p>
+<p begin="04:44:31.500" end="04:44:36.500" style="s2">suurrend3r: &quot;i&#39;m just guessing&quot; that&#39;s the best part of programming</p>
+<p begin="04:44:31.633" end="04:44:36.633" style="s2">lolcoolkat: @slapusillydawg Kappa</p>
+<p begin="04:44:37.717" end="04:44:42.717" style="s2">suurrend3r: the art of guessing</p>
+<p begin="04:45:00.421" end="04:45:05.421" style="s2">suurrend3r: I didn&#39;t know it was that hard bro</p>
+<p begin="04:45:11.991" end="04:45:16.991" style="s2">scriptedp0ison_: @slapusillydawg no, whats better was the implementation of formated string literals and how PEP8 standardized them</p>
+<p begin="04:45:28.166" end="04:45:33.166" style="s2">sntboss: i want to be good in c   first , there is away to learn fast ?</p>
+<p begin="04:45:45.181" end="04:45:50.181" style="s2">scriptedp0ison_: @slapusillydawg We don&#39;t care for string interpolation anymore</p>
+<p begin="04:45:50.507" end="04:45:55.507" style="s2">vtcN_: Practice</p>
+<p begin="04:46:05.136" end="04:46:10.136" style="s2">keepingtrckofthisacct: @sntboss practice</p>
+<p begin="04:46:14.261" end="04:46:19.261" style="s2">sntboss: any links can help me be good ?</p>
+<p begin="04:46:18.002" end="04:46:23.002" style="s2">PEREZthe1: @sntboss get off twitch, then practice</p>
+<p begin="04:46:19.842" end="04:46:24.842" style="s2">slapusillydawg: i see all these people @ing me when i explicitly told them not to and its really giving me anxiety rn if im bein honest</p>
+<p begin="04:46:20.380" end="04:46:25.380" style="s2">suurrend3r: @sntboss you just gotta code and stop watching live streams Kappa</p>
+<p begin="04:46:23.877" end="04:46:28.877" style="s2">vtcN_: Pick a thing and write a thing</p>
+<p begin="04:46:40.022" end="04:46:45.022" style="s2">lolcoolkat: @slapusillydawg Kappa Kappa</p>
+<p begin="04:46:40.474" end="04:46:45.474" style="s2">sntboss: do u know anygood learning website ?</p>
+<p begin="04:46:41.308" end="04:46:46.308" style="s2">scriptedp0ison_: @sntboss no C is a very time consuming language to learn as it&#39;s closer compiled to the Assembly opcode for your specific CPU architecture</p>
+<p begin="04:47:10.804" end="04:47:15.804" style="s2">scriptedp0ison_: go with a higher level language such as python, or ruby.</p>
+<p begin="04:47:25.048" end="04:47:30.048" style="s2">suurrend3r: Here is 06:21 goddamn</p>
+<p begin="04:47:47.100" end="04:47:52.100" style="s2">lolcoolkat: 5:21 here ResidentSleeper</p>
+<p begin="04:47:50.789" end="04:47:55.789" style="s2">scriptedp0ison_: its 4:21 am for me</p>
+<p begin="04:47:53.845" end="04:47:58.845" style="s2">keepingtrckofthisacct: @suurrend3r how long has he been streaming?</p>
+<p begin="04:48:12.680" end="04:48:17.680" style="s2">vtcN_: 421 for me. Gotta logon at 9...</p>
+<p begin="04:48:23.589" end="04:48:28.589" style="s2">vtcN_: Working from home is nice</p>
+<p begin="04:48:31.066" end="04:48:36.066" style="s2">lolcoolkat: better sleep WutFace</p>
+<p begin="04:48:41.823" end="04:48:46.823" style="s2">scriptedp0ison_: @slapusillydawg what are you talking about?</p>
+<p begin="04:48:42.314" end="04:48:47.314" style="s2">suurrend3r: im not really sure I think since 01:30</p>
+<p begin="04:48:59.797" end="04:49:04.797" style="s2">scriptedp0ison_: he&#39;s around 4 hours now</p>
+<p begin="04:49:46.477" end="04:49:51.477" style="s2">scriptedp0ison_: its really impressive because hes so devoted</p>
+<p begin="04:50:36.547" end="04:50:41.547" style="s2">scriptedp0ison_: how many people can go through this much mental labor and still be disciplined enough to sit through it this long. not many. respect to George for that</p>
+<p begin="04:51:00.548" end="04:51:05.548" style="s2">lolcoolkat: alot... Kappa</p>
+<p begin="04:51:09.755" end="04:51:14.755" style="s2">scriptedp0ison_: lol u troll</p>
+<p begin="04:51:09.823" end="04:51:14.823" style="s2">suurrend3r: @scriptedp0ison_ hedo this once a month</p>
+<p begin="04:51:25.118" end="04:51:30.118" style="s2">vtcN_: @scriptedp0ison_ on a personal project</p>
+<p begin="04:51:25.944" end="04:51:30.944" style="s2">FalconJet_: did anyone take his bch</p>
+<p begin="04:51:28.910" end="04:51:33.910" style="s2">scriptedp0ison_: i know..watch comma.ai archive on YouTube</p>
+<p begin="04:51:35.128" end="04:51:40.128" style="s2">lolcoolkat: I did :)</p>
+<p begin="04:51:50.862" end="04:51:55.862" style="s2">beep13: is this just for a learning experience?</p>
+<p begin="04:52:14.170" end="04:52:19.170" style="s2">scriptedp0ison_: @beep13 that and for fun</p>
+<p begin="04:52:29.251" end="04:52:34.251" style="s2">scriptedp0ison_: I love watching these streams</p>
+<p begin="04:52:30.252" end="04:52:35.252" style="s2">lolcoolkat: and to kill his braincells Kappa</p>
+<p begin="04:52:31.882" end="04:52:36.882" style="s2">keepingtrckofthisacct: is comma.ai completed?</p>
+<p begin="04:52:36.501" end="04:52:41.501" style="s2">TheHandSolo: George, Im such a long time admire of your work</p>
+<p begin="04:52:52.739" end="04:52:57.739" style="s2">beep13: yeah i found the youtube stuff yday, now im here =)</p>
+<p begin="04:52:54.406" end="04:52:59.406" style="s2">suurrend3r: we all love geohot work</p>
+<p begin="04:53:33.069" end="04:53:38.069" style="s2">lolcoolkat: same came from comma ai archive :D</p>
+<p begin="04:53:39.689" end="04:53:44.689" style="s2">vtcN_: @beep13 same, it got recommended so i watched his twitchchess stream while working today</p>
+<p begin="04:53:43.948" end="04:53:48.948" style="s2">FalconJet_: @tomcr00s3 you on a mac or a hackintosh?</p>
+<p begin="04:53:53.172" end="04:53:58.172" style="s2">suurrend3r: mac</p>
+<p begin="04:54:01.653" end="04:54:06.653" style="s2">suurrend3r: macbook</p>
+<p begin="04:54:09.136" end="04:54:14.136" style="s2">lolcoolkat: he’s on Ubuntu rn Kappa</p>
+<p begin="04:54:19.689" end="04:54:24.689" style="s2">FalconJet_: oh fasho, i see the battery percentage</p>
+<p begin="04:55:11.857" end="04:55:16.857" style="s2">jotembruv: fucking segwit indeed</p>
+<p begin="04:57:06.719" end="04:57:11.719" style="s2">suurrend3r: what problem is he fixing now?</p>
+<p begin="04:58:10.553" end="04:58:15.553" style="s2">beep13: !uptime</p>
+<p begin="04:58:17.424" end="04:58:22.424" style="s2">twintowerpower: !downtime</p>
+<p begin="04:58:28.567" end="04:58:33.567" style="s2">beep13: id he just start?</p>
+<p begin="04:58:32.097" end="04:58:37.097" style="s2">beep13: did*</p>
+<p begin="04:58:33.758" end="04:58:38.758" style="s2">twintowerpower: nope</p>
+<p begin="04:58:34.532" end="04:58:39.532" style="s2">jotembruv: hell no</p>
+<p begin="04:58:57.631" end="04:59:02.631" style="s2">vtcN_: uptime too high, hasn&#39;t patched in a while</p>
+<p begin="04:58:57.792" end="04:59:02.792" style="s2">suurrend3r: he start streaming 5 hours ago</p>
+<p begin="04:59:02.224" end="04:59:07.224" style="s2">beep13: he is on east coast no?</p>
+<p begin="04:59:05.490" end="04:59:10.490" style="s2">beep13: what hours this guy sleep lol</p>
+<p begin="04:59:34.462" end="04:59:39.462" style="s2">twintowerpower: pretty sure he is west coast</p>
+<p begin="04:59:55.387" end="05:00:00.387" style="s2">suurrend3r: here is when the shitty code start Kappa</p>
+<p begin="05:00:38.243" end="05:00:43.243" style="s2">suurrend3r: I don&#39;t know if I write that right cause my english is not too good brahs</p>
+<p begin="05:02:07.403" end="05:02:12.403" style="s2">twintowerpower: did you mean to say he&#39;s cute as a cat? @suurrend3r</p>
+<p begin="05:02:20.511" end="05:02:25.511" style="s2">suurrend3r: LUL</p>
+<p begin="05:03:35.855" end="05:03:40.855" style="s2">suurrend3r: LUL LUL LUL LUL</p>
+<p begin="05:03:47.221" end="05:03:52.221" style="s2">beep13: west coast it is!</p>
+<p begin="05:03:59.626" end="05:04:04.626" style="s2">twintowerpower: he&#39;s losing hope the only thing that can keep him going is more moneys</p>
+<p begin="05:04:02.538" end="05:04:07.538" style="s2">Mac_33: i fell asleep</p>
+<p begin="05:04:18.368" end="05:04:23.368" style="s2">un3okapi: made 10$ in crypto donations at least LUL</p>
+<p begin="05:04:22.900" end="05:04:27.900" style="s2">suurrend3r: &quot;fuck off&quot; make me laugh</p>
+<p begin="05:04:35.676" end="05:04:40.676" style="s2">suurrend3r: made*</p>
+<p begin="05:05:24.658" end="05:05:29.658" style="s2">suurrend3r: @twintowerpower lol</p>
+<p begin="05:07:16.542" end="05:07:21.542" style="s2">NoPartiesGuy: are there any archives from streams, since I see they are not saved on twitch</p>
+<p begin="05:07:34.550" end="05:07:39.550" style="s2">suurrend3r: just remember when you hack the ps3, for sure was harder than this</p>
+<p begin="05:07:54.246" end="05:07:59.246" style="s2">NoPartiesGuy: Maybe it wasn&#39;t LUL</p>
+<p begin="05:11:59.465" end="05:12:04.465" style="s2">TheMartesLive: @NoPartiesGuy comma ai archive on youtube</p>
+<p begin="05:15:51.441" end="05:15:56.441" style="s2">suurrend3r: I love Twitch and Geohot</p>
+<p begin="05:15:59.735" end="05:16:04.735" style="s2">suurrend3r: SoBayed</p>
+<p begin="05:16:29.458" end="05:16:34.458" style="s2">scriptedp0ison_: @tomcr00s3 Amazing stream as always</p>
+<p begin="05:19:02.882" end="05:19:07.882" style="s2">Jaany: hello george :D</p>
+<p begin="05:19:40.091" end="05:19:45.091" style="s2">scriptedp0ison_: George you gonna get some rest man</p>
+<p begin="05:19:42.574" end="05:19:47.574" style="s2">un3okapi: ResidentSleeper</p>
+<p begin="05:19:48.917" end="05:19:53.917" style="s2">suurrend3r: people who write the protocol should be in jail</p>
+<p begin="05:20:00.137" end="05:20:05.137" style="s2">suurrend3r: wrote*</p>
+<p begin="05:20:11.114" end="05:20:16.114" style="s2">suurrend3r: Kappa</p>
+<p begin="05:20:38.416" end="05:20:43.416" style="s2">myaocat: hi</p>
+<p begin="05:20:58.147" end="05:21:03.147" style="s2">myaocat: yo its geohot and thoae who dont know im getting sued by sony (dj ton ton)</p>
+<p begin="05:21:27.049" end="05:21:32.049" style="s2">suurrend3r: tired af</p>
+<p begin="05:21:45.853" end="05:21:50.853" style="s2">scriptedp0ison_: George get some sleep man</p>
+<p begin="05:21:57.043" end="05:22:02.043" style="s2">myaocat: can you do some rap</p>
+<p begin="05:23:23.644" end="05:23:28.644" style="s2">Jaany: sup george :D</p>
+<p begin="05:23:28.555" end="05:23:33.555" style="s2">myaocat: NEVER GIVE UP!!!</p>
+<p begin="05:23:34.242" end="05:23:39.242" style="s2">scriptedp0ison_: You did good man lol get some well deserved rest</p>
+<p begin="05:23:42.287" end="05:23:47.287" style="s2">OPHaru: we tried BibleThump</p>
+<p begin="05:27:35.574" end="05:27:40.574" style="s2">slapusillydawg: woah you really have the email address lol@lol.com? PogChamp</p>
+<p begin="05:28:15.274" end="05:28:20.274" style="s2">myaocat: sony gave him</p>
+<p begin="05:31:18.077" end="05:31:23.077" style="s2">Jaany: LUL</p>
+<p begin="05:32:05.750" end="05:32:10.750" style="s2">suurrend3r: ResidentSleeper</p>
+<p begin="05:32:54.224" end="05:32:59.224" style="s2">myaocat: lupoHYPE lupoHYPE lupoHYPE lupoHYPE lupoHYPE lupoHYPE lupoHYPE</p>
+<p begin="05:33:27.728" end="05:33:32.728" style="s2">Jaany: 5hr30m for $10 PogChamp</p>
+<p begin="05:33:43.657" end="05:33:48.657" style="s2">suurrend3r: thats pretty sick</p>
+<p begin="05:33:45.548" end="05:33:50.548" style="s2">myaocat: 50% goes for tax</p>
+<p begin="05:34:09.427" end="05:34:14.427" style="s2">Jaany: 5hr30m for $10 PogChamp</p>
+<p begin="05:34:18.594" end="05:34:23.594" style="s2">un3okapi: more PogChamp</p>
+<p begin="05:34:40.899" end="05:34:45.899" style="s2">foxubu: Drink Mate!</p>
+<p begin="05:34:43.751" end="05:34:48.751" style="s2">myaocat: recursion stream lol</p>
+<p begin="05:34:55.664" end="05:35:00.664" style="s2">un3okapi: &lt;3</p>
+<p begin="05:34:57.970" end="05:35:02.970" style="s2">Jaany: &lt;3 take care</p>
+<p begin="05:35:12.563" end="05:35:17.563" style="s2">myaocat: lupoMEOW lupoMEOW lupoMEOW</p>
+<p begin="05:35:26.024" end="05:35:31.024" style="s2">suurrend3r: SeemsGood MingLee MingLee MingLee<br /> </p>
+</div>
+</body>
+</tt>

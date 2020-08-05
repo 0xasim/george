@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.050" end="00:00:05.110" style="s2">oh good morning</p>
+<p begin="00:00:29.019" end="00:00:33.329" style="s2">what&#39;s up happy happy for the job</p>
+<p begin="00:00:32.410" end="00:00:36.600" style="s2">everybody</p>
+<p begin="00:00:33.329" end="00:00:39.460" style="s2">you all know that I love America</p>
+<p begin="00:00:36.600" end="00:00:40.960" style="s2">America&#39;s great this is one of those</p>
+<p begin="00:00:39.460" end="00:00:47.170" style="s2">periscope that&#39;s gonna get deleted</p>
+<p begin="00:00:40.960" end="00:00:49.180" style="s2">quickly but yeah what did I want to talk</p>
+<p begin="00:00:47.170" end="00:00:52.690" style="s2">about today nothing</p>
+<p begin="00:00:49.180" end="00:00:56.649" style="s2">I got nothing to talk about yeah well</p>
+<p begin="00:00:52.690" end="00:01:00.250" style="s2">good thing come on Tay I&#39;m actually</p>
+<p begin="00:00:56.649" end="00:01:03.010" style="s2">finished with the mati the secrets mmm</p>
+<p begin="00:01:00.250" end="00:01:05.590" style="s2">we&#39;re not ready to reveal any secrets</p>
+<p begin="00:01:03.010" end="00:01:07.539" style="s2">yet Wow we have 62 people in here Oh</p>
+<p begin="00:01:05.590" end="00:01:09.789" style="s2">nope we&#39;re not gonna reveal any secrets</p>
+<p begin="00:01:07.539" end="00:01:11.850" style="s2">on this periscope we can look at the</p>
+<p begin="00:01:09.789" end="00:01:15.009" style="s2">airports though whoo air Potts oh yeah</p>
+<p begin="00:01:11.850" end="00:01:21.280" style="s2">they put one in that&#39;s nice oh yeah look</p>
+<p begin="00:01:15.009" end="00:01:22.390" style="s2">at that air product but what do we want</p>
+<p begin="00:01:21.280" end="00:01:27.039" style="s2">to talk oh we want to talk about the</p>
+<p begin="00:01:22.390" end="00:01:28.250" style="s2">latest in height wave AI let&#39;s talk</p>
+<p begin="00:01:27.039" end="00:01:30.890" style="s2">about</p>
+<p begin="00:01:28.250" end="00:01:35.300" style="s2">the first example of reinforcement</p>
+<p begin="00:01:30.890" end="00:01:37.910" style="s2">learning on board an autonomous car let</p>
+<p begin="00:01:35.300" end="00:01:40.010" style="s2">me tell you why this is hype because</p>
+<p begin="00:01:37.910" end="00:01:45.410" style="s2">nobody doubted that this would work</p>
+<p begin="00:01:40.010" end="00:01:49.940" style="s2">right they drove down this same stretch</p>
+<p begin="00:01:45.410" end="00:01:51.350" style="s2">of road multiple times and then</p>
+<p begin="00:01:49.940" end="00:02:02.300" style="s2">eventually reinforcement learning</p>
+<p begin="00:01:51.350" end="00:02:04.940" style="s2">learned how to drive the car hi oh we</p>
+<p begin="00:02:02.300" end="00:02:07.010" style="s2">could talk about cachet i - anthony</p>
+<p begin="00:02:04.940" end="00:02:12.830" style="s2">levin Donsky is back at it building</p>
+<p begin="00:02:07.010" end="00:02:17.810" style="s2">trucks I mean it&#39;s a nice picture I</p>
+<p begin="00:02:12.830" end="00:02:19.450" style="s2">guess no it&#39;s not what I did</p>
+<p begin="00:02:17.810" end="00:02:25.510" style="s2">I wouldn&#39;t use reinforcement</p>
+<p begin="00:02:19.450" end="00:02:28.490" style="s2">reinforcement learning is largely a scam</p>
+<p begin="00:02:25.510" end="00:02:30.770" style="s2">it doesn&#39;t really work that well part of</p>
+<p begin="00:02:28.490" end="00:02:34.580" style="s2">the problem is your rewards a super</p>
+<p begin="00:02:30.770" end="00:02:37.100" style="s2">sparse and to try to learn a real policy</p>
+<p begin="00:02:34.580" end="00:02:40.370" style="s2">so we&#39;re gonna do something similar the</p>
+<p begin="00:02:37.100" end="00:02:41.660" style="s2">long-term plan of kamma AI you&#39;ll see I</p>
+<p begin="00:02:40.370" end="00:02:42.800" style="s2">mean it&#39;s one of the secrets alright so</p>
+<p begin="00:02:41.660" end="00:02:46.610" style="s2">we have some great secrets we&#39;re gonna</p>
+<p begin="00:02:42.800" end="00:02:48.200" style="s2">reveal during the press know</p>
+<p begin="00:02:46.610" end="00:02:50.989" style="s2">reinforcement learning is very not data</p>
+<p begin="00:02:48.200" end="00:02:53.060" style="s2">efficient and it doesn&#39;t it doesn&#39;t</p>
+<p begin="00:02:50.989" end="00:02:54.530" style="s2">scale like what are you gonna do you&#39;re</p>
+<p begin="00:02:53.060" end="00:02:55.910" style="s2">gonna put this policy on all the cars</p>
+<p begin="00:02:54.530" end="00:02:57.709" style="s2">you&#39;re gonna you&#39;re really gonna run the</p>
+<p begin="00:02:55.910" end="00:03:00.830" style="s2">gradient on the car I don&#39;t think you</p>
+<p begin="00:02:57.709" end="00:03:01.370" style="s2">can do that you have to do it in one</p>
+<p begin="00:03:00.830" end="00:03:04.100" style="s2">place</p>
+<p begin="00:03:01.370" end="00:03:07.220" style="s2">alright guys you want to show off one</p>
+<p begin="00:03:04.100" end="00:03:08.600" style="s2">secret well what press out let&#39;s find</p>
+<p begin="00:03:07.220" end="00:03:10.100" style="s2">out both good ones you got good ones I</p>
+<p begin="00:03:08.600" end="00:03:12.860" style="s2">got the best press now I&#39;ll show you</p>
+<p begin="00:03:10.100" end="00:03:19.220" style="s2">guys one secret there&#39;s a secret shoot a</p>
+<p begin="00:03:12.860" end="00:03:21.380" style="s2">secret all part of open pound 0.5 you</p>
+<p begin="00:03:19.220" end="00:03:24.830" style="s2">guys you know 0.5 is not gonna have ways</p>
+<p begin="00:03:21.380" end="00:03:25.550" style="s2">and it&#39;s not gonna have Spotify happy</p>
+<p begin="00:03:24.830" end="00:03:27.920" style="s2">4th of July</p>
+<p begin="00:03:25.550" end="00:03:30.410" style="s2">absolutely it&#39;s a great day today is a</p>
+<p begin="00:03:27.920" end="00:03:33.080" style="s2">wonderful day today we want our</p>
+<p begin="00:03:30.410" end="00:03:36.790" style="s2">independence and our freedom from the</p>
+<p begin="00:03:33.080" end="00:03:36.790" style="s2">tyrannical British</p>
+<p begin="00:03:37.920" end="00:03:44.080" style="s2">alright guys I don&#39;t have that much to</p>
+<p begin="00:03:39.790" end="00:03:46.599" style="s2">say this morning mark that&#39;s right</p>
+<p begin="00:03:44.080" end="00:03:48.580" style="s2">check out my come a share this is</p>
+<p begin="00:03:46.599" end="00:03:54.340" style="s2">self-driving awareness to a shirt these</p>
+<p begin="00:03:48.580" end="00:03:58.120" style="s2">are extremely rare it&#39;s exciting</p>
+<p begin="00:03:54.340" end="00:04:02.110" style="s2">Spotify anyways are gone that&#39;s right</p>
+<p begin="00:03:58.120" end="00:04:04.930" style="s2">don&#39;t drink and drive kids good morning</p>
+<p begin="00:04:02.110" end="00:04:08.230" style="s2">Anthony levity is back to making trucks</p>
+<p begin="00:04:04.930" end="00:04:12.010" style="s2">maybe in China where the long arm of</p>
+<p begin="00:04:08.230" end="00:04:14.530" style="s2">Google can&#39;t reach them the beanies are</p>
+<p begin="00:04:12.010" end="00:04:15.579" style="s2">ultra rare much that is true they are</p>
+<p begin="00:04:14.530" end="00:04:17.530" style="s2">more rare</p>
+<p begin="00:04:15.579" end="00:04:21.459" style="s2">if you bought a beanie you got great</p>
+<p begin="00:04:17.530" end="00:04:25.200" style="s2">stuff what is 0.5 outs coming out not</p>
+<p begin="00:04:21.459" end="00:04:27.310" style="s2">this Friday but the Friday after um so</p>
+<p begin="00:04:25.200" end="00:04:30.490" style="s2">there are three secrets that are gonna</p>
+<p begin="00:04:27.310" end="00:04:34.990" style="s2">be revealed at press one secret is</p>
+<p begin="00:04:30.490" end="00:04:38.229" style="s2">already known by a few of you one secret</p>
+<p begin="00:04:34.990" end="00:04:43.389" style="s2">the second secret maybe you can guess</p>
+<p begin="00:04:38.229" end="00:04:44.080" style="s2">and the third secret is findable on the</p>
+<p begin="00:04:43.389" end="00:04:45.970" style="s2">Internet</p>
+<p begin="00:04:44.080" end="00:04:48.850" style="s2">so if you know the right place to look</p>
+<p begin="00:04:45.970" end="00:04:52.660" style="s2">you can find the third secret first</p>
+<p begin="00:04:48.850" end="00:04:54.130" style="s2">person to find the third secret what</p>
+<p begin="00:04:52.660" end="00:04:56.289" style="s2">should we give you what should we give</p>
+<p begin="00:04:54.130" end="00:05:00.160" style="s2">you if you find the third secret you</p>
+<p begin="00:04:56.289" end="00:05:02.889" style="s2">know one of the secrets okay okay and</p>
+<p begin="00:05:00.160" end="00:05:07.419" style="s2">CPF is a recon check out this beautiful</p>
+<p begin="00:05:02.889" end="00:05:10.020" style="s2">panda in a box look at this box I&#39;m sure</p>
+<p begin="00:05:07.419" end="00:05:12.820" style="s2">to go to shop.com at AI and buy things</p>
+<p begin="00:05:10.020" end="00:05:16.479" style="s2">today is the 4th of July it&#39;s a great</p>
+<p begin="00:05:12.820" end="00:05:18.490" style="s2">day to buy things yeah I mean that is</p>
+<p begin="00:05:16.479" end="00:05:21.460" style="s2">true if you find the secret you get did</p>
+<p begin="00:05:18.490" end="00:05:22.389" style="s2">you get to be the guy in slack who told</p>
+<p begin="00:05:21.460" end="00:05:29.229" style="s2">everybody else</p>
+<p begin="00:05:22.389" end="00:05:32.560" style="s2">the secret yeah the secret look at it</p>
+<p begin="00:05:29.229" end="00:05:35.310" style="s2">it&#39;s a panda this has nothing to do with</p>
+<p begin="00:05:32.560" end="00:05:35.310" style="s2">the secret of course</p>
+<p begin="00:05:35.500" end="00:05:39.670" style="s2">but there&#39;s a great secret if you know</p>
+<p begin="00:05:37.060" end="00:05:40.870" style="s2">how to look but that&#39;s it that&#39;s mostly</p>
+<p begin="00:05:39.670" end="00:05:42.040" style="s2">what I wanted to talk about today I</p>
+<p begin="00:05:40.870" end="00:05:44.910" style="s2">almost forgot questions do we have</p>
+<p begin="00:05:42.040" end="00:05:51.340" style="s2">questions are there any questions</p>
+<p begin="00:05:44.910" end="00:05:53.830" style="s2">good I hate questions yeah the Volvo&#39;s</p>
+<p begin="00:05:51.340" end="00:05:56.080" style="s2">sold we sold over 150 dollars in Vegas</p>
+<p begin="00:05:53.830" end="00:05:58.570" style="s2">bro now we&#39;re not going downstairs to</p>
+<p begin="00:05:56.080" end="00:06:02.020" style="s2">the 3d printers let&#39;s talk about how to</p>
+<p begin="00:05:58.570" end="00:06:06.460" style="s2">talk about Eddie yeah I&#39;m going on a</p>
+<p begin="00:06:02.020" end="00:06:10.210" style="s2">boat tonight I think Oh what is press</p>
+<p begin="00:06:06.460" end="00:06:12.610" style="s2">release oh not this Friday but next</p>
+<p begin="00:06:10.210" end="00:06:15.640" style="s2">Friday next Friday we&#39;ll be doing a</p>
+<p begin="00:06:12.610" end="00:06:16.900" style="s2">press release oh also I know I on</p>
+<p begin="00:06:15.640" end="00:06:22.210" style="s2">it a lot but what do you all think of</p>
+<p begin="00:06:16.900" end="00:06:24.490" style="s2">Python 3 open pilot is gonna be Python 3</p>
+<p begin="00:06:22.210" end="00:06:27.520" style="s2">compatible so we can start doing some</p>
+<p begin="00:06:24.490" end="00:06:30.820" style="s2">static type checking all very exciting</p>
+<p begin="00:06:27.520" end="00:06:32.320" style="s2">static type checking all faults on</p>
+<p begin="00:06:30.820" end="00:06:35.730" style="s2">infrastructure for data labeling maybe</p>
+<p begin="00:06:32.320" end="00:06:35.730" style="s2">that&#39;s related to one of the secrets</p>
+<p begin="00:06:36.150" end="00:06:42.610" style="s2">Tom&#39;s yeah I&#39;ve been coding if you&#39;ve</p>
+<p begin="00:06:39.460" end="00:06:46.060" style="s2">been watching me do my my twitches I&#39;ve</p>
+<p begin="00:06:42.610" end="00:06:47.200" style="s2">been doing them in Python 3 oh yeah I&#39;m</p>
+<p begin="00:06:46.060" end="00:06:48.700" style="s2">not gonna die because I&#39;m putting new</p>
+<p begin="00:06:47.200" end="00:06:51.790" style="s2">hardware it now I can show you a little</p>
+<p begin="00:06:48.700" end="00:06:53.080" style="s2">see what you want to go down there we&#39;ll</p>
+<p begin="00:06:51.790" end="00:06:55.570" style="s2">go down there and then that&#39;s where I&#39;ll</p>
+<p begin="00:06:53.080" end="00:06:58.900" style="s2">leave you are the things printing maybe</p>
+<p begin="00:06:55.570" end="00:07:02.590" style="s2">they&#39;re printing hey NIC we pretty the</p>
+<p begin="00:06:58.900" end="00:07:11.270" style="s2">new hardware oh yeah Skokie&#39;s want to</p>
+<p begin="00:07:02.590" end="00:07:12.620" style="s2">say oh yeah we&#39;re free</p>
+<p begin="00:07:11.270" end="00:07:16.479" style="s2">can&#39;t show you what&#39;s in any of the</p>
+<p begin="00:07:12.620" end="00:07:16.479" style="s2">printers because of course it&#39;s secret</p>
+<p begin="00:07:16.710" end="00:07:21.590" style="s2">oh yeah pretty wide ones pretty</p>
+<p begin="00:07:22.820" end="00:07:27.680" style="s2">it is printing secret so we can&#39;t show</p>
+<p begin="00:07:25.940" end="00:07:53.690" style="s2">it to you now just kidding guys we&#39;re</p>
+<p begin="00:07:27.680" end="00:07:55.790" style="s2">printing onto the giraffes around</p>
+<p begin="00:07:53.690" end="00:07:57.980" style="s2">flippin eons ollie on shipping now are</p>
+<p begin="00:07:55.790" end="00:08:09.980" style="s2">flipped i&#39;ll show them the top of</p>
+<p begin="00:07:57.980" end="00:08:13.070" style="s2">connectors yeah they&#39;re made on the form</p>
+<p begin="00:08:09.980" end="00:08:18.890" style="s2">too so this is a special 3d printer it</p>
+<p begin="00:08:13.070" end="00:08:20.930" style="s2">gets its own room no no the work today</p>
+<p begin="00:08:18.890" end="00:08:22.130" style="s2">no one has to come to work any day</p>
+<p begin="00:08:20.930" end="00:08:24.200" style="s2">except for Mondays when we have the</p>
+<p begin="00:08:22.130" end="00:08:26.690" style="s2">meeting it&#39;s very important to come to</p>
+<p begin="00:08:24.200" end="00:08:29.870" style="s2">work on the Monday meeting very</p>
+<p begin="00:08:26.690" end="00:08:32.120" style="s2">important all right I think that&#39;s the</p>
+<p begin="00:08:29.870" end="00:08:35.720" style="s2">periscope you guys saw the 3d printers</p>
+<p begin="00:08:32.120" end="00:08:38.590" style="s2">that&#39;s all we can really ask for the</p>
+<p begin="00:08:35.720" end="00:08:41.120" style="s2">biggest thing that we&#39;re talking about</p>
+<p begin="00:08:38.590" end="00:08:42.710" style="s2">you know the driver won&#39;t be bored when</p>
+<p begin="00:08:41.120" end="00:08:47.660" style="s2">they&#39;re being monitored by driver</p>
+<p begin="00:08:42.710" end="00:08:49.520" style="s2">monitoring that&#39;s it guys the biggest</p>
+<p begin="00:08:47.660" end="00:08:51.200" style="s2">thing that we&#39;re really hyped about in</p>
+<p begin="00:08:49.520" end="00:08:54.200" style="s2">the press is hiring we&#39;re trying to hire</p>
+<p begin="00:08:51.200" end="00:08:57.260" style="s2">five people I know I did like ten but</p>
+<p begin="00:08:54.200" end="00:09:00.410" style="s2">it&#39;s five people</p>
+<p begin="00:08:57.260" end="00:09:04.610" style="s2">let&#39;s get user or you can put the new</p>
+<p begin="00:09:00.410" end="00:09:06.670" style="s2">user I just add some to it all</p>
+<p begin="00:09:04.610" end="00:09:06.670" style="s2">right</p>
+</div>
+</body>
+</tt>

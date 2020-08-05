@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.090" end="00:00:14.220" style="s2">okay on ops copies they should tell not</p>
+<p begin="00:00:08.580" end="00:00:15.990" style="s2">automatically all right</p>
+<p begin="00:00:14.220" end="00:00:25.109" style="s2">is my phone did my phone rotate first i</p>
+<p begin="00:00:15.990" end="00:00:28.919" style="s2">unlock the rotation cool so we are</p>
+<p begin="00:00:25.109" end="00:00:32.730" style="s2">driving in a Cadillac ct-6 the only one</p>
+<p begin="00:00:28.919" end="00:00:35.100" style="s2">in the world with open pilots it&#39;s like</p>
+<p begin="00:00:32.730" end="00:00:37.350" style="s2">we bought this car with super cruise and</p>
+<p begin="00:00:35.100" end="00:00:42.899" style="s2">then we downgraded it we put open pilot</p>
+<p begin="00:00:37.350" end="00:00:47.640" style="s2">on it open Cory super Pinal yeah how do</p>
+<p begin="00:00:42.899" end="00:00:48.929" style="s2">I engage like cruise control yeah oh you</p>
+<p begin="00:00:47.640" end="00:00:50.339" style="s2">know what I like I can engage it</p>
+<p begin="00:00:48.929" end="00:00:55.769" style="s2">anywhere oh this is better</p>
+<p begin="00:00:50.339" end="00:01:02.749" style="s2">yeah and it goes by five you should not</p>
+<p begin="00:00:55.769" end="00:01:02.749" style="s2">lose your price those cars</p>
+<p begin="00:01:03.930" end="00:01:05.960" style="s2">Oh</p>
+<p begin="00:01:06.070" end="00:01:11.200" style="s2">but it is nice and super cruise because</p>
+<p begin="00:01:07.930" end="00:01:12.280" style="s2">you can engage it anywhere so super</p>
+<p begin="00:01:11.200" end="00:01:14.260" style="s2">cruise we&#39;d have to wait a long time</p>
+<p begin="00:01:12.280" end="00:01:15.490" style="s2">before we could engage it let&#39;s see what</p>
+<p begin="00:01:14.260" end="00:01:17.350" style="s2">happens very cool between these lengths</p>
+<p begin="00:01:15.490" end="00:01:22.170" style="s2">oh you can really tell this doesn&#39;t lag</p>
+<p begin="00:01:17.350" end="00:01:22.170" style="s2">yeah oh man this is better</p>
+<p begin="00:01:23.190" end="00:01:32.610" style="s2">can you do both both what and you have</p>
+<p begin="00:01:27.940" end="00:01:35.440" style="s2">the savannahs disengage now Bend is know</p>
+<p begin="00:01:32.610" end="00:01:36.850" style="s2">send us what there are three pandas you</p>
+<p begin="00:01:35.440" end="00:01:39.660" style="s2">have a dependent owner that&#39;s can</p>
+<p begin="00:01:36.850" end="00:01:39.660" style="s2">messages yeah</p>
+<p begin="00:01:41.590" end="00:01:46.840" style="s2">yes now when you engage then the pond is</p>
+<p begin="00:01:43.540" end="00:01:49.390" style="s2">gonna blink a white but I can still do</p>
+<p begin="00:01:46.840" end="00:01:57.759" style="s2">this like it&#39;s cruise control yes</p>
+<p begin="00:01:49.390" end="00:02:00.880" style="s2">no we are engaged never there&#39;s a bug</p>
+<p begin="00:01:57.759" end="00:02:02.830" style="s2">see the bug what so oh no yeah I don&#39;t</p>
+<p begin="00:02:00.880" end="00:02:05.830" style="s2">enforce the cancellation you don&#39;t force</p>
+<p begin="00:02:02.830" end="00:02:07.840" style="s2">the cancellation I mean yeah the</p>
+<p begin="00:02:05.830" end="00:02:10.149" style="s2">cancellation of open pilot are a</p>
+<p begin="00:02:07.840" end="00:02:11.230" style="s2">superset of the custom yeah yeah so we</p>
+<p begin="00:02:10.149" end="00:02:14.019" style="s2">got we got to change that for that</p>
+<p begin="00:02:11.230" end="00:02:18.720" style="s2">release oh yeah I mean wait when I</p>
+<p begin="00:02:14.019" end="00:02:21.040" style="s2">started work on don&#39;t you - no well yeah</p>
+<p begin="00:02:18.720" end="00:02:23.680" style="s2">yeah guys but we got we got this</p>
+<p begin="00:02:21.040" end="00:02:24.910" style="s2">beautiful ct-6 surrounding a beautiful</p>
+<p begin="00:02:23.680" end="00:02:27.690" style="s2">open pilot we&#39;re gonna make it better</p>
+<p begin="00:02:24.910" end="00:02:30.400" style="s2">than super cruise by the end of the year</p>
+<p begin="00:02:27.690" end="00:02:33.840" style="s2">most of my job as CEO is saying the same</p>
+<p begin="00:02:30.400" end="00:02:36.160" style="s2">things over and over and over again</p>
+<p begin="00:02:33.840" end="00:02:37.150" style="s2">do you have way of imperative Emily</p>
+<p begin="00:02:36.160" end="00:02:40.030" style="s2">great well they don&#39;t</p>
+<p begin="00:02:37.150" end="00:02:42.760" style="s2">Obama wide open pilots have Emily Chloe</p>
+<p begin="00:02:40.030" end="00:02:47.650" style="s2">fixed how we fixed it why did it have</p>
+<p begin="00:02:42.760" end="00:02:54.670" style="s2">memory leaks well what&#39;s that been -</p>
+<p begin="00:02:47.650" end="00:02:57.370" style="s2">focus focus on what what this is all</p>
+<p begin="00:02:54.670" end="00:03:00.450" style="s2">right being better than super cruise on</p>
+<p begin="00:02:57.370" end="00:03:02.950" style="s2">those six cars is the focus of the year</p>
+<p begin="00:03:00.450" end="00:03:05.090" style="s2">the step better Twitter Stan on then to</p>
+<p begin="00:03:02.950" end="00:03:08.670" style="s2">your third definitely yes</p>
+<p begin="00:03:05.090" end="00:03:10.200" style="s2">yes that yes like as much dark as you</p>
+<p begin="00:03:08.670" end="00:03:13.320" style="s2">want so we have to limit the torque</p>
+<p begin="00:03:10.200" end="00:03:15.630" style="s2">artificial there&#39;s a special command you</p>
+<p begin="00:03:13.320" end="00:03:18.270" style="s2">sent into the steering controller that</p>
+<p begin="00:03:15.630" end="00:03:20.250" style="s2">puts it in superheroes mode and you can</p>
+<p begin="00:03:18.270" end="00:03:23.730" style="s2">get scary amounts of torque in super</p>
+<p begin="00:03:20.250" end="00:03:26.730" style="s2">cruise mode so the Cadillac has</p>
+<p begin="00:03:23.730" end="00:03:29.280" style="s2">redundant ECU&#39;s in the back for this</p>
+<p begin="00:03:26.730" end="00:03:31.080" style="s2">um so we&#39;ve set up there are two pandas</p>
+<p begin="00:03:29.280" end="00:03:34.110" style="s2">back there doing proxy yeah so this is a</p>
+<p begin="00:03:31.080" end="00:03:36.360" style="s2">triple panda car guys pandas are so</p>
+<p begin="00:03:34.110" end="00:03:39.660" style="s2">versatile yes Oh bye pandas today shop</p>
+<p begin="00:03:36.360" end="00:03:47.190" style="s2">like I would buy in or three pandas</p>
+<p begin="00:03:39.660" end="00:03:50.930" style="s2">blocking messages they all boards all</p>
+<p begin="00:03:47.190" end="00:03:50.930" style="s2">right finally this light go forever</p>
+<p begin="00:03:55.830" end="00:04:02.410" style="s2">yeah but it&#39;s theory it says that but</p>
+<p begin="00:03:58.780" end="00:04:08.250" style="s2">experience okay Wow guys this this</p>
+<p begin="00:04:02.410" end="00:04:13.570" style="s2">actuator so good so this is GM&#39;s icing</p>
+<p begin="00:04:08.250" end="00:04:14.590" style="s2">oh man oh it doesn&#39;t wobble oh this is</p>
+<p begin="00:04:13.570" end="00:04:21.609" style="s2">cheating</p>
+<p begin="00:04:14.590" end="00:04:23.470" style="s2">no wonder super cruise is so good oh man</p>
+<p begin="00:04:21.609" end="00:04:25.120" style="s2">what were we talking part not anybody&#39;s</p>
+<p begin="00:04:23.470" end="00:04:27.669" style="s2">fault better we still have to go to the</p>
+<p begin="00:04:25.120" end="00:04:30.100" style="s2">highway it&#39;s literally like this it</p>
+<p begin="00:04:27.669" end="00:04:35.919" style="s2">doesn&#39;t wobble I mean I know well okay</p>
+<p begin="00:04:30.100" end="00:04:37.840" style="s2">okay there&#39;s a little wobble I keep my</p>
+<p begin="00:04:35.919" end="00:04:40.150" style="s2">hands very close to the wheel you know</p>
+<p begin="00:04:37.840" end="00:04:42.669" style="s2">we have some safety we don&#39;t know how</p>
+<p begin="00:04:40.150" end="00:04:43.840" style="s2">good it is it has not been extensively</p>
+<p begin="00:04:42.669" end="00:04:46.980" style="s2">tested but I&#39;m not</p>
+<p begin="00:04:43.840" end="00:04:46.980" style="s2">it is it is daring right now</p>
+<p begin="00:04:48.350" end="00:04:52.320" style="s2">I&#39;m gonna see what it&#39;s not it&#39;s not</p>
+<p begin="00:04:50.910" end="00:04:54.630" style="s2">like I don&#39;t know what&#39;s doing it well</p>
+<p begin="00:04:52.320" end="00:04:57.720" style="s2">they stand for a it&#39;s very temporary</p>
+<p begin="00:04:54.630" end="00:04:58.920" style="s2">yeah there must be a stay and we&#39;re in</p>
+<p begin="00:04:57.720" end="00:05:01.520" style="s2">we&#39;re in super cruise mode now</p>
+<p begin="00:04:58.920" end="00:05:04.520" style="s2">yeah I&#39;m printing the stage so I know</p>
+<p begin="00:05:01.520" end="00:05:04.520" style="s2">yeah</p>
+<p begin="00:05:05.880" end="00:05:13.970" style="s2">all this cost this is so good</p>
+<p begin="00:05:09.690" end="00:05:13.970" style="s2">here&#39;s a lot better gonna do stop cars</p>
+<p begin="00:05:14.820" end="00:05:20.550" style="s2">oh yeah because we&#39;ve left everything on</p>
+<p begin="00:05:16.530" end="00:05:24.210" style="s2">so I can do fusion oh my god oh that was</p>
+<p begin="00:05:20.550" end="00:05:27.750" style="s2">sickening Oh Ricardo creak creak creak</p>
+<p begin="00:05:24.210" end="00:05:30.390" style="s2">you&#39;ll replace it with ours okay yeah</p>
+<p begin="00:05:27.750" end="00:05:32.880" style="s2">GM GM just did a stop behind a stopped</p>
+<p begin="00:05:30.390" end="00:05:34.740" style="s2">car it was not a detection problem it</p>
+<p begin="00:05:32.880" end="00:05:37.770" style="s2">just stopped in such a sickening way</p>
+<p begin="00:05:34.740" end="00:05:39.090" style="s2">alright no more letting it do that I&#39;m</p>
+<p begin="00:05:37.770" end="00:05:41.880" style="s2">telling you those supercruise has a</p>
+<p begin="00:05:39.090" end="00:05:45.210" style="s2">different supercruise has a different</p>
+<p begin="00:05:41.880" end="00:05:46.890" style="s2">acc it&#39;s Bank yeah it&#39;s better cuz it</p>
+<p begin="00:05:45.210" end="00:05:51.090" style="s2">doesn&#39;t do that I know I know you don&#39;t</p>
+<p begin="00:05:46.890" end="00:05:53.070" style="s2">know you know it&#39;s kind of true I mean</p>
+<p begin="00:05:51.090" end="00:05:54.810" style="s2">you desktop and go hang with you guys</p>
+<p begin="00:05:53.070" end="00:06:09.950" style="s2">stop it going our way and I felt it&#39;d be</p>
+<p begin="00:05:54.810" end="00:06:09.950" style="s2">better I was GM&#39;s ACCC I don&#39;t know</p>
+<p begin="00:06:10.820" end="00:06:15.150" style="s2">they&#39;ve only been busier nowadays on for</p>
+<p begin="00:06:13.770" end="00:06:15.870" style="s2">sure like dining is busy cities</p>
+<p begin="00:06:15.150" end="00:06:16.830" style="s2">expensive</p>
+<p begin="00:06:15.870" end="00:06:29.610" style="s2">well it&#39;s dinner they&#39;re gonna have to</p>
+<p begin="00:06:16.830" end="00:06:36.390" style="s2">say recovery Jack Therese just some crab</p>
+<p begin="00:06:29.610" end="00:06:37.980" style="s2">yeah yeah so FBC so the MPC is the</p>
+<p begin="00:06:36.390" end="00:06:41.430" style="s2">control algorithm that open pilot uses</p>
+<p begin="00:06:37.980" end="00:06:44.040" style="s2">to compute its trajectory it&#39;s much more</p>
+<p begin="00:06:41.430" end="00:06:45.900" style="s2">sophisticated than what everyone else is</p>
+<p begin="00:06:44.040" end="00:06:47.880" style="s2">doing except for I&#39;m sure Tesla&#39;s NPC</p>
+<p begin="00:06:45.900" end="00:06:52.500" style="s2">you know yeah tests are just doing up to</p>
+<p begin="00:06:47.880" end="00:06:54.000" style="s2">say yes but they didn&#39;t have it at first</p>
+<p begin="00:06:52.500" end="00:06:56.640" style="s2">autopilot is have you say yeah</p>
+<p begin="00:06:54.000" end="00:06:57.990" style="s2">now before now but I mean notice what do</p>
+<p begin="00:06:56.640" end="00:06:59.090" style="s2">you want refer to we talking about silky</p>
+<p begin="00:06:57.990" end="00:07:00.470" style="s2">smooth</p>
+<p begin="00:06:59.090" end="00:07:05.360" style="s2">I don&#39;t know I mean I think some shoes</p>
+<p begin="00:07:00.470" end="00:07:09.290" style="s2">everything don&#39;t really apply it use</p>
+<p begin="00:07:05.360" end="00:07:14.360" style="s2">obviously I don&#39;t that I&#39;m not for much</p>
+<p begin="00:07:09.290" end="00:07:17.080" style="s2">else to gets in there all that have a</p>
+<p begin="00:07:14.360" end="00:07:17.080" style="s2">standard callaloo</p>
+<p begin="00:07:20.879" end="00:07:27.959" style="s2">oh wow yeah it&#39;s like a holiday it&#39;s</p>
+<p begin="00:07:24.659" end="00:07:29.459" style="s2">just so much better yeah so seriously</p>
+<p begin="00:07:27.959" end="00:07:31.860" style="s2">the reason oh come on scrappy on our</p>
+<p begin="00:07:29.459" end="00:07:33.809" style="s2">cars as actuators yeah I mean if there&#39;s</p>
+<p begin="00:07:31.860" end="00:07:39.029" style="s2">definitely a lot of difference we&#39;d all</p>
+<p begin="00:07:33.809" end="00:07:41.429" style="s2">come from different cars but yeah it&#39;s</p>
+<p begin="00:07:39.029" end="00:07:43.649" style="s2">like this feels very good</p>
+<p begin="00:07:41.429" end="00:07:45.300" style="s2">it&#39;s basically the only car that is</p>
+<p begin="00:07:43.649" end="00:07:47.839" style="s2">built with an activator that is meant to</p>
+<p begin="00:07:45.300" end="00:07:47.839" style="s2">be active</p>
+<p begin="00:07:57.450" end="00:08:02.729" style="s2">yeah compare this like the Toyota</p>
+<p begin="00:07:59.220" end="00:08:05.009" style="s2">actuators are so much worse</p>
+<p begin="00:08:02.729" end="00:08:08.180" style="s2">I got a feeling that Toyota performance</p>
+<p begin="00:08:05.009" end="00:08:10.940" style="s2">is because of the actuators</p>
+<p begin="00:08:08.180" end="00:08:13.580" style="s2">yeah yeah that me depreciable increase</p>
+<p begin="00:08:10.940" end="00:08:15.050" style="s2">my chatot yeah what&#39;s the focus for the</p>
+<p begin="00:08:13.580" end="00:08:18.520" style="s2">next to the man that is Hitler and that</p>
+<p begin="00:08:15.050" end="00:08:18.520" style="s2">could be that mr. Chris would do that</p>
+<p begin="00:08:19.270" end="00:08:24.370" style="s2">but Plato just need to compensate for</p>
+<p begin="00:08:21.470" end="00:08:24.370" style="s2">perfect return yes</p>
+<p begin="00:08:30.010" end="00:08:33.180" style="s2">they don&#39;t think the rifle</p>
+<p begin="00:08:34.060" end="00:08:39.670" style="s2">it&#39;s not supercruise it&#39;s not as good</p>
+<p begin="00:08:36.070" end="00:08:41.290" style="s2">yeah wait can I unable supercruise no</p>
+<p begin="00:08:39.670" end="00:08:47.260" style="s2">because it&#39;s like yeah I mean you can</p>
+<p begin="00:08:41.290" end="00:08:50.790" style="s2">but that does nothing so we&#39;re blocking</p>
+<p begin="00:08:47.260" end="00:08:50.790" style="s2">the good intelligent control</p>
+<p begin="00:08:57.900" end="00:09:05.190" style="s2">oh man that&#39;s a lot of tour well the</p>
+<p begin="00:09:01.440" end="00:09:08.580" style="s2">kids are unavailable but yeah now did it</p>
+<p begin="00:09:05.190" end="00:09:11.360" style="s2">oh no no so now it&#39;s back that&#39;s</p>
+<p begin="00:09:08.580" end="00:09:11.360" style="s2">interesting okay</p>
+<p begin="00:09:17.030" end="00:09:26.810" style="s2">Wow oh yeah this almost supercruise</p>
+<p begin="00:09:24.400" end="00:09:27.290" style="s2">makes mistakes so Chris doesn&#39;t make</p>
+<p begin="00:09:26.810" end="00:09:31.250" style="s2">mistakes</p>
+<p begin="00:09:27.290" end="00:09:33.700" style="s2">that&#39;s what we forget supercruise would</p>
+<p begin="00:09:31.250" end="00:09:36.520" style="s2">have disengaged a long time ago</p>
+<p begin="00:09:33.700" end="00:09:40.660" style="s2">yeah me at least it&#39;s always available</p>
+<p begin="00:09:36.520" end="00:09:46.990" style="s2">it is always available to be removed in</p>
+<p begin="00:09:40.660" end="00:09:49.210" style="s2">a later version no scarcely we won&#39;t be</p>
+<p begin="00:09:46.990" end="00:09:51.610" style="s2">as aggressive a super curse but we&#39;re</p>
+<p begin="00:09:49.210" end="00:09:54.420" style="s2">gonna start doing confident stuff and if</p>
+<p begin="00:09:51.610" end="00:09:54.420" style="s2">it&#39;s not confident</p>
+<p begin="00:09:56.240" end="00:10:01.170" style="s2">but</p>
+<p begin="00:09:58.650" end="00:10:03.210" style="s2">if we have to tune our threshold for</p>
+<p begin="00:10:01.170" end="00:10:05.430" style="s2">what sort of disengagement will tolerate</p>
+<p begin="00:10:03.210" end="00:10:07.080" style="s2">GM will tolerate nothing but they&#39;re</p>
+<p begin="00:10:05.430" end="00:10:09.290" style="s2">extremely conservative of the layman</p>
+<p begin="00:10:07.080" end="00:10:09.290" style="s2">gage</p>
+<p begin="00:10:14.850" end="00:10:19.319" style="s2">yeah oh this is like perfect penis it&#39;s</p>
+<p begin="00:10:17.699" end="00:10:25.769" style="s2">wobbling now the link supercruise does</p>
+<p begin="00:10:19.319" end="00:10:27.359" style="s2">this camera yeah oh the hold really it&#39;s</p>
+<p begin="00:10:25.769" end="00:10:33.419" style="s2">just it&#39;s just upsetting that the whole</p>
+<p begin="00:10:27.359" end="00:10:35.279" style="s2">thing is the actuators yeah I mean we&#39;re</p>
+<p begin="00:10:33.419" end="00:10:36.720" style="s2">pretty lightweight the plan totally</p>
+<p begin="00:10:35.279" end="00:10:39.209" style="s2">well that&#39;s just yeah so let&#39;s just</p>
+<p begin="00:10:36.720" end="00:10:40.679" style="s2">improve right yeah exactly the decision</p>
+<p begin="00:10:39.209" end="00:10:43.019" style="s2">aids are never getting into our be being</p>
+<p begin="00:10:40.679" end="00:10:45.619" style="s2">gave the perfect for this phone is gonna</p>
+<p begin="00:10:43.019" end="00:10:45.619" style="s2">be excited</p>
+<p begin="00:10:54.130" end="00:10:57.580" style="s2">yeah guys like open pilot works like</p>
+<p begin="00:10:56.380" end="00:11:01.680" style="s2">flawlessly here</p>
+<p begin="00:10:57.580" end="00:11:05.250" style="s2">I mean dense fog on like an exit ramp</p>
+<p begin="00:11:01.680" end="00:11:05.250" style="s2">like perfect</p>
+<p begin="00:11:05.810" end="00:11:11.120" style="s2">except they actually thought shit well</p>
+<p begin="00:11:09.440" end="00:11:12.650" style="s2">when the actuators aren&#39;t shitty it</p>
+<p begin="00:11:11.120" end="00:11:14.180" style="s2">doesn&#39;t move out of the lane and when it</p>
+<p begin="00:11:12.650" end="00:11:16.820" style="s2">doesn&#39;t move out of the lay that doesn&#39;t</p>
+<p begin="00:11:14.180" end="00:11:18.770" style="s2">have model failures yeah I mean that&#39;s</p>
+<p begin="00:11:16.820" end="00:11:36.770" style="s2">really what it comes down to it does be</p>
+<p begin="00:11:18.770" end="00:11:39.680" style="s2">done he says this is dangerous</p>
+<p begin="00:11:36.770" end="00:11:41.650" style="s2">torque yes the angle rate limited I did</p>
+<p begin="00:11:39.680" end="00:11:43.790" style="s2">it because otherwise it was like at the</p>
+<p begin="00:11:41.650" end="00:11:48.860" style="s2">way too bad you so much</p>
+<p begin="00:11:43.790" end="00:11:50.330" style="s2">where did you do it I can&#39;t keep my</p>
+<p begin="00:11:48.860" end="00:11:53.180" style="s2">hands real close to steering wheel yeah</p>
+<p begin="00:11:50.330" end="00:11:55.040" style="s2">I mean it&#39;s not like I can find it</p>
+<p begin="00:11:53.180" end="00:11:58.900" style="s2">obviously it will disengage eventually</p>
+<p begin="00:11:55.040" end="00:11:58.900" style="s2">yeah I mean you can put too much stock</p>
+<p begin="00:12:04.750" end="00:12:09.460" style="s2">so like sometimes it fights me and</p>
+<p begin="00:12:07.790" end="00:12:12.680" style="s2">sometimes it doesn&#39;t</p>
+<p begin="00:12:09.460" end="00:12:17.170" style="s2">yes never gives up fighting you changes</p>
+<p begin="00:12:12.680" end="00:12:21.070" style="s2">there okay so has a different state yeah</p>
+<p begin="00:12:17.170" end="00:12:21.070" style="s2">thinking getting the states right</p>
+<p begin="00:12:21.130" end="00:12:27.540" style="s2">I could be so much better let&#39;s stop</p>
+<p begin="00:12:30.690" end="00:12:36.330" style="s2">oh you may you hacked for autozone I</p>
+<p begin="00:12:32.780" end="00:12:39.710" style="s2">know you followed like if the time is</p>
+<p begin="00:12:36.330" end="00:12:39.710" style="s2">short yeah</p>
+<p begin="00:12:42.270" end="00:12:47.370" style="s2">none of us is gonna get the earth people</p>
+<p begin="00:12:44.610" end="00:12:49.230" style="s2">a come on about accidents possible</p>
+<p begin="00:12:47.370" end="00:12:51.930" style="s2">accidents oh no one&#39;s gonna get hurt</p>
+<p begin="00:12:49.230" end="00:12:53.640" style="s2">yeah my hands are literally touching the</p>
+<p begin="00:12:51.930" end="00:12:55.250" style="s2">steering wheel it&#39;s not gonna do</p>
+<p begin="00:12:53.640" end="00:12:57.630" style="s2">anything that fast</p>
+<p begin="00:12:55.250" end="00:13:06.060" style="s2">and if I step on like the gas its</p>
+<p begin="00:12:57.630" end="00:13:12.690" style="s2">disengaged how do I read you know which</p>
+<p begin="00:13:06.060" end="00:13:14.399" style="s2">is cancel days accidents don&#39;t happen</p>
+<p begin="00:13:12.690" end="00:13:17.010" style="s2">the first time you go out and test</p>
+<p begin="00:13:14.399" end="00:13:19.140" style="s2">something accidents happen the 30th time</p>
+<p begin="00:13:17.010" end="00:13:22.700" style="s2">when you think it&#39;s just safe you stop</p>
+<p begin="00:13:19.140" end="00:13:22.700" style="s2">paying attention and then you crash</p>
+<p begin="00:13:26.820" end="00:13:31.389" style="s2">cut it</p>
+<p begin="00:13:29.089" end="00:13:31.389" style="s2">yeah</p>
+<p begin="00:13:35.830" end="00:13:44.060" style="s2">what else let&#39;s go we say silent</p>
+<p begin="00:13:40.970" end="00:13:46.129" style="s2">pretty good though yeah I mean you just</p>
+<p begin="00:13:44.060" end="00:13:47.779" style="s2">it feels like it&#39;s just not gonna I</p>
+<p begin="00:13:46.129" end="00:13:49.310" style="s2">don&#39;t know like I feel like a lot of the</p>
+<p begin="00:13:47.779" end="00:13:51.199" style="s2">mistakes Oakland pilot makes where it</p>
+<p begin="00:13:49.310" end="00:13:53.060" style="s2">like pushes you out of the lane our do</p>
+<p begin="00:13:51.199" end="00:13:58.790" style="s2">do it loses the actuator for a little</p>
+<p begin="00:13:53.060" end="00:14:05.480" style="s2">bit and then just in general yeah in</p>
+<p begin="00:13:58.790" end="00:14:07.069" style="s2">general what I feel it does in general I</p>
+<p begin="00:14:05.480" end="00:14:08.720" style="s2">feel like a lot of the mistakes like</p>
+<p begin="00:14:07.069" end="00:14:10.040" style="s2">open pilot makes we&#39;re all like little</p>
+<p begin="00:14:08.720" end="00:14:14.660" style="s2">like lose it and then try to change</p>
+<p begin="00:14:10.040" end="00:14:17.839" style="s2">lanes yeah um our because the actuator</p>
+<p begin="00:14:14.660" end="00:14:19.939" style="s2">dies for like you know have a second</p>
+<p begin="00:14:17.839" end="00:14:21.769" style="s2">yeah yeah and then you get close and</p>
+<p begin="00:14:19.939" end="00:14:25.279" style="s2">then you close and yet it&#39;s like it&#39;s a</p>
+<p begin="00:14:21.769" end="00:14:26.870" style="s2">lane change yeah yeah no definitely</p>
+<p begin="00:14:25.279" end="00:14:30.399" style="s2">having a good as to later they keep you</p>
+<p begin="00:14:26.870" end="00:14:30.399" style="s2">centered helps yeah</p>
+<p begin="00:14:33.430" end="00:14:36.089" style="s2">the thing</p>
+<p begin="00:14:36.220" end="00:14:41.380" style="s2">here so we&#39;re not available for that it</p>
+<p begin="00:14:39.520" end="00:14:43.540" style="s2">was still staring yeah sometimes it</p>
+<p begin="00:14:41.380" end="00:14:46.240" style="s2">changes state and well one week once we</p>
+<p begin="00:14:43.540" end="00:14:50.160" style="s2">send the the alert is the other stays</p>
+<p begin="00:14:46.240" end="00:14:50.160" style="s2">there for a while even if recovered</p>
+<p begin="00:14:54.660" end="00:14:59.019" style="s2">and for example now</p>
+<p begin="00:14:56.800" end="00:15:01.059" style="s2">and I need to call her AG docks of</p>
+<p begin="00:14:59.019" end="00:15:03.929" style="s2">supercruise way they talk about torque</p>
+<p begin="00:15:01.059" end="00:15:06.550" style="s2">oh yeah</p>
+<p begin="00:15:03.929" end="00:15:07.559" style="s2">we need regulation that forces people to</p>
+<p begin="00:15:06.550" end="00:15:12.449" style="s2">open-source</p>
+<p begin="00:15:07.559" end="00:15:12.449" style="s2">their say Jenna nice throw</p>
+<p begin="00:15:12.720" end="00:15:16.570" style="s2">[Music]</p>
+<p begin="00:15:15.040" end="00:15:18.300" style="s2">whatever should have to open source a</p>
+<p begin="00:15:16.570" end="00:15:20.010" style="s2">safety monitor</p>
+<p begin="00:15:18.300" end="00:15:22.910" style="s2">would have prevented over maybe yeah</p>
+<p begin="00:15:20.010" end="00:15:22.910" style="s2">yeah</p>
+<p begin="00:15:24.939" end="00:15:29.079" style="s2">all right so we get a little wobble here</p>
+<p begin="00:15:29.540" end="00:15:35.449" style="s2">like there&#39;s per this wobble present but</p>
+<p begin="00:15:32.870" end="00:15:37.519" style="s2">much much less than like on the Toyota</p>
+<p begin="00:15:35.449" end="00:15:39.730" style="s2">nice sharp turn coming up guys so he</p>
+<p begin="00:15:37.519" end="00:15:39.730" style="s2">does</p>
+<p begin="00:15:41.649" end="00:15:46.620" style="s2">we found it it&#39;s false</p>
+<p begin="00:15:44.660" end="00:15:49.260" style="s2">yesterday good</p>
+<p begin="00:15:46.620" end="00:15:52.470" style="s2">I don&#39;t I think I was like oh so I get</p>
+<p begin="00:15:49.260" end="00:15:54.950" style="s2">it that I kappa i&#39;m at their statement</p>
+<p begin="00:15:52.470" end="00:15:54.950" style="s2">they&#39;re a lot</p>
+<p begin="00:15:56.730" end="00:16:00.690" style="s2">oh yeah</p>
+<p begin="00:16:04.650" end="00:16:09.620" style="s2">yeah model for you</p>
+<p begin="00:16:19.940" end="00:16:23.700" style="s2">the lanes are right it was like way too</p>
+<p begin="00:16:22.100" end="00:16:26.780" style="s2">far to the left</p>
+<p begin="00:16:23.700" end="00:16:26.780" style="s2">well okay</p>
+<p begin="00:16:27.820" end="00:16:32.080" style="s2">so it tries to recover sometimes have</p>
+<p begin="00:16:30.280" end="00:16:34.030" style="s2">seen like if the mother is not like</p>
+<p begin="00:16:32.080" end="00:16:36.700" style="s2">self-consistent he thinks is recovered</p>
+<p begin="00:16:34.030" end="00:16:40.180" style="s2">but it&#39;s not recovering because it&#39;s not</p>
+<p begin="00:16:36.700" end="00:16:44.110" style="s2">consistent but I also have a pretty low</p>
+<p begin="00:16:40.180" end="00:16:49.620" style="s2">weight on the steer great cast so you</p>
+<p begin="00:16:44.110" end="00:16:52.620" style="s2">should recover quickly yes I know it&#39;s</p>
+<p begin="00:16:49.620" end="00:16:52.620" style="s2">wobbling</p>
+<p begin="00:16:56.700" end="00:17:04.110" style="s2">yeah I mean it&#39;s crazy this is even</p>
+<p begin="00:16:59.130" end="00:17:05.670" style="s2">fairly on tuned as well it&#39;s like</p>
+<p begin="00:17:04.110" end="00:17:06.810" style="s2">literally the first time that we</p>
+<p begin="00:17:05.670" end="00:17:11.310" style="s2">actually dive it in this configuration</p>
+<p begin="00:17:06.810" end="00:17:16.620" style="s2">and never thought yeah so it is amazing</p>
+<p begin="00:17:11.310" end="00:17:18.360" style="s2">I&#39;m sure it&#39;s actuator lag yeah I mean</p>
+<p begin="00:17:16.620" end="00:17:20.220" style="s2">if you own a kit that goes together we</p>
+<p begin="00:17:18.360" end="00:17:22.680" style="s2">can we can measure actuator life right</p>
+<p begin="00:17:20.220" end="00:17:26.370" style="s2">oh yeah yeah so let&#39;s like let&#39;s plot</p>
+<p begin="00:17:22.680" end="00:17:30.600" style="s2">our cars yeah let&#39;s do a table in the</p>
+<p begin="00:17:26.370" end="00:17:33.480" style="s2">open violet readme by car with lower</p>
+<p begin="00:17:30.600" end="00:17:45.960" style="s2">actuator lag people if you want a better</p>
+<p begin="00:17:33.480" end="00:17:47.400" style="s2">open pilot experience yeah now we need</p>
+<p begin="00:17:45.960" end="00:17:49.560" style="s2">the same at the same theater safety I</p>
+<p begin="00:17:47.400" end="00:17:56.190" style="s2">think I&#39;m not even like what I&#39;m</p>
+<p begin="00:17:49.560" end="00:17:59.550" style="s2">detecting this what I&#39;m worried about</p>
+<p begin="00:17:56.190" end="00:18:02.010" style="s2">particularly with that is like it&#39;s okay</p>
+<p begin="00:17:59.550" end="00:18:03.960" style="s2">if I&#39;m fighting it but I&#39;m afraid it&#39;s</p>
+<p begin="00:18:02.010" end="00:18:09.420" style="s2">gonna let go and then I&#39;m gonna jerk the</p>
+<p begin="00:18:03.960" end="00:18:11.250" style="s2">wheel all right yes yes because I keep</p>
+<p begin="00:18:09.420" end="00:18:14.280" style="s2">putting torque right I&#39;m a constant</p>
+<p begin="00:18:11.250" end="00:18:16.310" style="s2">torque now I need you need the same</p>
+<p begin="00:18:14.280" end="00:18:19.770" style="s2">thing I think we have this information</p>
+<p begin="00:18:16.310" end="00:18:21.000" style="s2">so we should be yeah we should think</p>
+<p begin="00:18:19.770" end="00:18:25.200" style="s2">about trying to make that safety club</p>
+<p begin="00:18:21.000" end="00:18:26.580" style="s2">more generic but well at least we can</p>
+<p begin="00:18:25.200" end="00:18:28.410" style="s2">make it like a library kind of thing</p>
+<p begin="00:18:26.580" end="00:18:29.940" style="s2">everybody want the same thing in there</p>
+<p begin="00:18:28.410" end="00:18:33.150" style="s2">in the vault as well mm-hm</p>
+<p begin="00:18:29.940" end="00:18:36.540" style="s2">so the danger is when you was a human</p>
+<p begin="00:18:33.150" end="00:18:38.310" style="s2">put torque on the wheel the PID loop</p>
+<p begin="00:18:36.540" end="00:18:40.410" style="s2">winds up and applies more and more</p>
+<p begin="00:18:38.310" end="00:18:44.220" style="s2">torque to fight you so we want that not</p>
+<p begin="00:18:40.410" end="00:18:45.840" style="s2">to happen yeah we want to basically yeah</p>
+<p begin="00:18:44.220" end="00:18:48.630" style="s2">like acknowledge the human over right so</p>
+<p begin="00:18:45.840" end="00:18:51.840" style="s2">it was nice that the first car we chose</p>
+<p begin="00:18:48.630" end="00:18:53.700" style="s2">to do this Honda already has this code</p>
+<p begin="00:18:51.840" end="00:18:54.840" style="s2">built and it&#39;s jak controller yeah and</p>
+<p begin="00:18:53.700" end="00:18:55.830" style="s2">it is alright that&#39;s the only way to</p>
+<p begin="00:18:54.840" end="00:18:57.510" style="s2">describe what we see</p>
+<p begin="00:18:55.830" end="00:18:59.340" style="s2">without doing anything if you try to</p>
+<p begin="00:18:57.510" end="00:19:01.620" style="s2">arrive with their with their own on one</p>
+<p begin="00:18:59.340" end="00:19:04.380" style="s2">side and let go there are sponsors like</p>
+<p begin="00:19:01.620" end="00:19:07.380" style="s2">super small town yeah yeah Tata</p>
+<p begin="00:19:04.380" end="00:19:08.880" style="s2">definitely was enter and default if you</p>
+<p begin="00:19:07.380" end="00:19:11.280" style="s2">remember the vault when we tried about</p>
+<p begin="00:19:08.880" end="00:19:13.410" style="s2">did the same thing as the tree otter I</p>
+<p begin="00:19:11.280" end="00:19:18.570" style="s2">said so I&#39;m not surprised that this one</p>
+<p begin="00:19:13.410" end="00:19:20.280" style="s2">is like this yeah yes it was evolved and</p>
+<p begin="00:19:18.570" end="00:19:22.820" style="s2">the L cast note on this is probably the</p>
+<p begin="00:19:20.280" end="00:19:22.820" style="s2">same as the vault</p>
+<p begin="00:19:24.070" end="00:19:26.670" style="s2">I know</p>
+<p begin="00:19:29.680" end="00:19:33.159" style="s2">yeah</p>
+<p begin="00:19:31.210" end="00:19:35.200" style="s2">but it&#39;s solely like because the</p>
+<p begin="00:19:33.159" end="00:19:37.960" style="s2">actuators are so tight if you can just</p>
+<p begin="00:19:35.200" end="00:19:43.149" style="s2">totally feel that yes it&#39;s not driving</p>
+<p begin="00:19:37.960" end="00:19:43.750" style="s2">badly it&#39;s just like yeah you have well</p>
+<p begin="00:19:43.149" end="00:19:46.210" style="s2">so</p>
+<p begin="00:19:43.750" end="00:19:50.940" style="s2">oh it&#39;s disengaged oh yeah how&#39;d that</p>
+<p begin="00:19:46.210" end="00:19:54.450" style="s2">happen what happened I know how to press</p>
+<p begin="00:19:50.940" end="00:19:54.450" style="s2">I get check</p>
+<p begin="00:20:01.860" end="00:20:06.559" style="s2">well because it&#39;s had pingpong of</p>
+<p begin="00:20:03.779" end="00:20:06.559" style="s2">Elena&#39;s og</p>
+<p begin="00:20:06.789" end="00:20:15.639" style="s2">oh no this a book yeah now this ain&#39;t</p>
+<p begin="00:20:11.320" end="00:20:17.529" style="s2">like acid oh I really we gotta we gotta</p>
+<p begin="00:20:15.639" end="00:20:19.749" style="s2">kill the cruise control - I don&#39;t like</p>
+<p begin="00:20:17.529" end="00:20:22.179" style="s2">yeah yeah yeah but that&#39;s gonna be easy</p>
+<p begin="00:20:19.749" end="00:20:29.739" style="s2">yeah thank you sir I can&#39;t even do it</p>
+<p begin="00:20:22.179" end="00:20:33.219" style="s2">now will expand me yeah how similar is</p>
+<p begin="00:20:29.739" end="00:20:35.859" style="s2">bald and messaging to 66 also laughter</p>
+<p begin="00:20:33.219" end="00:20:37.989" style="s2">Donnie is completely different so just</p>
+<p begin="00:20:35.859" end="00:20:40.929" style="s2">the CDC to also support the vault</p>
+<p begin="00:20:37.989" end="00:20:46.119" style="s2">message because I saw it there no I&#39;m a</p>
+<p begin="00:20:40.929" end="00:20:48.159" style="s2">different boss you saw it oh the both</p>
+<p begin="00:20:46.119" end="00:20:53.829" style="s2">but supercruise and I cows are done with</p>
+<p begin="00:20:48.159" end="00:20:56.949" style="s2">like 0x1 52 52 52 and 54 oh yeah now</p>
+<p begin="00:20:53.829" end="00:20:59.379" style="s2">they&#39;re the Cadillac is different with</p>
+<p begin="00:20:56.949" end="00:21:04.019" style="s2">super who is it has two active safety</p>
+<p begin="00:20:59.379" end="00:21:06.249" style="s2">module active safety control modules and</p>
+<p begin="00:21:04.019" end="00:21:09.099" style="s2">they send different messages for</p>
+<p begin="00:21:06.249" end="00:21:12.309" style="s2">steering when Julie no control seems the</p>
+<p begin="00:21:09.099" end="00:21:14.199" style="s2">same stealing to try it but it only</p>
+<p begin="00:21:12.309" end="00:21:16.209" style="s2">seems like the same thing GM&#39;s</p>
+<p begin="00:21:14.199" end="00:21:17.679" style="s2">longitudinal controls very nice they</p>
+<p begin="00:21:16.209" end="00:21:21.969" style="s2">have one packet for the gas and one</p>
+<p begin="00:21:17.679" end="00:21:24.009" style="s2">packet for the brake yeah the best and</p>
+<p begin="00:21:21.969" end="00:21:25.359" style="s2">you command like the throttle right so</p>
+<p begin="00:21:24.009" end="00:21:28.299" style="s2">the Honda has a packet for the brake the</p>
+<p begin="00:21:25.359" end="00:21:30.009" style="s2">Honda brake packet is great the Civic is</p>
+<p begin="00:21:28.299" end="00:21:33.029" style="s2">is they&#39;re like the Utes like an ideal</p>
+<p begin="00:21:30.009" end="00:21:40.199" style="s2">Frank right yeah it&#39;s pretty good</p>
+<p begin="00:21:33.029" end="00:21:40.199" style="s2">someone&#39;s got a red light got him</p>
+<p begin="00:21:40.370" end="00:21:50.049" style="s2">I don&#39;t know later I like Amazon because</p>
+<p begin="00:21:46.429" end="00:21:50.049" style="s2">the flash really gives it away</p>
+<p begin="00:21:52.570" end="00:21:56.640" style="s2">gauging autopilot here the autopilot</p>
+<p begin="00:21:54.730" end="00:21:59.470" style="s2">swerve</p>
+<p begin="00:21:56.640" end="00:22:02.809" style="s2">[Music]</p>
+<p begin="00:21:59.470" end="00:22:07.909" style="s2">into that car oh yeah yeah yeah yeah</p>
+<p begin="00:22:02.809" end="00:22:09.350" style="s2">yeah this is like you see this loop this</p>
+<p begin="00:22:07.909" end="00:22:12.110" style="s2">is like our standard loop for testing</p>
+<p begin="00:22:09.350" end="00:22:14.950" style="s2">cars so I&#39;m pretty well calibrated of</p>
+<p begin="00:22:12.110" end="00:22:14.950" style="s2">how they all perform</p>
+<p begin="00:22:16.280" end="00:22:20.720" style="s2">yeah so I have to give this one</p>
+<p begin="00:22:22.910" end="00:22:29.110" style="s2">it&#39;s probably the best</p>
+<p begin="00:22:25.510" end="00:22:33.010" style="s2">well with some tuning yeah yeah it&#39;s a I</p>
+<p begin="00:22:29.110" end="00:22:37.210" style="s2">mean it makes the model failures very</p>
+<p begin="00:22:33.010" end="00:22:40.049" style="s2">very apparent because he&#39;s died there</p>
+<p begin="00:22:37.210" end="00:22:40.049" style="s2">this is tight yeah</p>
+<p begin="00:22:41.809" end="00:22:47.669" style="s2">yeah it&#39;s less fucking anger yeah</p>
+<p begin="00:22:46.260" end="00:22:49.490" style="s2">but on the other hand every like</p>
+<p begin="00:22:47.669" end="00:22:53.640" style="s2">immediate feedback before it makes you</p>
+<p begin="00:22:49.490" end="00:22:57.830" style="s2">that I like more pretty you can predict</p>
+<p begin="00:22:53.640" end="00:22:57.830" style="s2">a little bit more water carry down yeah</p>
+<p begin="00:22:59.530" end="00:23:09.350" style="s2">I don&#39;t like not having my</p>
+<p begin="00:23:02.000" end="00:23:11.900" style="s2">alert triangle oh yeah car doesn&#39;t have</p>
+<p begin="00:23:09.350" end="00:23:15.810" style="s2">radar yes flexowriter</p>
+<p begin="00:23:11.900" end="00:23:15.810" style="s2">[Laughter]</p>
+<p begin="00:23:15.820" end="00:23:20.799" style="s2">yeah we need to figure this out yeah a</p>
+<p begin="00:23:22.210" end="00:23:28.039" style="s2">completely separate system or is that</p>
+<p begin="00:23:24.200" end="00:23:31.029" style="s2">using the sides like usually the sign is</p>
+<p begin="00:23:28.039" end="00:23:33.379" style="s2">a second</p>
+<p begin="00:23:31.029" end="00:23:35.899" style="s2">no in car manufactures wouldn&#39;t surprise</p>
+<p begin="00:23:33.379" end="00:23:42.889" style="s2">me if they like put the normal stock one</p>
+<p begin="00:23:35.899" end="00:23:47.149" style="s2">on there too but they&#39;re also cheap</p>
+<p begin="00:23:42.889" end="00:23:49.879" style="s2">which is an interesting what damn car a</p>
+<p begin="00:23:47.149" end="00:23:51.769" style="s2">vacuum like they&#39;re extremely cheap yet</p>
+<p begin="00:23:49.879" end="00:23:55.039" style="s2">they have like five ECU&#39;s to do</p>
+<p begin="00:23:51.769" end="00:24:14.509" style="s2">supercruise oh yeah replaced with one</p>
+<p begin="00:23:55.039" end="00:24:17.450" style="s2">cell phone yeah so this is a great</p>
+<p begin="00:24:14.509" end="00:24:25.419" style="s2">development platform yes Wow</p>
+<p begin="00:24:17.450" end="00:24:28.789" style="s2">you can get one to scope is for the best</p>
+<p begin="00:24:25.419" end="00:24:30.590" style="s2">about buy a Cadillac will actually wait</p>
+<p begin="00:24:28.789" end="00:24:32.679" style="s2">until we get the gas of the brake to</p>
+<p begin="00:24:30.590" end="00:24:37.970" style="s2">work and also wait until we get radars</p>
+<p begin="00:24:32.679" end="00:24:40.070" style="s2">but you can still Bible radar in duct</p>
+<p begin="00:24:37.970" end="00:24:45.800" style="s2">tape it to the front of</p>
+<p begin="00:24:40.070" end="00:24:45.800" style="s2">[Laughter]</p>
+<p begin="00:24:58.690" end="00:25:03.890" style="s2">all right scope ease that was riding a</p>
+<p begin="00:25:01.160" end="00:25:08.560" style="s2">Cadillac bye-bye</p>
+<p begin="00:25:03.890" end="00:25:08.560" style="s2">you&#39;re all quiet why I was so quiet</p>
+<p begin="00:25:09.010" end="00:25:12.350" style="s2">focus on the Caddy because it&#39;s the best</p>
+<p begin="00:25:11.690" end="00:25:14.510" style="s2">car</p>
+<p begin="00:25:12.350" end="00:25:17.510" style="s2">oh let&#39;s meet the models even open up</p>
+<p begin="00:25:14.510" end="00:25:19.100" style="s2">the model team you guys know like L from</p>
+<p begin="00:25:17.510" end="00:25:26.780" style="s2">Death Note that&#39;s kind of what the model</p>
+<p begin="00:25:19.100" end="00:25:31.220" style="s2">team is like you&#39;re a bot block which is</p>
+<p begin="00:25:26.780" end="00:25:36.860" style="s2">my prime now get here you&#39;ll come with</p>
+<p begin="00:25:31.220" end="00:25:37.370" style="s2">it my prime now get here oh my prime now</p>
+<p begin="00:25:36.860" end="00:25:40.550" style="s2">I got here</p>
+<p begin="00:25:37.370" end="00:25:45.350" style="s2">ah oh yeah you guys wanna see what I got</p>
+<p begin="00:25:40.550" end="00:25:47.540" style="s2">I&#39;m prime now I can&#39;t show you some of</p>
+<p begin="00:25:45.350" end="00:25:54.470" style="s2">that secret but I can&#39;t show you what&#39;s</p>
+<p begin="00:25:47.540" end="00:25:57.500" style="s2">in the prime now bag for Samsung Evo</p>
+<p begin="00:25:54.470" end="00:26:00.070" style="s2">SSDs and we&#39;ll leave you with that hope</p>
+<p begin="00:25:57.500" end="00:26:00.070" style="s2">you enjoy the ride</p>
+</div>
+</body>
+</tt>

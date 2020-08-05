@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:09.269" style="s2">I just dreaming everything you do is</p>
+<p begin="00:00:05.299" end="00:00:11.330" style="s2">public and you gotta be careful what you</p>
+<p begin="00:00:09.269" end="00:00:11.330" style="s2">click</p>
+<p begin="00:00:16.540" end="00:00:27.490" style="s2">go back and let&#39;s go cheer now to be</p>
+<p begin="00:00:24.220" end="00:00:30.060" style="s2">number one let&#39;s try this weekly top</p>
+<p begin="00:00:27.490" end="00:00:30.060" style="s2">Cheers</p>
+<p begin="00:00:32.460" end="00:00:35.670" style="s2">all right</p>
+<p begin="00:00:54.850" end="00:01:03.570" style="s2">ah so we have to learn what Levenberg</p>
+<p begin="00:01:00.579" end="00:01:03.570" style="s2">mark locks</p>
+<p begin="00:01:37.680" end="00:01:40.809" style="s2">[Music]</p>
+<p begin="00:01:40.870" end="00:01:48.290" style="s2">so you guys know that we&#39;re using g2o</p>
+<p begin="00:01:44.020" end="00:01:51.800" style="s2">and this is what it says g2o is a</p>
+<p begin="00:01:48.290" end="00:01:55.150" style="s2">general framework for graph optimization</p>
+<p begin="00:01:51.800" end="00:01:55.150" style="s2">but we&#39;re gonna write our on a brush my</p>
+<p begin="00:01:57.580" end="00:02:05.000" style="s2">nodes and edges of a graph so I suspect</p>
+<p begin="00:02:01.700" end="00:02:09.310" style="s2">that under the hood G - o is just</p>
+<p begin="00:02:05.000" end="00:02:09.310" style="s2">turning things into large matrices</p>
+<p begin="00:02:30.770" end="00:02:33.770" style="s2">yeah</p>
+<p begin="00:02:39.950" end="00:02:44.180" style="s2">let&#39;s refactor this a little bit</p>
+<p begin="00:03:02.010" end="00:03:05.670" style="s2">move all the out here</p>
+<p begin="00:03:32.659" end="00:03:42.719" style="s2">what up I&#39;m ROG passing phrase the</p>
+<p begin="00:03:40.200" end="00:03:49.230" style="s2">points six points that sounds pretty</p>
+<p begin="00:03:42.719" end="00:03:54.269" style="s2">good idea myself doc frames local frames</p>
+<p begin="00:03:49.230" end="00:04:14.150" style="s2">if fixed points else self dot frames is</p>
+<p begin="00:03:54.269" end="00:04:14.150" style="s2">that right why did I write that</p>
+<p begin="00:04:14.540" end="00:04:18.229" style="s2">definitely move this up here</p>
+<p begin="00:05:17.169" end="00:05:26.680" style="s2">or have-nots in local frames if</p>
+<p begin="00:05:22.379" end="00:05:28.270" style="s2">fixpoints Elsa self dot freedoms okay so</p>
+<p begin="00:05:26.680" end="00:05:32.069" style="s2">you might actually need the local frame</p>
+<p begin="00:05:28.270" end="00:05:32.069" style="s2">logic here we might just get rid of this</p>
+<p begin="00:06:32.050" end="00:06:37.900" style="s2">well so there&#39;s another way to do this</p>
+<p begin="00:06:35.440" end="00:06:39.460" style="s2">right you don&#39;t actually have to pass in</p>
+<p begin="00:06:37.900" end="00:06:43.530" style="s2">the frames we could just pass in the</p>
+<p begin="00:06:39.460" end="00:06:51.789" style="s2">points and the frames we&#39;ll get at it</p>
+<p begin="00:06:43.530" end="00:06:57.789" style="s2">habla moss suerte see rapido fuerte</p>
+<p begin="00:06:51.789" end="00:07:13.840" style="s2">Ty Lee yong-dae know at the end a square</p>
+<p begin="00:06:57.789" end="00:07:16.259" style="s2">test no conozco that&#39;s that&#39;s my high</p>
+<p begin="00:07:13.840" end="00:07:16.259" style="s2">school Spanish</p>
+<p begin="00:07:53.190" end="00:08:15.360" style="s2">well the windows not defined now because</p>
+<p begin="00:08:02.979" end="00:08:15.360" style="s2">I use - no way no</p>
+<p begin="00:08:38.540" end="00:08:55.040" style="s2">self&#39;s I&#39;m gonna have to pass in</p>
+<p begin="00:08:52.470" end="00:08:55.040" style="s2">max-frame</p>
+<p begin="00:09:02.860" end="00:09:22.670" style="s2">no see I don&#39;t like this no okay we have</p>
+<p begin="00:09:11.600" end="00:09:25.690" style="s2">to think this through better when I</p>
+<p begin="00:09:22.670" end="00:09:28.250" style="s2">stabbed it mom that&#39;s what I do mark go</p>
+<p begin="00:09:25.690" end="00:09:33.500" style="s2">investigate for you keyframes oh we&#39;re</p>
+<p begin="00:09:28.250" end="00:09:39.620" style="s2">gonna talk about keyframes bull how</p>
+<p begin="00:09:33.500" end="00:09:46.460" style="s2">chunk with Jing wind wailing wailing</p>
+<p begin="00:09:39.620" end="00:09:52.600" style="s2">wailing wailing now ye earth son sir</p>
+<p begin="00:09:46.460" end="00:09:52.600" style="s2">whoo y&#39;all</p>
+<p begin="00:09:58.319" end="00:10:08.980" style="s2">that&#39;s all my shine you guys okay so if</p>
+<p begin="00:10:07.449" end="00:10:24.550" style="s2">we&#39;re actually gonna do this let&#39;s take</p>
+<p begin="00:10:08.980" end="00:10:43.110" style="s2">this through more right this okay come</p>
+<p begin="00:10:24.550" end="00:10:43.110" style="s2">on yo bro you guys should cheer</p>
+<p begin="00:11:13.260" end="00:11:18.510" style="s2">so we really did have an optimized here</p>
+<p begin="00:11:23.040" end="00:11:39.660" style="s2">yo come get yo just post in uh whatever</p>
+<p begin="00:11:35.020" end="00:11:41.890" style="s2">this is you can cheer and I get money</p>
+<p begin="00:11:39.660" end="00:11:46.860" style="s2">weekly top Cheers</p>
+<p begin="00:11:41.890" end="00:11:46.860" style="s2">new Tom Cruise cheer your way to the top</p>
+<p begin="00:12:17.620" end="00:12:21.420" style="s2">you learn the sequel&#39;s bros</p>
+<p begin="00:12:27.970" end="00:12:33.900" style="s2">well</p>
+<p begin="00:12:30.040" end="00:12:33.900" style="s2">so here&#39;s a thing to kind of think about</p>
+<p begin="00:12:35.100" end="00:12:43.290" style="s2">what properties do these things really</p>
+<p begin="00:12:37.590" end="00:12:46.890" style="s2">have frames and whether they&#39;re fixed or</p>
+<p begin="00:12:43.290" end="00:12:52.980" style="s2">not now we don&#39;t want to add a frame to</p>
+<p begin="00:12:46.890" end="00:12:54.450" style="s2">the graph if it has no points I mean</p>
+<p begin="00:12:52.980" end="00:12:55.830" style="s2">that&#39;s the other way to do this right</p>
+<p begin="00:12:54.450" end="00:13:00.950" style="s2">like I could actually just insert the</p>
+<p begin="00:12:55.830" end="00:13:00.950" style="s2">points at each</p>
+<p begin="00:13:09.630" end="00:13:14.310" style="s2">tell sense is a lovely girl but if we</p>
+<p begin="00:13:12.900" end="00:13:26.709" style="s2">don&#39;t agree they won&#39;t get a copyright</p>
+<p begin="00:13:14.310" end="00:13:31.420" style="s2">strike okay</p>
+<p begin="00:13:26.709" end="00:13:36.500" style="s2">the optimizer and we are doing need I</p>
+<p begin="00:13:31.420" end="00:13:38.420" style="s2">think we really need Kay I wonder if</p>
+<p begin="00:13:36.500" end="00:13:47.230" style="s2">it&#39;ll work better if I pass in the</p>
+<p begin="00:13:38.420" end="00:13:52.519" style="s2">points as it&#39;s at work</p>
+<p begin="00:13:47.230" end="00:13:57.079" style="s2">there&#39;s passing a null camera matrix we</p>
+<p begin="00:13:52.519" end="00:14:02.899" style="s2">can try that so like we&#39;re using KP use</p>
+<p begin="00:13:57.079" end="00:14:07.970" style="s2">right we can use KP s and then we can</p>
+<p begin="00:14:02.899" end="00:14:22.329" style="s2">for the camera so this is not alt just</p>
+<p begin="00:14:07.970" end="00:14:22.329" style="s2">pass it in a1100 it&#39;s how that works</p>
+<p begin="00:14:29.870" end="00:14:49.700" style="s2">it&#39;s pressing verbose the optimizer know</p>
+<p begin="00:14:46.940" end="00:14:52.880" style="s2">we have work works later this is twitch</p>
+<p begin="00:14:49.700" end="00:14:56.240" style="s2">time you look the errors are much much</p>
+<p begin="00:14:52.880" end="00:15:03.320" style="s2">smaller I don&#39;t know if that&#39;s better or</p>
+<p begin="00:14:56.240" end="00:15:06.190" style="s2">not they actually look identical that&#39;s</p>
+<p begin="00:15:03.320" end="00:15:06.190" style="s2">on a different scale</p>
+<p begin="00:15:29.690" end="00:15:34.160" style="s2">all right so maybe that&#39;ll be the new</p>
+<p begin="00:15:31.850" end="00:15:38.210" style="s2">way we do things we will pass in the KP</p>
+<p begin="00:15:34.160" end="00:15:41.650" style="s2">use will get rid of this no we don&#39;t</p>
+<p begin="00:15:38.210" end="00:15:41.650" style="s2">need decay anymore</p>
+<p begin="00:15:50.950" end="00:15:59.950" style="s2">what we&#39;re creating a class don&#39;t extend</p>
+<p begin="00:15:54.050" end="00:15:59.950" style="s2">from object but is that bad</p>
+<p begin="00:16:10.950" end="00:16:15.030" style="s2">- three class</p>
+<p begin="00:16:19.030" end="00:16:22.530" style="s2">you just want me to write that</p>
+<p begin="00:16:29.160" end="00:16:39.360" style="s2">save your ATP and all that means Wow</p>
+<p begin="00:16:35.970" end="00:16:41.250" style="s2">okay is the optimizer better but I just</p>
+<p begin="00:16:39.360" end="00:16:43.640" style="s2">saw it the air get really low but no</p>
+<p begin="00:16:41.250" end="00:16:43.640" style="s2">it&#39;s</p>
+<p begin="00:16:44.570" end="00:16:48.390" style="s2">no it&#39;s like just go to new room oh no</p>
+<p begin="00:16:47.490" end="00:16:54.630" style="s2">the bad okay</p>
+<p begin="00:16:48.390" end="00:16:55.830" style="s2">well save all works should I get rid of</p>
+<p begin="00:16:54.630" end="00:16:58.940" style="s2">all I really don&#39;t think it does</p>
+<p begin="00:16:55.830" end="00:16:58.940" style="s2">anything different at all</p>
+<p begin="00:17:06.449" end="00:17:09.769" style="s2">look at the air go down</p>
+<p begin="00:17:19.649" end="00:17:27.220" style="s2">okay by the way think about in terms of</p>
+<p begin="00:17:23.649" end="00:17:30.640" style="s2">that is probably better then we can move</p>
+<p begin="00:17:27.220" end="00:17:39.820" style="s2">the optimizer to here we&#39;ll put these</p>
+<p begin="00:17:30.640" end="00:17:41.200" style="s2">guys up here I don&#39;t know why Gigi oh</p>
+<p begin="00:17:39.820" end="00:17:43.470" style="s2">really does want you to put the camera</p>
+<p begin="00:17:41.200" end="00:17:43.470" style="s2">in it</p>
+<p begin="00:18:03.590" end="00:18:30.140" style="s2">well okay so what if I say for ID ID O&#39;s</p>
+<p begin="00:18:16.580" end="00:18:30.140" style="s2">frame that&#39;s a little annoying</p>
+<p begin="00:18:44.770" end="00:18:52.679" style="s2">because fight ok then I&#39;m going to need</p>
+<p begin="00:18:46.780" end="00:18:52.679" style="s2">my own representation of the points</p>
+<p begin="00:19:06.030" end="00:19:10.090" style="s2">this whole local window thing is</p>
+<p begin="00:19:08.410" end="00:19:33.940" style="s2">annoying but maybe that is a parameter</p>
+<p begin="00:19:10.090" end="00:19:35.440" style="s2">to the optimizer the putting back should</p>
+<p begin="00:19:33.940" end="00:19:44.490" style="s2">probably be outside of the optimizer</p>
+<p begin="00:19:35.440" end="00:19:49.560" style="s2">okay so that&#39;s all moved GG oh</p>
+<p begin="00:19:44.490" end="00:19:49.560" style="s2">add the frame to graph that&#39;s alright</p>
+<p begin="00:20:05.040" end="00:20:36.420" style="s2">points to frame at edges okay now that&#39;s</p>
+<p begin="00:20:32.200" end="00:20:36.420" style="s2">the thing we don&#39;t really want to</p>
+<p begin="00:20:43.170" end="00:20:51.220" style="s2">probably only because we&#39;ve indexing</p>
+<p begin="00:20:47.760" end="00:20:55.560" style="s2">you set this array frames are all still</p>
+<p begin="00:20:51.220" end="00:21:08.860" style="s2">in order at least we don&#39;t have like an</p>
+<p begin="00:20:55.560" end="00:21:11.580" style="s2">index array no I&#39;m Sam well not sure</p>
+<p begin="00:21:08.860" end="00:21:11.580" style="s2">this isn&#39;t that bad</p>
+<p begin="00:21:17.860" end="00:21:21.580" style="s2">see I don&#39;t want to put the frames back</p>
+<p begin="00:21:19.600" end="00:21:24.480" style="s2">here I want to like pass that just the</p>
+<p begin="00:21:21.580" end="00:21:24.480" style="s2">optimizer right</p>
+<p begin="00:21:44.440" end="00:21:48.410" style="s2">okay so this is you don&#39;t first off this</p>
+<p begin="00:21:46.700" end="00:22:13.670" style="s2">all crap is stupid I&#39;m not maintaining</p>
+<p begin="00:21:48.410" end="00:22:16.510" style="s2">this like to refactor it even better</p>
+<p begin="00:22:13.670" end="00:22:16.510" style="s2">than this though</p>
+<p begin="00:22:26.710" end="00:22:57.190" style="s2">we still like passing in these arbitrary</p>
+<p begin="00:22:29.200" end="00:23:05.860" style="s2">stupid frames and Des Moines classes so</p>
+<p begin="00:22:57.190" end="00:23:10.510" style="s2">we can get rid of this error then</p>
+<p begin="00:23:05.860" end="00:23:14.440" style="s2">doesn&#39;t as much meaning that&#39;s okay yeah</p>
+<p begin="00:23:10.510" end="00:23:15.610" style="s2">I thought GPRO was kind of shitty anyway</p>
+<p begin="00:23:14.440" end="00:23:20.470" style="s2">because like okay what did that even</p>
+<p begin="00:23:15.610" end="00:23:22.980" style="s2">mean by two pixels that&#39;s gonna change</p>
+<p begin="00:23:20.470" end="00:23:22.980" style="s2">the color</p>
+<p begin="00:24:15.730" end="00:25:24.169" style="s2">guys like this</p>
+<p begin="00:24:18.230" end="00:25:26.929" style="s2">pruning is bad with the per hour right</p>
+<p begin="00:25:24.169" end="00:25:31.600" style="s2">guys I need you to cheer or do whatever</p>
+<p begin="00:25:26.929" end="00:25:34.640" style="s2">happens on Twitch so I can make money</p>
+<p begin="00:25:31.600" end="00:25:43.960" style="s2">because otherwise you know who&#39;s gonna</p>
+<p begin="00:25:34.640" end="00:25:43.960" style="s2">fund these twitch streams that&#39;s right</p>
+<p begin="00:25:44.919" end="00:25:50.030" style="s2">which is not free you know somebody&#39;s</p>
+<p begin="00:25:47.690" end="00:25:51.320" style="s2">got to pay for it the bandwidth you</p>
+<p begin="00:25:50.030" end="00:25:53.720" style="s2">might just have to lower the stream</p>
+<p begin="00:25:51.320" end="00:25:58.970" style="s2">quality that&#39;s right</p>
+<p begin="00:25:53.720" end="00:26:02.260" style="s2">someone&#39;s got to pay for that I&#39;m gonna</p>
+<p begin="00:25:58.970" end="00:26:02.260" style="s2">say me just tell us well for the future</p>
+<p begin="00:26:15.610" end="00:26:37.550" style="s2">how was our help STD man it&#39;s bad type</p>
+<p begin="00:26:32.030" end="00:26:45.980" style="s2">ID oh did I mess up my refactor or</p>
+<p begin="00:26:37.550" end="00:26:54.430" style="s2">something did I mess up troll mods give</p>
+<p begin="00:26:45.980" end="00:26:54.430" style="s2">you my troll mods wrong up Dan edge bad</p>
+<p begin="00:26:55.630" end="00:27:10.930" style="s2">check X Y Z the STD bad type binding</p>
+<p begin="00:27:30.920" end="00:27:37.970" style="s2">Oh so today I go with the alt one or not</p>
+<p begin="00:27:34.640" end="00:27:39.440" style="s2">the all one don&#39;t want to not be all</p>
+<p begin="00:27:37.970" end="00:27:40.730" style="s2">want to deleted the camera for</p>
+<p begin="00:27:39.440" end="00:27:48.430" style="s2">everything and that&#39;s why it&#39;s</p>
+<p begin="00:27:40.730" end="00:27:48.430" style="s2">complaining yeah well with the all</p>
+<p begin="00:28:08.710" end="00:28:13.700" style="s2">coding where you guys can&#39;t see either</p>
+<p begin="00:28:10.880" end="00:28:15.560" style="s2">I&#39;m really terrible I&#39;m sorry quick</p>
+<p begin="00:28:13.700" end="00:28:17.930" style="s2">peace I know I&#39;ve let you down I know</p>
+<p begin="00:28:15.560" end="00:28:41.050" style="s2">this is why nobody donates to my channel</p>
+<p begin="00:28:17.930" end="00:28:41.050" style="s2">and poor so s is just not what he used</p>
+<p begin="00:28:49.360" end="00:29:00.610" style="s2">oh wait I already did that Wow it&#39;s</p>
+<p begin="00:28:57.980" end="00:29:08.930" style="s2">literally already exactly that function</p>
+<p begin="00:29:00.610" end="00:29:11.170" style="s2">great minds think alike you know not</p>
+<p begin="00:29:08.930" end="00:29:11.170" style="s2">cool</p>
+<p begin="00:29:11.799" end="00:29:28.359" style="s2">take your clothes off just dip it off</p>
+<p begin="00:29:13.999" end="00:29:32.479" style="s2">then why there yeah donate come on oh</p>
+<p begin="00:29:28.359" end="00:29:34.159" style="s2">gee Hasani yeah y&#39;all bro I don&#39;t know</p>
+<p begin="00:29:32.479" end="00:29:37.129" style="s2">what that is but I think that means I</p>
+<p begin="00:29:34.159" end="00:29:38.839" style="s2">get money I love money guys money&#39;s</p>
+<p begin="00:29:37.129" end="00:29:44.919" style="s2">little my favorite things in the world</p>
+<p begin="00:29:38.839" end="00:29:54.830" style="s2">uh you know I love money</p>
+<p begin="00:29:44.919" end="00:29:56.089" style="s2">all right we factor out I did soon we&#39;re</p>
+<p begin="00:29:54.830" end="00:29:59.779" style="s2">gonna try to write our own optimizer</p>
+<p begin="00:29:56.089" end="00:30:02.539" style="s2">today and yeah we&#39;re going to Taylor</p>
+<p begin="00:29:59.779" end="00:30:04.509" style="s2">Swift is building a giant wall all right</p>
+<p begin="00:30:02.539" end="00:30:10.190" style="s2">guys</p>
+<p begin="00:30:04.509" end="00:30:11.419" style="s2">should we be real on this channel no I</p>
+<p begin="00:30:10.190" end="00:30:13.219" style="s2">don&#39;t know if we could be real on this</p>
+<p begin="00:30:11.419" end="00:30:14.539" style="s2">channel no no we can&#39;t be real we can&#39;t</p>
+<p begin="00:30:13.219" end="00:30:28.129" style="s2">be real no one gave me enough money yet</p>
+<p begin="00:30:14.539" end="00:30:32.059" style="s2">oh to people that money I don&#39;t</p>
+<p begin="00:30:28.129" end="00:30:39.489" style="s2">even know guys how does twitch work how</p>
+<p begin="00:30:32.059" end="00:30:39.489" style="s2">does twitch money work ah perfect</p>
+<p begin="00:30:42.729" end="00:30:49.609" style="s2">they&#39;re really showing hard de stream</p>
+<p begin="00:30:47.479" end="00:30:51.440" style="s2">how much could you reasonably expect to</p>
+<p begin="00:30:49.609" end="00:30:53.960" style="s2">make and just where does all this money</p>
+<p begin="00:30:51.440" end="00:30:55.820" style="s2">come from anyway so here we go you&#39;re a</p>
+<p begin="00:30:53.960" end="00:30:57.259" style="s2">smaller time twitch streamer will focus</p>
+<p begin="00:30:55.820" end="00:30:58.999" style="s2">on twitch since they&#39;re a market leader</p>
+<p begin="00:30:57.259" end="00:31:00.649" style="s2">right now you&#39;re just getting started</p>
+<p begin="00:30:58.999" end="00:31:02.680" style="s2">and through a combination of good</p>
+<p begin="00:31:00.649" end="00:31:04.930" style="s2">gameplay trancing charisma</p>
+<p begin="00:31:02.680" end="00:31:07.390" style="s2">and devilishly good looks you built up a</p>
+<p begin="00:31:04.930" end="00:31:13.960" style="s2">small base of viewers congratulations if</p>
+<p begin="00:31:07.390" end="00:31:19.960" style="s2">you got up to 54 he sent me a pyramid I</p>
+<p begin="00:31:13.960" end="00:31:21.370" style="s2">don&#39;t know what that means much</p>
+<p begin="00:31:19.960" end="00:31:23.800" style="s2">more important is that it gives you</p>
+<p begin="00:31:21.370" end="00:31:28.330" style="s2">additional monetization on ah one of the</p>
+<p begin="00:31:23.800" end="00:31:30.010" style="s2">most significant ones subscriptions a</p>
+<p begin="00:31:28.330" end="00:31:32.050" style="s2">little differently when they do on sites</p>
+<p begin="00:31:30.010" end="00:31:34.990" style="s2">like YouTube although streams are free</p>
+<p begin="00:31:32.050" end="00:31:36.790" style="s2">to view some fans choose to subscribe to</p>
+<p begin="00:31:34.990" end="00:31:38.740" style="s2">strangers that they like haha not only</p>
+<p begin="00:31:36.790" end="00:31:40.750" style="s2">supports the streamer financially but</p>
+<p begin="00:31:38.740" end="00:31:42.910" style="s2">gives the subscriber perks like special</p>
+<p begin="00:31:40.750" end="00:31:44.860" style="s2">emoji and badges for use in the chatroom</p>
+<p begin="00:31:42.910" end="00:31:46.900" style="s2">as well as the ability to watch streams</p>
+<p begin="00:31:44.860" end="00:31:48.820" style="s2">without any twitch advertisements so at</p>
+<p begin="00:31:46.900" end="00:31:51.160" style="s2">the time of writing twitch subscriptions</p>
+<p begin="00:31:48.820" end="00:31:53.290" style="s2">cost between five and twenty five US</p>
+<p begin="00:31:51.160" end="00:31:55.150" style="s2">dollars per month Wow how much the</p>
+<p begin="00:31:53.290" end="00:31:57.070" style="s2">viewer wants to pay with that money</p>
+<p begin="00:31:55.150" end="00:31:59.020" style="s2">being split half half between the</p>
+<p begin="00:31:57.070" end="00:32:01.000" style="s2">streamer and the twitch player and</p>
+<p begin="00:31:59.020" end="00:32:04.420" style="s2">viewers can also purchase what are</p>
+<p begin="00:32:01.000" end="00:32:05.920" style="s2">called bits alright guys this is not</p>
+<p begin="00:32:04.420" end="00:32:08.080" style="s2">good content we have to show good</p>
+<p begin="00:32:05.920" end="00:32:13.030" style="s2">content on this channel we are going to</p>
+<p begin="00:32:08.080" end="00:32:15.520" style="s2">be a number 1000 twitch channel I don&#39;t</p>
+<p begin="00:32:13.030" end="00:32:17.170" style="s2">understand yeah no they of course it is</p>
+<p begin="00:32:15.520" end="00:32:19.660" style="s2">man like you know let me tell you</p>
+<p begin="00:32:17.170" end="00:32:21.910" style="s2">something I used to be a cam girl um and</p>
+<p begin="00:32:19.660" end="00:32:29.250" style="s2">yeah you have to let your body&#39;s like my</p>
+<p begin="00:32:21.910" end="00:32:32.680" style="s2">free cam dollars ya Bryce well you know</p>
+<p begin="00:32:29.250" end="00:32:34.330" style="s2">sent the carrier pigeon no I know no</p>
+<p begin="00:32:32.680" end="00:32:39.910" style="s2">we&#39;re gonna be we&#39;re gonna be good guys</p>
+<p begin="00:32:34.330" end="00:32:43.360" style="s2">we&#39;re gonna write good quality okay</p>
+<p begin="00:32:39.910" end="00:32:47.580" style="s2">well so this mean is now long because</p>
+<p begin="00:32:43.360" end="00:32:52.200" style="s2">this is in terms of I don&#39;t know what a</p>
+<p begin="00:32:47.580" end="00:32:52.200" style="s2">good error function actually is there</p>
+<p begin="00:32:52.410" end="00:32:58.390" style="s2">should we do something like just call a</p>
+<p begin="00:32:54.580" end="00:33:03.490" style="s2">certain amount of points or Pierre this</p>
+<p begin="00:32:58.390" end="00:33:05.880" style="s2">is greater than zero service no it seems</p>
+<p begin="00:33:03.490" end="00:33:05.880" style="s2">pretty good</p>
+<p begin="00:33:11.289" end="00:33:17.570" style="s2">why is it - damn so expensive because we</p>
+<p begin="00:33:13.879" end="00:33:18.950" style="s2">love money if we didn&#39;t love money it</p>
+<p begin="00:33:17.570" end="00:33:20.649" style="s2">would be cheaper but we love money</p>
+<p begin="00:33:18.950" end="00:33:22.519" style="s2">what&#39;s the problem</p>
+<p begin="00:33:20.649" end="00:33:24.229" style="s2">but we really not to talk in</p>
+<p begin="00:33:22.519" end="00:33:26.029" style="s2">self-driving cars on this channel we</p>
+<p begin="00:33:24.229" end="00:33:30.879" style="s2">talk about slam and we&#39;re about to write</p>
+<p begin="00:33:26.029" end="00:33:30.879" style="s2">Levenberg mark Watts fix</p>
+<p begin="00:33:41.360" end="00:33:45.450" style="s2">you know the scrolling backwards on this</p>
+<p begin="00:33:44.070" end="00:33:48.890" style="s2">computer so then when I go to normal</p>
+<p begin="00:33:45.450" end="00:33:53.420" style="s2">computers I&#39;m confused</p>
+<p begin="00:33:48.890" end="00:33:53.420" style="s2">okay so let&#39;s think about the problem</p>
+<p begin="00:33:58.130" end="00:34:05.059" style="s2">we&#39;re frames we have points and we want</p>
+<p begin="00:34:01.170" end="00:34:07.260" style="s2">to determine relationships between them</p>
+<p begin="00:34:05.059" end="00:34:09.929" style="s2">so my guess is what this actually</p>
+<p begin="00:34:07.260" end="00:34:13.740" style="s2">becomes is a really big oh hell yeah</p>
+<p begin="00:34:09.929" end="00:34:18.179" style="s2">quill fir&#39;d yeah yeah I have seen I have</p>
+<p begin="00:34:13.740" end="00:34:20.010" style="s2">seen people do this before so I like I</p>
+<p begin="00:34:18.179" end="00:34:27.290" style="s2">watch I know what I watched on Twitch i</p>
+<p begin="00:34:20.010" end="00:34:30.929" style="s2">watch mario 64 120 star speedrunning and</p>
+<p begin="00:34:27.290" end="00:34:33.600" style="s2">yeah yeah okay by the way is anyone</p>
+<p begin="00:34:30.929" end="00:34:38.610" style="s2">there going to another pyramid man</p>
+<p begin="00:34:33.600" end="00:34:40.230" style="s2">is anyone going to the cvpr I&#39;m thinking</p>
+<p begin="00:34:38.610" end="00:34:42.899" style="s2">about going if I make enough money on</p>
+<p begin="00:34:40.230" end="00:34:43.860" style="s2">Twitch to afford my cbpr travel that&#39;s</p>
+<p begin="00:34:42.899" end="00:34:47.010" style="s2">my dream man</p>
+<p begin="00:34:43.860" end="00:34:49.290" style="s2">send me the cvpr I know it&#39;s not like</p>
+<p begin="00:34:47.010" end="00:34:54.090" style="s2">super good games done quick or whatever</p>
+<p begin="00:34:49.290" end="00:34:55.520" style="s2">but but cvpr bro make enough money to</p>
+<p begin="00:34:54.090" end="00:35:00.210" style="s2">send me the cvpr</p>
+<p begin="00:34:55.520" end="00:35:02.520" style="s2">okay no no we have to focus on content</p>
+<p begin="00:35:00.210" end="00:35:05.160" style="s2">quality we can&#39;t just come on Twitch and</p>
+<p begin="00:35:02.520" end="00:35:07.940" style="s2">talk about how we want money that&#39;s not</p>
+<p begin="00:35:05.160" end="00:35:10.530" style="s2">good quality content</p>
+<p begin="00:35:07.940" end="00:35:12.290" style="s2">neither is saying that so that&#39;s a</p>
+<p begin="00:35:10.530" end="00:35:16.640" style="s2">problem I&#39;ll be right back to Reggie&#39;s</p>
+<p begin="00:35:12.290" end="00:35:16.640" style="s2">you want to support from Trump</p>
+<p begin="00:35:57.660" end="00:36:06.130" style="s2">so what we want to do is we want to take</p>
+<p begin="00:36:01.449" end="00:36:11.410" style="s2">this reprojection error and we want to</p>
+<p begin="00:36:06.130" end="00:36:12.940" style="s2">make it into like a flat matrix which I</p>
+<p begin="00:36:11.410" end="00:36:21.069" style="s2">think we can do right like we can just</p>
+<p begin="00:36:12.940" end="00:36:36.549" style="s2">flatten it out it&#39;s a three by F dot</p>
+<p begin="00:36:21.069" end="00:36:40.019" style="s2">pose P dot modulus no bro livestream</p>
+<p begin="00:36:36.549" end="00:36:40.019" style="s2">hacking that&#39;ll get too many viewers</p>
+<p begin="00:36:48.749" end="00:36:54.819" style="s2">okay we gotta think about what we want</p>
+<p begin="00:36:51.219" end="00:36:56.709" style="s2">to do but I don&#39;t know about Levenberg</p>
+<p begin="00:36:54.819" end="00:37:00.599" style="s2">mark walk but we were looking at mr.</p>
+<p begin="00:36:56.709" end="00:37:07.239" style="s2">iBooks here I was looking here at uh</p>
+<p begin="00:37:00.599" end="00:37:09.630" style="s2">applied linear algebra nice squares so</p>
+<p begin="00:37:07.239" end="00:37:12.219" style="s2">it is it&#39;s a least squares format</p>
+<p begin="00:37:09.630" end="00:37:14.499" style="s2">suppose that an M by M matrix is a tall</p>
+<p begin="00:37:12.219" end="00:37:16.269" style="s2">so that the system of linear equations</p>
+<p begin="00:37:14.499" end="00:37:17.859" style="s2">is over determined so we&#39;re gonna need</p>
+<p begin="00:37:16.269" end="00:37:25.940" style="s2">an over determined system of linear</p>
+<p begin="00:37:17.859" end="00:37:29.569" style="s2">equations yeah</p>
+<p begin="00:37:25.940" end="00:37:34.250" style="s2">I mean I think I could just stack the</p>
+<p begin="00:37:29.569" end="00:37:40.640" style="s2">poses and stack the points can i but the</p>
+<p begin="00:37:34.250" end="00:37:42.470" style="s2">real game is so we have to figure out</p>
+<p begin="00:37:40.640" end="00:37:44.980" style="s2">what we want to optimize we have to put</p>
+<p begin="00:37:42.470" end="00:37:51.040" style="s2">it in the format of least squares</p>
+<p begin="00:37:44.980" end="00:37:53.839" style="s2">somehow g2o is doing this such that I</p>
+<p begin="00:37:51.040" end="00:37:56.599" style="s2">know it&#39;s nonlinear least squares -</p>
+<p begin="00:37:53.839" end="00:37:59.869" style="s2">which was even worse somehow they&#39;re</p>
+<p begin="00:37:56.599" end="00:38:16.069" style="s2">doing it such that the pose and the</p>
+<p begin="00:37:59.869" end="00:38:17.869" style="s2">points get optimized see them sad this</p>
+<p begin="00:38:16.069" end="00:38:20.030" style="s2">is really so right here is actually all</p>
+<p begin="00:38:17.869" end="00:38:33.140" style="s2">the things we need to optimize let&#39;s</p>
+<p begin="00:38:20.030" end="00:38:35.020" style="s2">just comment this out for now this looks</p>
+<p begin="00:38:33.140" end="00:38:41.480" style="s2">like we don&#39;t use an optimizer at all</p>
+<p begin="00:38:35.020" end="00:38:46.750" style="s2">wow it sadly looks similar one on our</p>
+<p begin="00:38:41.480" end="00:38:46.750" style="s2">brakes no brakes yes we go now but</p>
+<p begin="00:39:13.269" end="00:39:25.099" style="s2">Boas sub-3 well that&#39;s okay we want to</p>
+<p begin="00:39:22.660" end="00:39:27.950" style="s2">simultaneously solve for all of these</p>
+<p begin="00:39:25.099" end="00:39:30.529" style="s2">projection equations now we could</p>
+<p begin="00:39:27.950" end="00:39:32.480" style="s2">optimize each point independently in</p>
+<p begin="00:39:30.529" end="00:39:36.670" style="s2">terms of least squares but that wouldn&#39;t</p>
+<p begin="00:39:32.480" end="00:39:36.670" style="s2">jointly optimize the poses and the</p>
+<p begin="00:39:38.559" end="00:39:43.220" style="s2">points at the same time like I&#39;m really</p>
+<p begin="00:39:42.019" end="00:39:46.430" style="s2">I&#39;m really just not sure how to do this</p>
+<p begin="00:39:43.220" end="00:39:48.170" style="s2">right do I write out two matrices and</p>
+<p begin="00:39:46.430" end="00:39:53.529" style="s2">like like ping-pong kind of back and</p>
+<p begin="00:39:48.170" end="00:39:53.529" style="s2">forth I mean maybe that&#39;s what it does</p>
+<p begin="00:39:54.130" end="00:39:59.499" style="s2">damply squares is used to solve</p>
+<p begin="00:39:56.569" end="00:40:01.609" style="s2">non-linear least squares problems</p>
+<p begin="00:39:59.499" end="00:40:08.769" style="s2">seems like a generic way to solve</p>
+<p begin="00:40:01.609" end="00:40:08.769" style="s2">nonlinear least squares problems</p>
+<p begin="00:40:12.490" end="00:40:18.130" style="s2">like do you see the problem like it will</p>
+<p begin="00:40:15.970" end="00:40:24.220" style="s2">try to matrices like I could put the</p>
+<p begin="00:40:18.130" end="00:40:26.970" style="s2">pose okay maybe maybe the G to L papers</p>
+<p begin="00:40:24.220" end="00:40:26.970" style="s2">talked about this</p>
+<p begin="00:40:44.050" end="00:40:54.020" style="s2">and I know I have to make the papers</p>
+<p begin="00:40:46.220" end="00:40:55.790" style="s2">bigger so you guys forego this example</p>
+<p begin="00:40:54.020" end="00:40:59.180" style="s2">illustrates how to represent an</p>
+<p begin="00:40:55.790" end="00:41:02.990" style="s2">objective function by a graph now I</p>
+<p begin="00:40:59.180" end="00:41:04.640" style="s2">could write an objective function I mean</p>
+<p begin="00:41:02.990" end="00:41:05.840" style="s2">okay so maybe that&#39;s just the idea maybe</p>
+<p begin="00:41:04.640" end="00:41:08.900" style="s2">first we just write an objective</p>
+<p begin="00:41:05.840" end="00:41:11.120" style="s2">function and then after we figure out</p>
+<p begin="00:41:08.900" end="00:41:13.040" style="s2">how to optimize that I mean the whole</p>
+<p begin="00:41:11.120" end="00:41:17.860" style="s2">objective function I want to optimize is</p>
+<p begin="00:41:13.040" end="00:41:17.860" style="s2">just this but like spread out a lot more</p>
+<p begin="00:41:18.850" end="00:41:28.750" style="s2">right so what is what function</p>
+<p begin="00:41:37.790" end="00:41:40.540" style="s2">okay</p>
+<p begin="00:41:40.660" end="00:41:47.250" style="s2">let&#39;s say I put my points over there and</p>
+<p begin="00:41:44.980" end="00:41:50.830" style="s2">we want to make this thing equal to zero</p>
+<p begin="00:41:47.250" end="00:41:58.170" style="s2">all right so we&#39;ll stack well stack all</p>
+<p begin="00:41:50.830" end="00:41:58.170" style="s2">my points in one water that stack all</p>
+<p begin="00:42:00.690" end="00:42:41.830" style="s2">large actually just like Python debugger</p>
+<p begin="00:42:36.550" end="00:42:58.260" style="s2">there well that&#39;s great thanks broski Oh</p>
+<p begin="00:42:41.830" end="00:42:58.260" style="s2">kiss my toes optimizer ground truth step</p>
+<p begin="00:43:10.800" end="00:43:18.090" style="s2">Wow the documentation is not up to date</p>
+<p begin="00:43:13.540" end="00:43:18.090" style="s2">bros spit a poor request</p>
+<p begin="00:43:19.530" end="00:43:28.750" style="s2">okay that&#39;s good so this is a beautiful</p>
+<p begin="00:43:24.280" end="00:43:33.480" style="s2">a beautiful long vector of points which</p>
+<p begin="00:43:28.750" end="00:43:33.480" style="s2">is all the points in our system now</p>
+<p begin="00:43:41.810" end="00:43:51.300" style="s2">okay so we want to minimize projection -</p>
+<p begin="00:43:46.140" end="00:44:00.480" style="s2">UV that I&#39;m not exactly sure how to do</p>
+<p begin="00:43:51.300" end="00:44:08.280" style="s2">like how do I subtract UV but I won&#39;t</p>
+<p begin="00:44:00.480" end="00:44:16.260" style="s2">put the UVs over there so now P DB yeah</p>
+<p begin="00:44:08.280" end="00:44:19.050" style="s2">yeah I know okay we kind of helped we</p>
+<p begin="00:44:16.260" end="00:44:23.910" style="s2">kind of have three things right kind of</p>
+<p begin="00:44:19.050" end="00:44:27.960" style="s2">have the map points the points and the</p>
+<p begin="00:44:23.910" end="00:44:30.360" style="s2">frames there&#39;s probably some clever</p>
+<p begin="00:44:27.960" end="00:44:33.780" style="s2">thing that we can do to put like two of</p>
+<p begin="00:44:30.360" end="00:44:36.680" style="s2">them together but I don&#39;t see it off the</p>
+<p begin="00:44:33.780" end="00:44:36.680" style="s2">top of my head</p>
+<p begin="00:44:40.119" end="00:44:45.279" style="s2">if we didn&#39;t want to optimize the poses</p>
+<p begin="00:44:42.459" end="00:44:48.579" style="s2">it would be pretty easy what kind of</p>
+<p begin="00:44:45.279" end="00:44:50.559" style="s2">object is UV so UV is just the U and the</p>
+<p begin="00:44:48.579" end="00:44:53.109" style="s2">V it&#39;s just two numbers it&#39;s though it&#39;s</p>
+<p begin="00:44:50.559" end="00:44:54.789" style="s2">the coordinate in the image I&#39;m in this</p>
+<p begin="00:44:53.109" end="00:45:01.509" style="s2">case the normalized coordinate in the</p>
+<p begin="00:44:54.789" end="00:45:06.849" style="s2">image right so and we could do all those</p>
+<p begin="00:45:01.509" end="00:45:11.499" style="s2">projections right you can project the</p>
+<p begin="00:45:06.849" end="00:45:16.839" style="s2">point according to the pose we would</p>
+<p begin="00:45:11.499" end="00:45:21.219" style="s2">expect that to equal UV okay so that</p>
+<p begin="00:45:16.839" end="00:45:24.959" style="s2">could just be me nigga so let&#39;s see what</p>
+<p begin="00:45:21.219" end="00:45:24.959" style="s2">a least-squares function looks like that</p>
+<p begin="00:45:27.809" end="00:45:39.009" style="s2">minimize okay okay okay okay so you have</p>
+<p begin="00:45:31.900" end="00:45:41.650" style="s2">this matrix system a times x equals B so</p>
+<p begin="00:45:39.009" end="00:46:12.579" style="s2">I think B is actually just all the</p>
+<p begin="00:45:41.650" end="00:46:21.160" style="s2">actual uese stack oh you can&#39;t say PDF</p>
+<p begin="00:46:12.579" end="00:46:22.779" style="s2">sorry just that oh my god is that okay</p>
+<p begin="00:46:21.160" end="00:46:26.709" style="s2">so that&#39;s all the UVs when they&#39;re</p>
+<p begin="00:46:22.779" end="00:46:32.910" style="s2">flattened so now we need a matrix times</p>
+<p begin="00:46:26.709" end="00:46:32.910" style="s2">a vector that will get us that which</p>
+<p begin="00:46:34.250" end="00:46:40.090" style="s2">[Music]</p>
+<p begin="00:46:35.700" end="00:46:47.530" style="s2">this term and this is the term that</p>
+<p begin="00:46:40.090" end="00:46:51.280" style="s2">makes it nonlinear slicey yeah it&#39;s for</p>
+<p begin="00:46:47.530" end="00:46:54.910" style="s2">two bits yeah bro I don&#39;t even know how</p>
+<p begin="00:46:51.280" end="00:46:55.780" style="s2">to watch ads but oh man I&#39;m loving that</p>
+<p begin="00:46:54.910" end="00:47:11.740" style="s2">scoreboard</p>
+<p begin="00:46:55.780" end="00:47:12.670" style="s2">I love twitch let&#39;s say there&#39;s this</p>
+<p begin="00:47:11.740" end="00:47:14.160" style="s2">problem too</p>
+<p begin="00:47:12.670" end="00:47:16.270" style="s2">there&#39;s the problem of this stupid</p>
+<p begin="00:47:14.160" end="00:47:19.080" style="s2">non-linearity here this is not actually</p>
+<p begin="00:47:16.270" end="00:47:19.080" style="s2">linear system</p>
+<p begin="00:47:29.150" end="00:47:34.980" style="s2">there&#39;s no way to really make this a</p>
+<p begin="00:47:31.290" end="00:47:37.010" style="s2">linear system on my there warp slim</p>
+<p begin="00:47:34.980" end="00:47:41.430" style="s2">talks briefly about what they do for</p>
+<p begin="00:47:37.010" end="00:47:45.119" style="s2">linearization but the stupid / is not a</p>
+<p begin="00:47:41.430" end="00:47:59.160" style="s2">linear Broz there&#39;s no way I can just</p>
+<p begin="00:47:45.119" end="00:48:01.470" style="s2">write this as a matrix equation if we</p>
+<p begin="00:47:59.160" end="00:48:03.060" style="s2">insert all vectors in the datum throw I</p>
+<p begin="00:48:01.470" end="00:48:06.930" style="s2">don&#39;t know what you talk about sometime</p>
+<p begin="00:48:03.060" end="00:48:12.210" style="s2">okay linear least-squares derivation of</p>
+<p begin="00:48:06.930" end="00:48:14.490" style="s2">the normal equations yeah this is</p>
+<p begin="00:48:12.210" end="00:48:15.450" style="s2">actually a you do least squares but I&#39;m</p>
+<p begin="00:48:14.490" end="00:48:19.080" style="s2">just talking about setting up the</p>
+<p begin="00:48:15.450" end="00:48:26.760" style="s2">problem I mean okay you know what let&#39;s</p>
+<p begin="00:48:19.080" end="00:48:28.440" style="s2">just use sci-fi pls sck whoa no no no</p>
+<p begin="00:48:26.760" end="00:48:39.800" style="s2">there&#39;s another side pie there&#39;s also</p>
+<p begin="00:48:28.440" end="00:48:39.800" style="s2">Syfy these squares this</p>
+<p begin="00:48:41.179" end="00:48:46.979" style="s2">okay function which computes the vector</p>
+<p begin="00:48:44.939" end="00:48:48.839" style="s2">of residuals right so actually I think</p>
+<p begin="00:48:46.979" end="00:48:53.809" style="s2">this is much easier than I think I think</p>
+<p begin="00:48:48.839" end="00:48:53.809" style="s2">we just actually have to do this okay</p>
+<p begin="00:48:56.449" end="00:49:02.489" style="s2">port B squared oh this is actually</p>
+<p begin="00:48:59.219" end="00:49:06.869" style="s2">really easy because no I know exactly</p>
+<p begin="00:49:02.489" end="00:49:11.130" style="s2">what all right okay so what we want to</p>
+<p begin="00:49:06.869" end="00:49:13.380" style="s2">do is least squares upon B B is my</p>
+<p begin="00:49:11.130" end="00:49:21.140" style="s2">target right and now I just need to</p>
+<p begin="00:49:13.380" end="00:49:23.459" style="s2">write the equation that generates that</p>
+<p begin="00:49:21.140" end="00:49:27.059" style="s2">so I should need to do the projection</p>
+<p begin="00:49:23.459" end="00:49:29.689" style="s2">here that just builds the UV matrix and</p>
+<p begin="00:49:27.059" end="00:49:29.689" style="s2">for fun</p>
+<p begin="00:49:29.809" end="00:49:38.339" style="s2">minimize f of X so that is a question of</p>
+<p begin="00:49:35.910" end="00:49:43.949" style="s2">like exactly what I&#39;m trying to optimize</p>
+<p begin="00:49:38.339" end="00:49:47.159" style="s2">I don&#39;t know what X is yet and get to</p>
+<p begin="00:49:43.949" end="00:50:14.939" style="s2">that in a minute for now we just know</p>
+<p begin="00:49:47.159" end="00:50:19.769" style="s2">basically we want to write this so given</p>
+<p begin="00:50:14.939" end="00:50:23.269" style="s2">the residuals f of X minimize f of X</p>
+<p begin="00:50:19.769" end="00:50:23.269" style="s2">subject to some crap</p>
+<p begin="00:50:25.630" end="00:50:30.489" style="s2">okay there&#39;s three squares fun be</p>
+<p begin="00:50:28.069" end="00:50:30.489" style="s2">alright</p>
+<p begin="00:50:32.709" end="00:50:52.280" style="s2">get our get Q residuals now we can</p>
+<p begin="00:50:49.429" end="00:50:53.769" style="s2">figure out like that faster probably</p>
+<p begin="00:50:52.280" end="00:50:58.519" style="s2">[Music]</p>
+<p begin="00:50:53.769" end="00:51:00.169" style="s2">let&#39;s try that okay fun take zero</p>
+<p begin="00:50:58.519" end="00:51:03.339" style="s2">positional arguments but one was given</p>
+<p begin="00:51:00.169" end="00:51:10.900" style="s2">see that&#39;s what I don&#39;t understand</p>
+<p begin="00:51:03.339" end="00:51:10.900" style="s2">okay so that&#39;s an initial guess well</p>
+<p begin="00:51:12.069" end="00:51:16.819" style="s2">okay</p>
+<p begin="00:51:13.759" end="00:51:19.029" style="s2">oh I think we&#39;re you actually so well</p>
+<p begin="00:51:16.819" end="00:51:22.819" style="s2">for so it&#39;s got flat hand that&#39;s lesson</p>
+<p begin="00:51:19.029" end="00:51:30.589" style="s2">- B you don&#39;t need to be there we need X</p>
+<p begin="00:51:22.819" end="00:51:32.150" style="s2">right and then what is X well what if I</p>
+<p begin="00:51:30.589" end="00:51:33.559" style="s2">just yeah okay so I guess that thing I</p>
+<p begin="00:51:32.150" end="00:51:35.599" style="s2">was doing at the points is kind of right</p>
+<p begin="00:51:33.559" end="00:51:46.549" style="s2">what if I just put the points there in</p>
+<p begin="00:51:35.599" end="00:51:55.219" style="s2">terms of X instead of points homogeneous</p>
+<p begin="00:51:46.549" end="00:51:58.839" style="s2">yeah so get point location guesses this</p>
+<p begin="00:51:55.219" end="00:51:58.839" style="s2">is only gonna optimize the points guys</p>
+<p begin="00:52:21.010" end="00:52:26.720" style="s2">so call this X zero</p>
+<p begin="00:52:23.450" end="00:52:31.910" style="s2">this is a gas right and then that&#39;s what</p>
+<p begin="00:52:26.720" end="00:52:38.810" style="s2">we pass into there so instead of saying</p>
+<p begin="00:52:31.910" end="00:52:54.250" style="s2">P dot let&#39;s say we&#39;re gonna say x times</p>
+<p begin="00:52:38.810" end="00:52:54.250" style="s2">four times X is not defined yes be zero</p>
+<p begin="00:52:54.730" end="00:53:13.609" style="s2">wow oh wow oh oh it worked</p>
+<p begin="00:53:04.670" end="00:53:16.820" style="s2">eventually it just took 27 years it</p>
+<p begin="00:53:13.609" end="00:53:19.849" style="s2">returned something kind of absurd it&#39;s a</p>
+<p begin="00:53:16.820" end="00:53:26.660" style="s2">little absurd looking do you think well</p>
+<p begin="00:53:19.849" end="00:53:30.160" style="s2">no actually what was X is zero but that</p>
+<p begin="00:53:26.660" end="00:53:30.160" style="s2">should optimize all the points right</p>
+<p begin="00:53:32.770" end="00:53:41.000" style="s2">the only problem is right now we&#39;re</p>
+<p begin="00:53:35.180" end="00:53:44.750" style="s2">leaving the poses is fixed oh and those</p>
+<p begin="00:53:41.000" end="00:53:49.580" style="s2">poses are really crappy one of those</p>
+<p begin="00:53:44.750" end="00:53:58.280" style="s2">poses so crappy Oh weird using our PI</p>
+<p begin="00:53:49.580" end="00:53:59.660" style="s2">oops not use our PI which is actually</p>
+<p begin="00:53:58.280" end="00:54:01.700" style="s2">this is actually okay that we&#39;re just</p>
+<p begin="00:53:59.660" end="00:54:08.570" style="s2">doing this because we have the gun truth</p>
+<p begin="00:54:01.700" end="00:54:23.600" style="s2">poses okay 27 years great this probably</p>
+<p begin="00:54:08.570" end="00:54:29.720" style="s2">way to not make it take 27 vector of</p>
+<p begin="00:54:23.600" end="00:54:32.600" style="s2">residuals a function of shape and never</p>
+<p begin="00:54:29.720" end="00:54:35.390" style="s2">scale you&#39;ve almost you&#39;re trying to one</p>
+<p begin="00:54:32.600" end="00:54:37.870" style="s2">D or F or shape M that&#39;s okay yeah</p>
+<p begin="00:54:35.390" end="00:54:37.870" style="s2">that&#39;s right</p>
+<p begin="00:54:40.839" end="00:54:50.630" style="s2">let&#39;s just say verbose equals wise here</p>
+<p begin="00:54:44.900" end="00:54:53.470" style="s2">we go yeah I know I know all about</p>
+<p begin="00:54:50.630" end="00:54:53.470" style="s2">Taylor bro</p>
+<p begin="00:55:01.860" end="00:55:08.790" style="s2">no you can do even better than if our</p>
+<p begin="00:55:04.870" end="00:55:08.790" style="s2">BOCES needs a to see what&#39;s going on</p>
+<p begin="00:55:10.530" end="00:55:13.530" style="s2">scam</p>
+<p begin="00:55:35.220" end="00:55:46.680" style="s2">you know brutally slow so I passed in</p>
+<p begin="00:55:43.560" end="00:55:51.859" style="s2">verbose equal to two by using the LM</p>
+<p begin="00:55:46.680" end="00:55:56.550" style="s2">method Oh LM is that Levenberg mark wat</p>
+<p begin="00:55:51.859" end="00:56:03.660" style="s2">all Levenberg mark why doesn&#39;t handle</p>
+<p begin="00:55:56.550" end="00:56:05.819" style="s2">bounce and sparsh jacobians trust region</p>
+<p begin="00:56:03.660" end="00:56:11.280" style="s2">reflective algorithm what&#39;s up little</p>
+<p begin="00:56:05.819" end="00:56:12.170" style="s2">countin never oh my god this is taking</p>
+<p begin="00:56:11.280" end="00:56:17.460" style="s2">forever</p>
+<p begin="00:56:12.170" end="00:56:19.440" style="s2">yeah how slow this is taking oh no I</p>
+<p begin="00:56:17.460" end="00:56:26.119" style="s2">have a phone call today</p>
+<p begin="00:56:19.440" end="00:56:26.119" style="s2">oh it did an iteration great</p>
+<p begin="00:56:27.230" end="00:56:30.309" style="s2">[Music]</p>
+<p begin="00:56:30.760" end="00:56:36.000" style="s2">I have to do a phone call at new Andros</p>
+<p begin="00:56:40.050" end="00:56:48.890" style="s2">this is so slow I&#39;ve got our own tassel</p>
+<p begin="00:56:43.880" end="00:56:48.890" style="s2">love making money bus love mine</p>
+<p begin="00:56:51.970" end="00:57:00.570" style="s2">okay I see why that&#39;s slow probably</p>
+<p begin="00:56:56.590" end="00:57:00.570" style="s2">we&#39;re gonna make that function faster</p>
+<p begin="00:57:04.760" end="00:57:14.150" style="s2">Livia</p>
+<p begin="00:57:07.550" end="00:57:16.220" style="s2">Oh soft l-1a Huber loss Olaf Huber loss</p>
+<p begin="00:57:14.150" end="00:57:19.250" style="s2">oh that&#39;s great let&#39;s just humor loss</p>
+<p begin="00:57:16.220" end="00:57:25.250" style="s2">maybe that&#39;ll work back i don&#39;t be good</p>
+<p begin="00:57:19.250" end="00:57:28.700" style="s2">to outliers right here except it still</p>
+<p begin="00:57:25.250" end="00:57:33.980" style="s2">takes forever how gonna make this not</p>
+<p begin="00:57:28.700" end="00:58:14.030" style="s2">take forever well I think I can stack</p>
+<p begin="00:57:33.980" end="00:58:17.270" style="s2">all those poses right feel like robust</p>
+<p begin="00:58:14.030" end="00:58:19.630" style="s2">equals two made things just take way too</p>
+<p begin="00:58:17.270" end="00:58:19.630" style="s2">long</p>
+<p begin="00:58:37.010" end="00:58:46.550" style="s2">just a - right now really just in time</p>
+<p begin="00:58:41.550" end="00:58:46.550" style="s2">bro you almost gotta - night okay</p>
+<p begin="00:58:47.440" end="00:58:53.580" style="s2">[Music]</p>
+<p begin="00:58:48.740" end="00:58:54.720" style="s2">19:01 times for now that&#39;s not right I</p>
+<p begin="00:58:53.580" end="00:59:04.400" style="s2">think I actually want to concatenate</p>
+<p begin="00:58:54.720" end="00:59:07.109" style="s2">this SS 3 yeah and we&#39;ll multiply that</p>
+<p begin="00:59:04.400" end="00:59:19.790" style="s2">ok so then in order to get losses I can</p>
+<p begin="00:59:07.109" end="00:59:19.790" style="s2">say any dot poses X 0 all right</p>
+<p begin="00:59:25.040" end="00:59:33.950" style="s2">yeah we don&#39;t exactly want to do that</p>
+<p begin="00:59:31.500" end="00:59:33.950" style="s2">right</p>
+<p begin="00:59:40.290" end="00:59:45.910" style="s2">no only no bad-mouth eyes are like that</p>
+<p begin="00:59:42.970" end="00:59:50.380" style="s2">okay so the problem is that some of</p>
+<p begin="00:59:45.910" end="00:59:53.980" style="s2">these appear in multiple frames and we</p>
+<p begin="00:59:50.380" end="01:00:02.740" style="s2">only want to let the optimizer alter</p>
+<p begin="00:59:53.980" end="01:00:04.270" style="s2">them in one kind of way I mean okay I</p>
+<p begin="01:00:02.740" end="01:00:11.340" style="s2">can certainly fix that with a linear</p>
+<p begin="01:00:04.270" end="01:00:11.340" style="s2">that&#39;s just linear big linear I guess</p>
+<p begin="01:00:12.480" end="01:00:20.670" style="s2">I&#39;m using side Piper yeah for</p>
+<p begin="01:00:15.369" end="01:00:20.670" style="s2">optimization I mean okay</p>
+<p begin="01:00:35.980" end="01:00:38.880" style="s2">okay</p>
+<p begin="01:00:39.740" end="01:00:49.869" style="s2">all you want that to be a function for</p>
+<p begin="01:00:45.080" end="01:00:49.869" style="s2">each point we want the frames to be</p>
+<p begin="01:00:53.770" end="01:01:03.080" style="s2">maybe we could joke it we could create</p>
+<p begin="01:00:55.700" end="01:01:09.530" style="s2">like a huge house bro we could create</p>
+<p begin="01:01:03.080" end="01:01:13.550" style="s2">like a huge matrix right that might be</p>
+<p begin="01:01:09.530" end="01:01:16.520" style="s2">the way to do this as father G to load</p>
+<p begin="01:01:13.550" end="01:01:20.840" style="s2">us right I could create this massive</p>
+<p begin="01:01:16.520" end="01:01:23.570" style="s2">matrix where there&#39;s only like five</p>
+<p begin="01:01:20.840" end="01:01:27.230" style="s2">frames so I&#39;m saying let me put like a</p>
+<p begin="01:01:23.570" end="01:01:29.270" style="s2">frame there if it&#39;s valid and the all</p>
+<p begin="01:01:27.230" end="01:01:31.810" style="s2">five frames can get multiplied by the</p>
+<p begin="01:01:29.270" end="01:01:31.810" style="s2">point</p>
+<p begin="01:01:36.020" end="01:01:46.349" style="s2">but that&#39;s not exactly right either</p>
+<p begin="01:01:38.369" end="01:01:52.579" style="s2">because Oh guys life is so hard no that</p>
+<p begin="01:01:46.349" end="01:01:52.579" style="s2">one&#39;s correct it&#39;s just really slow</p>
+<p begin="01:01:59.119" end="01:02:02.480" style="s2">really slow</p>
+<p begin="01:02:06.339" end="01:02:09.849" style="s2">so I don&#39;t actually want any money I</p>
+<p begin="01:02:08.410" end="01:02:11.910" style="s2">don&#39;t care I just like the idea of</p>
+<p begin="01:02:09.849" end="01:02:16.390" style="s2">making money you know that sounds fun</p>
+<p begin="01:02:11.910" end="01:02:18.930" style="s2">like something to do a lot of having</p>
+<p begin="01:02:16.390" end="01:02:18.930" style="s2">things to do</p>
+<p begin="01:02:35.000" end="01:02:42.079" style="s2">it&#39;s probably a better way to phrase</p>
+<p begin="01:02:36.589" end="01:02:42.800" style="s2">this problem all right guys I gotta go</p>
+<p begin="01:02:42.079" end="01:02:47.329" style="s2">to work</p>
+<p begin="01:02:42.800" end="01:02:52.700" style="s2">we&#39;ll think about this tomorrow create a</p>
+<p begin="01:02:47.329" end="01:02:54.470" style="s2">branch get checkout we&#39;ll call it G so</p>
+<p begin="01:02:52.700" end="01:03:02.900" style="s2">right now no what should we name the</p>
+<p begin="01:02:54.470" end="01:03:04.520" style="s2">optimizer now who knows we&#39;re gonna</p>
+<p begin="01:03:02.900" end="01:03:07.970" style="s2">network this startups are either</p>
+<p begin="01:03:04.520" end="01:03:13.060" style="s2">worthless or worth billions right I&#39;m</p>
+<p begin="01:03:07.970" end="01:03:16.250" style="s2">gonna call it something twitch out</p>
+<p begin="01:03:13.060" end="01:03:18.380" style="s2">whenever we can call things twitch it&#39;s</p>
+<p begin="01:03:16.250" end="01:03:22.460" style="s2">good I wish I could on our million</p>
+<p begin="01:03:18.380" end="01:03:24.020" style="s2">dollars from twitch man twitch out well</p>
+<p begin="01:03:22.460" end="01:03:26.230" style="s2">but like readme should go the other one</p>
+<p begin="01:03:24.020" end="01:03:26.230" style="s2">too</p>
+<p begin="01:03:34.940" end="01:03:39.859" style="s2">good work tonight guys go work today I</p>
+<p begin="01:03:37.250" end="01:03:44.329" style="s2">was pushing sergeant we&#39;re gonna write a</p>
+<p begin="01:03:39.859" end="01:03:49.420" style="s2">custom optimizer we&#39;re gonna really</p>
+<p begin="01:03:44.329" end="01:03:54.440" style="s2">continue on this more next time</p>
+<p begin="01:03:49.420" end="01:03:56.619" style="s2">like tomorrow when we&#39;re back on twitch</p>
+<p begin="01:03:54.440" end="01:04:01.240" style="s2">live streaming with all your bros</p>
+<p begin="01:03:56.619" end="01:04:01.240" style="s2">alright alright later twitch is about</p>
+</div>
+</body>
+</tt>

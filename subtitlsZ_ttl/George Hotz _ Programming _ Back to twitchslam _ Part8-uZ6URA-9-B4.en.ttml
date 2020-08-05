@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:01:22.110" end="00:01:25.299" style="s2">[Music]</p>
+<p begin="00:01:59.860" end="00:02:08.660" style="s2">[Music]</p>
+<p begin="00:02:13.510" end="00:02:15.569" style="s2">you</p>
+<p begin="00:02:35.290" end="00:02:37.349" style="s2">you</p>
+<p begin="00:05:04.210" end="00:05:07.779" style="s2">[Music]</p>
+<p begin="00:05:10.360" end="00:05:17.979" style="s2">okay so that was this morning&#39;s</p>
+<p begin="00:05:12.860" end="00:05:23.349" style="s2">artist her name is Kate oh she&#39;s lovely</p>
+<p begin="00:05:17.979" end="00:05:25.910" style="s2">beautiful absolutely beautiful I know</p>
+<p begin="00:05:23.349" end="00:05:31.729" style="s2">beautiful music that&#39;s right we&#39;re busy</p>
+<p begin="00:05:25.910" end="00:05:33.710" style="s2">with capitalism now so we have this they</p>
+<p begin="00:05:31.729" end="00:05:39.169" style="s2">released a complete slam front end which</p>
+<p begin="00:05:33.710" end="00:05:49.460" style="s2">is kind of cool one of the are this</p>
+<p begin="00:05:39.169" end="00:06:01.250" style="s2">shit&#39;s gonna work no understand what</p>
+<p begin="00:05:49.460" end="00:06:05.300" style="s2">this is bullshit hopefully I won&#39;t come</p>
+<p begin="00:06:01.250" end="00:06:07.930" style="s2">off any more good fix that now let&#39;s see</p>
+<p begin="00:06:05.300" end="00:06:07.930" style="s2">if we make this work</p>
+<p begin="00:06:22.150" end="00:06:27.630" style="s2">girl admiration is that yerba mate a</p>
+<p begin="00:06:24.310" end="00:06:27.630" style="s2">talking I don&#39;t know man</p>
+<p begin="00:06:29.760" end="00:06:36.460" style="s2">so you guys see this is like what my</p>
+<p begin="00:06:34.600" end="00:06:42.040" style="s2">slam fronting looks like it&#39;s right here</p>
+<p begin="00:06:36.460" end="00:06:44.800" style="s2">I always see a lot more if I kept it</p>
+<p begin="00:06:42.040" end="00:06:46.419" style="s2">over multiple frames but we can switch</p>
+<p begin="00:06:44.800" end="00:06:48.190" style="s2">up the front end if we can use the super</p>
+<p begin="00:06:46.419" end="00:06:50.910" style="s2">point pre-training network demo super</p>
+<p begin="00:06:48.190" end="00:06:50.910" style="s2">fuzzy this gonna work</p>
+<p begin="00:07:03.030" end="00:07:16.690" style="s2">oh oh oh module object has no attribute</p>
+<p begin="00:07:12.960" end="00:07:26.080" style="s2">rebuild tensor v2 oh that&#39;s that&#39;s all</p>
+<p begin="00:07:16.690" end="00:07:31.630" style="s2">that&#39;s great upgrade torch may be newer</p>
+<p begin="00:07:26.080" end="00:07:35.229" style="s2">torch oh yeah good guess bro okay so</p>
+<p begin="00:07:31.630" end="00:07:40.990" style="s2">what do you guys think it looks as</p>
+<p begin="00:07:35.229" end="00:07:44.020" style="s2">shitty as orb actually to be honest my</p>
+<p begin="00:07:40.990" end="00:07:47.770" style="s2">looks just as good should we modify the</p>
+<p begin="00:07:44.020" end="00:07:54.610" style="s2">slam to y&#39;all bro no no no hair it&#39;s the</p>
+<p begin="00:07:47.770" end="00:07:57.479" style="s2">same back to my office okay this</p>
+<p begin="00:07:54.610" end="00:07:57.479" style="s2">actually looks kind of shitty</p>
+<p begin="00:08:00.080" end="00:08:08.249" style="s2">see if there&#39;s like options with our</p>
+<p begin="00:08:02.460" end="00:08:20.370" style="s2">options I make like the real image</p>
+<p begin="00:08:08.249" end="00:08:23.759" style="s2">height oh I need - - I&#39;ve already to put</p>
+<p begin="00:08:20.370" end="00:08:30.659" style="s2">those before the input oh well that</p>
+<p begin="00:08:23.759" end="00:08:33.919" style="s2">looks like vaguely better vaguely do we</p>
+<p begin="00:08:30.659" end="00:08:33.919" style="s2">think these points are better than</p>
+<p begin="00:08:52.100" end="00:09:05.390" style="s2">I forget how come when is my front end</p>
+<p begin="00:08:56.540" end="00:09:06.940" style="s2">for this thing over there right like</p>
+<p begin="00:09:05.390" end="00:09:10.660" style="s2">nothing</p>
+<p begin="00:09:06.940" end="00:09:10.660" style="s2">did you just a try</p>
+<p begin="00:09:15.510" end="00:09:20.220" style="s2">no okay yeah I understand they curve it</p>
+<p begin="00:09:18.209" end="00:09:23.100" style="s2">as a small path my points could do that</p>
+<p begin="00:09:20.220" end="00:09:26.100" style="s2">too should I have them do that there</p>
+<p begin="00:09:23.100" end="00:09:41.610" style="s2">should have them do that but a slight</p>
+<p begin="00:09:26.100" end="00:09:43.290" style="s2">display thing I can just change that if</p>
+<p begin="00:09:41.610" end="00:09:45.320" style="s2">I make it that big you&#39;ll see the whole</p>
+<p begin="00:09:43.290" end="00:09:45.320" style="s2">thing</p>
+<p begin="00:09:49.990" end="00:09:53.129" style="s2">[Music]</p>
+<p begin="00:10:00.160" end="00:10:02.220" style="s2">you</p>
+<p begin="00:12:26.950" end="00:12:34.510" style="s2">like care about people love that much</p>
+<p begin="00:12:34.930" end="00:12:38.980" style="s2">empathy is overrated</p>
+<p begin="00:12:36.770" end="00:12:38.980" style="s2">gross</p>
+<p begin="00:13:53.440" end="00:14:37.000" style="s2">I did that twice all right there you go</p>
+<p begin="00:14:34.990" end="00:14:37.690" style="s2">look my nipple long Naoto look I have</p>
+<p begin="00:14:37.000" end="00:14:44.170" style="s2">long ones</p>
+<p begin="00:14:37.690" end="00:14:50.260" style="s2">Yeah right look I can do it too maybe I</p>
+<p begin="00:14:44.170" end="00:14:54.840" style="s2">feel terrible just right this looks like</p>
+<p begin="00:14:50.260" end="00:15:03.430" style="s2">shit oh wow</p>
+<p begin="00:14:54.840" end="00:15:06.360" style="s2">okay it&#39;s a little bit cheating because</p>
+<p begin="00:15:03.430" end="00:15:09.440" style="s2">it&#39;s going back really far</p>
+<p begin="00:15:06.360" end="00:15:09.440" style="s2">[Applause]</p>
+<p begin="00:15:23.410" end="00:15:26.920" style="s2">see the problem</p>
+<p begin="00:15:43.850" end="00:15:49.970" style="s2">sure in the Pats well so the problem is</p>
+<p begin="00:15:47.449" end="00:15:52.160" style="s2">just shortening the Pats the problem is</p>
+<p begin="00:15:49.970" end="00:15:57.290" style="s2">the fact that mine are going back mad</p>
+<p begin="00:15:52.160" end="00:15:59.959" style="s2">far okay I really could just do</p>
+<p begin="00:15:57.290" end="00:16:02.060" style="s2">something simple like this only show the</p>
+<p begin="00:15:59.959" end="00:16:08.240" style="s2">last five frames but it&#39;s not really</p>
+<p begin="00:16:02.060" end="00:16:12.529" style="s2">what we want to do what why is that not</p>
+<p begin="00:16:08.240" end="00:16:16.810" style="s2">subscript oh oh oh because it&#39;s object</p>
+<p begin="00:16:12.529" end="00:16:16.810" style="s2">just fuck you Python 3 oh yeah</p>
+<p begin="00:16:17.860" end="00:16:22.089" style="s2">drink twice like that but let&#39;s see if</p>
+<p begin="00:16:20.449" end="00:16:25.329" style="s2">this isn&#39;t gonna be what we want really</p>
+<p begin="00:16:22.089" end="00:16:30.399" style="s2">it&#39;s a little closer to what we want but</p>
+<p begin="00:16:25.329" end="00:16:34.550" style="s2">the problem is that&#39;s they have to be</p>
+<p begin="00:16:30.399" end="00:16:37.310" style="s2">continuous spray there&#39;s you think the</p>
+<p begin="00:16:34.550" end="00:16:44.630" style="s2">simplest way to write that so you can</p>
+<p begin="00:16:37.310" end="00:16:53.360" style="s2">certainly get the frame IDs you&#39;ll see</p>
+<p begin="00:16:44.630" end="00:17:05.659" style="s2">it we want up to 5 IDs let&#39;s say going</p>
+<p begin="00:16:53.360" end="00:17:10.480" style="s2">back that are contiguous maybe problems</p>
+<p begin="00:17:05.659" end="00:17:10.480" style="s2">like it can be found in a previous frame</p>
+<p begin="00:18:12.890" end="00:18:17.600" style="s2">so you see what I&#39;m going for here right</p>
+<p begin="00:18:19.460" end="00:18:29.390" style="s2">three two zero weight one what do these</p>
+<p begin="00:18:26.040" end="00:18:29.390" style="s2">things not get out of an order</p>
+<p begin="00:18:34.790" end="00:18:39.380" style="s2">where do I add the point oh I think I do</p>
+<p begin="00:18:41.660" end="00:18:48.450" style="s2">okay so now they&#39;re in order so now we</p>
+<p begin="00:18:44.190" end="00:18:50.610" style="s2">check if yeah few months of 0 is not</p>
+<p begin="00:18:48.450" end="00:18:59.420" style="s2">equal to P 2 then break</p>
+<p begin="00:18:50.610" end="00:19:03.440" style="s2">sure I mean this looks right right oh</p>
+<p begin="00:18:59.420" end="00:19:03.440" style="s2">well no no no that&#39;s not right</p>
+<p begin="00:19:21.780" end="00:19:29.950" style="s2">now as long as it&#39;s contiguously tract</p>
+<p begin="00:19:25.830" end="00:19:45.370" style="s2">Wow those points I guess doing such my</p>
+<p begin="00:19:29.950" end="00:19:51.490" style="s2">projection but still let&#39;s look at look</p>
+<p begin="00:19:45.370" end="00:19:57.370" style="s2">at what super finds output which slim</p>
+<p begin="00:19:51.490" end="00:19:59.550" style="s2">has a size doesn&#39;t use the same size try</p>
+<p begin="00:19:57.370" end="00:19:59.550" style="s2">that</p>
+<p begin="00:20:08.240" end="00:20:14.690" style="s2">well like this one like a max back it</p>
+<p begin="00:20:11.100" end="00:20:14.690" style="s2">can display suicide</p>
+<p begin="00:20:18.820" end="00:20:23.580" style="s2">yeah it looks like there&#39;s a max back in</p>
+<p begin="00:20:21.220" end="00:20:23.580" style="s2">this plan</p>
+<p begin="00:20:55.410" end="00:21:00.230" style="s2">is that better Richie&#39;s happier</p>
+<p begin="00:21:43.470" end="00:21:47.470" style="s2">let&#39;s actually write this a little bit</p>
+<p begin="00:21:45.670" end="00:21:50.550" style="s2">less stupidly there&#39;s a few ways I can</p>
+<p begin="00:21:47.470" end="00:21:50.550" style="s2">write this less stupid like</p>
+<p begin="00:22:10.330" end="00:22:13.110" style="s2">- it</p>
+<p begin="00:22:16.130" end="00:22:35.140" style="s2">Oh polygon I want like multi line you</p>
+<p begin="00:22:23.780" end="00:22:35.140" style="s2">don&#39;t say polylines this what I want</p>
+<p begin="00:22:38.350" end="00:22:42.240" style="s2">their points is closed</p>
+<p begin="00:22:59.970" end="00:23:08.760" style="s2">no so what we want to say is how do you</p>
+<p begin="00:23:06.040" end="00:23:08.760" style="s2">know</p>
+<p begin="00:24:10.900" end="00:24:37.910" style="s2">pick up the collar backwards Wow maybe</p>
+<p begin="00:24:36.020" end="00:24:42.460" style="s2">it&#39;s like some of these are only one or</p>
+<p begin="00:24:37.910" end="00:24:48.700" style="s2">something that seems absolutely right</p>
+<p begin="00:24:42.460" end="00:24:48.700" style="s2">points array of polygonal curse</p>
+<p begin="00:25:03.820" end="00:25:11.669" style="s2">Oh disgusting P check factor 2.4 I don&#39;t</p>
+<p begin="00:25:08.739" end="00:25:11.669" style="s2">know what that even means</p>
+<p begin="00:25:59.680" end="00:26:03.750" style="s2">just let my limiter to five right</p>
+<p begin="00:26:28.230" end="00:26:38.139" style="s2">looks like your dirty code now the idea</p>
+<p begin="00:26:35.830" end="00:26:39.940" style="s2">is not not well okay so this checks</p>
+<p begin="00:26:38.139" end="00:27:02.619" style="s2">completely broke and you guys you got to</p>
+<p begin="00:26:39.940" end="00:27:04.869" style="s2">catch my shit and Elif ID plus one you</p>
+<p begin="00:27:02.619" end="00:27:06.789" style="s2">gotta tell me George you&#39;re writing bad</p>
+<p begin="00:27:04.869" end="00:27:13.840" style="s2">code you got to remind me when I forget</p>
+<p begin="00:27:06.789" end="00:27:17.369" style="s2">to do things like that better oh this is</p>
+<p begin="00:27:13.840" end="00:27:17.369" style="s2">what polylines probably does</p>
+<p begin="00:27:25.740" end="00:27:57.110" style="s2">I had to explicitly convert them oh</p>
+<p begin="00:27:50.300" end="00:27:57.110" style="s2">there we go it&#39;s a disgusting read I</p>
+<p begin="00:27:59.809" end="00:28:03.620" style="s2">know what goes trash</p>
+<p begin="00:28:07.130" end="00:28:11.170" style="s2">it&#39;s not better that&#39;s pretty good</p>
+<p begin="00:28:23.320" end="00:28:27.540" style="s2">looks as good as super point right</p>
+<p begin="00:28:32.470" end="00:28:40.890" style="s2">yeah I think those matches are all</p>
+<p begin="00:28:34.150" end="00:28:40.890" style="s2">correct speed on kitty</p>
+<p begin="00:28:47.500" end="00:28:51.000" style="s2">it looks pro at</p>
+<p begin="00:29:53.690" end="00:29:57.310" style="s2">and the long ass trails</p>
+<p begin="00:30:01.980" end="00:30:05.770" style="s2">we&#39;ll see I don&#39;t think I don&#39;t know I</p>
+<p begin="00:30:03.880" end="00:30:08.320" style="s2">really don&#39;t think orbs jumping around</p>
+<p begin="00:30:05.770" end="00:30:09.730" style="s2">is a big problem like I don&#39;t think if</p>
+<p begin="00:30:08.320" end="00:30:48.160" style="s2">we switch the front end it&#39;ll help that</p>
+<p begin="00:30:09.730" end="00:30:49.420" style="s2">much in China kitty yeah I don&#39;t</p>
+<p begin="00:30:48.160" end="00:30:59.550" style="s2">understand why you can&#39;t get that from</p>
+<p begin="00:30:49.420" end="00:30:59.550" style="s2">the video no huh it&#39;s over there</p>
+<p begin="00:31:01.710" end="00:31:08.850" style="s2">look better ball slow</p>
+<p begin="00:31:23.240" end="00:31:36.620" style="s2">okay I can&#39;t tell I really can&#39;t doubt</p>
+<p begin="00:31:25.580" end="00:31:47.419" style="s2">that is that better than this it&#39;s very</p>
+<p begin="00:31:36.620" end="00:31:48.890" style="s2">similar what you like their colors yeah</p>
+<p begin="00:31:47.419" end="00:31:50.600" style="s2">okay they have colors out what are the</p>
+<p begin="00:31:48.890" end="00:31:56.960" style="s2">colors correspond to we can make colors</p>
+<p begin="00:31:50.600" end="00:32:00.789" style="s2">what do you want College what do you</p>
+<p begin="00:31:56.960" end="00:32:00.789" style="s2">want colors I can Mike to make colors</p>
+<p begin="00:32:04.390" end="00:32:13.630" style="s2">let&#39;s see what colors Karsten good side</p>
+<p begin="00:32:19.040" end="00:32:23.380" style="s2">what kind of shitty ass license is this</p>
+<p begin="00:32:26.320" end="00:32:35.150" style="s2">license a fuck oh my god</p>
+<p begin="00:32:32.750" end="00:32:36.950" style="s2">release open source code fuck you magic</p>
+<p begin="00:32:35.150" end="00:32:46.460" style="s2">leave I mean like I appreciate that you</p>
+<p begin="00:32:36.950" end="00:32:51.140" style="s2">release this but really just so you guys</p>
+<p begin="00:32:46.460" end="00:32:52.340" style="s2">know twitch slam is MIT licensed you</p>
+<p begin="00:32:51.140" end="00:32:53.750" style="s2">guys can use it for whatever the hell</p>
+<p begin="00:32:52.340" end="00:32:56.300" style="s2">you want I don&#39;t care</p>
+<p begin="00:32:53.750" end="00:33:01.340" style="s2">can&#39;t sue me though fuck y&#39;all if you</p>
+<p begin="00:32:56.300" end="00:33:04.660" style="s2">sue me I got lawyers brah is it distance</p>
+<p begin="00:33:01.340" end="00:33:04.660" style="s2">from optical Center I don&#39;t think it is</p>
+<p begin="00:33:15.440" end="00:33:19.130" style="s2">think it&#39;s is that</p>
+<p begin="00:33:24.320" end="00:33:28.390" style="s2">looks like this one&#39;s that color</p>
+<p begin="00:33:31.260" end="00:33:35.310" style="s2">it&#39;s estimated distance to an orbit</p>
+<p begin="00:33:33.780" end="00:33:48.860" style="s2">pinhole camera do you actually know that</p>
+<p begin="00:33:35.310" end="00:33:54.570" style="s2">or you might be right no it&#39;s a point</p>
+<p begin="00:33:48.860" end="00:33:57.080" style="s2">confidence heatmap well this is I still</p>
+<p begin="00:33:54.570" end="00:33:57.080" style="s2">my chat</p>
+<p begin="00:33:58.860" end="00:34:03.950" style="s2">see I can&#39;t even steal their colors I</p>
+<p begin="00:34:00.960" end="00:34:03.950" style="s2">choose gel their colors</p>
+<p begin="00:34:09.020" end="00:34:17.210" style="s2">no it&#39;s confidence is what they&#39;re doing</p>
+<p begin="00:34:12.850" end="00:34:23.360" style="s2">it&#39;s not it&#39;s not that we can do the</p>
+<p begin="00:34:17.210" end="00:34:25.429" style="s2">same thing we really you really want</p>
+<p begin="00:34:23.360" end="00:34:28.300" style="s2">those colors I know they look kind of</p>
+<p begin="00:34:25.429" end="00:34:28.300" style="s2">nice don&#39;t die</p>
+<p begin="00:34:37.899" end="00:34:45.460" style="s2">line 16 tracks</p>
+<p begin="00:34:49.790" end="00:34:52.790" style="s2">cor</p>
+<p begin="00:34:54.960" end="00:35:05.020" style="s2">whatever track sub one is I don&#39;t really</p>
+<p begin="00:34:59.890" end="00:35:06.870" style="s2">know so it&#39;s whatever track sub one is</p>
+<p begin="00:35:05.020" end="00:35:10.320" style="s2">here</p>
+<p begin="00:35:06.870" end="00:35:10.320" style="s2">that&#39;s the color</p>
+<p begin="00:35:20.400" end="00:35:23.299" style="s2">they tell me</p>
+<p begin="00:35:33.489" end="00:35:37.719" style="s2">see what let&#39;s see what the map looks</p>
+<p begin="00:35:35.479" end="00:35:37.719" style="s2">like</p>
+<p begin="00:35:41.650" end="00:35:44.650" style="s2">coffees</p>
+<p begin="00:35:47.830" end="00:35:51.480" style="s2">it&#39;s actual pretty cool paper we go</p>
+<p begin="00:35:54.180" end="00:35:59.400" style="s2">distance what kind of distance do you</p>
+<p begin="00:35:57.100" end="00:35:59.400" style="s2">want</p>
+<p begin="00:36:21.960" end="00:36:32.920" style="s2">and pick our lives they didn&#39;t even use</p>
+<p begin="00:36:27.910" end="00:36:34.420" style="s2">polylines as shitty coke now I&#39;m mostly</p>
+<p begin="00:36:32.920" end="00:36:36.520" style="s2">just mad at an open source it like</p>
+<p begin="00:36:34.420" end="00:36:40.380" style="s2">please please shit under a real open</p>
+<p begin="00:36:36.520" end="00:36:40.380" style="s2">source license don&#39;t be a bitch oh</p>
+<p begin="00:36:46.140" end="00:36:57.850" style="s2">that&#39;s disgusting oh that&#39;s gross</p>
+<p begin="00:36:51.790" end="00:37:02.580" style="s2">looking oh what&#39;s line type today blind</p>
+<p begin="00:36:57.850" end="00:37:02.580" style="s2">type six what&#39;s a line type sixteen oh</p>
+<p begin="00:37:05.610" end="00:37:17.730" style="s2">is that a any Elias line line type is an</p>
+<p begin="00:37:14.170" end="00:37:17.730" style="s2">invalid keyword for this function</p>
+<p begin="00:37:17.880" end="00:37:26.740" style="s2">dr. capitalizing T they look just like</p>
+<p begin="00:37:24.970" end="00:37:27.850" style="s2">eight lies oh they actually don&#39;t know</p>
+<p begin="00:37:26.740" end="00:37:34.810" style="s2">they&#39;re a little better very anti</p>
+<p begin="00:37:27.850" end="00:37:36.850" style="s2">aliased although all those legs look</p>
+<p begin="00:37:34.810" end="00:37:37.360" style="s2">good oh yeah yeah improve the line</p>
+<p begin="00:37:36.850" end="00:37:44.290" style="s2">looking</p>
+<p begin="00:37:37.360" end="00:37:51.880" style="s2">oh that line looks better make lines</p>
+<p begin="00:37:44.290" end="00:37:55.660" style="s2">look better don&#39;t be a bitch that&#39;s good</p>
+<p begin="00:37:51.880" end="00:37:57.130" style="s2">advice in life man but just think about</p>
+<p begin="00:37:55.660" end="00:37:59.260" style="s2">think about like you know you&#39;re about</p>
+<p begin="00:37:57.130" end="00:38:02.170" style="s2">to do something and you ask the question</p>
+<p begin="00:37:59.260" end="00:38:10.600" style="s2">like is some Bichir do I think this is</p>
+<p begin="00:38:02.170" end="00:38:12.730" style="s2">yes don&#39;t do it it&#39;s like a youtube</p>
+<p begin="00:38:10.600" end="00:38:15.720" style="s2">channel like thug life advice where they</p>
+<p begin="00:38:12.730" end="00:38:15.720" style="s2">tell you things like this</p>
+<p begin="00:38:21.350" end="00:38:48.480" style="s2">tell bro science yeah is the worst it&#39;s</p>
+<p begin="00:38:43.800" end="00:38:58.710" style="s2">hard it&#39;s painful it&#39;s not arms or chest</p>
+<p begin="00:38:48.480" end="00:39:00.990" style="s2">or shoulders or even it&#39;s like that you</p>
+<p begin="00:38:58.710" end="00:39:04.200" style="s2">promised yourself last week you were</p>
+<p begin="00:39:00.990" end="00:39:06.360" style="s2">gonna do it digit but like any true girl</p>
+<p begin="00:39:04.200" end="00:39:07.740" style="s2">bro you&#39;re looking to do a workout</p>
+<p begin="00:39:06.360" end="00:39:12.980" style="s2">without the world</p>
+<p begin="00:39:07.740" end="00:39:12.980" style="s2">here&#39;s a way to skip leg day guilt-free</p>
+<p begin="00:39:15.110" end="00:39:21.930" style="s2">faintly injuries its leg dead it all of</p>
+<p begin="00:39:19.050" end="00:39:28.620" style="s2">a sudden you need stops bothering or you</p>
+<p begin="00:39:21.930" end="00:39:31.910" style="s2">realize all right you guys are colors I</p>
+<p begin="00:39:28.620" end="00:39:31.910" style="s2">have a way to get you some colors I</p>
+<p begin="00:39:39.770" end="00:39:45.180" style="s2">stole some of their code up that&#39;s</p>
+<p begin="00:39:42.180" end="00:39:51.810" style="s2">copyrighted yeah you sue me for cup for</p>
+<p begin="00:39:45.180" end="00:39:56.000" style="s2">stealing your copyrighted jet we can do</p>
+<p begin="00:39:51.810" end="00:39:56.000" style="s2">this guy&#39;s we can do this</p>
+<p begin="00:40:01.100" end="00:40:10.730" style="s2">oh you like them look we have callers</p>
+<p begin="00:40:08.330" end="00:40:12.910" style="s2">now Oh who likes the colors Oh is that</p>
+<p begin="00:40:10.730" end="00:40:12.910" style="s2">nice</p>
+<p begin="00:40:25.740" end="00:40:32.730" style="s2">my course fee look pretty cool</p>
+<p begin="00:40:41.549" end="00:40:52.079" style="s2">how many are there 10 2 3 5 6 8 9 10 I</p>
+<p begin="00:40:46.619" end="00:40:52.079" style="s2">guess we&#39;ll go back to there as well</p>
+<p begin="00:40:54.660" end="00:40:57.660" style="s2">No</p>
+<p begin="00:41:18.760" end="00:41:47.910" style="s2">and what God is like color smells so</p>
+<p begin="00:41:20.680" end="00:41:50.910" style="s2">nice so nice color colors shamelessly</p>
+<p begin="00:41:47.910" end="00:41:50.910" style="s2">stolen</p>
+<p begin="00:42:17.510" end="00:42:22.970" style="s2">yeah you say that they are already</p>
+<p begin="00:42:20.869" end="00:42:25.040" style="s2">excluded pretty well and they&#39;re pruned</p>
+<p begin="00:42:22.970" end="00:42:27.580" style="s2">so we have a pruner that actually prunes</p>
+<p begin="00:42:25.040" end="00:42:27.580" style="s2">those things</p>
+<p begin="00:42:56.499" end="00:43:00.009" style="s2">such beauty</p>
+<p begin="00:43:30.420" end="00:43:34.500" style="s2">oh no my slam front front end is pretty</p>
+<p begin="00:43:32.609" end="00:43:36.089" style="s2">good oh well okay so we have some</p>
+<p begin="00:43:34.500" end="00:43:39.799" style="s2">advantage we were using search by</p>
+<p begin="00:43:36.089" end="00:43:39.799" style="s2">projection I guess they aren&#39;t</p>
+<p begin="00:43:48.970" end="00:43:53.619" style="s2">the times I don&#39;t think that trajectory</p>
+<p begin="00:43:50.829" end="00:43:56.230" style="s2">is like right at all I don&#39;t know if</p>
+<p begin="00:43:53.619" end="00:43:59.940" style="s2">drawing those things takes forever kind</p>
+<p begin="00:43:56.230" end="00:43:59.940" style="s2">of feels like everything got slower I</p>
+<p begin="00:44:02.490" end="00:44:09.970" style="s2">mean it shouldn&#39;t like that shouldn&#39;t be</p>
+<p begin="00:44:04.869" end="00:44:13.299" style="s2">bad slow alright guys that might be the</p>
+<p begin="00:44:09.970" end="00:44:14.589" style="s2">stream for today just getting back on</p>
+<p begin="00:44:13.299" end="00:44:26.619" style="s2">you know I haven&#39;t streamed in a while</p>
+<p begin="00:44:14.589" end="00:44:29.160" style="s2">getting back into being a twitchy look</p>
+<p begin="00:44:26.619" end="00:44:32.019" style="s2">at Matt stop what those two keyboards</p>
+<p begin="00:44:29.160" end="00:44:33.819" style="s2">maybe one day we&#39;ll do math we&#39;ll get</p>
+<p begin="00:44:32.019" end="00:44:35.890" style="s2">back to riding the optimizer it&#39;ll be</p>
+<p begin="00:44:33.819" end="00:44:38.049" style="s2">kind of fun but what be right today we</p>
+<p begin="00:44:35.890" end="00:44:39.460" style="s2">wrote colors all the colors are so</p>
+<p begin="00:44:38.049" end="00:44:40.960" style="s2">pretty well there are you pretty good</p>
+<p begin="00:44:39.460" end="00:44:43.809" style="s2">kitty let&#39;s look at the colors on kitty</p>
+<p begin="00:44:40.960" end="00:44:46.769" style="s2">oh so pretty oh look at the beauty are</p>
+<p begin="00:44:43.809" end="00:44:46.769" style="s2">the beautiful colors</p>
+<p begin="00:44:53.320" end="00:44:58.240" style="s2">Pass is not important only future that&#39;s</p>
+<p begin="00:44:55.420" end="00:45:02.440" style="s2">right oh no actually the colors</p>
+<p begin="00:44:58.240" end="00:45:06.370" style="s2">correspond to like the match accuracy</p>
+<p begin="00:45:02.440" end="00:45:12.310" style="s2">the point yeah bro we don&#39;t work that</p>
+<p begin="00:45:06.370" end="00:45:15.220" style="s2">much today bro or if there&#39;s hang of the</p>
+<p begin="00:45:12.310" end="00:45:17.110" style="s2">white paper screenshot had to get hub</p>
+<p begin="00:45:15.220" end="00:45:19.570" style="s2">you know what why don&#39;t want to you run</p>
+<p begin="00:45:17.110" end="00:45:22.600" style="s2">it screenshot it to your paw request</p>
+<p begin="00:45:19.570" end="00:45:26.830" style="s2">emergent I am a lazy piece of shit</p>
+<p begin="00:45:22.600" end="00:45:28.000" style="s2">that&#39;s right that&#39;s right now you might</p>
+<p begin="00:45:26.830" end="00:45:29.350" style="s2">be like George you should take your own</p>
+<p begin="00:45:28.000" end="00:45:32.710" style="s2">advice from earlier in the stream which</p>
+<p begin="00:45:29.350" end="00:45:33.910" style="s2">is don&#39;t be a bitch and do it but nope</p>
+<p begin="00:45:32.710" end="00:45:35.710" style="s2">nope we&#39;re good that we&#39;re gonna be a</p>
+<p begin="00:45:33.910" end="00:45:40.270" style="s2">bitch we&#39;re gonna skip leg day that&#39;s</p>
+<p begin="00:45:35.710" end="00:45:43.420" style="s2">right I know yo guys I did yoga last</p>
+<p begin="00:45:40.270" end="00:45:47.460" style="s2">night this is hardcore wasn&#39;t really</p>
+<p begin="00:45:43.420" end="00:45:53.530" style="s2">that hardcore but like I don&#39;t know man</p>
+<p begin="00:45:47.460" end="00:46:01.030" style="s2">that&#39;s what I did last night love your</p>
+<p begin="00:45:53.530" end="00:46:03.280" style="s2">colors nice it&#39;s correct did we actually</p>
+<p begin="00:46:01.030" end="00:46:06.480" style="s2">turn a little bit and probably I don&#39;t</p>
+<p begin="00:46:03.280" end="00:46:06.480" style="s2">know like points</p>
+<p begin="00:46:14.520" end="00:46:20.070" style="s2">yeah short video where we add colors</p>
+<p begin="00:46:16.410" end="00:46:26.990" style="s2">alright guys I go shower I feel kind of</p>
+<p begin="00:46:20.070" end="00:46:26.990" style="s2">gross and that&#39;s it</p>
+</div>
+</body>
+</tt>

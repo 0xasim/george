@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:02.000" style="s2">Of the time and I&#39;m pretty sure it&#39;ll happen</p>
+<p begin="00:00:02.560" end="00:00:04.540" style="s2">over the next two days</p>
+<p begin="00:00:04.540" end="00:00:08.189" style="s2">That said I&#39;d like to introduce our first speaker George. Do you want to start coming up?</p>
+<p begin="00:00:10.840" end="00:00:12.460" style="s2">George Hotz</p>
+<p begin="00:00:12.460" end="00:00:13.780" style="s2">Is a pretty interesting guy</p>
+<p begin="00:00:13.780" end="00:00:21.570" style="s2">He had his first 15 minutes of fame as I understand it hacking the iPhone as a teenager. Is that right? George?</p>
+<p begin="00:00:22.900" end="00:00:24.010" style="s2">and</p>
+<p begin="00:00:24.010" end="00:00:27.029" style="s2">And it&#39;s George will correct me if I&#39;m wrong in any of this</p>
+<p begin="00:00:27.330" end="00:00:32.700" style="s2">And his second 15 minutes of fame when he went into his garage and came out a couple of months later</p>
+<p begin="00:00:33.190" end="00:00:37.169" style="s2">having hacked his car to be self-driving that set him off on a</p>
+<p begin="00:00:38.379" end="00:00:42.359" style="s2">project that he&#39;s still in the middle of creating an operating system for</p>
+<p begin="00:00:43.809" end="00:00:50.819" style="s2">Self-driving both retrofitting existing cars and for new cars and and that&#39;s what&#39;s gonna tell us about today George</p>
+<p begin="00:00:54.160" end="00:00:56.160" style="s2">Hey</p>
+<p begin="00:00:58.770" end="00:01:00.770" style="s2">Oh</p>
+<p begin="00:01:02.020" end="00:01:04.020" style="s2">Okay, I&#39;m good</p>
+<p begin="00:01:05.230" end="00:01:11.910" style="s2">When I talk I try to be really concrete with words, um, if I say anything that doesn&#39;t sound concrete, please ask me a question</p>
+<p begin="00:01:13.690" end="00:01:15.010" style="s2">Last</p>
+<p begin="00:01:15.010" end="00:01:15.840" style="s2">couple months ago</p>
+<p begin="00:01:15.840" end="00:01:20.549" style="s2">I started working with like formal languages like talk and Isabel and everything could be specified</p>
+<p begin="00:01:21.010" end="00:01:23.010" style="s2">rigidly, and I think a lot of</p>
+<p begin="00:01:23.050" end="00:01:27.719" style="s2">Definitions for a lot of things are just thrown around and there is no formal definition of them</p>
+<p begin="00:01:27.720" end="00:01:33.240" style="s2">And then it&#39;s a question what you&#39;re really saying. A lot of people can have conversations where two people just talk past each other</p>
+<p begin="00:01:33.550" end="00:01:35.550" style="s2">Because they have different definitions of a word</p>
+<p begin="00:01:36.160" end="00:01:41.609" style="s2">But you know some disciplines like math have found beautiful ways to solve this by giving things formal</p>
+<p begin="00:01:42.280" end="00:01:48.270" style="s2">Definitions so if I&#39;m informal about anything, I mean it&#39;s obviously an informal talk, but I&#39;m happy to clarify</p>
+<p begin="00:01:49.330" end="00:01:53.639" style="s2">So when you think of self-driving cars, what&#39;s the first company you think of I?</p>
+<p begin="00:01:56.080" end="00:01:58.499" style="s2">Hear a few Tesla&#39;s I also heard way moe</p>
+<p begin="00:01:59.430" end="00:02:01.430" style="s2">I think I think</p>
+<p begin="00:02:01.450" end="00:02:04.979" style="s2">yeah way mo is way mo is probably the one that captures the</p>
+<p begin="00:02:06.130" end="00:02:11.999" style="s2">Perhaps national consciousness of what self-driving cars are or the other one people mention is uber uber?</p>
+<p begin="00:02:12.310" end="00:02:17.520" style="s2">Actually got the most press about self-driving cars. If you do a Google Trends search for them. It&#39;s when uber killed somebody</p>
+<p begin="00:02:18.160" end="00:02:19.960" style="s2">so</p>
+<p begin="00:02:19.960" end="00:02:21.960" style="s2">but the traditional</p>
+<p begin="00:02:21.970" end="00:02:24.839" style="s2">Maybe this is just because a lot of marketing dollars have been poured into it</p>
+<p begin="00:02:24.840" end="00:02:30.090" style="s2">The traditional idea of self-driving cars is the way Moe. It&#39;s a car with no people in it and</p>
+<p begin="00:02:31.030" end="00:02:34.470" style="s2">You can call it from an app that it will drive down your idyllic suburban</p>
+<p begin="00:02:34.569" end="00:02:40.199" style="s2">street and it will pull up on the curb next to you and it will flash its little lights and be like way Moe is</p>
+<p begin="00:02:40.200" end="00:02:42.569" style="s2">Waiting for passengers to get on board</p>
+<p begin="00:02:43.120" end="00:02:47.490" style="s2">You could see this in the Google ads and it does not reflect the reality of driving</p>
+<p begin="00:02:47.590" end="00:02:49.710" style="s2">At all if you if you guys have seen a way Moe ad</p>
+<p begin="00:02:51.310" end="00:02:56.880" style="s2">Yeah, but you know so you pull up oh look everyone&#39;s so happy they&#39;re riding around in a way Moe</p>
+<p begin="00:02:58.990" end="00:03:03.240" style="s2">Way Moe is valued at a hundred and seventy five billion dollars despite</p>
+<p begin="00:03:03.310" end="00:03:07.050" style="s2">Not only not making profit, but I believe never making any revenue</p>
+<p begin="00:03:08.560" end="00:03:14.039" style="s2">So this this notion of self-driving cars may be distinct from Tesla is known as and we&#39;ll get to Tesla</p>
+<p begin="00:03:14.290" end="00:03:16.290" style="s2">But it&#39;s known as level four</p>
+<p begin="00:03:17.709" end="00:03:22.289" style="s2">Maybe this is the term that the levels don&#39;t really mean anything, but that&#39;s just the term people use</p>
+<p begin="00:03:23.079" end="00:03:28.439" style="s2">What it technically means is a car that&#39;s capable of full autonomy in restricted areas</p>
+<p begin="00:03:29.620" end="00:03:30.819" style="s2">so</p>
+<p begin="00:03:30.819" end="00:03:33.029" style="s2">full autonomy in restricted areas the</p>
+<p begin="00:03:33.700" end="00:03:35.759" style="s2">Application people immediately think of is ride-sharing</p>
+<p begin="00:03:38.200" end="00:03:42.869" style="s2">Ride-sharing is only a very small percent of rides people who?</p>
+<p begin="00:03:43.659" end="00:03:47.159" style="s2">Google&#39;s notorious for this if they don&#39;t think about what</p>
+<p begin="00:03:47.829" end="00:03:51.269" style="s2">Life is like for most people most people don&#39;t live in the Bay Area</p>
+<p begin="00:03:51.340" end="00:03:53.970" style="s2">Where they can call an uber and have an uber arrive in three minutes</p>
+<p begin="00:03:53.970" end="00:03:58.709" style="s2">I&#39;m from suburban, New Jersey very nice area, but you call an uber. I&#39;ll be twenty minutes</p>
+<p begin="00:04:00.189" end="00:04:04.289" style="s2">So ride-sharing is only a very small percent of rides most people still in cars</p>
+<p begin="00:04:04.989" end="00:04:06.459" style="s2">and</p>
+<p begin="00:04:06.459" end="00:04:10.798" style="s2">Level four self-driving is a strictly worse product</p>
+<p begin="00:04:12.189" end="00:04:14.189" style="s2">So if ride-sharing</p>
+<p begin="00:04:14.650" end="00:04:20.159" style="s2">Can&#39;t even capture these markets. How do people expect self-driving cars to be able to</p>
+<p begin="00:04:21.099" end="00:04:23.080" style="s2">so first and foremost</p>
+<p begin="00:04:23.080" end="00:04:29.520" style="s2">Anything that&#39;s level four. So also level four or says something about usually how it&#39;s technically done way</p>
+<p begin="00:04:29.520" end="00:04:35.250" style="s2">Moe uses High Definition maps a very high precision like precise to the centimeter maps of an area</p>
+<p begin="00:04:35.830" end="00:04:40.500" style="s2">Uses lidar that can register every object up to three hundred meters away</p>
+<p begin="00:04:41.199" end="00:04:43.199" style="s2">This is not how humans drive at all</p>
+<p begin="00:04:44.349" end="00:04:50.519" style="s2">But because of these this HD map requirement they have a smaller service area</p>
+<p begin="00:04:51.849" end="00:04:53.849" style="s2">They&#39;re also slower</p>
+<p begin="00:04:54.940" end="00:05:01.199" style="s2">So way most travel the speed limit they come to full stops at stop signs and</p>
+<p begin="00:05:02.590" end="00:05:06.239" style="s2">They slow down at the slightest hint of hesitation</p>
+<p begin="00:05:06.820" end="00:05:11.429" style="s2">Which may be if you&#39;re trying to design your thing to make sure there&#39;s never a PR disaster for your company like uber</p>
+<p begin="00:05:12.070" end="00:05:14.050" style="s2">It&#39;s the right call</p>
+<p begin="00:05:14.050" end="00:05:20.550" style="s2">But if I&#39;m sitting there, oh man, y&#39;know I gotta get downtown or home way. Mo is 18 minutes uber saying 12</p>
+<p begin="00:05:21.610" end="00:05:23.610" style="s2">I&#39;m gonna take an uber</p>
+<p begin="00:05:24.400" end="00:05:27.199" style="s2">There also, more expensive</p>
+<p begin="00:05:28.530" end="00:05:33.410" style="s2">So this might change this will probably change in the future everything eventually gets cheaper</p>
+<p begin="00:05:33.419" end="00:05:36.228" style="s2">but right now when you look at away, mo those cars cost about</p>
+<p begin="00:05:37.290" end="00:05:39.290" style="s2">300,000 to 500,000 to retrofit</p>
+<p begin="00:05:40.530" end="00:05:48.410" style="s2">Again, Google thinks oh, yeah. Well, we pay all our software engineers 200k a year salaries uber drivers ain&#39;t makin 200k. Um,</p>
+<p begin="00:05:49.770" end="00:05:51.030" style="s2">so</p>
+<p begin="00:05:51.030" end="00:05:53.030" style="s2">They&#39;re they&#39;re they&#39;re they&#39;re more expensive</p>
+<p begin="00:05:53.430" end="00:05:54.449" style="s2">the</p>
+<p begin="00:05:54.449" end="00:05:58.459" style="s2">Autonomous vehicle vision wouldn&#39;t even be a revolution at best</p>
+<p begin="00:05:58.710" end="00:06:03.979" style="s2">It&#39;s cheaper ride-sharing. A lot of times people get caught up in notions because they see</p>
+<p begin="00:06:05.669" end="00:06:11.149" style="s2">Futuristic looking stuff like this and think that this is going to have some</p>
+<p begin="00:06:12.389" end="00:06:14.389" style="s2">revolutionary impact</p>
+<p begin="00:06:14.550" end="00:06:19.250" style="s2">But they don&#39;t think about what the exact same product would be with a human</p>
+<p begin="00:06:20.160" end="00:06:23.689" style="s2">so all those chatbot AI companies criticized like</p>
+<p begin="00:06:24.240" end="00:06:29.660" style="s2">They&#39;re just humans doing the chatting, but they put AI in the name and they&#39;re there for some reason their valuation is way higher</p>
+<p begin="00:06:29.669" end="00:06:31.669" style="s2">It&#39;s a scam</p>
+<p begin="00:06:35.070" end="00:06:37.070" style="s2">So who&#39;s profiting off this game</p>
+<p begin="00:06:39.090" end="00:06:41.090" style="s2">This is a company drive day I</p>
+<p begin="00:06:42.840" end="00:06:45.859" style="s2">So they use all they&#39;re all you read their medium posts aw</p>
+<p begin="00:06:45.990" end="00:06:53.450" style="s2">They&#39;re unbelievable with the well, so we want to make sure that our self-driving car is capable of operating in multiple areas</p>
+<p begin="00:06:53.450" end="00:06:56.059" style="s2">So we hired engineers all over the world</p>
+<p begin="00:06:56.940" end="00:06:58.940" style="s2">What does have anything to do with that?</p>
+<p begin="00:06:59.310" end="00:07:01.579" style="s2">The very very kind of lofty language</p>
+<p begin="00:07:01.889" end="00:07:06.918" style="s2">Then when you get down to the root of what they actually made they made like a neighborhood shuttle bus</p>
+<p begin="00:07:07.349" end="00:07:12.049" style="s2">You know those like like like those buses that that ride around retirement homes that look like this</p>
+<p begin="00:07:13.289" end="00:07:17.929" style="s2">It&#39;s not self-driving. There&#39;s a human in the driver&#39;s seat. They made a</p>
+<p begin="00:07:18.570" end="00:07:20.570" style="s2">77 million dollar</p>
+<p begin="00:07:21.210" end="00:07:27.410" style="s2">Retirement home shuttle bus. What even is the global market for retirement home shuttle buses</p>
+<p begin="00:07:30.330" end="00:07:32.330" style="s2">I don&#39;t know</p>
+<p begin="00:07:32.379" end="00:07:33.430" style="s2">anybody</p>
+<p begin="00:07:33.430" end="00:07:37.259" style="s2">Consulting with people about the ethics of autonomous vehicles all well</p>
+<p begin="00:07:37.259" end="00:07:41.309" style="s2">So if I&#39;m driving down the street and and there&#39;s a baby in the way</p>
+<p begin="00:07:41.310" end="00:07:47.220" style="s2">But there&#39;s a tree do I swerve and kill the driver to save them has this ever happened to a human?</p>
+<p begin="00:07:48.190" end="00:07:50.190" style="s2">Has this ever been a real scenario?</p>
+<p begin="00:07:50.650" end="00:07:56.519" style="s2">Cars are incredibly dangerous and 90% of accidents are caused by drivers who are drunk distracted or asleep</p>
+<p begin="00:07:56.949" end="00:08:02.489" style="s2">not because they swerve to not hit a baby yet this captures again a</p>
+<p begin="00:08:03.129" end="00:08:06.959" style="s2">conversation about self-driving cars that&#39;s completely disproportional to any</p>
+<p begin="00:08:07.599" end="00:08:12.899" style="s2">Remote impact it may have but a lot of people are making money off this and they&#39;re there branding themselves</p>
+<p begin="00:08:12.900" end="00:08:18.389" style="s2">It&#39;s like well, we&#39;re gonna consult with the city of Beverly Hills about their autonomous vehicle strap. What?</p>
+<p begin="00:08:20.500" end="00:08:23.940" style="s2">This stuff&#39;s not a thing. I&#39;m in this one</p>
+<p begin="00:08:25.389" end="00:08:29.218" style="s2">So in the in the gold rush so you look at the the cruise acquisition</p>
+<p begin="00:08:30.639" end="00:08:35.098" style="s2">Probably actually a good vote for GM but then it was all the follow-ons to the cruise acquisition</p>
+<p begin="00:08:35.229" end="00:08:36.370" style="s2">this was the</p>
+<p begin="00:08:36.370" end="00:08:41.010" style="s2">Delfy spent four hundred fifty million dollars for demo quality software that drives around a block with a human of a driver&#39;s seat</p>
+<p begin="00:08:42.279" end="00:08:49.379" style="s2">This was done by Stanford in in during 2011 and the DARPA urban challenge and even better</p>
+<p begin="00:08:49.870" end="00:08:51.870" style="s2">They open sourced their code</p>
+<p begin="00:08:53.890" end="00:09:00.929" style="s2">They paid four hundred fifty thousand forty fifty million dollars probably for a few engineers and some code that&#39;s effectively open-source</p>
+<p begin="00:09:02.980" end="00:09:09.839" style="s2">So what&#39;s not a scam we gotta have the the positive atom actually sit here and rant about all the scammers for for an hour</p>
+<p begin="00:09:13.149" end="00:09:15.689" style="s2">This is car sold in America</p>
+<p begin="00:09:17.529" end="00:09:23.819" style="s2">Personal vehicle ownership is on the rise and not going anywhere for a long time</p>
+<p begin="00:09:24.579" end="00:09:26.579" style="s2">Might convert to electric. I think it will</p>
+<p begin="00:09:27.100" end="00:09:28.269" style="s2">Give it</p>
+<p begin="00:09:28.269" end="00:09:34.469" style="s2">time for the infrastructure to proliferate but personal vehicle ownership is not going anywhere because</p>
+<p begin="00:09:34.720" end="00:09:41.160" style="s2">How much cheaper would self-driving cars even be the nuber how much of the cost of the ride-sharing is the human driver?</p>
+<p begin="00:09:43.810" end="00:09:50.469" style="s2">About half the other half is maintenance of the car and in fleet and fuel and lots of other things</p>
+<p begin="00:09:50.959" end="00:09:57.638" style="s2">So it would even make goobers that are twice as cheap, but uber tries this we can already do twice as cheap uber today</p>
+<p begin="00:09:57.639" end="00:10:04.479" style="s2">It&#39;s called subsidies and they still, you know, can&#39;t get more than a few percent of a lot of these markets</p>
+<p begin="00:10:05.240" end="00:10:08.469" style="s2">This is US car ownership. This is Chinese car ownership</p>
+<p begin="00:10:10.100" end="00:10:15.670" style="s2">Huge potential market car ownership will continue for a long time</p>
+<p begin="00:10:16.430" end="00:10:18.430" style="s2">like we&#39;re not going to</p>
+<p begin="00:10:18.499" end="00:10:25.689" style="s2">Rethink and revolutionize the way that we have cars people like owning cars for the same reason people like owning houses</p>
+<p begin="00:10:26.959" end="00:10:32.438" style="s2">So if people are going to continue to buy cars, what does a better car look like?</p>
+<p begin="00:10:34.459" end="00:10:36.199" style="s2">You think of cell phones</p>
+<p begin="00:10:36.199" end="00:10:40.029" style="s2">You go back people had cell phones in the early 2000s, but no one really had smart phones</p>
+<p begin="00:10:40.029" end="00:10:47.919" style="s2">So what does there&#39;s a benefit Kevin&#39;s quote, right? What does a smart phone on wheels look like question down front on your right?</p>
+<p begin="00:10:49.490" end="00:10:51.609" style="s2">Would would this change if it was</p>
+<p begin="00:10:52.339" end="00:10:58.599" style="s2">Mixed use in the sense of if you want to get on an interstate. It will only be with the driverless car</p>
+<p begin="00:10:58.600" end="00:11:04.329" style="s2">So you flip a switch or something and then when you get off it goes back to human driving. Well, so</p>
+<p begin="00:11:05.209" end="00:11:09.758" style="s2">Yeah, I mean you can build that. We&#39;re already seeing systems like that today with test auto pilot</p>
+<p begin="00:11:10.430" end="00:11:13.269" style="s2">We&#39;re seeing systems where they still require monitoring</p>
+<p begin="00:11:13.269" end="00:11:17.979" style="s2">But they can do a lot of the work on the interstate and I do think this is the direction that we are headed</p>
+<p begin="00:11:18.139" end="00:11:22.989" style="s2">When it comes to we&#39;re going to rezone interstates as autonomous vehicle only zones. That&#39;s I mean</p>
+<p begin="00:11:24.019" end="00:11:29.049" style="s2">Some legislature person can might talk about that kind of stuff. But in reality, there&#39;s no reason to do it</p>
+<p begin="00:11:31.579" end="00:11:36.489" style="s2">Yeah, maybe you have you know, this is the autonomous Lane kind of like the HOV Lane, okay, I could see that happening</p>
+<p begin="00:11:37.550" end="00:11:39.550" style="s2">But does that answer your question?</p>
+<p begin="00:11:41.059" end="00:11:43.059" style="s2">So</p>
+<p begin="00:11:43.550" end="00:11:50.740" style="s2">On a lot of new cars today in fact, it&#39;s becoming standard on a lot of manufacturers you&#39;re starting to see driver assistance technology</p>
+<p begin="00:11:51.529" end="00:11:53.529" style="s2">So don&#39;t view</p>
+<p begin="00:11:53.750" end="00:11:56.679" style="s2">Autonomous vehicles as a binary like there&#39;s either you know</p>
+<p begin="00:11:57.060" end="00:12:04.799" style="s2">A human driver or there&#39;s no human driver all of those way Mo&#39;s driving around Chandler Arizona still have a human in the driver seat</p>
+<p begin="00:12:06.879" end="00:12:08.879" style="s2">That still has to be there to</p>
+<p begin="00:12:09.129" end="00:12:11.129" style="s2">intervene in case the car makes any mistakes</p>
+<p begin="00:12:11.379" end="00:12:17.159" style="s2">So instead of thinking about it like a cliff think about it as a gradual as a gradual increase to full autonomy</p>
+<p begin="00:12:17.620" end="00:12:22.829" style="s2">So we had cruise control cruise control came out in the first cars before in 70s. It&#39;s automatic gas</p>
+<p begin="00:12:22.990" end="00:12:28.019" style="s2">So when you&#39;re on the highway instead of having to keep your foot of gas pedal you press the button and the car will will</p>
+<p begin="00:12:28.019" end="00:12:31.919" style="s2">Handle the gas for you not so great if there&#39;s another car in a way</p>
+<p begin="00:12:32.290" end="00:12:37.740" style="s2">Because it will slam right into that car if you set the cruise control at 65, so that&#39;s why we have adaptive cruise control</p>
+<p begin="00:12:38.769" end="00:12:40.828" style="s2">How many people have cars with adaptive cruise control?</p>
+<p begin="00:12:42.459" end="00:12:44.459" style="s2">Cool a lot of you</p>
+<p begin="00:12:45.550" end="00:12:47.410" style="s2">It&#39;s common in mice</p>
+<p begin="00:12:47.410" end="00:12:52.410" style="s2">So it&#39;s the car will the car will do the brake for you and will keep you a safe following distance from the car in</p>
+<p begin="00:12:52.410" end="00:12:54.410" style="s2">front of you and then</p>
+<p begin="00:12:54.730" end="00:12:56.560" style="s2">lane centering</p>
+<p begin="00:12:56.560" end="00:12:58.679" style="s2">as distinct from Lane Keeping Assist</p>
+<p begin="00:12:58.720" end="00:13:02.250" style="s2">Which will correct you if you&#39;re drifting out of the lane Lane centering</p>
+<p begin="00:13:02.439" end="00:13:06.149" style="s2">Actively keeps you in the land how many people have a car with Lane Center?</p>
+<p begin="00:13:07.149" end="00:13:13.859" style="s2">Okay less. So if you guys didn&#39;t see the hands it&#39;s about 50% you with adaptive cruise control about 20% with Lane centering</p>
+<p begin="00:13:15.879" end="00:13:21.058" style="s2">All of these combined gas brake and steering that&#39;s all of driving a</p>
+<p begin="00:13:22.569" end="00:13:23.500" style="s2">Lot of</p>
+<p begin="00:13:23.500" end="00:13:27.869" style="s2">Manufacturers were selling their cruise control systems and their dapping cruise control systems in the lane keeping system</p>
+<p begin="00:13:27.970" end="00:13:30.990" style="s2">All kind of on separate pages if you&#39;ve ever tried to navigate</p>
+<p begin="00:13:31.569" end="00:13:38.759" style="s2">The OEMs website. I think Tesla did a great job with the branding on this when they came out to test the autopilot</p>
+<p begin="00:13:39.550" end="00:13:43.649" style="s2">Tesla autopilot is just these same features but packaged into one</p>
+<p begin="00:13:44.170" end="00:13:45.759" style="s2">Nice Oh</p>
+<p begin="00:13:45.759" end="00:13:52.859" style="s2">Test autopilot. Okay, cool. What is autopilot? Oh, it drives the car for you. Well, that&#39;s not really what Auto powered on the plane does</p>
+<p begin="00:13:54.220" end="00:14:01.079" style="s2">But interesting interesting pyaare around it, they know how to be provocative. So, this is a Paul Graham tweet</p>
+<p begin="00:14:02.649" end="00:14:04.888" style="s2">The Tesla Model S was like the iPhone</p>
+<p begin="00:14:05.649" end="00:14:11.039" style="s2">And that all the manufacturers now have to copy it. The difference is many don&#39;t realize it yet</p>
+<p begin="00:14:13.540" end="00:14:15.540" style="s2">So when these things come out</p>
+<p begin="00:14:16.389" end="00:14:23.579" style="s2">Even blackberry is scared. There&#39;s there&#39;s initial articles about all the iPhone will never take off because people want a physical keyboard</p>
+<p begin="00:14:24.459" end="00:14:27.689" style="s2">Blackberry doesn&#39;t think this blackberry starts working or if you guys remember the blackberry storm</p>
+<p begin="00:14:28.329" end="00:14:32.698" style="s2">they tried they tried to they tried to stay around but</p>
+<p begin="00:14:33.699" end="00:14:35.699" style="s2">they didn&#39;t I</p>
+<p begin="00:14:37.779" end="00:14:38.910" style="s2">Spoke with someone</p>
+<p begin="00:14:38.910" end="00:14:45.240" style="s2">I believe it was from from Mitsubishi and they said there&#39;s no way that we can now build electric cars</p>
+<p begin="00:14:45.579" end="00:14:51.029" style="s2">Because because Tesla is Tesla is so far had on the battery technology. They have a 5-2 lead in the battery technology</p>
+<p begin="00:14:51.029" end="00:14:54.299" style="s2">There&#39;s no supplier. You can go to to buy Tesla&#39;s battery from</p>
+<p begin="00:14:55.660" end="00:15:01.199" style="s2">but even if you built a car with the same range and specs as a Tesla</p>
+<p begin="00:15:01.750" end="00:15:05.489" style="s2">nobody would buy it because they&#39;re also five years ahead in a</p>
+<p begin="00:15:05.709" end="00:15:10.919" style="s2">Huge number of other areas like the operating system like the supercharger network</p>
+<p begin="00:15:11.920" end="00:15:16.199" style="s2">So, I don&#39;t know what&#39;s gonna happen with it with what the car industry but</p>
+<p begin="00:15:17.829" end="00:15:20.939" style="s2">This is kind of where we come in I was approached by a friend</p>
+<p begin="00:15:21.730" end="00:15:27.029" style="s2">To build a new to build the vision system for Tesla autopilot before it launched</p>
+<p begin="00:15:27.430" end="00:15:30.359" style="s2">Tesla was using a mobile eye chip. So mobile eye is a</p>
+<p begin="00:15:31.000" end="00:15:36.000" style="s2">really the original a task company and I&#39;ve come to respect them a lot more throughout this journey because they&#39;ve been saying a lot of</p>
+<p begin="00:15:36.000" end="00:15:38.219" style="s2">His self-driving cars a scam stuff for a long time</p>
+<p begin="00:15:39.250" end="00:15:42.779" style="s2">And they are they were acquired for fifteen billion dollars by Intel</p>
+<p begin="00:15:43.779" end="00:15:49.979" style="s2">Not a bad price. Sorry Intel Botham name an Intel acquisition that&#39;s gone on to be a successful company</p>
+<p begin="00:15:50.529" end="00:15:54.509" style="s2">You get bought by Facebook. You&#39;re successful you get bought by Intel you&#39;re dead</p>
+<p begin="00:15:55.449" end="00:15:56.620" style="s2">Uh-huh</p>
+<p begin="00:15:56.620" end="00:16:00.149" style="s2">Thanks for everything though whatsapp Instagram oculus</p>
+<p begin="00:16:00.790" end="00:16:02.790" style="s2">Let&#39;s go sold a million of those things</p>
+<p begin="00:16:03.370" end="00:16:05.259" style="s2">so</p>
+<p begin="00:16:05.259" end="00:16:08.489" style="s2">I&#39;m working I met with Elon a few times who talked about</p>
+<p begin="00:16:09.490" end="00:16:11.669" style="s2">a deal for building the vision system</p>
+<p begin="00:16:11.670" end="00:16:15.479" style="s2">But eventually the deal kind of fell through I&#39;ll chalk it up to a miscommunication</p>
+<p begin="00:16:15.939" end="00:16:19.689" style="s2">And I come up with this idea for a company. Okay build better test the autopilot</p>
+<p begin="00:16:20.539" end="00:16:22.539" style="s2">sell to automakers be rich</p>
+<p begin="00:16:23.659" end="00:16:29.919" style="s2">Just pitch that I get this is the pitch that I gave to VCS and it sounds like a good pitch. I</p>
+<p begin="00:16:30.709" end="00:16:33.969" style="s2">talked about the smartphone stuff and I&#39;m like look, I mean Tesla&#39;s running iOS</p>
+<p begin="00:16:37.069" end="00:16:38.869" style="s2">We&#39;re gonna build the Android</p>
+<p begin="00:16:38.869" end="00:16:41.829" style="s2">So we did we did step one. It&#39;s called open pilot</p>
+<p begin="00:16:42.769" end="00:16:48.158" style="s2">Um open pilot. I have a little explainer video made by one of our</p>
+<p begin="00:16:48.679" end="00:16:51.819" style="s2">Community members after this but it&#39;s effectively</p>
+<p begin="00:16:53.119" end="00:16:54.289" style="s2">autopilot</p>
+<p begin="00:16:54.289" end="00:16:57.939" style="s2">for cars people actually have</p>
+<p begin="00:16:59.149" end="00:17:04.839" style="s2">So this is this is a little what is open pilot open pilot is an advanced driver assistance</p>
+<p begin="00:17:05.209" end="00:17:08.558" style="s2">System that turns your car&#39;s lane keep assist function from this</p>
+<p begin="00:17:14.960" end="00:17:19.599" style="s2">To this as well as provides smoother and safer radar adaptive cruise control</p>
+<p begin="00:17:20.990" end="00:17:28.660" style="s2">Open pilot allows you to be driving hands-free and feet free for long periods of time without intervention even more so on interstates and highways</p>
+<p begin="00:17:30.200" end="00:17:35.229" style="s2">Everything is controlled by open pilot, but it&#39;s easy to intervene at any time. But how does this all work?</p>
+<p begin="00:17:35.330" end="00:17:39.519" style="s2">You need three pieces of hardware all bought from coma ai slash shop</p>
+<p begin="00:17:40.190" end="00:17:41.840" style="s2">first the giraffe</p>
+<p begin="00:17:41.840" end="00:17:48.250" style="s2">This device converts your car&#39;s lane keep assist camera connector into a more Universal port for the next piece of hardware</p>
+<p begin="00:17:48.250" end="00:17:54.070" style="s2">Which is the gray panda the Panda receives information from your car and can also send information as well</p>
+<p begin="00:17:54.230" end="00:17:59.080" style="s2">This is what sends the car commands such as speed up slow down and turn the wheel in either direction</p>
+<p begin="00:17:59.300" end="00:18:04.180" style="s2">It also has a high-precision GPS antenna used to create HD maps as you drive</p>
+<p begin="00:18:04.490" end="00:18:11.170" style="s2">Finally the e on this is the main device that drives your car first plugged into the Panda then mounted on your windshield</p>
+<p begin="00:18:11.600" end="00:18:16.959" style="s2">it sees your car&#39;s existing radar information which shows exactly how far away the car in front of you is</p>
+<p begin="00:18:17.180" end="00:18:20.469" style="s2">With this it instructs the car to speed up and slow down as needed</p>
+<p begin="00:18:20.810" end="00:18:26.619" style="s2">it also has a high quality camera that looks for lane lines in the road and tells the wheel to stay exactly centered in the</p>
+<p begin="00:18:26.620" end="00:18:28.310" style="s2">lane lines at all times</p>
+<p begin="00:18:28.310" end="00:18:32.769" style="s2">As an added bonus. It is also a fantastic dashcam with free unlimited cloud storage</p>
+<p begin="00:18:33.650" end="00:18:35.680" style="s2">Open pilot runs on Honda&#39;s Toyota&#39;s</p>
+<p begin="00:18:36.050" end="00:18:42.279" style="s2">Acuras Lexus GM in Hyundais with even more car support being worked on every day and the best part</p>
+<p begin="00:18:42.740" end="00:18:44.740" style="s2">Altogether this setup costs less than</p>
+<p begin="00:18:44.960" end="00:18:52.300" style="s2">$1,000 check if your existing car is compatible then go buy a neon panda enter after day and upgrade your car to the future</p>
+<p begin="00:18:57.290" end="00:18:59.290" style="s2">That&#39;s our slogan</p>
+<p begin="00:19:04.880" end="00:19:06.880" style="s2">So</p>
+<p begin="00:19:08.180" end="00:19:15.340" style="s2">Back to the the the the the business plan build better Tesla autopilot. Well, I really think you&#39;re not really gonna build better test autopilot</p>
+<p begin="00:19:15.860" end="00:19:16.940" style="s2">because</p>
+<p begin="00:19:16.940" end="00:19:18.940" style="s2">Tesla autopilot is</p>
+<p begin="00:19:19.130" end="00:19:21.130" style="s2">Not a fixed target</p>
+<p begin="00:19:21.440" end="00:19:25.210" style="s2">It&#39;s much better right now than Tesla autopilot when it came out</p>
+<p begin="00:19:25.730" end="00:19:28.030" style="s2">Is it better than Tesla autopilot now? No</p>
+<p begin="00:19:28.610" end="00:19:30.610" style="s2">Because Tesla&#39;s good engineers</p>
+<p begin="00:19:31.490" end="00:19:33.820" style="s2">when I saw what Tesla was doing with autopilot like</p>
+<p begin="00:19:34.370" end="00:19:42.130" style="s2">When I compared myself to the way that like Toyota and auto manufacturers and even the tier ones Delphian Bosch are thinking about this</p>
+<p begin="00:19:42.350" end="00:19:49.750" style="s2">They&#39;re thinking in old ways. They&#39;re coding in. Well, we have to code everything in Misra C and run it on</p>
+<p begin="00:19:50.300" end="00:19:51.380" style="s2">32-bit</p>
+<p begin="00:19:51.380" end="00:19:56.200" style="s2">freescale trike or micro processors that have as &#39;old these safety ratings and</p>
+<p begin="00:19:56.990" end="00:19:58.990" style="s2">This doesn&#39;t really make sense</p>
+<p begin="00:19:59.570" end="00:20:01.570" style="s2">You&#39;re not gonna get</p>
+<p begin="00:20:02.360" end="00:20:07.330" style="s2">Functional safety, you&#39;re not gonna be able to get a safety spec of these things because there&#39;s no formal definition of a car</p>
+<p begin="00:20:07.330" end="00:20:09.330" style="s2">You&#39;re just gonna have to use statistical safety</p>
+<p begin="00:20:09.740" end="00:20:12.609" style="s2">You&#39;re not gonna want to code all of this in</p>
+<p begin="00:20:13.490" end="00:20:15.849" style="s2">You know this this very restricted</p>
+<p begin="00:20:17.270" end="00:20:20.469" style="s2">C because you&#39;re never gonna get any sort of modern performance</p>
+<p begin="00:20:20.690" end="00:20:24.580" style="s2">You&#39;re never gonna get all the niceties OBE how it&#39;s gotten in Python, by the way</p>
+<p begin="00:20:26.120" end="00:20:29.050" style="s2">You&#39;re never gonna get you&#39;re not gonna be able to be competitive</p>
+<p begin="00:20:30.110" end="00:20:32.950" style="s2">Tesla autopilot is coded in C++, but it&#39;s a very</p>
+<p begin="00:20:33.680" end="00:20:39.789" style="s2">Nice high-end abstracted C++ not the kind of low end stuff that the car manufacturers are doing so</p>
+<p begin="00:20:40.580" end="00:20:44.529" style="s2">Tesla is using neural networks. They&#39;re using GPUs. We&#39;re using neural networks. We&#39;re using GPUs</p>
+<p begin="00:20:44.530" end="00:20:49.749" style="s2">We&#39;re using all the same tricks. So we&#39;re not actually going to pass autopilot. We&#39;re gonna kind of tie him</p>
+<p begin="00:20:50.360" end="00:20:56.170" style="s2">So we do this right and I hadn&#39;t thought that the reason that other cars didn&#39;t have autopilot</p>
+<p begin="00:20:56.270" end="00:20:59.440" style="s2">Was that the car manufacturers did not know how to build it?</p>
+<p begin="00:21:00.080" end="00:21:02.080" style="s2">This is not true</p>
+<p begin="00:21:02.660" end="00:21:06.790" style="s2">So I met with the car makers I met with several CEOs</p>
+<p begin="00:21:08.480" end="00:21:14.349" style="s2">Drove down to their offices. I met with a lot of business development people. I&#39;m still kind of confused about what business development is</p>
+<p begin="00:21:15.710" end="00:21:18.670" style="s2">Oh, I was I was I was appalled</p>
+<p begin="00:21:19.370" end="00:21:21.400" style="s2">You couldn&#39;t you couldn&#39;t talk to these people?</p>
+<p begin="00:21:22.520" end="00:21:28.300" style="s2">There is no I guess it makes sense when you think about it Ford is a four hundred thousand person organization</p>
+<p begin="00:21:29.180" end="00:21:34.479" style="s2">Who is Ford if I had mind control over the CEO of Ford?</p>
+<p begin="00:21:34.480" end="00:21:37.209" style="s2">I still couldn&#39;t make this stuff ship</p>
+<p begin="00:21:39.350" end="00:21:46.209" style="s2">It&#39;s like a big it&#39;s like a big boat and no one&#39;s really skewing. Everyone&#39;s got like a little paddle, right?</p>
+<p begin="00:21:49.190" end="00:21:51.010" style="s2">Question on your right in the back</p>
+<p begin="00:21:51.010" end="00:21:57.579" style="s2">Yeah, so I think I&#39;m your worst nightmare because I&#39;m both a business development person and a PhD in psychology. You&#39;re not gonna take</p>
+<p begin="00:21:58.280" end="00:22:02.079" style="s2">So if you&#39;re appalled now, you should be a little worried. Um my question</p>
+<p begin="00:22:02.960" end="00:22:06.490" style="s2">Listening to the way you&#39;re thinking about going at the problem what you&#39;re trying to solve</p>
+<p begin="00:22:06.920" end="00:22:09.969" style="s2">Makes me think back to your slide with that big red X on it</p>
+<p begin="00:22:10.120" end="00:22:15.400" style="s2">yeah, and in the way I shorthand of what you did was you put a big red X through the category or the the</p>
+<p begin="00:22:16.280" end="00:22:18.170" style="s2">Topics having to do with the ethics</p>
+<p begin="00:22:18.170" end="00:22:19.340" style="s2">and the</p>
+<p begin="00:22:19.340" end="00:22:25.090" style="s2">Interaction between the technology you&#39;re working on in people and I know the baby case could be put off as an edge case</p>
+<p begin="00:22:25.090" end="00:22:26.680" style="s2">I taught probability I get it</p>
+<p begin="00:22:26.680" end="00:22:33.999" style="s2">Yeah, but that&#39;s a placeholder for a whole bunch of issues that aren&#39;t about whether pythons gonna cut it for me or not</p>
+<p begin="00:22:34.000" end="00:22:38.140" style="s2">And so I&#39;m wondering how you think about that as you develop your technology</p>
+<p begin="00:22:38.140" end="00:22:38.720" style="s2">I</p>
+<p begin="00:22:38.720" end="00:22:40.070" style="s2">mean I get look I</p>
+<p begin="00:22:40.070" end="00:22:46.510" style="s2">Understand big companies and challenges moving through but I think there&#39;s a pretty fundamental one when we&#39;re looking at some of this stuff around</p>
+<p begin="00:22:47.390" end="00:22:51.129" style="s2">Assisted driving autonomous driving, whatever part of it you think you want to address?</p>
+<p begin="00:22:51.860" end="00:22:57.670" style="s2">So when it comes to what I put an extra was people talking specifically about the the ethics of autonomous vehicles</p>
+<p begin="00:22:57.670" end="00:23:01.899" style="s2">The handoff problem is absolutely real on the problem of making sure</p>
+<p begin="00:23:02.420" end="00:23:05.769" style="s2">Of just remove from a from like an HCI perspective</p>
+<p begin="00:23:06.560" end="00:23:12.609" style="s2">Understanding whether the human is in control of the car whether the machine is in control of the car making sure expectations are correct</p>
+<p begin="00:23:12.610" end="00:23:14.610" style="s2">Oh, these things are extremely important. I</p>
+<p begin="00:23:15.080" end="00:23:19.780" style="s2">Don&#39;t go into it in this slide deck, but we have some medium posts about we have a camera facing the driver</p>
+<p begin="00:23:19.780" end="00:23:25.300" style="s2">I mean we make sure that the driver is paying attention at all times that we expect them to be paying attention</p>
+<p begin="00:23:25.460" end="00:23:28.389" style="s2">We make sure our our transition system</p>
+<p begin="00:23:29.060" end="00:23:33.609" style="s2">When we how we alert how we do the handoffs has been praised by a bunch of people</p>
+<p begin="00:23:33.740" end="00:23:37.420" style="s2">Auto makers it like beeps and flashes like a little icon. You have no idea what it means</p>
+<p begin="00:23:37.670" end="00:23:44.229" style="s2">We have consistent messaging about whether the car is capable of doing this whether it&#39;s capable of engaging here</p>
+<p begin="00:23:44.230" end="00:23:46.570" style="s2">So I think things like that are extremely important</p>
+<p begin="00:23:47.030" end="00:23:52.869" style="s2">What I don&#39;t think is important is the kind of people who give far reaching twenty years from now</p>
+<p begin="00:23:52.870" end="00:23:56.229" style="s2">We&#39;re going to rethink cities around autonomous vehicles</p>
+<p begin="00:23:57.350" end="00:24:03.579" style="s2">Are we what&#39;s the difference to the autonomous vehicle and a non autonomous vehicle at most its cost?</p>
+<p begin="00:24:04.640" end="00:24:11.290" style="s2">In these cases. It&#39;s also building a product that is more convenient for a user but from an external perspective</p>
+<p begin="00:24:11.290" end="00:24:13.600" style="s2">The car looks identical you can&#39;t tell</p>
+<p begin="00:24:14.690" end="00:24:19.239" style="s2">If you see a test on the highway with their cars on autopilot or not on autopilot, I&#39;m sorry</p>
+<p begin="00:24:19.240" end="00:24:22.840" style="s2">I don&#39;t mean to group those two things together. I think one is extremely important I think one is</p>
+<p begin="00:24:24.380" end="00:24:31.330" style="s2">People self-promoting and stuff that like, I don&#39;t see the relevant stuff, but does that answer cool?</p>
+<p begin="00:24:33.830" end="00:24:38.529" style="s2">So, yeah, you you try to work with these uh with these automakers and</p>
+<p begin="00:24:40.400" end="00:24:42.400" style="s2">You can&#39;t</p>
+<p begin="00:24:42.680" end="00:24:44.680" style="s2">It&#39;s a structural problem</p>
+<p begin="00:24:45.650" end="00:24:52.060" style="s2">Mobileye has more business development people than they do R&amp;D engineers. That&#39;s why their text not that great, but it&#39;s in all the cars</p>
+<p begin="00:24:53.630" end="00:24:57.310" style="s2">So, yeah, I mean to go back to the Paul Graham tweet</p>
+<p begin="00:24:58.100" end="00:25:01.749" style="s2">You don&#39;t realize it. The car manufacturers don&#39;t realize</p>
+<p begin="00:25:02.570" end="00:25:07.450" style="s2">when you get in some of these cars and you use the their adaptive cruise control the</p>
+<p begin="00:25:07.970" end="00:25:15.339" style="s2">Quality varies wildly from manufacturer to manufacturer. It&#39;s almost like these people have never gotten in a Tesla and tried it</p>
+<p begin="00:25:18.590" end="00:25:25.119" style="s2">So yeah, what do you do? So is this hard as hard at the beginning of the company this was like my plan</p>
+<p begin="00:25:25.120" end="00:25:27.820" style="s2">I&#39;m gonna sell to these people. I&#39;m gonna talk with them. They&#39;re gonna be reasonable</p>
+<p begin="00:25:29.549" end="00:25:36.288" style="s2">So I realized that who really cares if Tesla is the iPhone</p>
+<p begin="00:25:38.039" end="00:25:43.819" style="s2">We just have to build the Android and the phones already exist</p>
+<p begin="00:25:45.479" end="00:25:47.718" style="s2">It&#39;s not like we have to get</p>
+<p begin="00:25:48.450" end="00:25:50.450" style="s2">manufacturer by n we just have to get</p>
+<p begin="00:25:50.940" end="00:25:56.869" style="s2">Manufacturer compatibility, I would much rather work with the product than the company</p>
+<p begin="00:25:58.320" end="00:26:01.759" style="s2">Open pilot already supports this whole list of cars</p>
+<p begin="00:26:02.759" end="00:26:04.759" style="s2">you can go right now and</p>
+<p begin="00:26:05.009" end="00:26:10.128" style="s2">you can put open pilot in these cars and it will take over the steering the gas and the brakes and it will do a</p>
+<p begin="00:26:10.289" end="00:26:13.069" style="s2">Significantly better job than the manufacturer system in all of those cars</p>
+<p begin="00:26:13.950" end="00:26:15.950" style="s2">open pilot is the Android and</p>
+<p begin="00:26:16.409" end="00:26:18.409" style="s2">Just like Android</p>
+<p begin="00:26:18.479" end="00:26:20.479" style="s2">It&#39;s open source</p>
+<p begin="00:26:20.789" end="00:26:23.388" style="s2">Why make it open source well</p>
+<p begin="00:26:24.899" end="00:26:27.439" style="s2">Nobody has any excuse anymore</p>
+<p begin="00:26:28.259" end="00:26:35.238" style="s2">You&#39;ve seen it in the last two years how many companies try to raise money off of a demo video of self-driving?</p>
+<p begin="00:26:35.820" end="00:26:37.820" style="s2">nobody</p>
+<p begin="00:26:38.099" end="00:26:43.999" style="s2">Because if you can&#39;t build something better than what&#39;s available and open source and market of it nobody knows that Stanford codes open source</p>
+<p begin="00:26:45.209" end="00:26:50.839" style="s2">You have nothing right? There is no reason for somebody now to start from scratch on this stuff</p>
+<p begin="00:26:50.839" end="00:26:55.458" style="s2">Just take open pilot modify. It build it extend it and hopefully</p>
+<p begin="00:26:56.159" end="00:26:59.118" style="s2">upstream your stuff change the conversation from</p>
+<p begin="00:27:02.279" end="00:27:09.138" style="s2">Intellectual property and business development deals and exclusivity to do a pull request on an open pilot</p>
+<p begin="00:27:09.419" end="00:27:12.408" style="s2">Well, upstream it. It&#39;s it&#39;s everybody&#39;s MIT license</p>
+<p begin="00:27:12.989" end="00:27:18.228" style="s2">So somebody else could take this rebrand it call it their own great. I just want to see the stuff you better</p>
+<p begin="00:27:22.799" end="00:27:24.799" style="s2">Have you tested</p>
+<p begin="00:27:25.259" end="00:27:27.259" style="s2">Open pilot and all of those</p>
+<p begin="00:27:27.629" end="00:27:30.468" style="s2">vehicles that you had previously you have um</p>
+<p begin="00:27:30.779" end="00:27:35.988" style="s2">So not not personally but so we have a we have we have a safety model</p>
+<p begin="00:27:35.989" end="00:27:39.049" style="s2">I can go into after after I run through the slide deck</p>
+<p begin="00:27:39.049" end="00:27:41.898" style="s2">I can go through I can go to the website and show what our safety model is</p>
+<p begin="00:27:42.620" end="00:27:44.620" style="s2">so our safety model involves</p>
+<p begin="00:27:44.940" end="00:27:46.080" style="s2">It&#39;s two things</p>
+<p begin="00:27:46.080" end="00:27:47.370" style="s2">It&#39;s one</p>
+<p begin="00:27:47.370" end="00:27:49.880" style="s2">Make sure that the system can never do anything</p>
+<p begin="00:27:50.039" end="00:27:50.610" style="s2">quickly</p>
+<p begin="00:27:50.610" end="00:27:56.959" style="s2">make sure it can never like jerk the wheel or slam on the brakes or do something faster than a driver could react and to</p>
+<p begin="00:27:57.240" end="00:27:59.900" style="s2">Make sure the driver is paying attention at all times</p>
+<p begin="00:27:59.940" end="00:28:06.559" style="s2">And as soon as they touch either the gas or the brake the car immediately reverts to manual mode</p>
+<p begin="00:28:06.809" end="00:28:11.959" style="s2">So as long as you ensure those two things you have a pretty good level to safety model</p>
+<p begin="00:28:12.270" end="00:28:18.739" style="s2">Um and yet be explicit about this. So we say like it cannot do anything bad within one second</p>
+<p begin="00:28:18.740" end="00:28:23.539" style="s2">So as long as you&#39;re paying attention, you know just reach out and it&#39;s not like it&#39;ll ever like turn the wheel like this</p>
+<p begin="00:28:23.539" end="00:28:25.669" style="s2">It&#39;s really designed for highway driving kind of stuff</p>
+<p begin="00:28:25.669" end="00:28:30.109" style="s2">So if you just reach out put a little bit of pressure on the steering wheel, it&#39;ll just stop doing anything</p>
+<p begin="00:28:31.350" end="00:28:34.130" style="s2">So yeah, yeah making sure this stuff is well done</p>
+<p begin="00:28:34.130" end="00:28:39.919" style="s2">and also the safety code is not a Python on the safety code isn&#39;t see the safety code is is on an as will be</p>
+<p begin="00:28:40.169" end="00:28:41.279" style="s2">microcontroller</p>
+<p begin="00:28:41.279" end="00:28:45.619" style="s2">The stuff that&#39;s in Python is like the machine learning model part of things</p>
+<p begin="00:28:45.620" end="00:28:49.669" style="s2">Which you&#39;re never going to be able to formally validate. Anyway, the safety code is formally validated</p>
+<p begin="00:28:49.669" end="00:28:52.219" style="s2">It has tests it is you got to do it stuff correctly</p>
+<p begin="00:28:58.740" end="00:29:02.599" style="s2">I am Ashley McCorkle from Intel and</p>
+<p begin="00:29:06.600" end="00:29:14.360" style="s2">Just let you know we haven&#39;t killed mobile yet. We&#39;re trying really hard not to that was kind of an expensive acquisition but and</p>
+<p begin="00:29:16.200" end="00:29:21.169" style="s2">You actually have a lot in common in your approach and am nons approach with mobile</p>
+<p begin="00:29:21.169" end="00:29:27.019" style="s2">I and one is trying to scale up from ADAS into more sophisticated</p>
+<p begin="00:29:27.690" end="00:29:34.909" style="s2">Levels of autonomous driving, I think. The other is assuming that this will never work if you have to put you know</p>
+<p begin="00:29:34.909" end="00:29:36.909" style="s2">multiple xeon</p>
+<p begin="00:29:36.990" end="00:29:38.990" style="s2">supercomputing resources in a car</p>
+<p begin="00:29:39.120" end="00:29:39.740" style="s2">You know</p>
+<p begin="00:29:39.740" end="00:29:42.439" style="s2">he&#39;s trying to scale it up from basically like a a</p>
+<p begin="00:29:42.870" end="00:29:49.159" style="s2">In SOC like a very light computing and addling thousands rather than tens of thousands of dollars the price of a car</p>
+<p begin="00:29:49.159" end="00:29:53.719" style="s2">Right. So one of his assumptions though, and I think it&#39;s relevant for the</p>
+<p begin="00:29:55.470" end="00:30:00.440" style="s2">Lead up with that we had previously the the warm up on trends in AI is</p>
+<p begin="00:30:01.440" end="00:30:03.859" style="s2">Rather than trying to use a brute-force approach</p>
+<p begin="00:30:04.620" end="00:30:06.979" style="s2">Where you were I think you like you were saying, you know</p>
+<p begin="00:30:07.500" end="00:30:13.579" style="s2">Having 3d lidar mapping of the entire terrain and having these massive crunching to be able to map</p>
+<p begin="00:30:13.580" end="00:30:17.720" style="s2">You know in 3d, you know everything entire surroundings the car</p>
+<p begin="00:30:18.690" end="00:30:23.059" style="s2">Using a very light compute method that is really based not on, you know</p>
+<p begin="00:30:23.060" end="00:30:30.679" style="s2">these deep learning based number crunching but on a rules-based approach and I think he&#39;s also published that as you know,</p>
+<p begin="00:30:30.900" end="00:30:37.369" style="s2">basically open sourcing this responsibility sensitive safety where you&#39;re programming a set of</p>
+<p begin="00:30:37.740" end="00:30:39.740" style="s2">rules into the AI</p>
+<p begin="00:30:39.870" end="00:30:41.870" style="s2">that that</p>
+<p begin="00:30:41.880" end="00:30:47.390" style="s2">Basically encapsulate what society&#39;s idea of safe driving is and by society</p>
+<p begin="00:30:47.390" end="00:30:53.569" style="s2">It can be a little bit flexible as well. Like an Israeli car can drive differently than a French car than an American car</p>
+<p begin="00:30:54.180" end="00:30:59.539" style="s2">So what do you think of that approach and and you do you agree with that particular?</p>
+<p begin="00:31:00.690" end="00:31:04.220" style="s2">assessment of AI and brute force computation in cars</p>
+<p begin="00:31:05.700" end="00:31:07.560" style="s2">so</p>
+<p begin="00:31:07.560" end="00:31:11.539" style="s2">Multi parts here. I&#39;ve watched I&#39;ve watched all of his recent talks</p>
+<p begin="00:31:12.960" end="00:31:17.060" style="s2">Especially especially after auto pilot comes out. I really I&#39;m going to respect</p>
+<p begin="00:31:17.790" end="00:31:22.189" style="s2">His perspective so a lot more give a very good cvpr talk where he went into</p>
+<p begin="00:31:22.440" end="00:31:27.170" style="s2">Actually, like what it takes to make these computer vision things reliable enough to drive cars. I</p>
+<p begin="00:31:27.720" end="00:31:30.110" style="s2">thought the formalization of</p>
+<p begin="00:31:30.960" end="00:31:32.130" style="s2">that</p>
+<p begin="00:31:32.130" end="00:31:38.390" style="s2">Stuff he goes into one where he talks about like formally specifying what it means to be a safe driver. I</p>
+<p begin="00:31:39.030" end="00:31:42.739" style="s2">Think that stuff was pretty weak. The problem is</p>
+<p begin="00:31:46.500" end="00:31:52.939" style="s2">What he&#39;s really trying to do there the subtext is we want to make sure we are never liable for any accidents we caused</p>
+<p begin="00:31:53.880" end="00:31:58.310" style="s2">I mean you can view the world that way and sell like lawyers and accountants view the world</p>
+<p begin="00:31:58.310" end="00:32:03.829" style="s2">I don&#39;t I want to figure out an engineer. I want to drive accidents down to zero. Let&#39;s root cause it let&#39;s figure it out</p>
+<p begin="00:32:04.560" end="00:32:06.560" style="s2">NTSB not nishta</p>
+<p begin="00:32:08.200" end="00:32:14.879" style="s2">So I also don&#39;t think it really works from a technical perspective because take a</p>
+<p begin="00:32:15.909" end="00:32:17.409" style="s2">double yellow line</p>
+<p begin="00:32:17.409" end="00:32:20.339" style="s2">The rules of driving say you cannot cross the double yellow line</p>
+<p begin="00:32:20.590" end="00:32:24.779" style="s2">But if you do not cross double yellow lines and you&#39;re driving around San Francisco, you will never get anywhere</p>
+<p begin="00:32:25.749" end="00:32:29.009" style="s2">There&#39;s an uber with their blinkers on right there. Okay, so then when is it?</p>
+<p begin="00:32:29.009" end="00:32:33.179" style="s2">Okay, do we formalize this or do we look at big data?</p>
+<p begin="00:32:33.700" end="00:32:39.240" style="s2">My argument is that the definition of driving is what people do when they drive</p>
+<p begin="00:32:39.970" end="00:32:43.619" style="s2">Now you say not everybody&#39;s a safe driver is the anna karenina quote</p>
+<p begin="00:32:44.230" end="00:32:46.149" style="s2">Every good driver is good in the same way</p>
+<p begin="00:32:46.149" end="00:32:53.039" style="s2">Every bad driver is bad in a different way because of that the statistical algorithm earning algorithms</p>
+<p begin="00:32:53.320" end="00:32:56.730" style="s2">Kind of ignore the bad data because they can&#39;t find much signal in it</p>
+<p begin="00:32:56.980" end="00:33:00.299" style="s2">Instead of thinking of the average driver think of a committee driver</p>
+<p begin="00:33:00.519" end="00:33:05.549" style="s2">Think of 100 people sitting in a room voting 100 times a second on what the car should do</p>
+<p begin="00:33:05.799" end="00:33:07.049" style="s2">Some of them may be drunk</p>
+<p begin="00:33:07.049" end="00:33:13.648" style="s2">Some of them may be distracted and some of them may be asleep, but the committee will probably still make the correct decision</p>
+<p begin="00:33:13.690" end="00:33:20.610" style="s2">So I think that&#39;s more the approach and when you try to formalize this stuff even trying to formalize what a car is</p>
+<p begin="00:33:20.799" end="00:33:22.799" style="s2">becomes extremely hard</p>
+<p begin="00:33:23.559" end="00:33:25.559" style="s2">So, I don&#39;t know. I don&#39;t think it&#39;s gonna</p>
+<p begin="00:33:26.139" end="00:33:29.729" style="s2">Gonna go anywhere. I think the way to actually do this is with big data and statistics</p>
+<p begin="00:33:30.700" end="00:33:32.700" style="s2">Jenna has a question</p>
+<p begin="00:33:36.190" end="00:33:39.299" style="s2">Yeah, I work for a big insurance company</p>
+<p begin="00:33:39.299" end="00:33:43.918" style="s2">So I&#39;m curious in your safety stats when you talk about it if you&#39;re gonna cover it great</p>
+<p begin="00:33:43.919" end="00:33:50.998" style="s2">I can&#39;t find any data as to when open pilot actually came about so I&#39;m curious how long it&#39;s existed and then to</p>
+<p begin="00:33:52.360" end="00:33:54.360" style="s2">When it&#39;s been in an accident</p>
+<p begin="00:33:54.369" end="00:33:57.389" style="s2">How is fault determined and how is that?</p>
+<p begin="00:33:57.909" end="00:34:03.569" style="s2">Dealt with so I have some stats on a later slide, but it&#39;s a dash cam as well</p>
+<p begin="00:34:04.090" end="00:34:06.090" style="s2">So we&#39;ve had no</p>
+<p begin="00:34:06.340" end="00:34:08.669" style="s2">At fault accidents so far but the system engaged</p>
+<p begin="00:34:10.359" end="00:34:15.239" style="s2">Which is better than the average you&#39;ll see how many miles we have but</p>
+<p begin="00:34:16.780" end="00:34:17.970" style="s2">How is fault determined</p>
+<p begin="00:34:17.970" end="00:34:22.840" style="s2">I mean the exact same way it&#39;s determined the human is still legally in control car open pilot is a level 2 system</p>
+<p begin="00:34:22.840" end="00:34:27.160" style="s2">So just like Tesla autopilot or just like imagine you put your car on cruise control, right?</p>
+<p begin="00:34:27.160" end="00:34:31.660" style="s2">You can&#39;t say well, I understand. I rear-ended you but the car was on cruise control and it wasn&#39;t supposed to</p>
+<p begin="00:34:32.240" end="00:34:36.880" style="s2">Great, you&#39;re liable. So liability is determined in the exact same way that a</p>
+<p begin="00:34:38.930" end="00:34:41.349" style="s2">An accident between two humans would be determined right</p>
+<p begin="00:34:41.690" end="00:34:47.079" style="s2">In fact people think that the problem with these kind of systems is you can&#39;t introspect and ask them</p>
+<p begin="00:34:47.080" end="00:34:49.150" style="s2">You can&#39;t say why did you make that decision?</p>
+<p begin="00:34:49.160" end="00:34:54.699" style="s2">You can&#39;t ask humans either if you go after a car accident and ask humans</p>
+<p begin="00:34:54.700" end="00:35:00.490" style="s2">What happened there recall is extremely bad if you have dashcam footage from both cars</p>
+<p begin="00:35:01.130" end="00:35:02.890" style="s2">Now you start to figure out what happened</p>
+<p begin="00:35:02.890" end="00:35:03.350" style="s2">um</p>
+<p begin="00:35:03.350" end="00:35:09.249" style="s2">So I think devices like this which also function as cloud dash cams will be an extreme boon to the insurance industry</p>
+<p begin="00:35:09.680" end="00:35:14.079" style="s2">Here you go right away instant fault. I like insurance. I like the whole businesses</p>
+<p begin="00:35:15.080" end="00:35:19.569" style="s2">Well, the whole business is great its statistics. It&#39;s we&#39;re going to drive down accident</p>
+<p begin="00:35:19.570" end="00:35:21.610" style="s2">So we&#39;re gonna charge and we&#39;re gonna make art we&#39;re gonna make our profits</p>
+<p begin="00:35:22.400" end="00:35:24.400" style="s2">Great</p>
+<p begin="00:35:24.410" end="00:35:27.339" style="s2">So yeah, how is fault determined in the exact same way that is with humans</p>
+<p begin="00:35:30.140" end="00:35:34.059" style="s2">So yeah open pilot is not it&#39;s not some oh</p>
+<p begin="00:35:37.040" end="00:35:41.590" style="s2">Hi, so I am a human machine teaming engineer so</p>
+<p begin="00:35:42.260" end="00:35:47.290" style="s2">You talked earlier about automation as a gradual rise rather than as a cliff</p>
+<p begin="00:35:47.450" end="00:35:53.770" style="s2">There&#39;s a lot of work on levels of automation like you were talking about do you expect to open pilot to eventually</p>
+<p begin="00:35:54.260" end="00:35:59.350" style="s2">You know climb that gentle slope to full automation? And if so,</p>
+<p begin="00:35:59.900" end="00:36:05.019" style="s2">What do you expect to need to change or grow and capabilities to achieve that if not, why not?</p>
+<p begin="00:36:06.320" end="00:36:08.320" style="s2">Yes, I do</p>
+<p begin="00:36:10.580" end="00:36:15.670" style="s2">The so we&#39;re gonna need a few more okay right now it only has one forward-facing camera, that&#39;s clearly not enough</p>
+<p begin="00:36:15.860" end="00:36:20.650" style="s2">You&#39;ll need 360 degrees of vision. I think you&#39;ll need a bit more compute than what you currently have</p>
+<p begin="00:36:20.720" end="00:36:23.350" style="s2">If you really want to say the human doesn&#39;t have to pay attention</p>
+<p begin="00:36:23.630" end="00:36:28.150" style="s2">You&#39;ll need to talk about like systems reliability engineering. You&#39;ll need to put two</p>
+<p begin="00:36:28.280" end="00:36:31.959" style="s2">Processors and making sure that failure cases are not just right now</p>
+<p begin="00:36:31.960" end="00:36:36.740" style="s2">A lot of failure cases we have or safety model is based around having a human driver in the driver seat</p>
+<p begin="00:36:36.869" end="00:36:38.899" style="s2">so as long as we don&#39;t kind of have</p>
+<p begin="00:36:39.690" end="00:36:44.750" style="s2">False positives it&#39;s okay, but you start to get into true negative is becoming really bad as well</p>
+<p begin="00:36:45.210" end="00:36:47.720" style="s2">if you&#39;re trying to remove the human from the system, so</p>
+<p begin="00:36:49.140" end="00:36:53.629" style="s2">Do we eventually get there? Yeah. When are we ready for it when the statistics show we are</p>
+<p begin="00:36:54.359" end="00:36:56.359" style="s2">when we start to see in the statistics, oh</p>
+<p begin="00:36:56.359" end="00:37:02.268" style="s2">Wow, open pilot has driven this stretch of road 1 million times and has never made a mistake. Is that good enough?</p>
+<p begin="00:37:03.089" end="00:37:06.558" style="s2">Figure out those statistics and let&#39;s see maybe ask the question. Uh</p>
+<p begin="00:37:08.009" end="00:37:12.439" style="s2">Yeah, but kind of an add-on question. So you were talking earlier as well about</p>
+<p begin="00:37:13.589" end="00:37:19.939" style="s2">Restrictions in the utility of full automation in terms of the you know, the larger system that the car is driving in</p>
+<p begin="00:37:20.430" end="00:37:23.509" style="s2">what are your thoughts about that going forward that just the</p>
+<p begin="00:37:24.089" end="00:37:29.028" style="s2">Ecosystem of consumer desires will change and legislation will follow or what?</p>
+<p begin="00:37:30.359" end="00:37:32.419" style="s2">And the design of traffic systems</p>
+<p begin="00:37:35.609" end="00:37:38.659" style="s2">It&#39;ll be gradual it&#39;ll be what makes sense</p>
+<p begin="00:37:41.190" end="00:37:46.549" style="s2">Like I don&#39;t know I don&#39;t think it&#39;s gonna change that much because I don&#39;t think machines and humans are that different</p>
+<p begin="00:37:46.650" end="00:37:49.160" style="s2">I think that the things that</p>
+<p begin="00:37:49.740" end="00:37:54.169" style="s2">Have been developed over hundreds of years for human drivers will actually work out to be</p>
+<p begin="00:37:54.170" end="00:37:57.259" style="s2">Oh, well, those things are actually pretty useful for machine drivers, too</p>
+<p begin="00:37:58.559" end="00:38:04.219" style="s2">Like you&#39;re like well machines won&#39;t need stop signs. Oh, I forgot about that whole scam v2v communication</p>
+<p begin="00:38:06.000" end="00:38:10.939" style="s2">Machines won&#39;t need stop signs. The two cars will just communicate with each other. This is horrific</p>
+<p begin="00:38:11.970" end="00:38:17.899" style="s2">This is I don&#39;t know if anybody knows anything about safety who comes up with ideas like this because now you need two</p>
+<p begin="00:38:18.119" end="00:38:21.379" style="s2">Active components to work correctly for a stop sign to work</p>
+<p begin="00:38:22.019" end="00:38:25.069" style="s2">The beauty of stop signs is a decentralized as the logic</p>
+<p begin="00:38:25.619" end="00:38:31.038" style="s2">Either party most accident there would be so many more accidents on the road today</p>
+<p begin="00:38:31.039" end="00:38:36.768" style="s2">If every driver wasn&#39;t actively avoiding accidents. Think about every time you hear a horn honk that&#39;s an accident</p>
+<p begin="00:38:36.769" end="00:38:41.569" style="s2">That would have happened if I didn&#39;t actively swerve you need both parties to be paying attention</p>
+<p begin="00:38:41.700" end="00:38:44.869" style="s2">so yeah with respect to like changing these things radically</p>
+<p begin="00:38:45.930" end="00:38:49.520" style="s2">I don&#39;t know. I think that what&#39;s good for you most to be good for machines as well</p>
+<p begin="00:38:49.830" end="00:38:53.509" style="s2">some things are already becoming less relevant like road signs since everybody doesn&#39;t have</p>
+<p begin="00:38:54.750" end="00:39:00.889" style="s2">Like like signs saying oh this exit here. Okay, so yeah open pilot is not</p>
+<p begin="00:39:01.890" end="00:39:08.000" style="s2">Some fancy research stuff. This was actually my drive to the conference. I guess. I&#39;m on my way to the conference Oh</p>
+<p begin="00:39:08.940" end="00:39:10.940" style="s2">piles driving right now</p>
+<p begin="00:39:11.340" end="00:39:13.850" style="s2">It&#39;s got the wheel. It&#39;s got the gas at the brake</p>
+<p begin="00:39:16.880" end="00:39:22.069" style="s2">It&#39;s got the bridge traffic I have the car in the parking lot. Maybe there&#39;s driver I</p>
+<p begin="00:39:24.720" end="00:39:30.049" style="s2">Know that&#39;s in the back. So I noticed there&#39;s no rearview mirror</p>
+<p begin="00:39:33.180" end="00:39:35.180" style="s2">So we don&#39;t encourage people to do that</p>
+<p begin="00:39:35.489" end="00:39:40.819" style="s2">You do not you you you do not have to remove your rear view mirror for driving</p>
+<p begin="00:39:40.819" end="00:39:45.949" style="s2">but this is still a road-legal car on swivel law in California is you need to have two mirrors on your car that can see</p>
+<p begin="00:39:45.950" end="00:39:51.859" style="s2">The back if you have to side members, you don&#39;t actually need a regular that&#39;s more of just an aesthetic taste on my part</p>
+<p begin="00:39:52.470" end="00:39:57.199" style="s2">But we do not encourage people to do that and the kit does not require it because that would violate FMVSS</p>
+<p begin="00:39:58.170" end="00:40:00.150" style="s2">But you can do it personally</p>
+<p begin="00:40:00.150" end="00:40:02.150" style="s2">Doesn&#39;t it doesn&#39;t violate anything?</p>
+<p begin="00:40:02.400" end="00:40:05.269" style="s2">So yeah business was simple profit off hardware. I</p>
+<p begin="00:40:06.119" end="00:40:11.719" style="s2">Mean, you know, it&#39;s a business model. I can respect we make the hardware for less than we sell it for</p>
+<p begin="00:40:12.479" end="00:40:14.479" style="s2">We don&#39;t license IP</p>
+<p begin="00:40:15.420" end="00:40:21.139" style="s2">Ya on the website you buy the three components separately I think it was 600 mm</p>
+<p begin="00:40:22.829" end="00:40:24.829" style="s2">600</p>
+<p begin="00:40:26.999" end="00:40:29.839" style="s2">Don&#39;t you need all three you do? Yeah. It&#39;s about it&#39;s about</p>
+<p begin="00:40:30.359" end="00:40:35.538" style="s2">$650 for all of them. Yeah. Should we make this easier? Yeah, we should we should make it easier. I don&#39;t know</p>
+<p begin="00:40:36.029" end="00:40:38.748" style="s2">I&#39;m the head of research now. I used to be CEO. I&#39;m not anymore</p>
+<p begin="00:40:38.880" end="00:40:44.359" style="s2">We&#39;ll get a real CEO who who knows things about execution and business right now. We got a new CEO. He&#39;s great, but</p>
+<p begin="00:40:47.759" end="00:40:48.869" style="s2">Uh</p>
+<p begin="00:40:48.869" end="00:40:53.718" style="s2">Yeah, so it could just about stats. We&#39;ve driven a point five million miles</p>
+<p begin="00:40:54.299" end="00:40:58.369" style="s2">So yeah to not have seen to not have seen the system calls accident an eight point five million miles</p>
+<p begin="00:40:59.489" end="00:41:02.869" style="s2">It&#39;s pretty good. We&#39;ve seen a bunch of accidents with the system engaged</p>
+<p begin="00:41:03.660" end="00:41:05.869" style="s2">There is one that&#39;s particularly hilarious</p>
+<p begin="00:41:06.690" end="00:41:11.779" style="s2">There&#39;s a the system comes to stop behind a car, but the car overshot the stop line</p>
+<p begin="00:41:12.299" end="00:41:15.109" style="s2">And the driver just puts it reverse and just Rams right into it</p>
+<p begin="00:41:17.549" end="00:41:19.549" style="s2">Good thing you had the dash cam footage. All right</p>
+<p begin="00:41:21.329" end="00:41:28.548" style="s2">So first some comparison whammo just reached ten million miles and cruise probably has about 1 million to have significantly more than them</p>
+<p begin="00:41:28.549" end="00:41:32.899" style="s2">I&#39;m the one that I did not put there is Tesla which has billions of miles on your left in the back again real quick</p>
+<p begin="00:41:32.900" end="00:41:37.969" style="s2">Over what time span is this? This is oversold. Well, it&#39;s been around now for almost three years</p>
+<p begin="00:41:38.880" end="00:41:40.880" style="s2">Times this is the life timing system</p>
+<p begin="00:41:41.400" end="00:41:43.400" style="s2">This question will be shorter</p>
+<p begin="00:41:44.549" end="00:41:51.709" style="s2">When you have a deep learning based approach, yeah and you know, it&#39;s really a game of getting a bunch of training datum</p>
+<p begin="00:41:52.289" end="00:41:53.759" style="s2">so</p>
+<p begin="00:41:53.759" end="00:42:00.139" style="s2">And what competitive disadvantage does that put a smaller company like yourself? I mean if you back to your Tesla example, right?</p>
+<p begin="00:42:00.140" end="00:42:04.549" style="s2">Yeah, these are V. Say Wemo or Tesla which are just going to be piling on the</p>
+<p begin="00:42:05.249" end="00:42:06.900" style="s2">training models</p>
+<p begin="00:42:06.900" end="00:42:10.759" style="s2">We train our models on only about 100,000 miles of data</p>
+<p begin="00:42:10.880" end="00:42:16.460" style="s2">Um, the models are not even trained on all the data and we have almost the same number of miles way now</p>
+<p begin="00:42:16.460" end="00:42:18.460" style="s2">so so to pull out my</p>
+<p begin="00:42:19.289" end="00:42:21.289" style="s2">amnon</p>
+<p begin="00:42:21.359" end="00:42:23.838" style="s2">Well, we don&#39;t have any small blows, right</p>
+<p begin="00:42:24.569" end="00:42:29.119" style="s2">But they&#39;re not we send all the video back. He would say that, you know if you&#39;re trying to</p>
+<p begin="00:42:30.420" end="00:42:36.649" style="s2">Specifically avoid crash situations that you know that you it&#39;s a very low probability event</p>
+<p begin="00:42:36.650" end="00:42:41.450" style="s2">Yeah, so therefore you would need billions of miles okay in order to properly train</p>
+<p begin="00:42:41.969" end="00:42:44.059" style="s2">This system against these sorts of events</p>
+<p begin="00:42:44.160" end="00:42:47.629" style="s2">And also every time you update the system you need another billion</p>
+<p begin="00:42:47.789" end="00:42:52.639" style="s2">you know billions of miles in order to retrain the model for to avoid these events, so</p>
+<p begin="00:42:54.420" end="00:42:57.259" style="s2">Is deep learning really the</p>
+<p begin="00:42:58.710" end="00:43:01.429" style="s2">Scalable approach particularly for a small company. Yes</p>
+<p begin="00:43:01.460" end="00:43:04.879" style="s2">Um, so the former part of that about needing billions of miles to get to level 4</p>
+<p begin="00:43:04.880" end="00:43:09.680" style="s2">I completely agree if you 1 billion miles is 10 fatalities, maybe five fatalities</p>
+<p begin="00:43:09.719" end="00:43:13.399" style="s2">You have to have that kind of stuff in your dataset. If you&#39;re trying to say to your systems level 4</p>
+<p begin="00:43:14.460" end="00:43:19.369" style="s2">Do you need to gather new billion miles? No, you need some good statistical way to</p>
+<p begin="00:43:20.670" end="00:43:22.909" style="s2">Show that your system can function on replace</p>
+<p begin="00:43:22.910" end="00:43:30.739" style="s2">Um, so we can just rerun the new system over the billions of miles and say it&#39;s still good. Um does deep learning scale? Yes</p>
+<p begin="00:43:31.499" end="00:43:35.209" style="s2">You have to start to do you&#39;re not going to train on all billion miles and you don&#39;t have to</p>
+<p begin="00:43:35.339" end="00:43:41.808" style="s2">When you want to deal with crash scenarios, we&#39;re gonna have like a data set where it&#39;s like here&#39;s 1 million near crash scenario</p>
+<p begin="00:43:42.330" end="00:43:46.230" style="s2">These are the good ones. This is what you should do. We can do automatic recovery on that stuff, too</p>
+<p begin="00:43:48.250" end="00:43:53.789" style="s2">So I got two minutes let me just get through the last few slides here this is daily miles driven</p>
+<p begin="00:43:54.430" end="00:43:57.809" style="s2">And this is daily percent of miles engaged</p>
+<p begin="00:43:59.290" end="00:44:06.000" style="s2">More than 50 percent of the miles are being driven by the system and this is crushing Tesla Tesla&#39;s about 30</p>
+<p begin="00:44:06.670" end="00:44:12.240" style="s2">Their reason are is is significantly higher is because we don&#39;t disengage on the steering wheel and everything is just more</p>
+<p begin="00:44:12.310" end="00:44:15.420" style="s2">Gradual and gentle we view it as much more of a system than an autopilot</p>
+<p begin="00:44:15.730" end="00:44:18.750" style="s2">But our goal is to get that number up to 100</p>
+<p begin="00:44:19.300" end="00:44:24.150" style="s2">So it&#39;s kind of growing over time. We got some new users who were less power users</p>
+<p begin="00:44:24.150" end="00:44:26.490" style="s2">It&#39;s also engaged last around the winter because there&#39;s snow on the roads</p>
+<p begin="00:44:26.490" end="00:44:30.269" style="s2">So we expect to see a hump in the middle of every year</p>
+<p begin="00:44:32.980" end="00:44:34.980" style="s2">Yeah, so how to scale and win</p>
+<p begin="00:44:35.470" end="00:44:38.099" style="s2">We already have a product people pay for and use daily</p>
+<p begin="00:44:39.310" end="00:44:41.670" style="s2">continue to improve driving quality and car support</p>
+<p begin="00:44:42.340" end="00:44:48.299" style="s2">Lower the barrier to entry you don&#39;t have to buy three reared animal named things and then partner dealerships for mass distribution</p>
+<p begin="00:44:49.090" end="00:44:53.340" style="s2">Don&#39;t try to talk to don&#39;t try to talk to the OEMs. I think it&#39;s hopeless</p>
+<p begin="00:44:55.390" end="00:45:00.299" style="s2">If you partner with dealerships, it&#39;s like partnering with you you got your phone and the AT&amp;T store in the t-mobile store</p>
+<p begin="00:45:00.820" end="00:45:02.290" style="s2">I&#39;ve talked with some dealerships</p>
+<p begin="00:45:02.290" end="00:45:05.460" style="s2">They&#39;re super hungry for this kind of stuff and they&#39;re the kind of people who you can talk to</p>
+<p begin="00:45:05.460" end="00:45:10.169" style="s2">you&#39;re like look we make this thing we sell it to you for $600 you sell it to people for</p>
+<p begin="00:45:10.690" end="00:45:12.720" style="s2">$2,000 you give $1400</p>
+<p begin="00:45:13.540" end="00:45:15.540" style="s2">That&#39;s a good deal</p>
+<p begin="00:45:17.320" end="00:45:20.970" style="s2">Since you just did when Twitter, I call me and Instagram George Hotz</p>
+<p begin="00:45:21.610" end="00:45:23.320" style="s2">Let&#39;s talk</p>
+<p begin="00:45:23.320" end="00:45:27.990" style="s2">When I&#39;m back in your left, please. All right. There was a question over here first, and then we&#39;ll come back</p>
+<p begin="00:45:29.770" end="00:45:31.450" style="s2">Yes, so</p>
+<p begin="00:45:31.450" end="00:45:37.589" style="s2">How do you deal with and you answered it a little bit or at least hinted at it because of the the winter comment?</p>
+<p begin="00:45:38.440" end="00:45:41.970" style="s2">All the sensors on these cars are in different places. They have different</p>
+<p begin="00:45:42.640" end="00:45:44.620" style="s2">limitations or blind spots</p>
+<p begin="00:45:44.620" end="00:45:51.819" style="s2">How do you deal with the fact that your hundred thousand miles of training data? Probably doesn&#39;t</p>
+<p begin="00:45:52.460" end="00:45:54.460" style="s2">accommodate</p>
+<p begin="00:45:54.800" end="00:46:00.550" style="s2">Degraded conditions and so how do you build models and understand how they vary and these in these degraded capacities because</p>
+<p begin="00:46:02.030" end="00:46:07.600" style="s2">Your system. I understand that the sort of the humans always engage, but at the same time</p>
+<p begin="00:46:09.080" end="00:46:13.119" style="s2">The AI is going to be generating some faulty data and how do you detect that?</p>
+<p begin="00:46:13.670" end="00:46:15.280" style="s2">Yeah, it&#39;s not generating faulty data</p>
+<p begin="00:46:15.280" end="00:46:20.739" style="s2">And we do have a huge diversity of weather conditions and locations in our data set the data set just comes from all the users</p>
+<p begin="00:46:20.990" end="00:46:24.129" style="s2">So we have whatever the users are actually driving on</p>
+<p begin="00:46:25.010" end="00:46:27.100" style="s2">So that&#39;s not really that big of a problem</p>
+<p begin="00:46:27.619" end="00:46:29.380" style="s2">When it comes to the sensors being different</p>
+<p begin="00:46:29.380" end="00:46:33.430" style="s2">This is why we have the eland the EON has a camera on the back of it that cameras the same across all the cars</p>
+<p begin="00:46:33.430" end="00:46:38.530" style="s2">The radars are similar enough and the actuators are similar enough that we built a hardware abstraction layer on that</p>
+<p begin="00:46:39.350" end="00:46:41.350" style="s2">abstracts them to this uniform</p>
+<p begin="00:46:41.420" end="00:46:47.500" style="s2">API that gives it to all cars and going a lot more into technical details of that but uh</p>
+<p begin="00:46:48.020" end="00:46:54.639" style="s2">Yeah. So again, it&#39;s level 2 if the car like traction control fires. It&#39;s like the ESC fires we disengage</p>
+<p begin="00:46:54.940" end="00:46:57.970" style="s2">We&#39;re like you got to be driving right now. Just like you should not use cruise control on the snow</p>
+<p begin="00:46:57.970" end="00:47:02.830" style="s2">You should not use these systems if there&#39;s snow on the road if there&#39;s snow on the side of the road. Yes sure, it&#39;s fine</p>
+<p begin="00:47:04.880" end="00:47:06.380" style="s2">Robert</p>
+<p begin="00:47:06.380" end="00:47:08.380" style="s2">Did you still have a question?</p>
+<p begin="00:47:08.750" end="00:47:12.489" style="s2">My question was around you mentioned the cloud storage of the dashcam video</p>
+<p begin="00:47:12.490" end="00:47:18.100" style="s2">Is that a subscription model or how does that work right now? It&#39;s free, but we&#39;re moving towards</p>
+<p begin="00:47:18.320" end="00:47:20.320" style="s2">Yeah, we&#39;re looking into that kind of stuff</p>
+<p begin="00:47:21.200" end="00:47:23.200" style="s2">It&#39;s expensive storage is expensive</p>
+<p begin="00:47:23.750" end="00:47:26.229" style="s2">Ok Zee, and then we&#39;ll pop back up this</p>
+<p begin="00:47:27.050" end="00:47:29.080" style="s2">You&#39;re tracking all the location data</p>
+<p begin="00:47:30.020" end="00:47:36.249" style="s2">What is your how do you manage the privacy around that you by using our system you consent to giving us full access to all?</p>
+<p begin="00:47:36.250" end="00:47:37.430" style="s2">the data</p>
+<p begin="00:47:37.430" end="00:47:41.680" style="s2">If you don&#39;t if you&#39;re not ok with that, don&#39;t use it. I&#39;m very open about that. I&#39;m not like Facebook</p>
+<p begin="00:47:41.680" end="00:47:46.090" style="s2">I&#39;m not wishy-washy you are giving us all the data and we will use it for whatever we want if you&#39;re not ok with that</p>
+<p begin="00:47:46.090" end="00:47:48.090" style="s2">Don&#39;t use the system</p>
+<p begin="00:47:49.369" end="00:47:55.299" style="s2">Right side so I have two quick questions one is have you found any issues with</p>
+<p begin="00:47:55.910" end="00:47:57.730" style="s2">contextualizing how people drive in different regions</p>
+<p begin="00:47:57.730" end="00:48:01.629" style="s2">I know in Buenos Aires for example as soon as you see a yellow on the other direction</p>
+<p begin="00:48:01.630" end="00:48:05.710" style="s2">You start going in see see where I&#39;m from. You kind of let rides Lauren out</p>
+<p begin="00:48:05.710" end="00:48:11.079" style="s2">I always imagine taking half DC drivers and half Buenos Aires drivers and watching what would happen</p>
+<p begin="00:48:11.480" end="00:48:15.490" style="s2">So when you have these voting&#39;s you have differing dimensions. The other one is is</p>
+<p begin="00:48:16.790" end="00:48:21.250" style="s2">Are you looking at the attention data as people are going more confident in the system?</p>
+<p begin="00:48:21.250" end="00:48:28.299" style="s2">Are they more willing or more likely to pull out their phone or start losing their attention because they don&#39;t have to again here</p>
+<p begin="00:48:28.300" end="00:48:32.289" style="s2">We&#39;re starting to get in a situation where people are feeling pretty safe on this up on the highway</p>
+<p begin="00:48:32.290" end="00:48:34.290" style="s2">And they&#39;re not paying attention anymore</p>
+<p begin="00:48:34.340" end="00:48:41.230" style="s2">This is why after the second Tesla accident where the guy hit the guardrail we&#39;re like we have to ship driver monitoring immediately</p>
+<p begin="00:48:41.230" end="00:48:46.209" style="s2">So right now if you&#39;re driving and you look at your phone if you look at your phone for more than four seconds</p>
+<p begin="00:48:46.210" end="00:48:47.750" style="s2">it will beep and</p>
+<p begin="00:48:47.750" end="00:48:51.909" style="s2">Then it will continue to steer but it will stop gasps. It will stop doing the gas</p>
+<p begin="00:48:52.130" end="00:48:55.000" style="s2">So if you are distracted, it won&#39;t accelerate anymore</p>
+<p begin="00:48:56.150" end="00:49:01.030" style="s2">And then people learn eventually if this becomes a problem, we&#39;re also gonna put in lock outs</p>
+<p begin="00:49:01.100" end="00:49:04.960" style="s2">But that hasn&#39;t really become a problem yet. Tesla should do driver monitoring as well</p>
+<p begin="00:49:05.690" end="00:49:07.390" style="s2">So yeah, as people have become more common</p>
+<p begin="00:49:07.390" end="00:49:12.670" style="s2">That&#39;s the danger as these things get better people pay attention less and that&#39;s you just solved with driver monitoring make sure the driver actually</p>
+<p begin="00:49:12.670" end="00:49:14.670" style="s2">Pays attention and punish them for not</p>
+<p begin="00:49:15.650" end="00:49:21.520" style="s2">And then the contextualization of regions, oh regionalization. Um, so we just have a country filter right now</p>
+<p begin="00:49:21.740" end="00:49:26.229" style="s2">Most of the data comes from America it works. The best in America driving is similar enough in America</p>
+<p begin="00:49:26.230" end="00:49:29.020" style="s2">You will get into weird edge cases, maybe like the Pittsburgh left</p>
+<p begin="00:49:29.020" end="00:49:32.949" style="s2">I think the way to solve that problem long term is to train different models for different regions</p>
+<p begin="00:49:33.680" end="00:49:37.809" style="s2">It&#39;s like the iPhone has different stuff. He&#39;s loading the region model</p>
+<p begin="00:49:38.570" end="00:49:40.570" style="s2">Okay, maybe time for one more</p>
+<p begin="00:49:42.380" end="00:49:44.380" style="s2">You have a</p>
+<p begin="00:49:44.420" end="00:49:48.609" style="s2">Security aspect of it. Sorry. Could you raise your hand wherever you are? Oh right in the middle</p>
+<p begin="00:49:48.610" end="00:49:54.010" style="s2">Yes security aspect against hacking for Oakland pilot. Um, so</p>
+<p begin="00:49:54.620" end="00:49:58.839" style="s2">Car hacking is one of these things that also people make a ton of money talking about in conferences</p>
+<p begin="00:49:58.840" end="00:50:00.840" style="s2">Can you give an example of what it actually happened?</p>
+<p begin="00:50:02.990" end="00:50:05.589" style="s2">But at least you have seen situations where people have</p>
+<p begin="00:50:06.290" end="00:50:11.770" style="s2">You know had a gang, you know a regular laptop or something talking to the canvas</p>
+<p begin="00:50:11.770" end="00:50:14.379" style="s2">Oh, yeah, I&#39;ve seen I&#39;ve seen Charlie Miller do a PR stunt</p>
+<p begin="00:50:15.080" end="00:50:20.139" style="s2">But I&#39;ve never seen car hacking does not appear to be an actual threat by malicious actors in the real world</p>
+<p begin="00:50:20.510" end="00:50:27.369" style="s2">When it does I&#39;ll consider it much more seriously, but like until it does like what are people really going to do. They&#39;re not</p>
+<p begin="00:50:28.010" end="00:50:32.619" style="s2">It&#39;s not really a thing but use industry standard security. Don&#39;t do stupid things</p>
+<p begin="00:50:32.859" end="00:50:38.288" style="s2">Thank you speaking from experience though. If you want to sell your system in certain countries like China, yeah</p>
+<p begin="00:50:39.010" end="00:50:42.189" style="s2">Oh, we&#39;ve given up on that mark. Yeah, they have a lot of restrictions and</p>
+<p begin="00:50:42.890" end="00:50:45.789" style="s2">They actually want to be able to monitor the AI</p>
+<p begin="00:50:46.849" end="00:50:48.500" style="s2">because they&#39;re very</p>
+<p begin="00:50:48.500" end="00:50:55.119" style="s2">Paranoid about about cyber security our stuff gets into China through github. I&#39;m not I&#39;m not touching that market</p>
+<p begin="00:50:55.119" end="00:50:57.119" style="s2">I&#39;m not working with no people like that</p>
+<p begin="00:51:00.260" end="00:51:06.280" style="s2">Okay, well I personally think this was a great way to stop the conference cuz this is one of those</p>
+<p begin="00:51:11.450" end="00:51:13.659" style="s2">This is a talk where I&#39;m like one minute</p>
+<p begin="00:51:13.660" end="00:51:14.950" style="s2">I&#39;m like, yeah</p>
+<p begin="00:51:14.950" end="00:51:18.280" style="s2">I&#39;m really on board with that and then the next no I hate what you just said and then the next minute</p>
+<p begin="00:51:18.280" end="00:51:20.409" style="s2">I&#39;m like, yeah, I really and then I&#39;m back to</p>
+<p begin="00:51:21.859" end="00:51:26.528" style="s2">But talk about a provoking way to stop the conference George. Thanks very much</p>
+</div>
+</body>
+</tt>

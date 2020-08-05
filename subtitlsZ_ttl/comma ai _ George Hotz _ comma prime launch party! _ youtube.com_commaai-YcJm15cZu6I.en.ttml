@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:10.670" style="s2">okay there we go welcome welcome welcome</p>
+<p begin="00:00:03.360" end="00:00:17.310" style="s2">everybody welcome to the comma prime</p>
+<p begin="00:00:10.670" end="00:00:30.230" style="s2">launch all right so first we&#39;re gonna</p>
+<p begin="00:00:17.310" end="00:00:30.230" style="s2">tweet the live stream just find our</p>
+<p begin="00:00:33.110" end="00:00:38.960" style="s2">hello Prius Prime for the win</p>
+<p begin="00:00:39.379" end="00:00:43.469" style="s2">hey I gotta figure how to delete the old</p>
+<p begin="00:00:41.550" end="00:00:44.660" style="s2">stream and I don&#39;t know we&#39;ll deal with</p>
+<p begin="00:00:43.469" end="00:00:52.440" style="s2">that later</p>
+<p begin="00:00:44.660" end="00:00:57.590" style="s2">no we will just share this one let&#39;s</p>
+<p begin="00:00:52.440" end="00:00:57.590" style="s2">check my tweet looks good</p>
+<p begin="00:00:57.680" end="00:01:01.730" style="s2">yo yo there&#39;s no black pandas that&#39;s</p>
+<p begin="00:01:01.199" end="00:01:05.400" style="s2">fake</p>
+<p begin="00:01:01.730" end="00:01:11.210" style="s2">alright guys I didn&#39;t really plan too</p>
+<p begin="00:01:05.400" end="00:01:11.210" style="s2">much for the live stream I did plan this</p>
+<p begin="00:01:11.689" end="00:01:22.590" style="s2">is what we&#39;re launching it is called</p>
+<p begin="00:01:15.200" end="00:01:25.140" style="s2">comma Prime and it&#39;s a good service it&#39;s</p>
+<p begin="00:01:22.590" end="00:01:27.659" style="s2">also an excuse for you to give us annual</p>
+<p begin="00:01:25.140" end="00:01:31.200" style="s2">recurring revenue which is something we</p>
+<p begin="00:01:27.659" end="00:01:32.880" style="s2">need in order to make you know Silicon</p>
+<p begin="00:01:31.200" end="00:01:35.220" style="s2">Valley are happy with us and they could</p>
+<p begin="00:01:32.880" end="00:01:36.659" style="s2">they could love us if we just became the</p>
+<p begin="00:01:35.220" end="00:01:38.880" style="s2">kind of company that makes annual</p>
+<p begin="00:01:36.659" end="00:01:41.310" style="s2">recurring revenue it&#39;s not a credit card</p>
+<p begin="00:01:38.880" end="00:01:43.560" style="s2">it&#39;s not a credit card you know what I&#39;m</p>
+<p begin="00:01:41.310" end="00:01:51.090" style="s2">just gonna post the medium post and you</p>
+<p begin="00:01:43.560" end="00:01:55.920" style="s2">guys can all follow along just copy and</p>
+<p begin="00:01:51.090" end="00:01:57.570" style="s2">paste this let me post on Twitter let&#39;s</p>
+<p begin="00:01:55.920" end="00:02:00.270" style="s2">see the card validator I love you every</p>
+<p begin="00:01:57.570" end="00:02:03.430" style="s2">Twitter&#39;s card validator guys just card</p>
+<p begin="00:02:00.270" end="00:02:08.570" style="s2">validator space thank you</p>
+<p begin="00:02:03.430" end="00:02:13.370" style="s2">yeah that looks pretty good ,</p>
+<p begin="00:02:08.570" end="00:02:21.830" style="s2">I&#39;m launches today exclamation point</p>
+<p begin="00:02:13.370" end="00:02:26.060" style="s2">dad alright let&#39;s make that our pinned</p>
+<p begin="00:02:21.830" end="00:02:33.020" style="s2">tweet John sorry</p>
+<p begin="00:02:26.060" end="00:02:34.700" style="s2">Drew&#39;s introducing prime okay</p>
+<p begin="00:02:33.020" end="00:02:36.320" style="s2">so you guys can can link to this and</p>
+<p begin="00:02:34.700" end="00:02:38.780" style="s2">read it but basically it&#39;s got a couple</p>
+<p begin="00:02:36.320" end="00:02:42.530" style="s2">of cool things one it has an unlimited</p>
+<p begin="00:02:38.780" end="00:02:46.340" style="s2">data plane meaning you can buy the SIM</p>
+<p begin="00:02:42.530" end="00:02:51.560" style="s2">card from us and it gives you all the</p>
+<p begin="00:02:46.340" end="00:02:53.750" style="s2">data you need for you our Eon oh it&#39;s</p>
+<p begin="00:02:51.560" end="00:02:56.810" style="s2">unlimited but it is capped to 512</p>
+<p begin="00:02:53.750" end="00:02:58.010" style="s2">kilobytes of bandwidth well we could</p>
+<p begin="00:02:56.810" end="00:02:59.300" style="s2">wait for a few more people to get in</p>
+<p begin="00:02:58.010" end="00:03:00.890" style="s2">here before we get to the next thing but</p>
+<p begin="00:02:59.300" end="00:03:03.590" style="s2">you know what we&#39;re doing it right like</p>
+<p begin="00:03:00.890" end="00:03:05.690" style="s2">um you know we&#39;re we&#39;re a social local</p>
+<p begin="00:03:03.590" end="00:03:09.739" style="s2">mobile company except if you get rid of</p>
+<p begin="00:03:05.690" end="00:03:11.450" style="s2">the social so we have mobile and in</p>
+<p begin="00:03:09.739" end="00:03:13.660" style="s2">order to really be mobile what&#39;s more</p>
+<p begin="00:03:11.450" end="00:03:16.100" style="s2">mobile than being a cell phone provider</p>
+<p begin="00:03:13.660" end="00:03:18.560" style="s2">I&#39;m so it turns out you can be we&#39;re in</p>
+<p begin="00:03:16.100" end="00:03:20.780" style="s2">NV and oh we didn&#39;t come and put towers</p>
+<p begin="00:03:18.560" end="00:03:23.989" style="s2">in your local neighborhood</p>
+<p begin="00:03:20.780" end="00:03:26.720" style="s2">we didn&#39;t upset your local housing</p>
+<p begin="00:03:23.989" end="00:03:30.799" style="s2">hallways and stuff we didn&#39;t do that we</p>
+<p begin="00:03:26.720" end="00:03:32.510" style="s2">we partnered unfortunately contractually</p>
+<p begin="00:03:30.799" end="00:03:34.489" style="s2">I&#39;m not allowed to say who we partnered</p>
+<p begin="00:03:32.510" end="00:03:35.750" style="s2">with but uh it&#39;s they&#39;re good they&#39;re</p>
+<p begin="00:03:34.489" end="00:03:37.640" style="s2">good don&#39;t worry we didn&#39;t partner with</p>
+<p begin="00:03:35.750" end="00:03:41.570" style="s2">anybody crappy I wouldn&#39;t do that to you</p>
+<p begin="00:03:37.640" end="00:03:43.610" style="s2">guys um so it&#39;s unlimited data it will</p>
+<p begin="00:03:41.570" end="00:03:45.830" style="s2">not work in the UK right now it&#39;s us</p>
+<p begin="00:03:43.610" end="00:03:47.690" style="s2">only we&#39;re not sure it might work in</p>
+<p begin="00:03:45.830" end="00:03:50.420" style="s2">Canada and Mexico but we&#39;re gonna say us</p>
+<p begin="00:03:47.690" end="00:03:55.730" style="s2">only but if you buy one in Canada and</p>
+<p begin="00:03:50.420" end="00:03:57.950" style="s2">Mexico maybe it will work so we have</p>
+<p begin="00:03:55.730" end="00:04:00.739" style="s2">some new infrastructure URL out in 0.6</p>
+<p begin="00:03:57.950" end="00:04:02.690" style="s2">the cue logs the 512 kilobit will allow</p>
+<p begin="00:04:00.739" end="00:04:04.340" style="s2">you to update load your routes in real</p>
+<p begin="00:04:02.690" end="00:04:06.890" style="s2">time so they&#39;ll show up right away in</p>
+<p begin="00:04:04.340" end="00:04:08.840" style="s2">the app should be pretty cool</p>
+<p begin="00:04:06.890" end="00:04:10.970" style="s2">alright so that&#39;s the good thing right</p>
+<p begin="00:04:08.840" end="00:04:12.769" style="s2">that&#39;s a good thing um and just so you</p>
+<p begin="00:04:10.970" end="00:04:16.459" style="s2">will get this out of the way right now</p>
+<p begin="00:04:12.769" end="00:04:17.090" style="s2">it&#39;s $24 a month so you know $24 a month</p>
+<p begin="00:04:16.459" end="00:04:18.889" style="s2">if you</p>
+<p begin="00:04:17.090" end="00:04:19.940" style="s2">some old TechCrunch Disrupt Tom had</p>
+<p begin="00:04:18.889" end="00:04:21.680" style="s2">always been talking about how it&#39;s gonna</p>
+<p begin="00:04:19.940" end="00:04:25.669" style="s2">be $24 a month well guess what now it&#39;s</p>
+<p begin="00:04:21.680" end="00:04:27.350" style="s2">$24 a month um so you can buy it in the</p>
+<p begin="00:04:25.669" end="00:04:29.840" style="s2">App comic connect but we&#39;ll get to all</p>
+<p begin="00:04:27.350" end="00:04:31.880" style="s2">that in a minute we&#39;re gonna talk about</p>
+<p begin="00:04:29.840" end="00:04:34.160" style="s2">the next perk that you get now this is</p>
+<p begin="00:04:31.880" end="00:04:36.650" style="s2">kind of the bad one so remember when we</p>
+<p begin="00:04:34.160" end="00:04:38.240" style="s2">promised unlimited cloud storage well</p>
+<p begin="00:04:36.650" end="00:04:40.780" style="s2">that was all alive because it turns out</p>
+<p begin="00:04:38.240" end="00:04:43.400" style="s2">that cloud storage is really expensive</p>
+<p begin="00:04:40.780" end="00:04:45.620" style="s2">we had free cloud dollars for a while</p>
+<p begin="00:04:43.400" end="00:04:47.600" style="s2">but the free cloud dollars are running</p>
+<p begin="00:04:45.620" end="00:04:51.760" style="s2">out so the perks that we can you know</p>
+<p begin="00:04:47.600" end="00:04:53.960" style="s2">pass on to you are running out too but</p>
+<p begin="00:04:51.760" end="00:04:55.220" style="s2">basically what this means is you know</p>
+<p begin="00:04:53.960" end="00:04:57.710" style="s2">you can access all your drives and</p>
+<p begin="00:04:55.220" end="00:04:59.960" style="s2">Explorer in the app and in Cabana if you</p>
+<p begin="00:04:57.710" end="00:05:03.650" style="s2">don&#39;t have a comma Prime membership you</p>
+<p begin="00:04:59.960" end="00:05:09.410" style="s2">only get three days one two three but if</p>
+<p begin="00:05:03.650" end="00:05:11.560" style="s2">you have common crime you get 14 14 days</p>
+<p begin="00:05:09.410" end="00:05:13.900" style="s2">of unlimited storage</p>
+<p begin="00:05:11.560" end="00:05:16.220" style="s2">[Music]</p>
+<p begin="00:05:13.900" end="00:05:19.580" style="s2">you don&#39;t like clouds where&#39;s your</p>
+<p begin="00:05:16.220" end="00:05:21.229" style="s2">privacy bro-bro privacy is dead</p>
+<p begin="00:05:19.580" end="00:05:22.490" style="s2">what we&#39;ll get to privacy actually we</p>
+<p begin="00:05:21.229" end="00:05:25.789" style="s2">have for the next part is pretty private</p>
+<p begin="00:05:22.490" end="00:05:27.740" style="s2">I like to think that like read privacy</p>
+<p begin="00:05:25.789" end="00:05:32.690" style="s2">is dead but write privacy can still</p>
+<p begin="00:05:27.740" end="00:05:34.250" style="s2">definitely exist um so we we these are</p>
+<p begin="00:05:32.690" end="00:05:36.740" style="s2">expected things these are expected you</p>
+<p begin="00:05:34.250" end="00:05:39.470" style="s2">should have expected them from us you</p>
+<p begin="00:05:36.740" end="00:05:41.390" style="s2">know we got a we got to do it just going</p>
+<p begin="00:05:39.470" end="00:05:44.090" style="s2">discord so we can we can live discord</p>
+<p begin="00:05:41.390" end="00:05:49.820" style="s2">while we&#39;re live youtubing and all the</p>
+<p begin="00:05:44.090" end="00:05:50.960" style="s2">things so we&#39;re gonna go through a few</p>
+<p begin="00:05:49.820" end="00:05:53.090" style="s2">more things and then we&#39;re gonna go</p>
+<p begin="00:05:50.960" end="00:05:55.940" style="s2">around the office and ask people what</p>
+<p begin="00:05:53.090" end="00:05:59.000" style="s2">their opinions are on Kama Prime there&#39;s</p>
+<p begin="00:05:55.940" end="00:06:00.560" style="s2">no black panda guys um no no no but we</p>
+<p begin="00:05:59.000" end="00:06:03.680" style="s2">have one really cool thing for you guys</p>
+<p begin="00:06:00.560" end="00:06:05.360" style="s2">um that I think oh yeah discord comedy</p>
+<p begin="00:06:03.680" end="00:06:07.700" style="s2">guy we have one really cool thing for</p>
+<p begin="00:06:05.360" end="00:06:08.960" style="s2">you guys that I hope I&#39;m you&#39;re gonna</p>
+<p begin="00:06:07.700" end="00:06:15.289" style="s2">appreciate let&#39;s see how our how our</p>
+<p begin="00:06:08.960" end="00:06:17.800" style="s2">tweets are going yeah you know what yeah</p>
+<p begin="00:06:15.289" end="00:06:17.800" style="s2">okay cool</p>
+<p begin="00:06:19.919" end="00:06:28.869" style="s2">okay the next thing is the SSH gateway</p>
+<p begin="00:06:26.819" end="00:06:30.669" style="s2">so this one I&#39;m gonna show you a little</p>
+<p begin="00:06:28.869" end="00:06:35.199" style="s2">bit one of the first things we built at</p>
+<p begin="00:06:30.669" end="00:06:37.149" style="s2">kama was a VPN if you own an eon we</p>
+<p begin="00:06:35.199" end="00:06:39.939" style="s2">should get a free sim if we sign up for</p>
+<p begin="00:06:37.149" end="00:06:42.129" style="s2">kama prime so the sims are $20 if you</p>
+<p begin="00:06:39.939" end="00:06:45.339" style="s2">already own an eon if you&#39;re buying eon</p>
+<p begin="00:06:42.129" end="00:06:46.959" style="s2">today or later you get a free sim but</p>
+<p begin="00:06:45.339" end="00:06:48.459" style="s2">what I think I&#39;m gonna mail you guys all</p>
+<p begin="00:06:46.959" end="00:06:49.599" style="s2">sims you think I&#39;m really gonna do that</p>
+<p begin="00:06:48.459" end="00:06:51.490" style="s2">and then me with a little envelope</p>
+<p begin="00:06:49.599" end="00:06:53.499" style="s2">sitting there forever no no no no it&#39;s</p>
+<p begin="00:06:51.490" end="00:06:55.479" style="s2">not ssh with 22:4 right because we&#39;re</p>
+<p begin="00:06:53.499" end="00:06:56.979" style="s2">not gonna open we&#39;re not going to expose</p>
+<p begin="00:06:55.479" end="00:06:58.119" style="s2">that ssh to the Internet</p>
+<p begin="00:06:56.979" end="00:07:00.550" style="s2">um you can&#39;t really do that right</p>
+<p begin="00:06:58.119" end="00:07:03.879" style="s2">because you&#39;re behind that&#39;s what we&#39;ve</p>
+<p begin="00:07:00.550" end="00:07:06.369" style="s2">built is an SSH gateway it&#39;s not a VPN</p>
+<p begin="00:07:03.879" end="00:07:08.379" style="s2">um so to be clear what the differences</p>
+<p begin="00:07:06.369" end="00:07:10.569" style="s2">are we don&#39;t like like unlike some other</p>
+<p begin="00:07:08.379" end="00:07:12.219" style="s2">companies that put all the cars on a VPN</p>
+<p begin="00:07:10.569" end="00:07:13.869" style="s2">I think they&#39;ve moved away from that now</p>
+<p begin="00:07:12.219" end="00:07:15.490" style="s2">but you kind of don&#39;t want to do that</p>
+<p begin="00:07:13.869" end="00:07:17.979" style="s2">right because then all the phones are on</p>
+<p begin="00:07:15.490" end="00:07:19.809" style="s2">the same VPN so you don&#39;t want to do</p>
+<p begin="00:07:17.979" end="00:07:22.749" style="s2">that sorry if you&#39;re in Europe this is</p>
+<p begin="00:07:19.809" end="00:07:24.459" style="s2">for the America the US people only I&#39;m</p>
+<p begin="00:07:22.749" end="00:07:26.469" style="s2">not dealing with all your privacy laws</p>
+<p begin="00:07:24.459" end="00:07:28.779" style="s2">talk to your local representative to</p>
+<p begin="00:07:26.469" end="00:07:30.069" style="s2">make it easy you know only punish I&#39;m</p>
+<p begin="00:07:28.779" end="00:07:36.029" style="s2">all for punishing Google and Facebook</p>
+<p begin="00:07:30.069" end="00:07:40.740" style="s2">but don&#39;t don&#39;t punish me you know so</p>
+<p begin="00:07:36.029" end="00:07:46.889" style="s2">it&#39;s a gateway meaning what it can do is</p>
+<p begin="00:07:40.740" end="00:07:50.469" style="s2">know go to discord comma dot ai it</p>
+<p begin="00:07:46.889" end="00:07:52.539" style="s2">forwards SSH through our servers but</p>
+<p begin="00:07:50.469" end="00:07:54.879" style="s2">it&#39;s end-to-end encrypted meaning we</p>
+<p begin="00:07:52.539" end="00:07:57.279" style="s2">can&#39;t tap into to to any of that stuff</p>
+<p begin="00:07:54.879" end="00:07:59.019" style="s2">it&#39;s your private key and the way that</p>
+<p begin="00:07:57.279" end="00:08:01.029" style="s2">you enter your private key is you enter</p>
+<p begin="00:07:59.019" end="00:08:02.800" style="s2">your github username right here so this</p>
+<p begin="00:08:01.029" end="00:08:05.579" style="s2">is gonna be in zero point six point one</p>
+<p begin="00:08:02.800" end="00:08:08.439" style="s2">of both Open File intention for plus and</p>
+<p begin="00:08:05.579" end="00:08:10.029" style="s2">it&#39;s gonna grant SSH access to the</p>
+<p begin="00:08:08.439" end="00:08:13.240" style="s2">public keys that are built into your</p>
+<p begin="00:08:10.029" end="00:08:14.829" style="s2">Jail we do not have access to your Aeon</p>
+<p begin="00:08:13.240" end="00:08:16.059" style="s2">no no man in the middle attack if you</p>
+<p begin="00:08:14.829" end="00:08:18.039" style="s2">guys tell me how to man in the middle</p>
+<p begin="00:08:16.059" end="00:08:20.740" style="s2">attack this I&#39;ll be impressed I thought</p>
+<p begin="00:08:18.039" end="00:08:22.599" style="s2">about it a bit it seems pretty good our</p>
+<p begin="00:08:20.740" end="00:08:25.269" style="s2">so our security model is the same as SSH</p>
+<p begin="00:08:22.599" end="00:08:27.339" style="s2">meaning basically all its real all our</p>
+<p begin="00:08:25.269" end="00:08:32.110" style="s2">back-end is really doing is exposing the</p>
+<p begin="00:08:27.339" end="00:08:34.209" style="s2">SSH port on the phone to</p>
+<p begin="00:08:32.110" end="00:08:35.560" style="s2">yeah it&#39;s just like bitcoins encryption</p>
+<p begin="00:08:34.209" end="00:08:37.269" style="s2">system okay so this is the command</p>
+<p begin="00:08:35.560" end="00:08:39.789" style="s2">you&#39;re gonna use you can go right now to</p>
+<p begin="00:08:37.269" end="00:08:40.380" style="s2">ssh comma dot i I&#39;m gonna go to it right</p>
+<p begin="00:08:39.789" end="00:08:43.630" style="s2">here</p>
+<p begin="00:08:40.380" end="00:08:49.360" style="s2">SSH comma dot I and it shows you how to</p>
+<p begin="00:08:43.630" end="00:08:50.950" style="s2">set it up so this is the command we have</p>
+<p begin="00:08:49.360" end="00:08:52.839" style="s2">some scripts to make it easier but if</p>
+<p begin="00:08:50.950" end="00:08:55.779" style="s2">you want you can just do this this is</p>
+<p begin="00:08:52.839" end="00:08:59.290" style="s2">the key this is the dongle ID I press</p>
+<p begin="00:08:55.779" end="00:09:00.940" style="s2">ENTER and give it a minute and boom I&#39;m</p>
+<p begin="00:08:59.290" end="00:09:03.190" style="s2">connected to the Aeon so this is now</p>
+<p begin="00:09:00.940" end="00:09:05.860" style="s2">live on any on and you&#39;ll be able to</p>
+<p begin="00:09:03.190" end="00:09:07.480" style="s2">connect your Aeon just as easily um who</p>
+<p begin="00:09:05.860" end="00:09:09.130" style="s2">wrote that well do you want to go do you</p>
+<p begin="00:09:07.480" end="00:09:10.720" style="s2">want to go a speaker go up we got to get</p>
+<p begin="00:09:09.130" end="00:09:12.430" style="s2">to one more thing and then we can go</p>
+<p begin="00:09:10.720" end="00:09:13.600" style="s2">speak with who wrote the SSH and then we</p>
+<p begin="00:09:12.430" end="00:09:16.180" style="s2">can answer any questions you might have</p>
+<p begin="00:09:13.600" end="00:09:18.700" style="s2">about comma Prime so how do you sign up</p>
+<p begin="00:09:16.180" end="00:09:20.769" style="s2">if you don&#39;t have it right now go on</p>
+<p begin="00:09:18.700" end="00:09:23.890" style="s2">both the iOS and the Android App Store</p>
+<p begin="00:09:20.769" end="00:09:28.089" style="s2">you can download it&#39;s it&#39;s it&#39;s if you</p>
+<p begin="00:09:23.890" end="00:09:29.860" style="s2">know what SSH is you can do it um no</p>
+<p begin="00:09:28.089" end="00:09:35.320" style="s2">it&#39;s not Arch Linux Ubuntu servers high</p>
+<p begin="00:09:29.860" end="00:09:37.510" style="s2">quality um what this does is gives you</p>
+<p begin="00:09:35.320" end="00:09:39.130" style="s2">remote access to your Eon from anywhere</p>
+<p begin="00:09:37.510" end="00:09:40.990" style="s2">in the world so if you&#39;re a comma Prime</p>
+<p begin="00:09:39.130" end="00:09:42.370" style="s2">member you can just set up a script on</p>
+<p begin="00:09:40.990" end="00:09:44.620" style="s2">your computer so you can remotely access</p>
+<p begin="00:09:42.370" end="00:09:47.320" style="s2">basically your car from anywhere in the</p>
+<p begin="00:09:44.620" end="00:09:49.390" style="s2">world um we&#39;re gonna be rolling out a</p>
+<p begin="00:09:47.320" end="00:09:52.779" style="s2">lot of features in the coming months</p>
+<p begin="00:09:49.390" end="00:09:53.410" style="s2">that use like this live integration with</p>
+<p begin="00:09:52.779" end="00:09:55.120" style="s2">the car</p>
+<p begin="00:09:53.410" end="00:09:56.980" style="s2">say something hypothetically we could</p>
+<p begin="00:09:55.120" end="00:09:58.630" style="s2">roll out is like door unlock from the</p>
+<p begin="00:09:56.980" end="00:10:00.040" style="s2">app or something like that right I don&#39;t</p>
+<p begin="00:09:58.630" end="00:10:02.110" style="s2">know if that&#39;s actually gonna happen but</p>
+<p begin="00:10:00.040" end="00:10:03.790" style="s2">you could theoretically build features</p>
+<p begin="00:10:02.110" end="00:10:05.170" style="s2">like that for now we&#39;re giving you know</p>
+<p begin="00:10:03.790" end="00:10:06.700" style="s2">are our tools still really are developer</p>
+<p begin="00:10:05.170" end="00:10:09.130" style="s2">tools so we&#39;re giving developers access</p>
+<p begin="00:10:06.700" end="00:10:12.459" style="s2">remote start yeah SSH right you see not</p>
+<p begin="00:10:09.130" end="00:10:14.020" style="s2">now you guys are thinking of course you</p>
+<p begin="00:10:12.459" end="00:10:16.120" style="s2">know yeah remote access to your car it&#39;s</p>
+<p begin="00:10:14.020" end="00:10:19.270" style="s2">your car that you&#39;re getting remote</p>
+<p begin="00:10:16.120" end="00:10:21.190" style="s2">access to know the EON is never offline</p>
+<p begin="00:10:19.270" end="00:10:22.449" style="s2">for power saving the EON is always</p>
+<p begin="00:10:21.190" end="00:10:25.570" style="s2">connected to the cell phone network just</p>
+<p begin="00:10:22.449" end="00:10:27.010" style="s2">like a normal cell phone right but a lot</p>
+<p begin="00:10:25.570" end="00:10:28.930" style="s2">of the power saving stuff had nothing to</p>
+<p begin="00:10:27.010" end="00:10:36.490" style="s2">do with the the radio being on in low</p>
+<p begin="00:10:28.930" end="00:10:39.010" style="s2">power so the comma Prime is available</p>
+<p begin="00:10:36.490" end="00:10:42.990" style="s2">for purchase in the app for 24 dollars a</p>
+<p begin="00:10:39.010" end="00:10:45.310" style="s2">month and remote fuel check absolutely</p>
+<p begin="00:10:42.990" end="00:10:45.939" style="s2">$24 a month it&#39;s only available right</p>
+<p begin="00:10:45.310" end="00:10:48.429" style="s2">now in the</p>
+<p begin="00:10:45.939" end="00:10:50.709" style="s2">States and if you have an eon currently</p>
+<p begin="00:10:48.429" end="00:10:52.839" style="s2">you&#39;re gonna need a comma sim and you&#39;ll</p>
+<p begin="00:10:50.709" end="00:10:57.039" style="s2">be able to buy that there&#39;s a link for</p>
+<p begin="00:10:52.839" end="00:11:01.119" style="s2">the medium post into comma prime sim for</p>
+<p begin="00:10:57.039" end="00:11:02.829" style="s2">only oh come on come on you a guy I&#39;ve</p>
+<p begin="00:11:01.119" end="00:11:04.989" style="s2">got it cuz it more gotta get some more</p>
+<p begin="00:11:02.829" end="00:11:10.149" style="s2">tweets on this who&#39;s not excited about</p>
+<p begin="00:11:04.989" end="00:11:12.729" style="s2">comma prime let&#39;s just post this on the</p>
+<p begin="00:11:10.149" end="00:11:23.429" style="s2">discord with out with a nice at channel</p>
+<p begin="00:11:12.729" end="00:11:26.069" style="s2">yeah we love it at channel you know what</p>
+<p begin="00:11:23.429" end="00:11:36.519" style="s2">better idea we&#39;ll put it in the</p>
+<p begin="00:11:26.069" end="00:11:39.849" style="s2">announcements channel boom John that&#39;s</p>
+<p begin="00:11:36.519" end="00:11:42.459" style="s2">not what I wanted to do that&#39;s at at</p>
+<p begin="00:11:39.849" end="00:11:46.209" style="s2">this let&#39;s just make this the medium</p>
+<p begin="00:11:42.459" end="00:11:50.289" style="s2">post Oh maybe everyone will click</p>
+<p begin="00:11:46.209" end="00:11:55.049" style="s2">through that anyway I&#39;ll just not not at</p>
+<p begin="00:11:50.289" end="00:11:56.859" style="s2">it no no no no it&#39;ll cancel delete be</p>
+<p begin="00:11:55.049" end="00:12:00.129" style="s2">okay</p>
+<p begin="00:11:56.859" end="00:12:01.659" style="s2">I don&#39;t even you know when I livestream</p>
+<p begin="00:12:00.129" end="00:12:03.249" style="s2">normally I have it too you guys can see</p>
+<p begin="00:12:01.659" end="00:12:04.299" style="s2">my screen you can&#39;t even see my screen</p>
+<p begin="00:12:03.249" end="00:12:07.089" style="s2">right now but let&#39;s hope that that</p>
+<p begin="00:12:04.299" end="00:12:12.509" style="s2">expands nicely so this isn&#39;t discord</p>
+<p begin="00:12:07.089" end="00:12:14.949" style="s2">announcements right here yeah cool sweet</p>
+<p begin="00:12:12.509" end="00:12:17.079" style="s2">so gamma prime includes the unlimited</p>
+<p begin="00:12:14.949" end="00:12:19.839" style="s2">cell service we may someday offer a</p>
+<p begin="00:12:17.079" end="00:12:22.149" style="s2">version that does not know 19 inch</p>
+<p begin="00:12:19.839" end="00:12:26.709" style="s2">monitors in your cars okay let&#39;s go</p>
+<p begin="00:12:22.149" end="00:12:29.709" style="s2">speak with our app developer Andy who&#39;s</p>
+<p begin="00:12:26.709" end="00:12:33.789" style="s2">done a lot of the work to make comic</p>
+<p begin="00:12:29.709" end="00:12:35.829" style="s2">prime a possibility hey Andy you want to</p>
+<p begin="00:12:33.789" end="00:12:39.129" style="s2">talk to the YouTube ease let&#39;s go B&#39;s</p>
+<p begin="00:12:35.829" end="00:12:43.439" style="s2">they still scope he&#39;s oh yeah we&#39;re hang</p>
+<p begin="00:12:39.129" end="00:12:43.439" style="s2">on a flip the camera so I can</p>
+<p begin="00:12:44.620" end="00:12:47.749" style="s2">[Music]</p>
+<p begin="00:12:48.230" end="00:12:52.950" style="s2">and you&#39;re really happy about it we&#39;re</p>
+<p begin="00:12:51.060" end="00:12:55.230" style="s2">externalizing the key part of our</p>
+<p begin="00:12:52.950" end="00:12:58.380" style="s2">infrastructure that we&#39;ve had for few</p>
+<p begin="00:12:55.230" end="00:13:01.530" style="s2">years but it&#39;s really nice to rewrite it</p>
+<p begin="00:12:58.380" end="00:13:04.260" style="s2">in a way that we know we can share with</p>
+<p begin="00:13:01.530" end="00:13:06.960" style="s2">with everyone and it&#39;s actually really</p>
+<p begin="00:13:04.260" end="00:13:09.810" style="s2">nice our old VPN used to kill our car</p>
+<p begin="00:13:06.960" end="00:13:12.120" style="s2">batteries it would wake up the radio all</p>
+<p begin="00:13:09.810" end="00:13:14.780" style="s2">the time and we think our new design is</p>
+<p begin="00:13:12.120" end="00:13:16.890" style="s2">going to be much better on that front so</p>
+<p begin="00:13:14.780" end="00:13:19.640" style="s2">hopefully less trips to the car</p>
+<p begin="00:13:16.890" end="00:13:23.160" style="s2">dealership to the Toyota dealership and</p>
+<p begin="00:13:19.640" end="00:13:24.860" style="s2">in fact the new design uses Athena which</p>
+<p begin="00:13:23.160" end="00:13:49.800" style="s2">has already been rolled out in open</p>
+<p begin="00:13:24.860" end="00:14:01.110" style="s2">versions now prime only feature like</p>
+<p begin="00:13:49.800" end="00:14:05.400" style="s2">common security doing anything oh how</p>
+<p begin="00:14:01.110" end="00:14:06.510" style="s2">many people had VPNs yeah yeah yeah shut</p>
+<p begin="00:14:05.400" end="00:14:08.190" style="s2">it down come on Prime</p>
+<p begin="00:14:06.510" end="00:14:09.450" style="s2">yeah we should do we should do the cheap</p>
+<p begin="00:14:08.190" end="00:14:11.460" style="s2">prime that doesn&#39;t include the data</p>
+<p begin="00:14:09.450" end="00:14:14.010" style="s2">Sunday - we&#39;ll see there&#39;s a lot a lot</p>
+<p begin="00:14:11.460" end="00:14:17.910" style="s2">of Europe a lot of Europe was like is</p>
+<p begin="00:14:14.010" end="00:14:19.290" style="s2">this only for America yeah yeah we&#39;re on</p>
+<p begin="00:14:17.910" end="00:14:23.480" style="s2">the finances you guys should all buy it</p>
+<p begin="00:14:19.290" end="00:14:33.710" style="s2">we want lots of annual recurring revenue</p>
+<p begin="00:14:23.480" end="00:14:36.860" style="s2">cool cool</p>
+<p begin="00:14:33.710" end="00:14:36.860" style="s2">thanks guys</p>
+<p begin="00:14:37.620" end="00:14:45.430" style="s2">all right let&#39;s take a look at the plant</p>
+<p begin="00:14:40.839" end="00:14:49.810" style="s2">an interlude for the plant do you want</p>
+<p begin="00:14:45.430" end="00:15:27.639" style="s2">to say a few words in the scope yeah has</p>
+<p begin="00:14:49.810" end="00:15:29.879" style="s2">worked hard to make puts the car on the</p>
+<p begin="00:15:27.639" end="00:15:32.800" style="s2">Internet</p>
+<p begin="00:15:29.879" end="00:15:34.149" style="s2">like Internet of Things we didn&#39;t we</p>
+<p begin="00:15:32.800" end="00:15:36.639" style="s2">didn&#39;t say Internet of Things nearly</p>
+<p begin="00:15:34.149" end="00:15:38.490" style="s2">enough in our medium post I&#39;m gonna edit</p>
+<p begin="00:15:36.639" end="00:15:42.459" style="s2">the categories right now</p>
+<p begin="00:15:38.490" end="00:15:46.259" style="s2">Mykel watts I&#39;m glad you like it Willem</p>
+<p begin="00:15:42.459" end="00:15:49.720" style="s2">deep anything oh good</p>
+<p begin="00:15:46.259" end="00:16:04.029" style="s2">yeah no it&#39;s uh this has been a long</p>
+<p begin="00:15:49.720" end="00:16:13.180" style="s2">time in the making we can&#39;t mention we</p>
+<p begin="00:16:04.029" end="00:16:14.319" style="s2">didn&#39;t mention him yeah I think so Joe</p>
+<p begin="00:16:13.180" end="00:16:16.620" style="s2">I think yeah I think this is really</p>
+<p begin="00:16:14.319" end="00:16:19.629" style="s2">important to the future of the company</p>
+<p begin="00:16:16.620" end="00:16:21.429" style="s2">you know making sure we can provide the</p>
+<p begin="00:16:19.629" end="00:16:22.959" style="s2">best possible service no matter where</p>
+<p begin="00:16:21.429" end="00:16:27.189" style="s2">you are and not make you have to go home</p>
+<p begin="00:16:22.959" end="00:16:28.220" style="s2">and connect to Wi-Fi yeah cool thanks</p>
+<p begin="00:16:27.189" end="00:16:35.030" style="s2">yeah</p>
+<p begin="00:16:28.220" end="00:16:41.480" style="s2">well a deep and quick comments yes</p>
+<p begin="00:16:35.030" end="00:16:44.810" style="s2">they&#39;re very excited about at the plant</p>
+<p begin="00:16:41.480" end="00:16:48.430" style="s2">özil he&#39;s a nice plant guys Harold do</p>
+<p begin="00:16:44.810" end="00:16:48.430" style="s2">you have any comments about common prime</p>
+<p begin="00:16:49.220" end="00:16:52.760" style="s2">[Laughter]</p>
+<p begin="00:16:53.830" end="00:17:00.620" style="s2">is it coming to the UK I don&#39;t know if</p>
+<p begin="00:16:58.280" end="00:17:02.330" style="s2">there&#39;s enough demand you know what if</p>
+<p begin="00:17:00.620" end="00:17:04.339" style="s2">there&#39;s enough demand somehow you can</p>
+<p begin="00:17:02.330" end="00:17:11.569" style="s2">signal that demand to me we can work</p>
+<p begin="00:17:04.339" end="00:17:15.800" style="s2">hard to try to find a UK partner what</p>
+<p begin="00:17:11.569" end="00:17:20.930" style="s2">did I know there whose name what&#39;s my</p>
+<p begin="00:17:15.800" end="00:17:23.030" style="s2">scam well if we just want the</p>
+<p begin="00:17:20.930" end="00:17:24.740" style="s2">connectivity know so the SSH feature</p>
+<p begin="00:17:23.030" end="00:17:26.240" style="s2">only works if you&#39;re a comma Prime</p>
+<p begin="00:17:24.740" end="00:17:28.790" style="s2">member and we&#39;re gonna start doing this</p>
+<p begin="00:17:26.240" end="00:17:31.790" style="s2">with a lot more of the sort of</p>
+<p begin="00:17:28.790" end="00:17:35.210" style="s2">cloud-based features basically the cloud</p>
+<p begin="00:17:31.790" end="00:17:38.000" style="s2">costs us money and unless it makes money</p>
+<p begin="00:17:35.210" end="00:17:42.130" style="s2">we cannot afford the cloud so if you</p>
+<p begin="00:17:38.000" end="00:17:44.240" style="s2">want the cloud to continue by kava prior</p>
+<p begin="00:17:42.130" end="00:17:49.670" style="s2">summary the announcement check out the</p>
+<p begin="00:17:44.240" end="00:17:51.650" style="s2">medium post on Twitter well you pay 20</p>
+<p begin="00:17:49.670" end="00:17:53.690" style="s2">so you pass 24 you&#39;ll have a better</p>
+<p begin="00:17:51.650" end="00:17:55.460" style="s2">experience you know well really maybe</p>
+<p begin="00:17:53.690" end="00:17:57.710" style="s2">maybe we&#39;ll do we&#39;ll do some we&#39;ll do</p>
+<p begin="00:17:55.460" end="00:18:00.320" style="s2">some special colors for people on disk</p>
+<p begin="00:17:57.710" end="00:18:01.880" style="s2">or who have comma Prime let&#39;s see how</p>
+<p begin="00:18:00.320" end="00:18:04.070" style="s2">many SIM cards we sold let&#39;s see if we</p>
+<p begin="00:18:01.880" end="00:18:10.790" style="s2">sold a lot of SIM cards he&#39;s come from a</p>
+<p begin="00:18:04.070" end="00:18:12.920" style="s2">popular product let&#39;s find out LTE band</p>
+<p begin="00:18:10.790" end="00:18:15.260" style="s2">compatibility don&#39;t worry about that</p>
+<p begin="00:18:12.920" end="00:18:18.890" style="s2">all the Aeons are very compatible with</p>
+<p begin="00:18:15.260" end="00:18:23.540" style="s2">the comma Prime Network alright alright</p>
+<p begin="00:18:18.890" end="00:18:32.030" style="s2">how many have we sold so far zero no no</p>
+<p begin="00:18:23.540" end="00:18:35.780" style="s2">no I&#39;m kidding he&#39;s sold one we sold uh</p>
+<p begin="00:18:32.030" end="00:18:37.910" style="s2">I bet on you guys I bet on you guys to</p>
+<p begin="00:18:35.780" end="00:18:40.820" style="s2">buy lots of SIM cards go to the shop</p>
+<p begin="00:18:37.910" end="00:18:42.070" style="s2">right now buy a SIM card before we run</p>
+<p begin="00:18:40.820" end="00:18:45.370" style="s2">out no if you sign up the</p>
+<p begin="00:18:42.070" end="00:18:49.180" style="s2">cards not free - SIM cards $20 it&#39;s only</p>
+<p begin="00:18:45.370" end="00:18:52.150" style="s2">free for the people who buy eons from</p>
+<p begin="00:18:49.180" end="00:18:54.760" style="s2">now on we did sell one yawn though so</p>
+<p begin="00:18:52.150" end="00:18:57.400" style="s2">maybe comma Prime is sold in neon you</p>
+<p begin="00:18:54.760" end="00:18:59.080" style="s2">guys we really need to we need to sell</p>
+<p begin="00:18:57.400" end="00:19:01.630" style="s2">things cuz that&#39;s what we do as a</p>
+<p begin="00:18:59.080" end="00:19:05.200" style="s2">company and you guys need to buy things</p>
+<p begin="00:19:01.630" end="00:19:06.460" style="s2">I think I think that&#39;s how it works you</p>
+<p begin="00:19:05.200" end="00:19:07.840" style="s2">see all these eons look back to you</p>
+<p begin="00:19:06.460" end="00:19:09.370" style="s2">running out like that used to be full of</p>
+<p begin="00:19:07.840" end="00:19:10.720" style="s2">eons and like now it&#39;s not full of eons</p>
+<p begin="00:19:09.370" end="00:19:11.310" style="s2">anymore now it&#39;s full of like phones and</p>
+<p begin="00:19:10.720" end="00:19:16.930" style="s2">boxes</p>
+<p begin="00:19:11.310" end="00:19:18.880" style="s2">you just bought thank you thank you we</p>
+<p begin="00:19:16.930" end="00:19:22.300" style="s2">are we are gonna be the Android smart</p>
+<p begin="00:19:18.880" end="00:19:24.040" style="s2">cars um so yeah sign up today thank you</p>
+<p begin="00:19:22.300" end="00:19:26.080" style="s2">thank you for it age thank you come on</p>
+<p begin="00:19:24.040" end="00:19:28.600" style="s2">get in here buy them buy them buy them</p>
+<p begin="00:19:26.080" end="00:19:33.150" style="s2">we&#39;re not selling any large monitors for</p>
+<p begin="00:19:28.600" end="00:19:33.150" style="s2">the cars no that&#39;s not happening</p>
+<p begin="00:19:38.970" end="00:19:46.210" style="s2">no you can&#39;t buy them with comma points</p>
+<p begin="00:19:41.980" end="00:19:49.000" style="s2">unfortunately wait wait you guys bought</p>
+<p begin="00:19:46.210" end="00:19:51.600" style="s2">I don&#39;t see your orders on here no</p>
+<p begin="00:19:49.000" end="00:19:51.600" style="s2">what&#39;s going on</p>
+<p begin="00:19:54.000" end="00:19:58.030" style="s2">guys you got to click the Buy button you</p>
+<p begin="00:19:56.500" end="00:19:59.410" style="s2">got to click the checkout button all the</p>
+<p begin="00:19:58.030" end="00:20:03.820" style="s2">way you can&#39;t just add it to the cart</p>
+<p begin="00:19:59.410" end="00:20:09.750" style="s2">that doesn&#39;t make us any money of how</p>
+<p begin="00:20:03.820" end="00:20:09.750" style="s2">many users yeah</p>
+<p begin="00:20:16.790" end="00:20:21.720" style="s2">while the live stream tweet got very</p>
+<p begin="00:20:19.140" end="00:20:22.980" style="s2">little got very little traction so we&#39;re</p>
+<p begin="00:20:21.720" end="00:20:26.730" style="s2">just gonna delete that</p>
+<p begin="00:20:22.980" end="00:20:29.550" style="s2">bye-bye tweet and hopefully people will</p>
+<p begin="00:20:26.730" end="00:20:33.420" style="s2">be excited about comma crime just bought</p>
+<p begin="00:20:29.550" end="00:20:35.190" style="s2">just bought shout out shout out to to</p>
+<p begin="00:20:33.420" end="00:20:36.570" style="s2">Christian who&#39;s working on me hybrid</p>
+<p begin="00:20:35.190" end="00:20:39.690" style="s2">Corolla did you actually buy let me</p>
+<p begin="00:20:36.570" end="00:20:42.180" style="s2">check yes I see your purchase right here</p>
+<p begin="00:20:39.690" end="00:20:44.940" style="s2">excellent thank you thank you please by</p>
+<p begin="00:20:42.180" end="00:20:46.680" style="s2">Colin prime guys we&#39;re not getting</p>
+<p begin="00:20:44.940" end="00:20:48.540" style="s2">interviewed by anybody we&#39;re just</p>
+<p begin="00:20:46.680" end="00:20:50.850" style="s2">rolling out the products it really is a</p>
+<p begin="00:20:48.540" end="00:20:53.880" style="s2">great product it makes you eat a lot</p>
+<p begin="00:20:50.850" end="00:20:58.230" style="s2">better it&#39;s $20 for the SIM card and</p>
+<p begin="00:20:53.880" end="00:21:01.320" style="s2">then $24 per month you know it&#39;s it&#39;s</p>
+<p begin="00:20:58.230" end="00:21:04.320" style="s2">it&#39;s a it&#39;s a good deal you should buy</p>
+<p begin="00:21:01.320" end="00:21:06.150" style="s2">comma Prime if you&#39;re in Indonesia don&#39;t</p>
+<p begin="00:21:04.320" end="00:21:08.850" style="s2">buy the SIM card it will not work for</p>
+<p begin="00:21:06.150" end="00:21:10.950" style="s2">you is it a data</p>
+<p begin="00:21:08.850" end="00:21:14.340" style="s2">it&#39;s an unlimited data service what even</p>
+<p begin="00:21:10.950" end="00:21:15.810" style="s2">is phone mean today oh your violin I</p>
+<p begin="00:21:14.340" end="00:21:17.430" style="s2">think GT mobile cyclones that make sense</p>
+<p begin="00:21:15.810" end="00:21:18.960" style="s2">yeah no it&#39;s very reasonable you can</p>
+<p begin="00:21:17.430" end="00:21:21.000" style="s2">also tether you know you can your Yan</p>
+<p begin="00:21:18.960" end="00:21:22.470" style="s2">can serve as a hotspot you can tether</p>
+<p begin="00:21:21.000" end="00:21:26.640" style="s2">you can connect other devices through</p>
+<p begin="00:21:22.470" end="00:21:28.080" style="s2">this it&#39;s unlimited some limits you guys</p>
+<p begin="00:21:26.640" end="00:21:29.760" style="s2">can use all the data you want if the</p>
+<p begin="00:21:28.080" end="00:21:31.620" style="s2">price rises in the future will you be</p>
+<p begin="00:21:29.760" end="00:21:32.970" style="s2">grandfathered in perhaps we can</p>
+<p begin="00:21:31.620" end="00:21:34.710" style="s2">certainly work out things like that</p>
+<p begin="00:21:32.970" end="00:21:37.440" style="s2">especially as we start to add some real</p>
+<p begin="00:21:34.710" end="00:21:39.530" style="s2">perks to come a crime this is just the</p>
+<p begin="00:21:37.440" end="00:21:39.530" style="s2">beginning</p>
+<p begin="00:21:39.560" end="00:21:44.280" style="s2">no I&#39;m not selling a stop asking for the</p>
+<p begin="00:21:42.960" end="00:21:46.700" style="s2">big monitor we&#39;re not doing any big</p>
+<p begin="00:21:44.280" end="00:21:46.700" style="s2">monitors</p>
+<p begin="00:21:46.850" end="00:21:51.510" style="s2">what is it check out the medium post I&#39;m</p>
+<p begin="00:21:49.920" end="00:21:53.630" style="s2">gonna link the medium post right here in</p>
+<p begin="00:21:51.510" end="00:21:58.770" style="s2">the YouTube comments</p>
+<p begin="00:21:53.630" end="00:22:00.510" style="s2">just go to all you want I can find it</p>
+<p begin="00:21:58.770" end="00:22:07.170" style="s2">from Twitter but I deleted the live</p>
+<p begin="00:22:00.510" end="00:22:13.920" style="s2">stream post so that&#39;s too bad yeah you</p>
+<p begin="00:22:07.170" end="00:22:17.120" style="s2">guys can post attack are nice we&#39;re not</p>
+<p begin="00:22:13.920" end="00:22:19.380" style="s2">using arch linux stop with the monitor I</p>
+<p begin="00:22:17.120" end="00:22:21.540" style="s2">have to figure out how to delete this</p>
+<p begin="00:22:19.380" end="00:22:29.480" style="s2">one</p>
+<p begin="00:22:21.540" end="00:22:29.480" style="s2">this shouldn&#39;t be a thing edit video</p>
+<p begin="00:22:33.000" end="00:22:39.709" style="s2">[Music]</p>
+<p begin="00:22:34.779" end="00:22:42.320" style="s2">how do I do we I don&#39;t know okay all</p>
+<p begin="00:22:39.709" end="00:22:45.820" style="s2">right that&#39;s that&#39;s that&#39;s mostly what</p>
+<p begin="00:22:42.320" end="00:22:48.799" style="s2">we&#39;re talking about today for comm prime</p>
+<p begin="00:22:45.820" end="00:22:50.829" style="s2">any yeah phone sourcing we&#39;re good we&#39;re</p>
+<p begin="00:22:48.799" end="00:22:57.229" style="s2">running on Windows nah we&#39;re running on</p>
+<p begin="00:22:50.829" end="00:23:00.619" style="s2">Linux everything here is on Linux let me</p>
+<p begin="00:22:57.229" end="00:23:04.959" style="s2">just get a link to the medium post that</p>
+<p begin="00:23:00.619" end="00:23:04.959" style="s2">I can post right here in the YouTube</p>
+<p begin="00:23:19.010" end="00:23:22.010" style="s2">perfect</p>
+<p begin="00:23:32.700" end="00:23:38.820" style="s2">well you can certainly do both yeah</p>
+<p begin="00:23:33.900" end="00:23:42.300" style="s2">updates but OTA updates you know I know</p>
+<p begin="00:23:38.820" end="00:23:44.910" style="s2">it&#39;s for I think a car is like a an</p>
+<p begin="00:23:42.300" end="00:23:48.780" style="s2">internet-connected device now it really</p>
+<p begin="00:23:44.910" end="00:23:55.110" style="s2">is an internet-connected device would</p>
+<p begin="00:23:48.780" end="00:23:56.490" style="s2">call a crime cool IOT that&#39;s right all</p>
+<p begin="00:23:55.110" end="00:23:59.370" style="s2">I&#39;m gonna I was gonna change the I was</p>
+<p begin="00:23:56.490" end="00:24:04.670" style="s2">gonna change the things on the medium</p>
+<p begin="00:23:59.370" end="00:24:11.940" style="s2">post to include the Internet of Things</p>
+<p begin="00:24:04.670" end="00:24:14.220" style="s2">story tag this is a way to problem cool</p>
+<p begin="00:24:11.940" end="00:24:15.630" style="s2">guys thank you for joining today&#39;s live</p>
+<p begin="00:24:14.220" end="00:24:17.700" style="s2">stream that was today&#39;s project</p>
+<p begin="00:24:15.630" end="00:24:21.840" style="s2">announcement comma prime it&#39;s available</p>
+<p begin="00:24:17.700" end="00:24:23.429" style="s2">at shop comma dot a I can the uplink</p>
+<p begin="00:24:21.840" end="00:24:29.700" style="s2">handle and how long will it take well so</p>
+<p begin="00:24:23.429" end="00:24:31.980" style="s2">we&#39;ve moved to a we&#39;ve moved to a cue</p>
+<p begin="00:24:29.700" end="00:24:33.570" style="s2">lanks which mean we upload a really</p>
+<p begin="00:24:31.980" end="00:24:35.460" style="s2">small amount of data that describes your</p>
+<p begin="00:24:33.570" end="00:24:37.440" style="s2">route pretty well and that can keep up</p>
+<p begin="00:24:35.460" end="00:24:39.900" style="s2">in real time that&#39;s about a hundred K</p>
+<p begin="00:24:37.440" end="00:24:42.480" style="s2">per second so at 512 bandwidth should</p>
+<p begin="00:24:39.900" end="00:24:44.850" style="s2">keep it up no problem um does it work in</p>
+<p begin="00:24:42.480" end="00:24:45.480" style="s2">Canada maybe it may work in Canada in</p>
+<p begin="00:24:44.850" end="00:24:48.450" style="s2">Mexico</p>
+<p begin="00:24:45.480" end="00:24:50.910" style="s2">we&#39;re not sure yet if you try it then</p>
+<p begin="00:24:48.450" end="00:24:53.130" style="s2">let us know how it works and if it works</p>
+<p begin="00:24:50.910" end="00:24:56.850" style="s2">well then we&#39;ll advertise that it works</p>
+<p begin="00:24:53.130" end="00:24:57.900" style="s2">in Canada and Mexico as well it&#39;s a good</p>
+<p begin="00:24:56.850" end="00:25:01.500" style="s2">way to it&#39;s a good way to get an</p>
+<p begin="00:24:57.900" end="00:25:03.660" style="s2">unlimited data plan it it shows if you</p>
+<p begin="00:25:01.500" end="00:25:06.750" style="s2">guys buy it it shows that there&#39;s demand</p>
+<p begin="00:25:03.660" end="00:25:08.280" style="s2">for these features and then we&#39;ll put</p>
+<p begin="00:25:06.750" end="00:25:10.140" style="s2">more effort into developing even more</p>
+<p begin="00:25:08.280" end="00:25:11.309" style="s2">features like you know like we&#39;re</p>
+<p begin="00:25:10.140" end="00:25:14.400" style="s2">talking before about the remote door</p>
+<p begin="00:25:11.309" end="00:25:18.750" style="s2">unlocks Road engine start we can do</p>
+<p begin="00:25:14.400" end="00:25:20.720" style="s2">things also like comment security say</p>
+<p begin="00:25:18.750" end="00:25:24.290" style="s2">somebody caps on the hood of your car</p>
+<p begin="00:25:20.720" end="00:25:26.970" style="s2">can send you a ping your text phone</p>
+<p begin="00:25:24.290" end="00:25:29.130" style="s2">right if come on if al cam can exist as</p>
+<p begin="00:25:26.970" end="00:25:31.380" style="s2">a company doing only this and we can</p>
+<p begin="00:25:29.130" end="00:25:33.960" style="s2">roll it out with an OTA update so I&#39;m</p>
+<p begin="00:25:31.380" end="00:25:35.790" style="s2">talking about cool dog - I&#39;m super happy</p>
+<p begin="00:25:33.960" end="00:25:36.690" style="s2">I love when people buy things at shop</p>
+<p begin="00:25:35.790" end="00:25:38.250" style="s2">comedy I</p>
+<p begin="00:25:36.690" end="00:25:41.220" style="s2">yes sentry mode we call it comma</p>
+<p begin="00:25:38.250" end="00:25:42.940" style="s2">security right yes sentry mode his</p>
+<p begin="00:25:41.220" end="00:25:44.740" style="s2">security right is that the feature you</p>
+<p begin="00:25:42.940" end="00:25:46.480" style="s2">I want well let&#39;s see how many people</p>
+<p begin="00:25:44.740" end="00:25:48.610" style="s2">buy it no it can&#39;t cure your depression</p>
+<p begin="00:25:46.480" end="00:25:50.230" style="s2">this isn&#39;t that kind of AD the truth is</p>
+<p begin="00:25:48.610" end="00:25:52.210" style="s2">no product is gonna have any influence</p>
+<p begin="00:25:50.230" end="00:25:54.580" style="s2">on your happiness it just might make</p>
+<p begin="00:25:52.210" end="00:25:57.540" style="s2">your life a little bit better and a</p>
+<p begin="00:25:54.580" end="00:25:57.540" style="s2">little bit more convenient</p>
+<p begin="00:25:57.960" end="00:26:04.270" style="s2">yes entry mode right no remote drive</p>
+<p begin="00:26:01.000" end="00:26:05.890" style="s2">remote AC perhaps I mean this is all</p>
+<p begin="00:26:04.270" end="00:26:07.630" style="s2">open source stuff right so you&#39;ll be</p>
+<p begin="00:26:05.890" end="00:26:09.640" style="s2">able once you get in to add whatever you</p>
+<p begin="00:26:07.630" end="00:26:12.310" style="s2">want to your your open pilot or shipper</p>
+<p begin="00:26:09.640" end="00:26:16.030" style="s2">plus vote with your credit card I like</p>
+<p begin="00:26:12.310" end="00:26:17.980" style="s2">that I like that this is gonna be a 30</p>
+<p begin="00:26:16.030" end="00:26:20.110" style="s2">minute livestream so we got four more</p>
+<p begin="00:26:17.980" end="00:26:22.330" style="s2">minutes to go does it do where&#39;s my park</p>
+<p begin="00:26:20.110" end="00:26:25.330" style="s2">stolen car absolutely that&#39;s already</p>
+<p begin="00:26:22.330" end="00:26:27.490" style="s2">live today in the comic Connect app I&#39;m</p>
+<p begin="00:26:25.330" end="00:26:28.720" style="s2">sorry your card got declined that sounds</p>
+<p begin="00:26:27.490" end="00:26:29.440" style="s2">like something you need to take up with</p>
+<p begin="00:26:28.720" end="00:26:31.330" style="s2">your bank</p>
+<p begin="00:26:29.440" end="00:26:32.680" style="s2">yeah live stream capability that&#39;s the</p>
+<p begin="00:26:31.330" end="00:26:34.810" style="s2">kind of stuff that can be rolled out</p>
+<p begin="00:26:32.680" end="00:26:36.430" style="s2">look if I look at the bills if I look at</p>
+<p begin="00:26:34.810" end="00:26:38.440" style="s2">the bills and I&#39;m like man we&#39;re making</p>
+<p begin="00:26:36.430" end="00:26:40.420" style="s2">30 grand a month annual recurring</p>
+<p begin="00:26:38.440" end="00:26:42.580" style="s2">revenue on common prime then I&#39;m very</p>
+<p begin="00:26:40.420" end="00:26:44.110" style="s2">interested in writing all those features</p>
+<p begin="00:26:42.580" end="00:26:46.180" style="s2">for you because let&#39;s see actually know</p>
+<p begin="00:26:44.110" end="00:26:47.950" style="s2">what if we can get up to ten grand a</p>
+<p begin="00:26:46.180" end="00:26:49.900" style="s2">month recurring revenue I can hire a</p>
+<p begin="00:26:47.950" end="00:26:55.300" style="s2">full-time developer to write features</p>
+<p begin="00:26:49.900" end="00:26:57.850" style="s2">for you also comma connect app you know</p>
+<p begin="00:26:55.300" end="00:27:00.370" style="s2">make sure we&#39;re gonna be aggressive</p>
+<p begin="00:26:57.850" end="00:27:02.740" style="s2">about fixing all bugs yeah you can track</p>
+<p begin="00:27:00.370" end="00:27:05.110" style="s2">other people using your car absolutely</p>
+<p begin="00:27:02.740" end="00:27:13.210" style="s2">please use it at eclis but that&#39;s not my</p>
+<p begin="00:27:05.110" end="00:27:14.890" style="s2">problem we just write software Todd</p>
+<p begin="00:27:13.210" end="00:27:17.830" style="s2">starts the car to cool off yeah it turns</p>
+<p begin="00:27:14.890" end="00:27:19.330" style="s2">on the AC can the panteon read obd codes</p>
+<p begin="00:27:17.830" end="00:27:22.390" style="s2">for check engine lights of course it can</p>
+<p begin="00:27:19.330" end="00:27:24.760" style="s2">but you got to write the software you&#39;ll</p>
+<p begin="00:27:22.390" end="00:27:27.490" style="s2">code for food well you know what I&#39;ll do</p>
+<p begin="00:27:24.760" end="00:27:30.430" style="s2">one better just um submit pull requests</p>
+<p begin="00:27:27.490" end="00:27:32.260" style="s2">to explore in Cabana making them fast</p>
+<p begin="00:27:30.430" end="00:27:35.260" style="s2">and perform and I&#39;ll be very happy with</p>
+<p begin="00:27:32.260" end="00:27:38.650" style="s2">you is SSH open source of course it is</p>
+<p begin="00:27:35.260" end="00:27:39.940" style="s2">it&#39;s called OpenSSH check neo ask the</p>
+<p begin="00:27:38.650" end="00:27:41.260" style="s2">operating system distribution we have</p>
+<p begin="00:27:39.940" end="00:27:42.450" style="s2">tells you what version it is you can</p>
+<p begin="00:27:41.260" end="00:27:44.980" style="s2">find every line of the code in there</p>
+<p begin="00:27:42.450" end="00:27:46.510" style="s2">which cars will get priority you know</p>
+<p begin="00:27:44.980" end="00:27:50.530" style="s2">which cars get priority Hondas and</p>
+<p begin="00:27:46.510" end="00:27:53.110" style="s2">Toyotas thirty dollars shipping to</p>
+<p begin="00:27:50.530" end="00:27:54.580" style="s2">Canada yeah I mean that&#39;s the</p>
+<p begin="00:27:53.110" end="00:27:55.570" style="s2">International shipping charge I don&#39;t</p>
+<p begin="00:27:54.580" end="00:27:55.960" style="s2">know what to tell you why don&#39;t you</p>
+<p begin="00:27:55.570" end="00:27:58.600" style="s2">order</p>
+<p begin="00:27:55.960" end="00:27:59.500" style="s2">- while you&#39;re at it - thank you thank</p>
+<p begin="00:27:58.600" end="00:28:01.570" style="s2">you Ethan</p>
+<p begin="00:27:59.500" end="00:28:02.860" style="s2">each table um I can&#39;t read YouTube&#39;s</p>
+<p begin="00:28:01.570" end="00:28:04.510" style="s2">comments or nowhere near as good as</p>
+<p begin="00:28:02.860" end="00:28:06.130" style="s2">periscopes comments but their stream</p>
+<p begin="00:28:04.510" end="00:28:08.230" style="s2">quality is just so much better</p>
+<p begin="00:28:06.130" end="00:28:10.810" style="s2">you bought kama prime congratulations</p>
+<p begin="00:28:08.230" end="00:28:12.840" style="s2">thank you for buying kama prime you are</p>
+<p begin="00:28:10.810" end="00:28:16.780" style="s2">making it possible for us to develop</p>
+<p begin="00:28:12.840" end="00:28:19.150" style="s2">features for everybody everybody else</p>
+<p begin="00:28:16.780" end="00:28:22.710" style="s2">because the money from Kabul prime will</p>
+<p begin="00:28:19.150" end="00:28:25.030" style="s2">go straight into kama prime features</p>
+<p begin="00:28:22.710" end="00:28:29.820" style="s2">let&#39;s see how many how many comic lines</p>
+<p begin="00:28:25.030" end="00:28:32.050" style="s2">you sold oh oh we got we got we&#39;re up</p>
+<p begin="00:28:29.820" end="00:28:34.930" style="s2">200 we got actually a lot</p>
+<p begin="00:28:32.050" end="00:28:36.910" style="s2">oh they&#39;re rolling in now we got five we</p>
+<p begin="00:28:34.930" end="00:28:40.450" style="s2">got five thank you all very much</p>
+<p begin="00:28:36.910" end="00:28:42.400" style="s2">we got five we got one Aeon if you could</p>
+<p begin="00:28:40.450" end="00:28:44.940" style="s2">keep the Aeon in your car 24/7 so we</p>
+<p begin="00:28:42.400" end="00:28:47.380" style="s2">keep our eons in the car 24/7 I</p>
+<p begin="00:28:44.940" end="00:28:48.970" style="s2">understand that in some places maybe the</p>
+<p begin="00:28:47.380" end="00:28:50.560" style="s2">temperature doesn&#39;t allow this but I</p>
+<p begin="00:28:48.970" end="00:28:53.350" style="s2">think if you park it out of the Sun it&#39;s</p>
+<p begin="00:28:50.560" end="00:28:55.210" style="s2">gonna be fine no matter what we&#39;ve made</p>
+<p begin="00:28:53.350" end="00:28:56.680" style="s2">great strides in the amount of power the</p>
+<p begin="00:28:55.210" end="00:28:58.390" style="s2">Aeon uses so shouldn&#39;t kill your car</p>
+<p begin="00:28:56.680" end="00:29:02.320" style="s2">battery unless you leave your car for</p>
+<p begin="00:28:58.390" end="00:29:06.000" style="s2">over a week so that&#39;s pretty good comma</p>
+<p begin="00:29:02.320" end="00:29:08.530" style="s2">crime uses like really no more battery</p>
+<p begin="00:29:06.000" end="00:29:10.650" style="s2">in San Diego you&#39;ve killed two we have</p>
+<p begin="00:29:08.530" end="00:29:12.720" style="s2">all our cars with the Aeons in them</p>
+<p begin="00:29:10.650" end="00:29:14.980" style="s2">Texas yeah if you leave it in the Sun</p>
+<p begin="00:29:12.720" end="00:29:18.300" style="s2">yeah don&#39;t leave your cars in the Sun</p>
+<p begin="00:29:14.980" end="00:29:18.300" style="s2">that&#39;s not good for your cars anyway</p>
+<p begin="00:29:18.750" end="00:29:24.190" style="s2">batteries the batteries good um so we we</p>
+<p begin="00:29:21.520" end="00:29:26.680" style="s2">leave the Aeons used to kill our car in</p>
+<p begin="00:29:24.190" end="00:29:29.110" style="s2">a weekend but we did a lot to lower</p>
+<p begin="00:29:26.680" end="00:29:31.030" style="s2">power consumption we&#39;ve removed OpenVPN</p>
+<p begin="00:29:29.110" end="00:29:33.730" style="s2">off of our phones and now the battery</p>
+<p begin="00:29:31.030" end="00:29:35.620" style="s2">life is more than a week so you should</p>
+<p begin="00:29:33.730" end="00:29:36.970" style="s2">be pretty good you can make a tinfoil</p>
+<p begin="00:29:35.620" end="00:29:38.380" style="s2">you can make a sunshade I mean people</p>
+<p begin="00:29:36.970" end="00:29:39.460" style="s2">have those for their cars too for a</p>
+<p begin="00:29:38.380" end="00:29:43.900" style="s2">reason you know it&#39;s good to keep your</p>
+<p begin="00:29:39.460" end="00:29:47.770" style="s2">whole car cool um battery list Eon with</p>
+<p begin="00:29:43.900" end="00:29:49.330" style="s2">USB power over the comma power the</p>
+<p begin="00:29:47.770" end="00:29:52.180" style="s2">batteries less of a big deal than you</p>
+<p begin="00:29:49.330" end="00:29:54.730" style="s2">guys think we moved to San Diego a</p>
+<p begin="00:29:52.180" end="00:29:58.020" style="s2">couple of months ago life&#39;s a lot better</p>
+<p begin="00:29:54.730" end="00:29:58.020" style="s2">down here as that&#39;s a scam</p>
+<p begin="00:29:58.260" end="00:30:04.870" style="s2">yeah any last questions about comma</p>
+<p begin="00:30:02.080" end="00:30:06.760" style="s2">Prime now it processed cool are you</p>
+<p begin="00:30:04.870" end="00:30:08.720" style="s2">telling me we have one more order you</p>
+<p begin="00:30:06.760" end="00:30:11.460" style="s2">two</p>
+<p begin="00:30:08.720" end="00:30:17.610" style="s2">no I can&#39;t I delete it off Twitter it&#39;s</p>
+<p begin="00:30:11.460" end="00:30:19.620" style="s2">just a spur private YouTube Jim yeah I</p>
+<p begin="00:30:17.610" end="00:30:21.420" style="s2">tried to look and I couldn&#39;t see it yeah</p>
+<p begin="00:30:19.620" end="00:30:26.070" style="s2">yeah yeah it&#39;s kind of the medium post</p>
+<p begin="00:30:21.420" end="00:30:28.170" style="s2">on Twitter YouTube thought some people</p>
+<p begin="00:30:26.070" end="00:30:30.330" style="s2">find it turns out these don&#39;t convert</p>
+<p begin="00:30:28.170" end="00:30:32.130" style="s2">that one medium positive media post</p>
+<p begin="00:30:30.330" end="00:30:33.870" style="s2">convert very well yes we&#39;ve started to</p>
+<p begin="00:30:32.130" end="00:30:36.990" style="s2">track analytics because we&#39;re gonna be a</p>
+<p begin="00:30:33.870" end="00:30:39.450" style="s2">real company and uh where is your one</p>
+<p begin="00:30:36.990" end="00:30:41.040" style="s2">you don&#39;t like your lane curves show you</p>
+<p begin="00:30:39.450" end="00:30:42.420" style="s2">the executive bathroom all right yeah</p>
+<p begin="00:30:41.040" end="00:30:44.550" style="s2">we&#39;ll go to the bathroom you go to the</p>
+<p begin="00:30:42.420" end="00:30:45.840" style="s2">bathroom on stream oh this is the comi i</p>
+<p begin="00:30:44.550" end="00:30:53.070" style="s2">stream if it was my twitch we could do</p>
+<p begin="00:30:45.840" end="00:30:56.670" style="s2">that no oh what science oh yeah okay I</p>
+<p begin="00:30:53.070" end="00:30:58.530" style="s2">don&#39;t want to know about that let&#39;s see</p>
+<p begin="00:30:56.670" end="00:31:02.900" style="s2">how many let&#39;s see how many how many</p>
+<p begin="00:30:58.530" end="00:31:05.400" style="s2">things we are sold do we sell a lot I</p>
+<p begin="00:31:02.900" end="00:31:06.750" style="s2">would show you guys this screen but it</p>
+<p begin="00:31:05.400" end="00:31:07.400" style="s2">has everybody&#39;s names on it so we&#39;re not</p>
+<p begin="00:31:06.750" end="00:31:10.050" style="s2">gonna do that</p>
+<p begin="00:31:07.400" end="00:31:11.790" style="s2">hey privacy great again I mean I don&#39;t</p>
+<p begin="00:31:10.050" end="00:31:13.620" style="s2">want access to your device because it&#39;s</p>
+<p begin="00:31:11.790" end="00:31:15.600" style="s2">just a liability for me oh my god shows</p>
+<p begin="00:31:13.620" end="00:31:17.310" style="s2">so many we&#39;ve sold eight we&#39;ve sold</p>
+<p begin="00:31:15.600" end="00:31:18.810" style="s2">eight all right should we keep the</p>
+<p begin="00:31:17.310" end="00:31:21.210" style="s2">stream going until I can&#39;t count how</p>
+<p begin="00:31:18.810" end="00:31:21.930" style="s2">many we&#39;ve sold on my fingers oh this is</p>
+<p begin="00:31:21.210" end="00:31:24.570" style="s2">pretty good guys</p>
+<p begin="00:31:21.930" end="00:31:26.940" style="s2">I bet hi we have an internal like office</p>
+<p begin="00:31:24.570" end="00:31:27.900" style="s2">little betting pool to see how many are</p>
+<p begin="00:31:26.940" end="00:31:30.690" style="s2">gonna be sold</p>
+<p begin="00:31:27.900" end="00:31:32.430" style="s2">I bet thirty-two so you guys don&#39;t let</p>
+<p begin="00:31:30.690" end="00:31:34.650" style="s2">me down come on everyone by comment</p>
+<p begin="00:31:32.430" end="00:31:36.180" style="s2">Prime today&#39;s the day to buy it you&#39;ll</p>
+<p begin="00:31:34.650" end="00:31:37.440" style="s2">get that SIM card in the mail you&#39;re</p>
+<p begin="00:31:36.180" end="00:31:39.690" style="s2">gonna love it</p>
+<p begin="00:31:37.440" end="00:31:41.400" style="s2">we got eight so far let&#39;s just get three</p>
+<p begin="00:31:39.690" end="00:31:45.090" style="s2">more let&#39;s keep the stream going until</p>
+<p begin="00:31:41.400" end="00:31:47.730" style="s2">we get three more buys I&#39;ll check this</p>
+<p begin="00:31:45.090" end="00:31:50.480" style="s2">out guys look at how much common prime</p>
+<p begin="00:31:47.730" end="00:31:50.480" style="s2">we have in stock</p>
+<p begin="00:31:57.800" end="00:32:02.490" style="s2">four-twenty so you only need to buy 24</p>
+<p begin="00:32:00.150" end="00:32:04.080" style="s2">more no no no he&#39;s gonna sell 11 we&#39;ve</p>
+<p begin="00:32:02.490" end="00:32:05.940" style="s2">sold it so far they&#39;re pretty good it</p>
+<p begin="00:32:04.080" end="00:32:07.560" style="s2">was a little bit slow at first but I&#39;m</p>
+<p begin="00:32:05.940" end="00:32:10.650" style="s2">glad you guys are coming around to see</p>
+<p begin="00:32:07.560" end="00:32:13.980" style="s2">all the benefits of that , prime can</p>
+<p begin="00:32:10.650" end="00:32:16.860" style="s2">offer you the sim cards only $20 to get</p>
+<p begin="00:32:13.980" end="00:32:19.560" style="s2">started I&#39;m not signing anybody&#39;s comic</p>
+<p begin="00:32:16.860" end="00:32:21.840" style="s2">Prime we&#39;re not doing that walks are</p>
+<p begin="00:32:19.560" end="00:32:24.950" style="s2">what&#39;s kama Prime check out the medium</p>
+<p begin="00:32:21.840" end="00:32:28.440" style="s2">post kama prime is our new $24 a month</p>
+<p begin="00:32:24.950" end="00:32:30.990" style="s2">unlimited data service it&#39;s not just</p>
+<p begin="00:32:28.440" end="00:32:35.100" style="s2">unlimited data it provides more than</p>
+<p begin="00:32:30.990" end="00:32:36.840" style="s2">four times as much cloud storage as as</p>
+<p begin="00:32:35.100" end="00:32:40.470" style="s2">the newly nerfed cloud storage without</p>
+<p begin="00:32:36.840" end="00:32:42.600" style="s2">comma Prime it provides SSH to remotely</p>
+<p begin="00:32:40.470" end="00:32:44.430" style="s2">access your Aeon in a very secure way</p>
+<p begin="00:32:42.600" end="00:32:49.020" style="s2">such that we do not have access to your</p>
+<p begin="00:32:44.430" end="00:32:51.210" style="s2">Aeon only you with your private key no</p>
+<p begin="00:32:49.020" end="00:32:54.090" style="s2">you can&#39;t you have to get a comma sim</p>
+<p begin="00:32:51.210" end="00:32:56.760" style="s2">which is the SIM cards that we sell</p>
+<p begin="00:32:54.090" end="00:33:00.870" style="s2">how many aeons sold last month a bit</p>
+<p begin="00:32:56.760" end="00:33:04.230" style="s2">over 100 is this we&#39;re not actually</p>
+<p begin="00:33:00.870" end="00:33:07.050" style="s2">allowed to say contractually the name of</p>
+<p begin="00:33:04.230" end="00:33:09.540" style="s2">who said mobile network partner provider</p>
+<p begin="00:33:07.050" end="00:33:11.160" style="s2">might be but it is a good one and if you</p>
+<p begin="00:33:09.540" end="00:33:12.600" style="s2">you know think a little bit maybe you</p>
+<p begin="00:33:11.160" end="00:33:13.800" style="s2">can you can you guys can solve the</p>
+<p begin="00:33:12.600" end="00:33:17.100" style="s2">mystery</p>
+<p begin="00:33:13.800" end="00:33:21.960" style="s2">Thanks walks or no that&#39;s a weird</p>
+<p begin="00:33:17.100" end="00:33:23.580" style="s2">question Al&#39;s dee sign some of the sims</p>
+<p begin="00:33:21.960" end="00:33:24.900" style="s2">to sell them faster known and I don&#39;t</p>
+<p begin="00:33:23.580" end="00:33:33.120" style="s2">know we&#39;re not doing any of that no it&#39;s</p>
+<p begin="00:33:24.900" end="00:33:34.320" style="s2">not Verizon it&#39;s a mystery but it&#39;s a</p>
+<p begin="00:33:33.120" end="00:33:36.210" style="s2">good one don&#39;t worry it&#39;s not like</p>
+<p begin="00:33:34.320" end="00:33:39.480" style="s2">sprint or 18 to you or anything like</p>
+<p begin="00:33:36.210" end="00:33:41.400" style="s2">that all right we got we got us out</p>
+<p begin="00:33:39.480" end="00:33:43.470" style="s2">we&#39;re still at 8 guys was still at 8 no</p>
+<p begin="00:33:41.400" end="00:33:45.000" style="s2">come on I&#39;m not signing them now maybe</p>
+<p begin="00:33:43.470" end="00:33:46.710" style="s2">maybe we&#39;ll just leave you today maybe</p>
+<p begin="00:33:45.000" end="00:33:53.630" style="s2">we&#39;ll just leave you today I&#39;m not</p>
+<p begin="00:33:46.710" end="00:33:53.630" style="s2">licking any other sim stop that guys oh</p>
+<p begin="00:33:54.620" end="00:34:01.100" style="s2">man right now we&#39;re starting to get some</p>
+<p begin="00:33:56.640" end="00:34:01.100" style="s2">reach on Twitter much better</p>
+<p begin="00:34:05.760" end="00:34:08.950" style="s2">transform more than three gigs a month I</p>
+<p begin="00:34:07.930" end="00:34:12.190" style="s2">think if you do it and do that math</p>
+<p begin="00:34:08.950" end="00:34:17.500" style="s2">again she&#39;ll be able to do quite a bit</p>
+<p begin="00:34:12.190" end="00:34:19.240" style="s2">more you just just bought one high</p>
+<p begin="00:34:17.500" end="00:34:22.080" style="s2">refresh it again oh oh it just flows</p>
+<p begin="00:34:19.240" end="00:34:26.620" style="s2">another one that&#39;s nine guys that&#39;s nine</p>
+<p begin="00:34:22.080" end="00:34:28.360" style="s2">that&#39;s mine kama primes no we don&#39;t have</p>
+<p begin="00:34:26.620" end="00:34:30.700" style="s2">any marketing people we have me who does</p>
+<p begin="00:34:28.360" end="00:34:34.540" style="s2">live streams occasionally we don&#39;t</p>
+<p begin="00:34:30.700" end="00:34:37.180" style="s2">really do that we do so we have we have</p>
+<p begin="00:34:34.540" end="00:34:39.100" style="s2">a great designer and like we design</p>
+<p begin="00:34:37.180" end="00:34:40.860" style="s2">sales right sales are designed they&#39;re</p>
+<p begin="00:34:39.100" end="00:34:46.510" style="s2">not marketed yeah</p>
+<p begin="00:34:40.860" end="00:34:48.550" style="s2">we are real yeah it&#39;s a level in three</p>
+<p begin="00:34:46.510" end="00:34:53.110" style="s2">gigs and there&#39;s they&#39;re actually no cap</p>
+<p begin="00:34:48.550" end="00:34:54.970" style="s2">you can upload as much as you want make</p>
+<p begin="00:34:53.110" end="00:34:58.300" style="s2">sure that I don&#39;t think it ever I don&#39;t</p>
+<p begin="00:34:54.970" end="00:35:00.580" style="s2">think it throttles you we&#39;ve tried</p>
+<p begin="00:34:58.300" end="00:35:02.230" style="s2">I don&#39;t think it&#39;s one point three</p>
+<p begin="00:35:00.580" end="00:35:05.050" style="s2">terabytes either I think that&#39;s</p>
+<p begin="00:35:02.230" end="00:35:06.370" style="s2">aggressive as well I think I think when</p>
+<p begin="00:35:05.050" end="00:35:10.030" style="s2">you do the math it&#39;s somewhere in like</p>
+<p begin="00:35:06.370" end="00:35:12.820" style="s2">the thirty gigabyte range let me let me</p>
+<p begin="00:35:10.030" end="00:35:15.490" style="s2">let me do the math out sorry I can&#39;t</p>
+<p begin="00:35:12.820" end="00:35:17.500" style="s2">sorry I can&#39;t show you this dream this</p>
+<p begin="00:35:15.490" end="00:35:19.420" style="s2">screen but I just don&#39;t have a good way</p>
+<p begin="00:35:17.500" end="00:35:23.110" style="s2">to do it but okay so it&#39;s 512 kilobits</p>
+<p begin="00:35:19.420" end="00:35:25.540" style="s2">per second times 60 that&#39;s per minute</p>
+<p begin="00:35:23.110" end="00:35:29.110" style="s2">times 60 knots per hour times 24 times</p>
+<p begin="00:35:25.540" end="00:35:31.330" style="s2">30 and that is of course kilobits not</p>
+<p begin="00:35:29.110" end="00:35:36.720" style="s2">kill a byte so we&#39;re gonna divide that</p>
+<p begin="00:35:31.330" end="00:35:40.170" style="s2">by a illness they kill a bit yellow by</p>
+<p begin="00:35:36.720" end="00:35:40.170" style="s2">doing data bytes</p>
+<p begin="00:35:47.260" end="00:35:54.930" style="s2">so if I did the math right it&#39;s that all</p>
+<p begin="00:35:50.920" end="00:35:59.320" style="s2">right so it&#39;s it&#39;s 512 kilobyte 60</p>
+<p begin="00:35:54.930" end="00:36:02.380" style="s2">minutes 60 60 seconds per minute 60</p>
+<p begin="00:35:59.320" end="00:36:04.900" style="s2">minutes per hour 24 hours per day 30</p>
+<p begin="00:36:02.380" end="00:36:08.260" style="s2">days per month divided by 8 because it&#39;s</p>
+<p begin="00:36:04.900" end="00:36:09.940" style="s2">bytes not pets kilobytes equals hundred</p>
+<p begin="00:36:08.260" end="00:36:11.440" style="s2">twenty hundred thirty sixty five</p>
+<p begin="00:36:09.940" end="00:36:16.720" style="s2">gigabytes so that&#39;s theoretically</p>
+<p begin="00:36:11.440" end="00:36:18.670" style="s2">possible but you get you get less than</p>
+<p begin="00:36:16.720" end="00:36:19.950" style="s2">that right but like really you don&#39;t</p>
+<p begin="00:36:18.670" end="00:36:23.230" style="s2">need that much</p>
+<p begin="00:36:19.950" end="00:36:25.570" style="s2">um kanikama prime Simba used as a</p>
+<p begin="00:36:23.230" end="00:36:30.700" style="s2">hotspot not in an eon no they only work</p>
+<p begin="00:36:25.570" end="00:36:32.200" style="s2">with eons ah ok google&#39; yeah yeah yeah</p>
+<p begin="00:36:30.700" end="00:36:37.420" style="s2">dance listen did it the better way than</p>
+<p begin="00:36:32.200" end="00:36:38.560" style="s2">uh than I did um yeah that Tara was was</p>
+<p begin="00:36:37.420" end="00:36:41.310" style="s2">those you&#39;re not going we&#39;re not going</p>
+<p begin="00:36:38.560" end="00:36:44.140" style="s2">terror big here</p>
+<p begin="00:36:41.310" end="00:36:48.700" style="s2">he owns use about I think I think it&#39;s</p>
+<p begin="00:36:44.140" end="00:36:52.660" style="s2">about like no contract cancel anytime</p>
+<p begin="00:36:48.700" end="00:36:54.550" style="s2">it&#39;s month-to-month $24 no roaming</p>
+<p begin="00:36:52.660" end="00:36:56.710" style="s2">charges as far as I know we definitely</p>
+<p begin="00:36:54.550" end="00:37:02.710" style="s2">won&#39;t charge you more than $24 a month</p>
+<p begin="00:36:56.710" end="00:37:07.109" style="s2">the Eon can be used as a hotspot my face</p>
+<p begin="00:37:02.710" end="00:37:07.109" style="s2">is red so hot in here</p>
+<p begin="00:37:07.560" end="00:37:20.920" style="s2">let&#39;s see how many more sales we have we</p>
+<p begin="00:37:10.869" end="00:37:25.650" style="s2">have sales sales I love your sales only</p>
+<p begin="00:37:20.920" end="00:37:28.119" style="s2">nine I&#39;m pretty happy with knowing guys</p>
+<p begin="00:37:25.650" end="00:37:30.070" style="s2">ma&#39;am maps are never gonna happen maps</p>
+<p begin="00:37:28.119" end="00:37:33.030" style="s2">are a dumb idea I&#39;m getting to why maps</p>
+<p begin="00:37:30.070" end="00:37:35.500" style="s2">her dumb idea on some other live stream</p>
+<p begin="00:37:33.030" end="00:37:37.180" style="s2">may consider signing up the inside PR</p>
+<p begin="00:37:35.500" end="00:37:42.550" style="s2">gets merged we should merge the inside</p>
+<p begin="00:37:37.180" end="00:37:45.460" style="s2">PR change the is a yeah I&#39;m happy with</p>
+<p begin="00:37:42.550" end="00:37:47.560" style="s2">nine guys nine is pretty good the sales</p>
+<p begin="00:37:45.460" end="00:37:49.840" style="s2">are gonna trickle in all day thank you</p>
+<p begin="00:37:47.560" end="00:37:58.600" style="s2">all for watching this official comma</p>
+<p begin="00:37:49.840" end="00:38:01.180" style="s2">prime launch party that&#39;s a pretty good</p>
+<p begin="00:37:58.600" end="00:38:02.680" style="s2">deal Oh</p>
+<p begin="00:38:01.180" end="00:38:04.059" style="s2">gonna order one now all wait I&#39;m gonna</p>
+<p begin="00:38:02.680" end="00:38:06.700" style="s2">hang on if you&#39;re gonna order one now</p>
+<p begin="00:38:04.059" end="00:38:09.190" style="s2">I&#39;m gonna hang on we&#39;ll get to ten zero</p>
+<p begin="00:38:06.700" end="00:38:13.300" style="s2">six one goes live later today I think to</p>
+<p begin="00:38:09.190" end="00:38:14.890" style="s2">beta and then ya know maps are stupid</p>
+<p begin="00:38:13.300" end="00:38:16.390" style="s2">you know what I will show you guys</p>
+<p begin="00:38:14.890" end="00:38:17.200" style="s2">something cool I will show you guys</p>
+<p begin="00:38:16.390" end="00:38:21.270" style="s2">something cool</p>
+<p begin="00:38:17.200" end="00:38:24.490" style="s2">since all 113 of you stuck with me um</p>
+<p begin="00:38:21.270" end="00:38:25.780" style="s2">through this live stream but actually</p>
+<p begin="00:38:24.490" end="00:38:31.200" style="s2">only if we buy more stuff you gotta buy</p>
+<p begin="00:38:25.780" end="00:38:34.390" style="s2">more stuff yes</p>
+<p begin="00:38:31.200" end="00:38:34.990" style="s2">look here see the red light see the</p>
+<p begin="00:38:34.390" end="00:38:37.000" style="s2">green light</p>
+<p begin="00:38:34.990" end="00:38:39.280" style="s2">see how when it&#39;s red it&#39;s like slow</p>
+<p begin="00:38:37.000" end="00:38:44.650" style="s2">down see you when it&#39;s green it&#39;s like</p>
+<p begin="00:38:39.280" end="00:38:46.240" style="s2">go ahead yeah so secret Maps is dead</p>
+<p begin="00:38:44.650" end="00:38:47.920" style="s2">what&#39;s the point of a grey panda um so</p>
+<p begin="00:38:46.240" end="00:38:50.470" style="s2">if you have a grey pandit your data is</p>
+<p begin="00:38:47.920" end="00:38:53.260" style="s2">included in the training set uh so it&#39;ll</p>
+<p begin="00:38:50.470" end="00:38:58.119" style="s2">work better in your area um most likely</p>
+<p begin="00:38:53.260" end="00:39:03.069" style="s2">good then there&#39;s no black panda can be</p>
+<p begin="00:38:58.119" end="00:39:04.059" style="s2">on autopilot work in France maybe is the</p>
+<p begin="00:39:03.069" end="00:39:05.890" style="s2">stuff you do learn in a research</p>
+<p begin="00:39:04.059" end="00:39:07.809" style="s2">upstream almost we&#39;re working on it oh</p>
+<p begin="00:39:05.890" end="00:39:09.490" style="s2">oh you&#39;re gonna buy one too are we</p>
+<p begin="00:39:07.809" end="00:39:10.930" style="s2">actually gonna get to eleven I&#39;m so</p>
+<p begin="00:39:09.490" end="00:39:16.150" style="s2">happy when we get to the number I say</p>
+<p begin="00:39:10.930" end="00:39:18.010" style="s2">we&#39;re gonna get to gonna buy a new car</p>
+<p begin="00:39:16.150" end="00:39:19.480" style="s2">soon so hold on if you do buy a neon</p>
+<p begin="00:39:18.010" end="00:39:21.220" style="s2">today by the way the SIM card is</p>
+<p begin="00:39:19.480" end="00:39:23.200" style="s2">included for free I did tell you all</p>
+<p begin="00:39:21.220" end="00:39:24.460" style="s2">that eons were appreciating assets we</p>
+<p begin="00:39:23.200" end="00:39:27.130" style="s2">didn&#39;t get to ten yet we&#39;re still at</p>
+<p begin="00:39:24.460" end="00:39:29.829" style="s2">nine I did tell you all that eons are</p>
+<p begin="00:39:27.130" end="00:39:34.329" style="s2">appreciating assets so future eons are</p>
+<p begin="00:39:29.829" end="00:39:40.270" style="s2">gonna include a free free free Kyle</p>
+<p begin="00:39:34.329" end="00:39:41.980" style="s2">prime sim card just for you guys we got</p>
+<p begin="00:39:40.270" end="00:39:44.319" style="s2">it we got to get it we gotta get I feel</p>
+<p begin="00:39:41.980" end="00:39:45.700" style="s2">like we can do it guys I feel like we</p>
+<p begin="00:39:44.319" end="00:39:47.079" style="s2">could do it you buy a panda while you&#39;re</p>
+<p begin="00:39:45.700" end="00:39:48.520" style="s2">at it - you don&#39;t want just buy more</p>
+<p begin="00:39:47.079" end="00:39:50.290" style="s2">stuff I mean the store is open for</p>
+<p begin="00:39:48.520" end="00:39:53.700" style="s2">everything guys come to the beautiful</p>
+<p begin="00:39:50.290" end="00:39:56.440" style="s2">comma a I store it&#39;s open for everything</p>
+<p begin="00:39:53.700" end="00:39:58.059" style="s2">you&#39;re number ten all right all right</p>
+<p begin="00:39:56.440" end="00:40:00.760" style="s2">let&#39;s let&#39;s refresh this and see if this</p>
+<p begin="00:39:58.059" end="00:40:02.020" style="s2">guy&#39;s actually telling the truth grd no</p>
+<p begin="00:40:00.760" end="00:40:02.890" style="s2">no no we don&#39;t have any beanies anymore</p>
+<p begin="00:40:02.020" end="00:40:08.049" style="s2">those just sold out</p>
+<p begin="00:40:02.890" end="00:40:10.450" style="s2">oh yeah Jared D is telling the truth he</p>
+<p begin="00:40:08.049" end="00:40:14.480" style="s2">really did buy us in we have one two</p>
+<p begin="00:40:10.450" end="00:40:19.450" style="s2">three four five six seven eight nine</p>
+<p begin="00:40:14.480" end="00:40:21.740" style="s2">ten can we get to 11 can we get to 11</p>
+<p begin="00:40:19.450" end="00:40:23.599" style="s2">who else wants to buy a sim you won&#39;t</p>
+<p begin="00:40:21.740" end="00:40:25.780" style="s2">regret it you&#39;ll love your new , Prime</p>
+<p begin="00:40:23.599" end="00:40:27.829" style="s2">get out your wallets guys it&#39;s 20 bucks</p>
+<p begin="00:40:25.780" end="00:40:29.420" style="s2">but don&#39;t buy it if you&#39;re not gonna use</p>
+<p begin="00:40:27.829" end="00:40:31.190" style="s2">it save the common crimes him two people</p>
+<p begin="00:40:29.420" end="00:40:34.430" style="s2">who are gonna use it</p>
+<p begin="00:40:31.190" end="00:40:36.349" style="s2">oh hold up Bob camac is buying oh yeah</p>
+<p begin="00:40:34.430" end="00:40:39.380" style="s2">you&#39;re gonna be number 11 that&#39;s cool</p>
+<p begin="00:40:36.349" end="00:40:40.550" style="s2">I&#39;m super happy when we get to I don&#39;t</p>
+<p begin="00:40:39.380" end="00:40:45.260" style="s2">have any more traffic light detection</p>
+<p begin="00:40:40.550" end="00:40:47.480" style="s2">that&#39;s the only one I have not merely</p>
+<p begin="00:40:45.260" end="00:40:50.300" style="s2">have one common insurance maybe</p>
+<p begin="00:40:47.480" end="00:40:52.369" style="s2">eventually right yeah the affiliate</p>
+<p begin="00:40:50.300" end="00:40:52.900" style="s2">program it didn&#39;t it didn&#39;t increase</p>
+<p begin="00:40:52.369" end="00:40:55.280" style="s2">sales</p>
+<p begin="00:40:52.900" end="00:40:56.720" style="s2">that&#39;s who cancelled it wouldn&#39;t try</p>
+<p begin="00:40:55.280" end="00:40:58.480" style="s2">other things like that maybe in the</p>
+<p begin="00:40:56.720" end="00:41:01.460" style="s2">future it is only for the u.s. I&#39;m sorry</p>
+<p begin="00:40:58.480" end="00:41:03.140" style="s2">I&#39;m sorry I wish our partner had more I</p>
+<p begin="00:41:01.460" end="00:41:04.880" style="s2">can&#39;t even know how much I could say I</p>
+<p begin="00:41:03.140" end="00:41:06.440" style="s2">wish they were all everywhere they might</p>
+<p begin="00:41:04.880" end="00:41:09.109" style="s2">be in Canada in Mexico we don&#39;t really</p>
+<p begin="00:41:06.440" end="00:41:11.990" style="s2">know I&#39;m looking up coverage map of</p>
+<p begin="00:41:09.109" end="00:41:14.720" style="s2">unnamed provider perfect oh yeah oh is</p>
+<p begin="00:41:11.990" end="00:41:17.900" style="s2">that 11 is that 11 did you just buy 11</p>
+<p begin="00:41:14.720" end="00:41:19.400" style="s2">just go no no no we&#39;re still 10 just got</p>
+<p begin="00:41:17.900" end="00:41:21.140" style="s2">in what did you missed you that I the</p>
+<p begin="00:41:19.400" end="00:41:23.480" style="s2">video contest was a good deal we could</p>
+<p begin="00:41:21.140" end="00:41:24.770" style="s2">do the video contest again and I&#39;ll</p>
+<p begin="00:41:23.480" end="00:41:26.000" style="s2">spend more time judging it I feel like I</p>
+<p begin="00:41:24.770" end="00:41:30.589" style="s2">was too quick on the last time judging</p>
+<p begin="00:41:26.000" end="00:41:33.109" style="s2">the video contest yeah we don&#39;t do live</p>
+<p begin="00:41:30.589" end="00:41:33.589" style="s2">streams that often only now you missed</p>
+<p begin="00:41:33.109" end="00:41:38.180" style="s2">everything</p>
+<p begin="00:41:33.589" end="00:41:41.030" style="s2">oh I&#39;m holding up for one more person is</p>
+<p begin="00:41:38.180" end="00:41:42.170" style="s2">gonna get it what was the video contest</p>
+<p begin="00:41:41.030" end="00:41:44.720" style="s2">thousand bucks who can make the best</p>
+<p begin="00:41:42.170" end="00:41:47.329" style="s2">Oakland pilot video yeah I think it does</p>
+<p begin="00:41:44.720" end="00:41:48.589" style="s2">work in Mexico and Canada show you</p>
+<p begin="00:41:47.329" end="00:41:53.510" style="s2">something fun in the office I will go to</p>
+<p begin="00:41:48.589" end="00:41:56.839" style="s2">data center uh-oh my mom just texted me</p>
+<p begin="00:41:53.510" end="00:41:59.420" style="s2">I&#39;m going back to Jersey tomorrow I&#39;m</p>
+<p begin="00:41:56.839" end="00:42:01.250" style="s2">using Ubuntu 1604 if you do the video</p>
+<p begin="00:41:59.420" end="00:42:03.200" style="s2">contest no I don&#39;t know about Iran</p>
+<p begin="00:42:01.250" end="00:42:05.619" style="s2">alright guys welcome to the hello in the</p>
+<p begin="00:42:03.200" end="00:42:05.619" style="s2">data center</p>
+<p begin="00:42:07.240" end="00:42:09.930" style="s2">cool</p>
+<p begin="00:42:13.600" end="00:42:16.750" style="s2">this is where the models get trained</p>
+<p begin="00:42:15.010" end="00:42:18.070" style="s2">have you wondered why the models have</p>
+<p begin="00:42:16.750" end="00:42:22.750" style="s2">gotten so good lately</p>
+<p begin="00:42:18.070" end="00:42:23.620" style="s2">it&#39;s because the data is so big got some</p>
+<p begin="00:42:22.750" end="00:42:27.640" style="s2">cars in here</p>
+<p begin="00:42:23.620" end="00:42:29.880" style="s2">the Prius Corolla it&#39;s all the way back</p>
+<p begin="00:42:27.640" end="00:42:29.880" style="s2">there</p>
+<p begin="00:42:31.770" end="00:42:37.890" style="s2">Oh Michael Watts ordered Michael Watts</p>
+<p begin="00:42:34.170" end="00:42:41.360" style="s2">ordered oh this is exciting yeah we have</p>
+<p begin="00:42:37.890" end="00:42:41.360" style="s2">zi8 40s for everybody at the office</p>
+<p begin="00:42:52.970" end="00:42:56.610" style="s2">that guy was telling the truth I don&#39;t</p>
+<p begin="00:42:55.619" end="00:42:58.410" style="s2">know if you want me to say your name</p>
+<p begin="00:42:56.610" end="00:43:00.750" style="s2">publically I forget if your name is in</p>
+<p begin="00:42:58.410" end="00:43:02.670" style="s2">your username we don&#39;t out anybody we</p>
+<p begin="00:43:00.750" end="00:43:06.180" style="s2">care deeply about some kinds of privacy</p>
+<p begin="00:43:02.670" end="00:43:11.610" style="s2">so yeah there&#39;s that we just reached 11</p>
+<p begin="00:43:06.180" end="00:43:14.190" style="s2">sales guys I&#39;m so happy that you guys</p>
+<p begin="00:43:11.610" end="00:43:17.070" style="s2">could get me to 11 you&#39;re all incredible</p>
+<p begin="00:43:14.190" end="00:43:21.300" style="s2">scope ease and I want you to go out</p>
+<p begin="00:43:17.070" end="00:43:22.830" style="s2">every day and remember all Brad&#39;s buying</p>
+<p begin="00:43:21.300" end="00:43:24.540" style="s2">right now all we&#39;re gonna get to 12 well</p>
+<p begin="00:43:22.830" end="00:43:27.600" style="s2">that&#39;s even more than 11 that&#39;s crazy</p>
+<p begin="00:43:24.540" end="00:43:29.160" style="s2">that&#39;s crazy that&#39;s so many sales I&#39;m</p>
+<p begin="00:43:27.600" end="00:43:31.740" style="s2">super happy that you guys are buying</p>
+<p begin="00:43:29.160" end="00:43:36.480" style="s2">these because every comic Prime</p>
+<p begin="00:43:31.740" end="00:43:37.680" style="s2">subscription that we sell increases the</p>
+<p begin="00:43:36.480" end="00:43:40.140" style="s2">likelihood that we&#39;re gonna hire a</p>
+<p begin="00:43:37.680" end="00:43:43.770" style="s2">full-time developer to write come prime</p>
+<p begin="00:43:40.140" end="00:43:46.380" style="s2">features review I&#39;m sorry I have to go</p>
+<p begin="00:43:43.770" end="00:43:48.390" style="s2">we reached 11 we reached 11 but I&#39;m glad</p>
+<p begin="00:43:46.380" end="00:43:51.210" style="s2">we made it there you guys got a 45</p>
+<p begin="00:43:48.390" end="00:43:53.460" style="s2">minute stream we have to we had to get</p>
+<p begin="00:43:51.210" end="00:43:56.060" style="s2">through those last few sales but since</p>
+<p begin="00:43:53.460" end="00:44:01.680" style="s2">we made it that&#39;s all I have to say</p>
+<p begin="00:43:56.060" end="00:44:04.920" style="s2">today only $24 a month $20 for the sim</p>
+<p begin="00:44:01.680" end="00:44:07.770" style="s2">included free with all new eons you&#39;ll</p>
+<p begin="00:44:04.920" end="00:44:09.720" style="s2">be able to activate , prime directly</p>
+<p begin="00:44:07.770" end="00:44:11.940" style="s2">from your comic connect app available</p>
+<p begin="00:44:09.720" end="00:44:13.950" style="s2">for iOS and Android the comic connect</p>
+<p begin="00:44:11.940" end="00:44:15.630" style="s2">app is free if you have a neon already</p>
+<p begin="00:44:13.950" end="00:44:17.040" style="s2">download it you&#39;re gonna have a great</p>
+<p begin="00:44:15.630" end="00:44:18.540" style="s2">time it&#39;s got a lot of five-star reviews</p>
+<p begin="00:44:17.040" end="00:44:20.010" style="s2">let&#39;s keep it that way if you have</p>
+<p begin="00:44:18.540" end="00:44:21.780" style="s2">something bad to say tell us we&#39;ll fix</p>
+<p begin="00:44:20.010" end="00:44:24.420" style="s2">it and leave us a good review thank you</p>
+<p begin="00:44:21.780" end="00:44:28.550" style="s2">very much bye bye bye bye bye bye bye</p>
+<p begin="00:44:24.420" end="00:44:28.550" style="s2">YouTube nice coppice bye</p>
+</div>
+</body>
+</tt>

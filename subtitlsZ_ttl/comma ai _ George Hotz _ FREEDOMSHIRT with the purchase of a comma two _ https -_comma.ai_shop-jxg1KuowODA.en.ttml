@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.429" end="00:00:13.469" style="s2">hello we&#39;ll wait for a little bit for a</p>
+<p begin="00:00:09.179" end="00:00:16.830" style="s2">few people to come in here you guys know</p>
+<p begin="00:00:13.469" end="00:00:19.109" style="s2">I love freedom but you know as they say</p>
+<p begin="00:00:16.830" end="00:00:21.840" style="s2">freedom is under attack freedom isn&#39;t</p>
+<p begin="00:00:19.109" end="00:00:24.150" style="s2">free you know all those general-purpose</p>
+<p begin="00:00:21.840" end="00:00:26.070" style="s2">slogans about freedom so we&#39;re gonna</p>
+<p begin="00:00:24.150" end="00:00:29.189" style="s2">have a little conversation about freedom</p>
+<p begin="00:00:26.070" end="00:00:32.340" style="s2">and we&#39;re gonna announce our little</p>
+<p begin="00:00:29.189" end="00:00:35.360" style="s2">discount and yeah that&#39;s what we&#39;re</p>
+<p begin="00:00:32.340" end="00:00:35.360" style="s2">gonna do today</p>
+<p begin="00:00:36.020" end="00:00:42.540" style="s2">yeah let&#39;s give it at least this way for</p>
+<p begin="00:00:40.770" end="00:00:44.610" style="s2">at least 20 I&#39;m wearing a freedom shirt</p>
+<p begin="00:00:42.540" end="00:00:46.260" style="s2">right now what do y&#39;all think I&#39;m</p>
+<p begin="00:00:44.610" end="00:00:48.840" style="s2">keeping this freedom shirt so actually</p>
+<p begin="00:00:46.260" end="00:00:53.039" style="s2">we&#39;re gonna make it 18 freedom shirts</p>
+<p begin="00:00:48.840" end="00:00:54.059" style="s2">for freedom not 19 it was originally 19</p>
+<p begin="00:00:53.039" end="00:00:55.500" style="s2">but I&#39;m wearing this one I&#39;m not gonna</p>
+<p begin="00:00:54.059" end="00:00:56.670" style="s2">give you the one I wore I wouldn&#39;t do</p>
+<p begin="00:00:55.500" end="00:00:59.550" style="s2">that</p>
+<p begin="00:00:56.670" end="00:01:03.449" style="s2">Yeah right this is the most limited</p>
+<p begin="00:00:59.550" end="00:01:05.250" style="s2">edition comma merch ever to drop oh can</p>
+<p begin="00:01:03.449" end="00:01:07.260" style="s2">we make them tighter yeah so that&#39;s kind</p>
+<p begin="00:01:05.250" end="00:01:11.270" style="s2">of the problem yeah of course I work out</p>
+<p begin="00:01:07.260" end="00:01:17.820" style="s2">bro gotta work out you got to be jacked</p>
+<p begin="00:01:11.270" end="00:01:20.549" style="s2">yeah yeah freedom shirts right no no if</p>
+<p begin="00:01:17.820" end="00:01:22.229" style="s2">you purchased it a week ago you can&#39;t</p>
+<p begin="00:01:20.549" end="00:01:24.840" style="s2">get the shirt all right you got to buy a</p>
+<p begin="00:01:22.229" end="00:01:26.310" style="s2">new one and no tolerance on this if you</p>
+<p begin="00:01:24.840" end="00:01:27.659" style="s2">try to like do some crap like I&#39;m gonna</p>
+<p begin="00:01:26.310" end="00:01:31.350" style="s2">return it or I&#39;m gonna cancel my order</p>
+<p begin="00:01:27.659" end="00:01:35.310" style="s2">you&#39;ll get a freedom shirt because</p>
+<p begin="00:01:31.350" end="00:01:38.430" style="s2">freedom isn&#39;t free are they legal in</p>
+<p begin="00:01:35.310" end="00:01:41.009" style="s2">communist countries I don&#39;t think we</p>
+<p begin="00:01:38.430" end="00:01:42.479" style="s2">shipped to Venezuela I don&#39;t think so I</p>
+<p begin="00:01:41.009" end="00:01:46.790" style="s2">don&#39;t think so</p>
+<p begin="00:01:42.479" end="00:01:52.920" style="s2">are they legal and uh yeah you know okay</p>
+<p begin="00:01:46.790" end="00:01:56.210" style="s2">let&#39;s talk about freedom okay so a few</p>
+<p begin="00:01:52.920" end="00:02:00.360" style="s2">things we made some changes to this cord</p>
+<p begin="00:01:56.210" end="00:02:02.100" style="s2">freedom does not mean anarchy freedom</p>
+<p begin="00:02:00.360" end="00:02:03.600" style="s2">does not mean that everybody can do</p>
+<p begin="00:02:02.100" end="00:02:06.810" style="s2">whatever they want whenever they want</p>
+<p begin="00:02:03.600" end="00:02:10.050" style="s2">this leads to a terrible society this</p>
+<p begin="00:02:06.810" end="00:02:11.250" style="s2">leads to a terrible community so we&#39;re</p>
+<p begin="00:02:10.050" end="00:02:13.390" style="s2">uh you know we&#39;re gonna we&#39;re gonna</p>
+<p begin="00:02:11.250" end="00:02:16.050" style="s2">crack down a bit on the discord</p>
+<p begin="00:02:13.390" end="00:02:18.300" style="s2">um you know just against general like</p>
+<p begin="00:02:16.050" end="00:02:20.440" style="s2">shitposting derailment low-quality</p>
+<p begin="00:02:18.300" end="00:02:23.790" style="s2">comments if it&#39;s a high quality</p>
+<p begin="00:02:20.440" end="00:02:26.200" style="s2">community we&#39;re gonna make it that way</p>
+<p begin="00:02:23.790" end="00:02:28.690" style="s2">no Anarchy doesn&#39;t mean freedom at all</p>
+<p begin="00:02:26.200" end="00:02:30.310" style="s2">anarchy just means that the tyranny you</p>
+<p begin="00:02:28.690" end="00:02:35.890" style="s2">don&#39;t get to choose who enforces the</p>
+<p begin="00:02:30.310" end="00:02:37.870" style="s2">tyranny anarchy just means that any any</p>
+<p begin="00:02:35.890" end="00:02:43.780" style="s2">you know Joe Schmo with a gun can can</p>
+<p begin="00:02:37.870" end="00:02:45.370" style="s2">can be your your Lord so yeah I mean you</p>
+<p begin="00:02:43.780" end="00:02:46.750" style="s2">know this is important it&#39;s an important</p>
+<p begin="00:02:45.370" end="00:02:49.510" style="s2">time to have discussions like this about</p>
+<p begin="00:02:46.750" end="00:02:53.200" style="s2">freedom if you guys don&#39;t know I really</p>
+<p begin="00:02:49.510" end="00:02:56.650" style="s2">love freedom I really do I really do you</p>
+<p begin="00:02:53.200" end="00:03:00.940" style="s2">know okay so the other thing we&#39;re gonna</p>
+<p begin="00:02:56.650" end="00:03:03.130" style="s2">talk about is I know the last stream we</p>
+<p begin="00:03:00.940" end="00:03:04.990" style="s2">talked about hiring and we get a lot of</p>
+<p begin="00:03:03.130" end="00:03:07.330" style="s2">emails from people who are like hey bro</p>
+<p begin="00:03:04.990" end="00:03:09.820" style="s2">I know I&#39;m not qualified but I&#39;m willing</p>
+<p begin="00:03:07.330" end="00:03:12.820" style="s2">to work for free you&#39;re not working for</p>
+<p begin="00:03:09.820" end="00:03:15.370" style="s2">free you&#39;re asking us to educate you for</p>
+<p begin="00:03:12.820" end="00:03:16.840" style="s2">free if you genuinely wanted to work for</p>
+<p begin="00:03:15.370" end="00:03:17.590" style="s2">free and some people do and we love</p>
+<p begin="00:03:16.840" end="00:03:19.510" style="s2">these people</p>
+<p begin="00:03:17.590" end="00:03:21.489" style="s2">they&#39;re sending pull requests on our</p>
+<p begin="00:03:19.510" end="00:03:23.769" style="s2">github to open pilot you can work for</p>
+<p begin="00:03:21.489" end="00:03:25.690" style="s2">free all you want right but if you&#39;re</p>
+<p begin="00:03:23.769" end="00:03:27.700" style="s2">asking to come to this office and you</p>
+<p begin="00:03:25.690" end="00:03:30.610" style="s2">want to work for free what you&#39;re doing</p>
+<p begin="00:03:27.700" end="00:03:34.930" style="s2">is you&#39;re lowering the bar in the office</p>
+<p begin="00:03:30.610" end="00:03:36.670" style="s2">right that you&#39;d be doing I like every</p>
+<p begin="00:03:34.930" end="00:03:38.230" style="s2">person we hire here I really want them</p>
+<p begin="00:03:36.670" end="00:03:39.760" style="s2">to bring up the bar which means that</p>
+<p begin="00:03:38.230" end="00:03:42.070" style="s2">every person every new person we hire</p>
+<p begin="00:03:39.760" end="00:03:44.620" style="s2">has to be better than the current</p>
+<p begin="00:03:42.070" end="00:03:50.160" style="s2">average at comma and that&#39;s how you get</p>
+<p begin="00:03:44.620" end="00:03:53.290" style="s2">a a community a country a world that&#39;s</p>
+<p begin="00:03:50.160" end="00:03:54.850" style="s2">continually improving because if you&#39;re</p>
+<p begin="00:03:53.290" end="00:03:55.269" style="s2">hiring people who are worse than the</p>
+<p begin="00:03:54.850" end="00:03:58.630" style="s2">average</p>
+<p begin="00:03:55.269" end="00:04:04.269" style="s2">your your your community your company or</p>
+<p begin="00:03:58.630" end="00:04:05.920" style="s2">whatever is declining and you know I</p>
+<p begin="00:04:04.269" end="00:04:08.530" style="s2">don&#39;t know anything about Amazon</p>
+<p begin="00:04:05.920" end="00:04:10.120" style="s2">leadership principles um but yeah so</p>
+<p begin="00:04:08.530" end="00:04:13.690" style="s2">we&#39;re cracking down against you know</p>
+<p begin="00:04:10.120" end="00:04:15.549" style="s2">general junk in the discord - it&#39;s a</p>
+<p begin="00:04:13.690" end="00:04:17.680" style="s2">high quality developer community um</p>
+<p begin="00:04:15.549" end="00:04:20.709" style="s2">that&#39;s what our products are - right our</p>
+<p begin="00:04:17.680" end="00:04:24.310" style="s2">products are all development gifts if</p>
+<p begin="00:04:20.709" end="00:04:25.410" style="s2">you come in with the mentality that your</p>
+<p begin="00:04:24.310" end="00:04:28.530" style="s2">consumer</p>
+<p begin="00:04:25.410" end="00:04:30.510" style="s2">you join the comic community intending</p>
+<p begin="00:04:28.530" end="00:04:33.510" style="s2">to extract value to extract more value</p>
+<p begin="00:04:30.510" end="00:04:38.940" style="s2">than you give back the problem with that</p>
+<p begin="00:04:33.510" end="00:04:40.320" style="s2">is um well you know if everybody comes</p>
+<p begin="00:04:38.940" end="00:04:41.850" style="s2">in with that mentality it&#39;s not a very</p>
+<p begin="00:04:40.320" end="00:04:43.740" style="s2">nice community it&#39;s not one you want to</p>
+<p begin="00:04:41.850" end="00:04:48.780" style="s2">be in either there&#39;s that really great</p>
+<p begin="00:04:43.740" end="00:04:53.240" style="s2">post about about subcultures and how to</p>
+<p begin="00:04:48.780" end="00:04:55.500" style="s2">make sure they don&#39;t to climb so yeah</p>
+<p begin="00:04:53.240" end="00:04:57.570" style="s2">hopefully everybody understands you know</p>
+<p begin="00:04:55.500" end="00:04:59.310" style="s2">you just got in a big conversation being</p>
+<p begin="00:04:57.570" end="00:05:01.440" style="s2">had now about content moderation on the</p>
+<p begin="00:04:59.310" end="00:05:02.580" style="s2">internet yeah you you empathize a whole</p>
+<p begin="00:05:01.440" end="00:05:07.410" style="s2">lot more the people have to make the</p>
+<p begin="00:05:02.580" end="00:05:08.610" style="s2">decisions so I mean what the comic</p>
+<p begin="00:05:07.410" end="00:05:09.870" style="s2">community I hope there is there&#39;s</p>
+<p begin="00:05:08.610" end="00:05:12.120" style="s2">there&#39;s no questions it&#39;s not a</p>
+<p begin="00:05:09.870" end="00:05:14.160" style="s2">community for general socialization it&#39;s</p>
+<p begin="00:05:12.120" end="00:05:16.050" style="s2">not a community for shit-talking it&#39;s</p>
+<p begin="00:05:14.160" end="00:05:17.340" style="s2">community for discussion about comic</p>
+<p begin="00:05:16.050" end="00:05:19.770" style="s2">products and comma software and</p>
+<p begin="00:05:17.340" end="00:05:22.140" style="s2">improving them and kind of your status</p>
+<p begin="00:05:19.770" end="00:05:25.560" style="s2">in that community and we&#39;re gonna make</p>
+<p begin="00:05:22.140" end="00:05:27.120" style="s2">this more explicit is have you submitted</p>
+<p begin="00:05:25.560" end="00:05:30.050" style="s2">pull requests have you submitted code</p>
+<p begin="00:05:27.120" end="00:05:32.820" style="s2">have you improved other people&#39;s lives</p>
+<p begin="00:05:30.050" end="00:05:34.440" style="s2">in that community and you&#39;re giving back</p>
+<p begin="00:05:32.820" end="00:05:36.480" style="s2">you know give back to the community</p>
+<p begin="00:05:34.440" end="00:05:39.390" style="s2">right or you know get that get the boot</p>
+<p begin="00:05:36.480" end="00:05:41.220" style="s2">just purchasing a product purchasing a</p>
+<p begin="00:05:39.390" end="00:05:43.620" style="s2">product entitles you to that piece of</p>
+<p begin="00:05:41.220" end="00:05:46.350" style="s2">hardware it doesn&#39;t um and we&#39;re gonna</p>
+<p begin="00:05:43.620" end="00:05:48.900" style="s2">make this clear as well look if our</p>
+<p begin="00:05:46.350" end="00:05:50.280" style="s2">hardware is broken like the hardware is</p>
+<p begin="00:05:48.900" end="00:05:50.820" style="s2">broken like we shipped you something</p>
+<p begin="00:05:50.280" end="00:05:54.720" style="s2">that&#39;s broken</p>
+<p begin="00:05:50.820" end="00:06:00.660" style="s2">this is absolutely our problem uh and we</p>
+<p begin="00:05:54.720" end="00:06:02.160" style="s2">want to fix that if the problem is that</p>
+<p begin="00:06:00.660" end="00:06:03.930" style="s2">you can&#39;t figure out how to use the</p>
+<p begin="00:06:02.160" end="00:06:06.450" style="s2">product that&#39;s a problem with you and</p>
+<p begin="00:06:03.930" end="00:06:10.440" style="s2">this is why we have the the 30-day</p>
+<p begin="00:06:06.450" end="00:06:12.930" style="s2">money-back guarantee okay uh now that</p>
+<p begin="00:06:10.440" end="00:06:14.430" style="s2">stuff&#39;s out of the way of course I hire</p>
+<p begin="00:06:12.930" end="00:06:15.870" style="s2">people smarter than love to hire people</p>
+<p begin="00:06:14.430" end="00:06:19.740" style="s2">smarter than you got to bring the bar up</p>
+<p begin="00:06:15.870" end="00:06:22.770" style="s2">and my the smartest guy comma hell no no</p>
+<p begin="00:06:19.740" end="00:06:26.610" style="s2">no I think I think better marketing is</p>
+<p begin="00:06:22.770" end="00:06:28.020" style="s2">in a way exactly the problem right one</p>
+<p begin="00:06:26.610" end="00:06:30.270" style="s2">of when my co-workers brought up at</p>
+<p begin="00:06:28.020" end="00:06:32.220" style="s2">lunch today that if you&#39;re Wendy&#39;s are</p>
+<p begin="00:06:30.270" end="00:06:34.350" style="s2">in and out right the only things you&#39;re</p>
+<p begin="00:06:32.220" end="00:06:35.789" style="s2">competing on basically our customer</p>
+<p begin="00:06:34.350" end="00:06:38.909" style="s2">support you&#39;re not competing on burgers</p>
+<p begin="00:06:35.789" end="00:06:40.979" style="s2">we&#39;re competing on a technical product</p>
+<p begin="00:06:38.909" end="00:06:43.319" style="s2">we&#39;re competing based on the quality of</p>
+<p begin="00:06:40.979" end="00:06:45.330" style="s2">our level two driving system and</p>
+<p begin="00:06:43.319" end="00:06:46.770" style="s2">compared to other people&#39;s right another</p>
+<p begin="00:06:45.330" end="00:06:50.849" style="s2">thing that I think a lot of people don&#39;t</p>
+<p begin="00:06:46.770" end="00:06:54.379" style="s2">get about , is this is the company</p>
+<p begin="00:06:50.849" end="00:06:56.610" style="s2">mission solve self-driving cars while</p>
+<p begin="00:06:54.379" end="00:07:00.029" style="s2">delivering shippable intermediaries</p>
+<p begin="00:06:56.610" end="00:07:02.729" style="s2">right it&#39;s not to continually make more</p>
+<p begin="00:07:00.029" end="00:07:05.339" style="s2">money we need to make enough money in</p>
+<p begin="00:07:02.729" end="00:07:07.409" style="s2">order to accomplish that goal but money</p>
+<p begin="00:07:05.339" end="00:07:08.969" style="s2">doesn&#39;t necessarily know having more</p>
+<p begin="00:07:07.409" end="00:07:11.099" style="s2">money doesn&#39;t necessarily help you with</p>
+<p begin="00:07:08.969" end="00:07:13.919" style="s2">that goal it maybe can hurt you I&#39;m so</p>
+<p begin="00:07:11.099" end="00:07:15.149" style="s2">our goal is to keep you know profits</p>
+<p begin="00:07:13.919" end="00:07:17.610" style="s2">basically to the point where we&#39;re</p>
+<p begin="00:07:15.149" end="00:07:19.499" style="s2">covering expenses which we have for the</p>
+<p begin="00:07:17.610" end="00:07:21.360" style="s2">whole year are going beyond that we</p>
+<p begin="00:07:19.499" end="00:07:23.610" style="s2">don&#39;t care we&#39;re not trying to expand</p>
+<p begin="00:07:21.360" end="00:07:26.309" style="s2">this community to everybody if you don&#39;t</p>
+<p begin="00:07:23.610" end="00:07:27.689" style="s2">have what it takes to you know not even</p>
+<p begin="00:07:26.309" end="00:07:29.219" style="s2">what it takes you know what I shouldn&#39;t</p>
+<p begin="00:07:27.689" end="00:07:30.839" style="s2">say that because it&#39;s not really a skill</p>
+<p begin="00:07:29.219" end="00:07:33.269" style="s2">based thing it&#39;s a mentality based thing</p>
+<p begin="00:07:30.839" end="00:07:35.939" style="s2">if you come into the it doesn&#39;t matter</p>
+<p begin="00:07:33.269" end="00:07:37.589" style="s2">what skill you have maybe self-awareness</p>
+<p begin="00:07:35.939" end="00:07:39.389" style="s2">you need self-awareness but other than</p>
+<p begin="00:07:37.589" end="00:07:41.580" style="s2">that it&#39;s not like you have to be like</p>
+<p begin="00:07:39.389" end="00:07:42.959" style="s2">some you know ten years of experience</p>
+<p begin="00:07:41.580" end="00:07:44.249" style="s2">program or anything like that this is</p>
+<p begin="00:07:42.959" end="00:07:44.699" style="s2">for joining the community not for coming</p>
+<p begin="00:07:44.249" end="00:07:46.829" style="s2">to work here</p>
+<p begin="00:07:44.699" end="00:07:48.389" style="s2">um but you have to have an expectation</p>
+<p begin="00:07:46.829" end="00:07:51.539" style="s2">that you&#39;re not good you&#39;re not there to</p>
+<p begin="00:07:48.389" end="00:07:54.509" style="s2">consume product ban from reddit you&#39;re</p>
+<p begin="00:07:51.539" end="00:07:56.129" style="s2">there to join a community where you&#39;re a</p>
+<p begin="00:07:54.509" end="00:07:58.559" style="s2">fellow developer right you&#39;re buying a</p>
+<p begin="00:07:56.129" end="00:08:01.349" style="s2">development kit if you&#39;re just here to</p>
+<p begin="00:07:58.559" end="00:08:03.659" style="s2">to take I want an experience I want an</p>
+<p begin="00:08:01.349" end="00:08:05.069" style="s2">experience there&#39;s a hundred thousand</p>
+<p begin="00:08:03.659" end="00:08:06.990" style="s2">other companies that are out there</p>
+<p begin="00:08:05.069" end="00:08:10.019" style="s2">begging to cater to you and all they</p>
+<p begin="00:08:06.990" end="00:08:11.999" style="s2">want from you is their money we&#39;re not</p>
+<p begin="00:08:10.019" end="00:08:15.419" style="s2">one of those so you know that&#39;s what it</p>
+<p begin="00:08:11.999" end="00:08:17.399" style="s2">is that said I&#39;m gonna change we&#39;re</p>
+<p begin="00:08:15.419" end="00:08:21.449" style="s2">gonna change it now that to only uh</p>
+<p begin="00:08:17.399" end="00:08:22.559" style="s2">to only that&#39;s that we don&#39;t want your</p>
+<p begin="00:08:21.449" end="00:08:23.879" style="s2">money it&#39;s not that we don&#39;t want your</p>
+<p begin="00:08:22.559" end="00:08:27.769" style="s2">money and we certainly appreciate our</p>
+<p begin="00:08:23.879" end="00:08:30.749" style="s2">consumers are our customers but not if</p>
+<p begin="00:08:27.769" end="00:08:33.779" style="s2">you know they&#39;re there to demand more</p>
+<p begin="00:08:30.749" end="00:08:34.800" style="s2">than what they purchased right okay so</p>
+<p begin="00:08:33.779" end="00:08:36.089" style="s2">we&#39;re gonna limit the number of times</p>
+<p begin="00:08:34.800" end="00:08:39.120" style="s2">this can be used we&#39;re gonna change it</p>
+<p begin="00:08:36.089" end="00:08:43.939" style="s2">to eighteen the discount code goes live</p>
+<p begin="00:08:39.120" end="00:08:43.939" style="s2">tomorrow on July 4th</p>
+<p begin="00:08:46.740" end="00:08:53.520" style="s2">and the discount code is freedom shirt</p>
+<p begin="00:08:50.089" end="00:08:58.080" style="s2">so you will get a free freedom shirt</p>
+<p begin="00:08:53.520" end="00:08:59.630" style="s2">with your comma to purchase if you</p>
+<p begin="00:08:58.080" end="00:09:02.310" style="s2">purchase it tomorrow</p>
+<p begin="00:08:59.630" end="00:09:05.910" style="s2">freedom shirt I will show you some of</p>
+<p begin="00:09:02.310" end="00:09:08.100" style="s2">the freedom shirts you can put in the</p>
+<p begin="00:09:05.910" end="00:09:12.709" style="s2">description make sure to get your order</p>
+<p begin="00:09:08.100" end="00:09:15.690" style="s2">in as close to midnight as possible</p>
+<p begin="00:09:12.709" end="00:09:18.600" style="s2">these are the sizes that we have of the</p>
+<p begin="00:09:15.690" end="00:09:20.820" style="s2">freedom shirts you can see we have many</p>
+<p begin="00:09:18.600" end="00:09:23.010" style="s2">freedom shirts in this freedom shirt</p>
+<p begin="00:09:20.820" end="00:09:28.140" style="s2">bucket there&#39;s a lot of freedom in here</p>
+<p begin="00:09:23.010" end="00:09:31.529" style="s2">so much freedom so much freedom so much</p>
+<p begin="00:09:28.140" end="00:09:33.959" style="s2">freedom so much freedom so much for you</p>
+<p begin="00:09:31.529" end="00:09:36.089" style="s2">you&#39;re in the freedom shirt box um now</p>
+<p begin="00:09:33.959" end="00:09:39.390" style="s2">you asked George why aren&#39;t you doing a</p>
+<p begin="00:09:36.089" end="00:09:41.910" style="s2">discount on comma twos I&#39;m wearing a</p>
+<p begin="00:09:39.390" end="00:09:44.580" style="s2">medium right now this is a medium no I</p>
+<p begin="00:09:41.910" end="00:09:49.230" style="s2">so yeah they run a little bit small you</p>
+<p begin="00:09:44.580" end="00:09:50.550" style="s2">can really see my chest so we&#39;re not</p>
+<p begin="00:09:49.230" end="00:09:52.829" style="s2">discounting we&#39;re not just counting</p>
+<p begin="00:09:50.550" end="00:09:55.350" style="s2">comet twos period but we&#39;ve never done</p>
+<p begin="00:09:52.829" end="00:09:57.750" style="s2">it discount in the comet two and I&#39;ll</p>
+<p begin="00:09:55.350" end="00:10:02.790" style="s2">tell you the truth why this is the comma</p>
+<p begin="00:09:57.750" end="00:10:06.660" style="s2">to production facility this the bins</p>
+<p begin="00:10:02.790" end="00:10:10.649" style="s2">marked past are all the comma twos that</p>
+<p begin="00:10:06.660" end="00:10:12.240" style="s2">we have so we have about 58 comma twos</p>
+<p begin="00:10:10.649" end="00:10:15.209" style="s2">and then we have these ones up here</p>
+<p begin="00:10:12.240" end="00:10:18.240" style="s2">testing to the green ones past red ones</p>
+<p begin="00:10:15.209" end="00:10:20.070" style="s2">failed notice why these ones failed CPU</p>
+<p begin="00:10:18.240" end="00:10:25.700" style="s2">temperature too hot so we fixed a lot of</p>
+<p begin="00:10:20.070" end="00:10:29.959" style="s2">the heat issues by screening out well</p>
+<p begin="00:10:25.700" end="00:10:32.579" style="s2">this has been true for a while so yeah</p>
+<p begin="00:10:29.959" end="00:10:34.500" style="s2">that&#39;s why that&#39;s why there&#39;s no</p>
+<p begin="00:10:32.579" end="00:10:37.110" style="s2">discount on the comma to is when there</p>
+<p begin="00:10:34.500" end="00:10:38.760" style="s2">was eons we had many many eons in stock</p>
+<p begin="00:10:37.110" end="00:10:40.950" style="s2">you know we had we had boxes and boxes</p>
+<p begin="00:10:38.760" end="00:10:43.709" style="s2">of eons and of course I wanted to you</p>
+<p begin="00:10:40.950" end="00:10:46.070" style="s2">know move that product right now if you</p>
+<p begin="00:10:43.709" end="00:10:48.029" style="s2">guys are under 100 comma tools tomorrow</p>
+<p begin="00:10:46.070" end="00:10:51.829" style="s2">yeah but I&#39;m wearing the freedom sure</p>
+<p begin="00:10:48.029" end="00:10:51.829" style="s2">you want to say hi to the the youtubers</p>
+<p begin="00:10:53.000" end="00:10:58.980" style="s2">yeah I&#39;m sliding</p>
+<p begin="00:10:56.420" end="00:11:00.090" style="s2">yeah yeah check out the freedom shirt</p>
+<p begin="00:10:58.980" end="00:11:01.170" style="s2">man I think I look good in the freedom</p>
+<p begin="00:11:00.090" end="00:11:03.390" style="s2">shirt</p>
+<p begin="00:11:01.170" end="00:11:06.660" style="s2">yeah this 18 freedom shirt cuz this is</p>
+<p begin="00:11:03.390" end="00:11:10.170" style="s2">19 I stole the freedom shirt to women&#39;s</p>
+<p begin="00:11:06.660" end="00:11:13.020" style="s2">largest sevens mas oh it&#39;s a woman&#39;s</p>
+<p begin="00:11:10.170" end="00:11:14.580" style="s2">lawyer medium weight the women&#39;s largely</p>
+<p begin="00:11:13.020" end="00:11:18.180" style="s2">smaller the same size I&#39;m wearing a</p>
+<p begin="00:11:14.580" end="00:11:20.250" style="s2">medium yeah this is a compression shirts</p>
+<p begin="00:11:18.180" end="00:11:21.810" style="s2">for working out yeah it&#39;s for working</p>
+<p begin="00:11:20.250" end="00:11:25.050" style="s2">out it makes you muscles look big when</p>
+<p begin="00:11:21.810" end="00:11:27.660" style="s2">you look in the mirror like that yeah</p>
+<p begin="00:11:25.050" end="00:11:29.610" style="s2">you know Sam I like the arm kama yeah</p>
+<p begin="00:11:27.660" end="00:11:33.030" style="s2">arm coming this is this is the most</p>
+<p begin="00:11:29.610" end="00:11:35.910" style="s2">exclusive merch honestly you guys</p>
+<p begin="00:11:33.030" end="00:11:37.470" style="s2">there&#39;s 18 of these in the world so you</p>
+<p begin="00:11:35.910" end="00:11:40.350" style="s2">better get your order in at midnight</p>
+<p begin="00:11:37.470" end="00:11:42.000" style="s2">tonight that&#39;s midnight PDT I&#39;ll show</p>
+<p begin="00:11:40.350" end="00:11:43.560" style="s2">you what I set it to in Shopify and I</p>
+<p begin="00:11:42.000" end="00:11:45.210" style="s2">swear I&#39;m not gonna to change it so I</p>
+<p begin="00:11:43.560" end="00:11:47.190" style="s2">don&#39;t know what time this actually is in</p>
+<p begin="00:11:45.210" end="00:11:51.870" style="s2">your time zone bye</p>
+<p begin="00:11:47.190" end="00:11:54.300" style="s2">yeah yeah I think we&#39;re gonna limit it</p>
+<p begin="00:11:51.870" end="00:11:55.620" style="s2">to one use per customer you know one</p>
+<p begin="00:11:54.300" end="00:11:57.480" style="s2">freedom shirt per customer</p>
+<p begin="00:11:55.620" end="00:11:59.460" style="s2">you don&#39;t need more freedom shirts than</p>
+<p begin="00:11:57.480" end="00:12:01.620" style="s2">one don&#39;t be greedy with the freedom</p>
+<p begin="00:11:59.460" end="00:12:04.410" style="s2">there&#39;s plenty of freedom for everybody</p>
+<p begin="00:12:01.620" end="00:12:06.090" style="s2">what Nozomi there&#39;s only eight it is a</p>
+<p begin="00:12:04.410" end="00:12:08.070" style="s2">limited supply that&#39;s true you&#39;re gonna</p>
+<p begin="00:12:06.090" end="00:12:10.380" style="s2">flip it on eBay for profit yeah so it</p>
+<p begin="00:12:08.070" end="00:12:12.870" style="s2">only comes with a comma to you use the</p>
+<p begin="00:12:10.380" end="00:12:14.940" style="s2">code freedom shirt a check out tomorrow</p>
+<p begin="00:12:12.870" end="00:12:16.440" style="s2">starting at and I already said if</p>
+<p begin="00:12:14.940" end="00:12:19.260" style="s2">anyone&#39;s like oh I want to return it</p>
+<p begin="00:12:16.440" end="00:12:23.130" style="s2">till I can get a freedom shirt now</p>
+<p begin="00:12:19.260" end="00:12:25.350" style="s2">well you can buy it tomorrow but if you</p>
+<p begin="00:12:23.130" end="00:12:27.570" style="s2">cancel an order and then you try to add</p>
+<p begin="00:12:25.350" end="00:12:31.200" style="s2">freedom shirt later you don&#39;t get afraid</p>
+<p begin="00:12:27.570" end="00:12:38.340" style="s2">of shirt if you&#39;re trying to pull some</p>
+<p begin="00:12:31.200" end="00:12:41.540" style="s2"> no freedom shirts for you I was</p>
+<p begin="00:12:38.340" end="00:12:45.450" style="s2">talking a little bit about discoid yeah</p>
+<p begin="00:12:41.540" end="00:12:46.470" style="s2">I did talk to them about working for</p>
+<p begin="00:12:45.450" end="00:12:48.060" style="s2">free and I talked to them how actually</p>
+<p begin="00:12:46.470" end="00:12:49.500" style="s2">it&#39;s kind of disrespectful because what</p>
+<p begin="00:12:48.060" end="00:12:51.180" style="s2">you&#39;re actually doing is you&#39;re asking</p>
+<p begin="00:12:49.500" end="00:12:52.620" style="s2">us to educate you for free and if you</p>
+<p begin="00:12:51.180" end="00:12:55.090" style="s2">want me to educate you hook up with</p>
+<p begin="00:12:52.620" end="00:12:57.150" style="s2">Harvard charges I&#39;ve charged double</p>
+<p begin="00:12:55.090" end="00:12:59.700" style="s2">[Laughter]</p>
+<p begin="00:12:57.150" end="00:13:01.500" style="s2">it&#39;s twice the education it&#39;s twice the</p>
+<p begin="00:12:59.700" end="00:13:05.339" style="s2">education exactly for twice the price</p>
+<p begin="00:13:01.500" end="00:13:08.339" style="s2">that&#39;s right so that&#39;s what if you want</p>
+<p begin="00:13:05.339" end="00:13:15.480" style="s2">to come to kama and be educated you pay</p>
+<p begin="00:13:08.339" end="00:13:17.550" style="s2">us 100k yes if you just go out there and</p>
+<p begin="00:13:15.480" end="00:13:18.960" style="s2">find our programming challenge you&#39;re</p>
+<p begin="00:13:17.550" end="00:13:21.089" style="s2">great you know what else</p>
+<p begin="00:13:18.960" end="00:13:23.670" style="s2">if you submit if you contribute dean lee</p>
+<p begin="00:13:21.089" end="00:13:25.230" style="s2">special shout out to Dean Lee doesn&#39;t</p>
+<p begin="00:13:23.670" end="00:13:26.880" style="s2">join the discord just submit pull</p>
+<p begin="00:13:25.230" end="00:13:28.710" style="s2">requests on github see that&#39;s the kind</p>
+<p begin="00:13:26.880" end="00:13:30.960" style="s2">of contribution we like you want to work</p>
+<p begin="00:13:28.710" end="00:13:34.080" style="s2">for us for free do that don&#39;t send an</p>
+<p begin="00:13:30.960" end="00:13:37.589" style="s2">email saying you want to work just go</p>
+<p begin="00:13:34.080" end="00:13:39.170" style="s2">work bro yeah you&#39;re asking me to manage</p>
+<p begin="00:13:37.589" end="00:13:41.760" style="s2">you for free is that what you&#39;re asking</p>
+<p begin="00:13:39.170" end="00:13:44.790" style="s2">permission how people want permission</p>
+<p begin="00:13:41.760" end="00:13:46.860" style="s2">how their life works I mean I don&#39;t know</p>
+<p begin="00:13:44.790" end="00:13:47.820" style="s2">how to live work you&#39;re gonna be in the</p>
+<p begin="00:13:46.860" end="00:13:50.040" style="s2">frame you got to be in the frame here</p>
+<p begin="00:13:47.820" end="00:13:52.560" style="s2">you know take a chair welcome to the</p>
+<p begin="00:13:50.040" end="00:14:01.170" style="s2">chats touch chats with the executive</p>
+<p begin="00:13:52.560" end="00:14:04.500" style="s2">team Akane I yeah yeah we&#39;re gonna talk</p>
+<p begin="00:14:01.170" end="00:14:05.910" style="s2">to y&#39;all about culture today our lunch</p>
+<p begin="00:14:04.500" end="00:14:08.160" style="s2">chat today was how much the discord</p>
+<p begin="00:14:05.910" end="00:14:11.070" style="s2">sucks and how we&#39;re gonna remove a lot</p>
+<p begin="00:14:08.160" end="00:14:12.990" style="s2">of the low-quality from it I think</p>
+<p begin="00:14:11.070" end="00:14:15.209" style="s2">you understand where we are in our cycle</p>
+<p begin="00:14:12.990" end="00:14:16.500" style="s2">as our as a company I don&#39;t know</p>
+<p begin="00:14:15.209" end="00:14:18.180" style="s2">anything about cycles we&#39;re not a</p>
+<p begin="00:14:16.500" end="00:14:20.730" style="s2">corporation that&#39;s right we&#39;re never</p>
+<p begin="00:14:18.180" end="00:14:27.510" style="s2">gonna be a corporation that&#39;s right the</p>
+<p begin="00:14:20.730" end="00:14:29.790" style="s2">customer can be wrong I mean look we</p>
+<p begin="00:14:27.510" end="00:14:33.630" style="s2">like her cos they&#39;re wrong they&#39;re just</p>
+<p begin="00:14:29.790" end="00:14:34.830" style="s2">not right I mean you know what yeah</p>
+<p begin="00:14:33.630" end="00:14:36.600" style="s2">actually that&#39;s not true whether the</p>
+<p begin="00:14:34.830" end="00:14:38.580" style="s2">customer is wrong or right we judge you</p>
+<p begin="00:14:36.600" end="00:14:43.560" style="s2">by nature standards whatever nature</p>
+<p begin="00:14:38.580" end="00:14:46.140" style="s2">standards are right have we considered</p>
+<p begin="00:14:43.560" end="00:14:48.240" style="s2">becoming a non-profit no nonprofit</p>
+<p begin="00:14:46.140" end="00:14:50.310" style="s2">company so in a way we&#39;re really not</p>
+<p begin="00:14:48.240" end="00:14:51.510" style="s2">that dissimilar from every other tech</p>
+<p begin="00:14:50.310" end="00:14:53.180" style="s2">startup out there right a lot of tech</p>
+<p begin="00:14:51.510" end="00:14:55.980" style="s2">startups brag about being pre-revenue</p>
+<p begin="00:14:53.180" end="00:14:57.930" style="s2">honestly I&#39;d rather get money from</p>
+<p begin="00:14:55.980" end="00:15:00.120" style="s2">committed users who want to help develop</p>
+<p begin="00:14:57.930" end="00:15:01.529" style="s2">who want to join look do you say it all</p>
+<p begin="00:15:00.120" end="00:15:03.300" style="s2">the time we&#39;re incredibly open I love</p>
+<p begin="00:15:01.529" end="00:15:04.830" style="s2">being open with you guys I&#39;m more open</p>
+<p begin="00:15:03.300" end="00:15:06.510" style="s2">with you than I am with VCS I think a</p>
+<p begin="00:15:04.830" end="00:15:07.720" style="s2">lot of Biscay to see source coming here</p>
+<p begin="00:15:06.510" end="00:15:12.550" style="s2">than a lot of you</p>
+<p begin="00:15:07.720" end="00:15:13.810" style="s2">um but the flipside of that is where</p>
+<p begin="00:15:12.550" end="00:15:15.580" style="s2">technically I mean in a lot of ways</p>
+<p begin="00:15:13.810" end="00:15:17.770" style="s2">we&#39;re pre-revenue startup commas</p>
+<p begin="00:15:15.580" end="00:15:20.230" style="s2">multi-billion dollar exit doesn&#39;t come</p>
+<p begin="00:15:17.770" end="00:15:22.330" style="s2">from us selling a comma to to you it&#39;s a</p>
+<p begin="00:15:20.230" end="00:15:24.730" style="s2">laughable amount of money it comes from</p>
+<p begin="00:15:22.330" end="00:15:28.240" style="s2">us solving self-driving cars which is</p>
+<p begin="00:15:24.730" end="00:15:30.520" style="s2">our mission right yeah we&#39;re just trying</p>
+<p begin="00:15:28.240" end="00:15:32.590" style="s2">to solve self-driving cars we&#39;re not</p>
+<p begin="00:15:30.520" end="00:15:34.600" style="s2">trying to yeah build a massive</p>
+<p begin="00:15:32.590" end="00:15:36.310" style="s2">corporation we&#39;re not trying to build a</p>
+<p begin="00:15:34.600" end="00:15:38.830" style="s2">consumer I mean we sell these products</p>
+<p begin="00:15:36.310" end="00:15:40.810" style="s2">as dev kids basically just so people who</p>
+<p begin="00:15:38.830" end="00:15:43.030" style="s2">want to come develop with our stuff have</p>
+<p begin="00:15:40.810" end="00:15:44.290" style="s2">an easy way to enter the ecosystem you</p>
+<p begin="00:15:43.030" end="00:15:46.930" style="s2">know you don&#39;t have to pay us a dollar</p>
+<p begin="00:15:44.290" end="00:15:49.300" style="s2">you can figure out how to build all of</p>
+<p begin="00:15:46.930" end="00:15:51.280" style="s2">Comus stuff all the stuff you need is</p>
+<p begin="00:15:49.300" end="00:15:53.380" style="s2">post it online for free if you know how</p>
+<p begin="00:15:51.280" end="00:15:55.780" style="s2">to find it right now it&#39;s a big part of</p>
+<p begin="00:15:53.380" end="00:15:57.610" style="s2">it no comma - is not free but you can go</p>
+<p begin="00:15:55.780" end="00:16:00.160" style="s2">you can build a neo board which for the</p>
+<p begin="00:15:57.610" end="00:16:02.620" style="s2">most part still works you can buy the</p>
+<p begin="00:16:00.160" end="00:16:05.200" style="s2">cheapest phone off ebay you can 3d print</p>
+<p begin="00:16:02.620" end="00:16:07.300" style="s2">your own case right if you want to join</p>
+<p begin="00:16:05.200" end="00:16:09.520" style="s2">this this this ecosystem you can join it</p>
+<p begin="00:16:07.300" end="00:16:12.900" style="s2">for nothing but if you want it to be</p>
+<p begin="00:16:09.520" end="00:16:16.330" style="s2">easy and nice so if I covet ooh right</p>
+<p begin="00:16:12.900" end="00:16:19.930" style="s2">now if you want support easy and nice</p>
+<p begin="00:16:16.330" end="00:16:22.120" style="s2">that&#39;s a lot easier sure for the most</p>
+<p begin="00:16:19.930" end="00:16:23.200" style="s2">part if you buy if you buy a comma - and</p>
+<p begin="00:16:22.120" end="00:16:25.150" style="s2">you don&#39;t have any unrealistic</p>
+<p begin="00:16:23.200" end="00:16:27.550" style="s2">expectations like a torque mod for your</p>
+<p begin="00:16:25.150" end="00:16:29.470" style="s2">Honda you can have a good time I think</p>
+<p begin="00:16:27.550" end="00:16:30.970" style="s2">it is not managing expectations and</p>
+<p begin="00:16:29.470" end="00:16:32.950" style="s2">we&#39;re working on doing that a little bit</p>
+<p begin="00:16:30.970" end="00:16:35.170" style="s2">better the bar used to be a lot higher</p>
+<p begin="00:16:32.950" end="00:16:38.410" style="s2">it&#39;s moved a little bit and we&#39;re gonna</p>
+<p begin="00:16:35.170" end="00:16:40.000" style="s2">continue to try to talk more about what</p>
+<p begin="00:16:38.410" end="00:16:44.550" style="s2">is what a good community member looks</p>
+<p begin="00:16:40.000" end="00:16:46.930" style="s2">like a whole lot of uh look if you um</p>
+<p begin="00:16:44.550" end="00:16:48.910" style="s2">purchase a comma - and you never send us</p>
+<p begin="00:16:46.930" end="00:16:50.140" style="s2">the support request and you figure out</p>
+<p begin="00:16:48.910" end="00:16:53.290" style="s2">how to do everything you&#39;re good we like</p>
+<p begin="00:16:50.140" end="00:16:56.080" style="s2">you alright if you expect support if you</p>
+<p begin="00:16:53.290" end="00:16:59.480" style="s2">expect to be treated a certain way you</p>
+<p begin="00:16:56.080" end="00:17:01.970" style="s2">shouldn&#39;t buy the product from us right</p>
+<p begin="00:16:59.480" end="00:17:02.869" style="s2">yeah I think it&#39;s pretty clear but the</p>
+<p begin="00:17:01.970" end="00:17:05.149" style="s2">flipside of that</p>
+<p begin="00:17:02.869" end="00:17:07.399" style="s2">and like why I feel ok saying all this</p>
+<p begin="00:17:05.149" end="00:17:09.019" style="s2">is because well if you have a problem</p>
+<p begin="00:17:07.399" end="00:17:11.389" style="s2">with all the pilot you don&#39;t have to</p>
+<p begin="00:17:09.019" end="00:17:13.730" style="s2">rely on us you can rely on yourself</p>
+<p begin="00:17:11.389" end="00:17:16.069" style="s2">no it&#39;s open source right and that&#39;s the</p>
+<p begin="00:17:13.730" end="00:17:18.850" style="s2">beauty of open source it&#39;s very unfair</p>
+<p begin="00:17:16.069" end="00:17:22.329" style="s2">for company says there&#39;s no support and</p>
+<p begin="00:17:18.850" end="00:17:24.829" style="s2">if it doesn&#39;t work get bucked all right</p>
+<p begin="00:17:22.329" end="00:17:27.079" style="s2">we don&#39;t say that we say there&#39;s no</p>
+<p begin="00:17:24.829" end="00:17:29.059" style="s2">support if it doesn&#39;t work you have</p>
+<p begin="00:17:27.079" end="00:17:30.799" style="s2">access to most of the same stuff we have</p>
+<p begin="00:17:29.059" end="00:17:32.210" style="s2">access to almost everything this is also</p>
+<p begin="00:17:30.799" end="00:17:33.980" style="s2">why we have a one-year warranty on the</p>
+<p begin="00:17:32.210" end="00:17:35.960" style="s2">hardware the hardware is not open source</p>
+<p begin="00:17:33.980" end="00:17:37.820" style="s2">but we warranty yet we make sure it&#39;ll</p>
+<p begin="00:17:35.960" end="00:17:39.799" style="s2">market there&#39;s any actual defects in the</p>
+<p begin="00:17:37.820" end="00:17:41.330" style="s2">hardware we will fix them we&#39;ll really</p>
+<p begin="00:17:39.799" end="00:17:42.649" style="s2">try to do a great job with that if</p>
+<p begin="00:17:41.330" end="00:17:44.240" style="s2">there&#39;s a problem with the software or</p>
+<p begin="00:17:42.649" end="00:17:46.340" style="s2">if there&#39;s a problem with you figuring</p>
+<p begin="00:17:44.240" end="00:17:48.010" style="s2">out how to use the software it&#39;s open</p>
+<p begin="00:17:46.340" end="00:17:50.029" style="s2">source bro</p>
+<p begin="00:17:48.010" end="00:17:52.399" style="s2">you shut them all the testing they&#39;re</p>
+<p begin="00:17:50.029" end="00:17:55.190" style="s2">doing yeah yeah you want to get yourself</p>
+<p begin="00:17:52.399" end="00:17:56.840" style="s2">some testing if I call comi I support</p>
+<p begin="00:17:55.190" end="00:17:59.539" style="s2">there is no comment I support somebody</p>
+<p begin="00:17:56.840" end="00:18:02.419" style="s2">asks for a phone number and we laughed</p>
+<p begin="00:17:59.539" end="00:18:04.490" style="s2">at them I mean there&#39;s an email there&#39;s</p>
+<p begin="00:18:02.419" end="00:18:05.929" style="s2">an email support a comment i but most of</p>
+<p begin="00:18:04.490" end="00:18:08.149" style="s2">what&#39;s the point of comma a I will tell</p>
+<p begin="00:18:05.929" end="00:18:08.750" style="s2">you is if it&#39;s a hardware defect we&#39;ll</p>
+<p begin="00:18:08.149" end="00:18:11.779" style="s2">look into it</p>
+<p begin="00:18:08.750" end="00:18:15.289" style="s2">otherwise fix this offer yourself we</p>
+<p begin="00:18:11.779" end="00:18:16.399" style="s2">have a 30 day money-back guarantee yeah</p>
+<p begin="00:18:15.289" end="00:18:18.110" style="s2">I think that&#39;s pretty clear</p>
+<p begin="00:18:16.399" end="00:18:21.049" style="s2">oh really I&#39;m much more to say about</p>
+<p begin="00:18:18.110" end="00:18:23.809" style="s2">that yeah oh yeah no we&#39;ve been working</p>
+<p begin="00:18:21.049" end="00:18:25.220" style="s2">really hard luck no there&#39;s some talk</p>
+<p begin="00:18:23.809" end="00:18:26.120" style="s2">about well why don&#39;t you like gated why</p>
+<p begin="00:18:25.220" end="00:18:27.620" style="s2">don&#39;t you make people like do a</p>
+<p begin="00:18:26.120" end="00:18:29.510" style="s2">programming test for them to be able to</p>
+<p begin="00:18:27.620" end="00:18:32.149" style="s2">buy stuff like we don&#39;t want to add</p>
+<p begin="00:18:29.510" end="00:18:32.630" style="s2">artificial difficulty to this right very</p>
+<p begin="00:18:32.149" end="00:18:34.490" style="s2">talented</p>
+<p begin="00:18:32.630" end="00:18:35.659" style="s2">you know programmers are people who are</p>
+<p begin="00:18:34.490" end="00:18:36.889" style="s2">on the community or are busy they</p>
+<p begin="00:18:35.659" end="00:18:38.809" style="s2">shouldn&#39;t have to it shouldn&#39;t mean that</p>
+<p begin="00:18:36.889" end="00:18:41.000" style="s2">they shouldn&#39;t have a good experience we</p>
+<p begin="00:18:38.809" end="00:18:43.700" style="s2">want to make the experience as good as</p>
+<p begin="00:18:41.000" end="00:18:45.649" style="s2">possible right but think of the</p>
+<p begin="00:18:43.700" end="00:18:47.059" style="s2">experience more like maybe the hard part</p>
+<p begin="00:18:45.649" end="00:18:48.860" style="s2">of the experience not the soft part of</p>
+<p begin="00:18:47.059" end="00:18:50.299" style="s2">the experience mistakes maybe we should</p>
+<p begin="00:18:48.860" end="00:18:53.720" style="s2">change our email to the hardware support</p>
+<p begin="00:18:50.299" end="00:18:56.659" style="s2">a comment oh it&#39;s not a bad idea yeah</p>
+<p begin="00:18:53.720" end="00:18:58.490" style="s2">yeah I think that does make it a little</p>
+<p begin="00:18:56.659" end="00:19:01.039" style="s2">bit more clear yeah because to be only</p>
+<p begin="00:18:58.490" end="00:19:04.899" style="s2">said yeah cuz we only sell hardware yeah</p>
+<p begin="00:19:01.039" end="00:19:04.899" style="s2">yeah yeah</p>
+<p begin="00:19:04.900" end="00:19:08.570" style="s2">there&#39;s lots of people on discord who</p>
+<p begin="00:19:06.980" end="00:19:09.860" style="s2">were very helpful and I would I don&#39;t</p>
+<p begin="00:19:08.570" end="00:19:12.590" style="s2">know how much you&#39;ve said but we&#39;re</p>
+<p begin="00:19:09.860" end="00:19:14.030" style="s2">really grateful to our moderators and</p>
+<p begin="00:19:12.590" end="00:19:16.400" style="s2">people who have to help everybody in</p>
+<p begin="00:19:14.030" end="00:19:18.230" style="s2">discord there&#39;s a lot yeah yeah there&#39;s</p>
+<p begin="00:19:16.400" end="00:19:19.940" style="s2">a lot of great people great content in</p>
+<p begin="00:19:18.230" end="00:19:22.340" style="s2">the discord we really you know by</p>
+<p begin="00:19:19.940" end="00:19:23.990" style="s2">getting rid of all the less good stuff</p>
+<p begin="00:19:22.340" end="00:19:28.250" style="s2">we really did Stu let them shine more</p>
+<p begin="00:19:23.990" end="00:19:29.450" style="s2">than anything else yeah yeah uh yeah</p>
+<p begin="00:19:28.250" end="00:19:31.160" style="s2">order support</p>
+<p begin="00:19:29.450" end="00:19:32.750" style="s2">yeah but order like people think they&#39;re</p>
+<p begin="00:19:31.160" end="00:19:36.590" style="s2">entitled to support for open pilot</p>
+<p begin="00:19:32.750" end="00:19:38.770" style="s2">they&#39;re not I do see what do you think</p>
+<p begin="00:19:36.590" end="00:19:38.770" style="s2">that</p>
+<p begin="00:19:45.600" end="00:19:49.679" style="s2">because you know they didn&#39;t really like</p>
+<p begin="00:19:47.559" end="00:19:52.899" style="s2">look into what it was they just like you</p>
+<p begin="00:19:49.679" end="00:19:54.220" style="s2">know try they cause some software they</p>
+<p begin="00:19:52.899" end="00:19:57.789" style="s2">just followed some tutorial they read</p>
+<p begin="00:19:54.220" end="00:19:59.110" style="s2">online not put out by us and then in</p>
+<p begin="00:19:57.789" end="00:20:01.779" style="s2">that case think I asked them for support</p>
+<p begin="00:19:59.110" end="00:20:03.220" style="s2">right oh yeah if you ordered a Bosch</p>
+<p begin="00:20:01.779" end="00:20:05.409" style="s2">harness and you received an ID act</p>
+<p begin="00:20:03.220" end="00:20:10.419" style="s2">absolutely we had to read three people</p>
+<p begin="00:20:05.409" end="00:20:11.590" style="s2">this week I heard there was an amount we</p>
+<p begin="00:20:10.419" end="00:20:12.999" style="s2">shouldn&#39;t even we didn&#39;t make up set it</p>
+<p begin="00:20:11.590" end="00:20:16.240" style="s2">back but you said it free we sent a new</p>
+<p begin="00:20:12.999" end="00:20:18.460" style="s2">ones what seven free new ones yes right</p>
+<p begin="00:20:16.240" end="00:20:20.409" style="s2">when we deal with that right what</p>
+<p begin="00:20:18.460" end="00:20:21.759" style="s2">percent of the emails are crap um we do</p>
+<p begin="00:20:20.409" end="00:20:22.960" style="s2">ignore stupid emails I mean we do our</p>
+<p begin="00:20:21.759" end="00:20:24.840" style="s2">best to ignore thing but there&#39;s a lot</p>
+<p begin="00:20:22.960" end="00:20:27.639" style="s2">of inbound we&#39;re very small team so</p>
+<p begin="00:20:24.840" end="00:20:33.730" style="s2">continuing trying to just stop the top</p>
+<p begin="00:20:27.639" end="00:20:35.049" style="s2">of the funnel for being so big yeah make</p>
+<p begin="00:20:33.730" end="00:20:36.399" style="s2">a helpline for the software they didn&#39;t</p>
+<p begin="00:20:35.049" end="00:20:38.139" style="s2">you about the Nintendo Power out line</p>
+<p begin="00:20:36.399" end="00:20:40.649" style="s2">back in the day should we charge two</p>
+<p begin="00:20:38.139" end="00:20:40.649" style="s2">dollars a minute</p>
+<p begin="00:20:43.619" end="00:20:49.299" style="s2">just imagine you purchased Super Mario 3</p>
+<p begin="00:20:46.809" end="00:20:51.009" style="s2">and you couldn&#39;t get past the third</p>
+<p begin="00:20:49.299" end="00:20:52.570" style="s2">level in the fourth world do you think</p>
+<p begin="00:20:51.009" end="00:20:57.309" style="s2">you can call Nintendo and ask for</p>
+<p begin="00:20:52.570" end="00:20:59.619" style="s2">support we&#39;re just not there yet</p>
+<p begin="00:20:57.309" end="00:21:01.990" style="s2">we&#39;re never gonna be there we saw that</p>
+<p begin="00:20:59.619" end="00:21:03.460" style="s2">kids today we felt that kids are we</p>
+<p begin="00:21:01.990" end="00:21:05.980" style="s2">gonna stop that guy I think it&#39;s clear</p>
+<p begin="00:21:03.460" end="00:21:11.710" style="s2">what you get dev stands for developer in</p>
+<p begin="00:21:05.980" end="00:21:17.980" style="s2">case anyone&#39;s confused about yeah duh</p>
+<p begin="00:21:11.710" end="00:21:19.450" style="s2">dev watts of sport if you&#39;re not a</p>
+<p begin="00:21:17.980" end="00:21:22.179" style="s2">developer we don&#39;t recommend you buy</p>
+<p begin="00:21:19.450" end="00:21:23.830" style="s2">this product that&#39;s right but remember</p>
+<p begin="00:21:22.179" end="00:21:25.149" style="s2">that being said like I really don&#39;t want</p>
+<p begin="00:21:23.830" end="00:21:26.350" style="s2">to exclude people because they think</p>
+<p begin="00:21:25.149" end="00:21:27.789" style="s2">that like I don&#39;t know how to program</p>
+<p begin="00:21:26.350" end="00:21:29.919" style="s2">right you don&#39;t have to know how to</p>
+<p begin="00:21:27.789" end="00:21:31.779" style="s2">program things just be patient you</p>
+<p begin="00:21:29.919" end="00:21:34.169" style="s2">having to learn willing to learn that&#39;s</p>
+<p begin="00:21:31.779" end="00:21:36.369" style="s2">it I know we asked sailfin</p>
+<p begin="00:21:34.169" end="00:21:38.740" style="s2">self-aware self-aware your</p>
+<p begin="00:21:36.369" end="00:21:40.990" style="s2">self-awareness yeah yeah snaps for</p>
+<p begin="00:21:38.740" end="00:21:43.330" style="s2">self-awareness uh software support with</p>
+<p begin="00:21:40.990" end="00:21:45.460" style="s2">Prime subscription and why does</p>
+<p begin="00:21:43.330" end="00:21:47.320" style="s2">everybody what support does everybody</p>
+<p begin="00:21:45.460" end="00:21:48.909" style="s2">need so they don&#39;t want support you see</p>
+<p begin="00:21:47.320" end="00:21:50.409" style="s2">they they get it and then like they&#39;re</p>
+<p begin="00:21:48.909" end="00:21:52.299" style="s2">Hana doesn&#39;t have enough torque so they</p>
+<p begin="00:21:50.409" end="00:21:54.360" style="s2">want the Torquemada alright which is</p>
+<p begin="00:21:52.299" end="00:21:56.030" style="s2">super dangerous by the way</p>
+<p begin="00:21:54.360" end="00:21:58.280" style="s2">safety is very</p>
+<p begin="00:21:56.030" end="00:21:59.690" style="s2">she&#39;s very important um that&#39;s one of</p>
+<p begin="00:21:58.280" end="00:22:07.270" style="s2">our main issues in the desert or you</p>
+<p begin="00:21:59.690" end="00:22:10.490" style="s2">know there there&#39;s lots of like yeah</p>
+<p begin="00:22:07.270" end="00:22:11.900" style="s2">cool you take them back there yeah yeah</p>
+<p begin="00:22:10.490" end="00:22:12.440" style="s2">we took him back there briefly are there</p>
+<p begin="00:22:11.900" end="00:22:15.410" style="s2">secrets</p>
+<p begin="00:22:12.440" end="00:22:17.660" style="s2">I get nervous taking chunk people around</p>
+<p begin="00:22:15.410" end="00:22:19.940" style="s2">back there - from where out a little bit</p>
+<p begin="00:22:17.660" end="00:22:23.270" style="s2">more and then we&#39;ll do one more pull for</p>
+<p begin="00:22:19.940" end="00:22:27.920" style="s2">the free shirt categories for aired wait</p>
+<p begin="00:22:23.270" end="00:22:29.480" style="s2">a pole what you say polar pole a pole</p>
+<p begin="00:22:27.920" end="00:22:31.790" style="s2">just a show</p>
+<p begin="00:22:29.480" end="00:22:37.220" style="s2">uh-huh no the pole Church wants people</p>
+<p begin="00:22:31.790" end="00:22:39.530" style="s2">to work for free whoa no I well people</p>
+<p begin="00:22:37.220" end="00:22:41.150" style="s2">email us and say hey I know I&#39;m not</p>
+<p begin="00:22:39.530" end="00:22:45.470" style="s2">qualified for this job but I&#39;m willing</p>
+<p begin="00:22:41.150" end="00:22:47.270" style="s2">to work for free and like you understand</p>
+<p begin="00:22:45.470" end="00:22:51.290" style="s2">that that costs us as a company more</p>
+<p begin="00:22:47.270" end="00:22:54.230" style="s2">than we gain I mean oh comma pencil yeah</p>
+<p begin="00:22:51.290" end="00:22:55.910" style="s2">people you know we weren&#39;t talking about</p>
+<p begin="00:22:54.230" end="00:22:58.910" style="s2">how comma pencil is one of the nicest</p>
+<p begin="00:22:55.910" end="00:23:00.770" style="s2">channels on discord it&#39;s really nice</p>
+<p begin="00:22:58.910" end="00:23:03.080" style="s2">people are contributing doing the great</p>
+<p begin="00:23:00.770" end="00:23:05.750" style="s2">work you know we&#39;re sending out Eric B</p>
+<p begin="00:23:03.080" end="00:23:08.780" style="s2">and PJ la are gonna get free comma twos</p>
+<p begin="00:23:05.750" end="00:23:10.490" style="s2">when we uh I mean I think they&#39;ve been</p>
+<p begin="00:23:08.780" end="00:23:11.720" style="s2">the biggest two contributors maybe some</p>
+<p begin="00:23:10.490" end="00:23:12.890" style="s2">of the other people who can contributing</p>
+<p begin="00:23:11.720" end="00:23:15.590" style="s2">and give like a hundred bucks off or</p>
+<p begin="00:23:12.890" end="00:23:19.070" style="s2">something we are gonna do um maybe some</p>
+<p begin="00:23:15.590" end="00:23:20.600" style="s2">new merch let&#39;s yeah yeah listen the</p>
+<p begin="00:23:19.070" end="00:23:22.130" style="s2">fillings act people here&#39;s you know</p>
+<p begin="00:23:20.600" end="00:23:23.930" style="s2">here&#39;s your kind of like here&#39;s you</p>
+<p begin="00:23:22.130" end="00:23:25.670" style="s2">where you start out right every time you</p>
+<p begin="00:23:23.930" end="00:23:27.620" style="s2">contribute something you go up every</p>
+<p begin="00:23:25.670" end="00:23:31.390" style="s2">time you know you say something stupid</p>
+<p begin="00:23:27.620" end="00:23:31.390" style="s2">oh yeah ask for support you go down</p>
+<p begin="00:23:33.040" end="00:23:40.880" style="s2">karma I knew there&#39;s no expectations are</p>
+<p begin="00:23:38.030" end="00:23:42.560" style="s2">are challenging yeah</p>
+<p begin="00:23:40.880" end="00:23:44.870" style="s2">don&#39;t have expectations don&#39;t have</p>
+<p begin="00:23:42.560" end="00:23:47.180" style="s2">expectations that&#39;s right under promise</p>
+<p begin="00:23:44.870" end="00:23:49.250" style="s2">over performance we are here to under</p>
+<p begin="00:23:47.180" end="00:23:51.800" style="s2">promise the out of all evil that&#39;s</p>
+<p begin="00:23:49.250" end="00:23:53.030" style="s2">right you won&#39;t get anything they&#39;ll</p>
+<p begin="00:23:51.800" end="00:23:55.250" style="s2">send us money and we won&#39;t send you</p>
+<p begin="00:23:53.030" end="00:23:57.290" style="s2">anything that&#39;s a lot we really try to</p>
+<p begin="00:23:55.250" end="00:23:59.150" style="s2">come up every Monday and Tuesday you</p>
+<p begin="00:23:57.290" end="00:24:05.000" style="s2">guys something is gonna happen with the</p>
+<p begin="00:23:59.150" end="00:24:06.110" style="s2">common points or something I think we</p>
+<p begin="00:24:05.000" end="00:24:06.590" style="s2">can tell them the word it doesn&#39;t mean</p>
+<p begin="00:24:06.110" end="00:24:10.039" style="s2">anything</p>
+<p begin="00:24:06.590" end="00:24:14.690" style="s2">Epcot grows you heard of Epcot get ready</p>
+<p begin="00:24:10.039" end="00:24:17.029" style="s2">for the up hide turn are you leaking</p>
+<p begin="00:24:14.690" end="00:24:18.020" style="s2">it&#39;s not leaking it&#39;s just a pot it</p>
+<p begin="00:24:17.029" end="00:24:21.080" style="s2">doesn&#39;t mean anything</p>
+<p begin="00:24:18.020" end="00:24:22.820" style="s2">I mean they can do Google does Epcot</p>
+<p begin="00:24:21.080" end="00:24:24.429" style="s2">mean something if you google it know</p>
+<p begin="00:24:22.820" end="00:24:28.490" style="s2">what they know where it&#39;s derived from</p>
+<p begin="00:24:24.429" end="00:24:31.190" style="s2">yeah they&#39;ll never figure it out man</p>
+<p begin="00:24:28.490" end="00:24:33.919" style="s2">they&#39;ll never figure it out</p>
+<p begin="00:24:31.190" end="00:24:36.830" style="s2">it&#39;s a comer is it a rash guard what</p>
+<p begin="00:24:33.919" end="00:24:40.190" style="s2">nuts is this a your birds are for him</p>
+<p begin="00:24:36.830" end="00:24:43.279" style="s2">you know it&#39;s just like papi who knows</p>
+<p begin="00:24:40.190" end="00:24:49.520" style="s2">man well this was an ambitious former</p>
+<p begin="00:24:43.279" end="00:24:52.429" style="s2">comma employee project it&#39;ll push ups</p>
+<p begin="00:24:49.520" end="00:24:54.350" style="s2">grows if it&#39;s built all right my</p>
+<p begin="00:24:52.429" end="00:24:55.610" style="s2">battery&#39;s dying wait I love this on the</p>
+<p begin="00:24:54.350" end="00:24:58.520" style="s2">label did you show them what they&#39;re</p>
+<p begin="00:24:55.610" end="00:25:01.490" style="s2">showing the label it says made in the</p>
+<p begin="00:24:58.520" end="00:25:04.340" style="s2">USA freedom I can&#39;t read it&#39;s backwards</p>
+<p begin="00:25:01.490" end="00:25:09.200" style="s2">it says seven days no training makes one</p>
+<p begin="00:25:04.340" end="00:25:12.799" style="s2">week that&#39;s right that&#39;s how we calm a</p>
+<p begin="00:25:09.200" end="00:25:14.059" style="s2">phone you know performance fabric all</p>
+<p begin="00:25:12.799" end="00:25:16.220" style="s2">right I&#39;m gonna show in the back a</p>
+<p begin="00:25:14.059" end="00:25:18.409" style="s2">little and then yeah chill for how you</p>
+<p begin="00:25:16.220" end="00:25:20.539" style="s2">can get a freedom shirt you&#39;re not on a</p>
+<p begin="00:25:18.409" end="00:25:22.039" style="s2">gimbal you&#39;re sitting on the table sorry</p>
+<p begin="00:25:20.539" end="00:25:25.159" style="s2">do we even have a good book yeah we had</p>
+<p begin="00:25:22.039" end="00:25:26.960" style="s2">one Mona where it is can I buy a comment</p>
+<p begin="00:25:25.159" end="00:25:29.299" style="s2">to a doge coin I mean you can convert</p>
+<p begin="00:25:26.960" end="00:25:31.940" style="s2">your doge coin to cash and then by a</p>
+<p begin="00:25:29.299" end="00:25:33.110" style="s2">comma - that&#39;s right pet name for common</p>
+<p begin="00:25:31.940" end="00:25:35.840" style="s2">customers is calm I don&#39;t think we&#39;ve</p>
+<p begin="00:25:33.110" end="00:25:38.799" style="s2">ever come on come on come on discuss</p>
+<p begin="00:25:35.840" end="00:25:41.000" style="s2">scope is done but a periscope died</p>
+<p begin="00:25:38.799" end="00:25:43.760" style="s2">George you were out to scam us</p>
+<p begin="00:25:41.000" end="00:25:46.309" style="s2">we want comic of oh the coveralls were</p>
+<p begin="00:25:43.760" end="00:25:48.380" style="s2">the best you feel scary good maybe we&#39;ll</p>
+<p begin="00:25:46.309" end="00:25:51.110" style="s2">do a special edition cover all um</p>
+<p begin="00:25:48.380" end="00:25:52.640" style="s2">they&#39;re expensive though can you use a</p>
+<p begin="00:25:51.110" end="00:25:53.120" style="s2">common tail with a board I don&#39;t know</p>
+<p begin="00:25:52.640" end="00:25:55.010" style="s2">man</p>
+<p begin="00:25:53.120" end="00:25:56.390" style="s2">a comet - is just hardware we sell you</p>
+<p begin="00:25:55.010" end="00:26:01.690" style="s2">hardware can you use it with a</p>
+<p begin="00:25:56.390" end="00:26:05.500" style="s2">television maybe I don&#39;t know , boxers</p>
+<p begin="00:26:01.690" end="00:26:07.760" style="s2">George couldn&#39;t hack aboard</p>
+<p begin="00:26:05.500" end="00:26:11.020" style="s2">our commenters are like it&#39;s like</p>
+<p begin="00:26:07.760" end="00:26:13.400" style="s2">discord in here no they&#39;re pretty bad</p>
+<p begin="00:26:11.020" end="00:26:16.220" style="s2">can I use common Russia you can use it</p>
+<p begin="00:26:13.400" end="00:26:20.120" style="s2">anywhere there&#39;s roads I think the</p>
+<p begin="00:26:16.220" end="00:26:21.980" style="s2">freedom sure it&#39;s free all right guys</p>
+<p begin="00:26:20.120" end="00:26:24.080" style="s2">I&#39;m gonna put my mask on when you buy a</p>
+<p begin="00:26:21.980" end="00:26:26.180" style="s2">comma - wait why are you putting a mask</p>
+<p begin="00:26:24.080" end="00:26:27.860" style="s2">on you know it&#39;s important to be safe</p>
+<p begin="00:26:26.180" end="00:26:28.970" style="s2">from coronavirus I&#39;m worried about some</p>
+<p begin="00:26:27.860" end="00:26:29.780" style="s2">of those people in discord giving me</p>
+<p begin="00:26:28.970" end="00:26:34.310" style="s2">kind of ours</p>
+<p begin="00:26:29.780" end="00:26:36.700" style="s2">I&#39;m within six feet of them you know all</p>
+<p begin="00:26:34.310" end="00:26:39.950" style="s2">right we&#39;re going all right we&#39;re going</p>
+<p begin="00:26:36.700" end="00:26:42.170" style="s2">you want a sweat flip the camera on you</p>
+<p begin="00:26:39.950" end="00:26:44.420" style="s2">can you can hold the camera no you&#39;re</p>
+<p begin="00:26:42.170" end="00:26:48.710" style="s2">better at it than me it&#39;s unclear well I</p>
+<p begin="00:26:44.420" end="00:26:51.490" style="s2">don&#39;t know yeah the secrets I&#39;ll show</p>
+<p begin="00:26:48.710" end="00:26:56.330" style="s2">you could show them this guy&#39;s the dance</p>
+<p begin="00:26:51.490" end="00:27:01.910" style="s2">the data center is growing yeah the</p>
+<p begin="00:26:56.330" end="00:27:05.990" style="s2">models are getting huge yeah just this</p>
+<p begin="00:27:01.910" end="00:27:12.440" style="s2">oh this is good George is using a mask</p>
+<p begin="00:27:05.990" end="00:27:17.140" style="s2">because we&#39;re toxic production we just</p>
+<p begin="00:27:12.440" end="00:27:23.570" style="s2">we just reorganized all the shelving uh</p>
+<p begin="00:27:17.140" end="00:27:25.310" style="s2">really ramping up production but comment</p>
+<p begin="00:27:23.570" end="00:27:31.640" style="s2">who&#39;s irate where they&#39;re selling so</p>
+<p begin="00:27:25.310" end="00:27:33.710" style="s2">fast oh thanks guys</p>
+<p begin="00:27:31.640" end="00:27:35.900" style="s2">this is how we manage and measure our</p>
+<p begin="00:27:33.710" end="00:27:43.600" style="s2">yields every week here&#39;s our past band</p>
+<p begin="00:27:35.900" end="00:27:43.600" style="s2">and yeah yeah that&#39;s really long</p>
+<p begin="00:27:44.190" end="00:27:50.340" style="s2">these are from our 3d printers also</p>
+<p begin="00:27:46.380" end="00:27:55.820" style="s2">we&#39;re looking for Moore&#39;s or tracked</p>
+<p begin="00:27:50.340" end="00:27:59.700" style="s2">m200 no we&#39;re not moving production to</p>
+<p begin="00:27:55.820" end="00:28:06.750" style="s2">China anytime soon we produce</p>
+<p begin="00:27:59.700" end="00:28:16.290" style="s2">can we meet production guy guys can see</p>
+<p begin="00:28:06.750" end="00:28:22.440" style="s2">the team beautiful flash and uno boards</p>
+<p begin="00:28:16.290" end="00:28:25.230" style="s2">oh man do they know we do a really</p>
+<p begin="00:28:22.440" end="00:28:27.030" style="s2">thorough testing yeah got to get that</p>
+<p begin="00:28:25.230" end="00:28:30.870" style="s2">success one off here damn look at the</p>
+<p begin="00:28:27.030" end="00:28:36.720" style="s2">back guys can see virtually Chris back</p>
+<p begin="00:28:30.870" end="00:28:39.210" style="s2">here also if you&#39;re interested we got</p>
+<p begin="00:28:36.720" end="00:28:40.700" style="s2">sweet acts of UPS&#39;s I don&#39;t wanna buy</p>
+<p begin="00:28:39.210" end="00:28:48.120" style="s2">these Oh</p>
+<p begin="00:28:40.700" end="00:28:50.250" style="s2">oh my god shirts we&#39;re giving them away</p>
+<p begin="00:28:48.120" end="00:28:52.230" style="s2">tomorrow only tomorrow this is the most</p>
+<p begin="00:28:50.250" end="00:28:56.340" style="s2">exclusive car mentioned in history</p>
+<p begin="00:28:52.230" end="00:28:58.410" style="s2">wow you own something Wow yeah I&#39;m</p>
+<p begin="00:28:56.340" end="00:29:00.180" style="s2">keeping this one we have 18 more they&#39;re</p>
+<p begin="00:28:58.410" end="00:29:01.620" style="s2">gonna be given away to the first 18</p>
+<p begin="00:29:00.180" end="00:29:04.170" style="s2">people who buy tomorrow with code</p>
+<p begin="00:29:01.620" end="00:29:05.389" style="s2">freedom sheriff tomorrow&#39;s at midnight</p>
+<p begin="00:29:04.170" end="00:29:08.209" style="s2">starting</p>
+<p begin="00:29:05.389" end="00:29:09.019" style="s2">yeah PDK don&#39;t mess it up those are</p>
+<p begin="00:29:08.209" end="00:29:14.479" style="s2">great shirts</p>
+<p begin="00:29:09.019" end="00:29:16.700" style="s2">chase oh hi so alright know what should</p>
+<p begin="00:29:14.479" end="00:29:18.979" style="s2">we let unlimited people use the code</p>
+<p begin="00:29:16.700" end="00:29:24.049" style="s2">freedom sure and then only the first day</p>
+<p begin="00:29:18.979" end="00:29:32.829" style="s2">team will get it how is that that much</p>
+<p begin="00:29:24.049" end="00:29:32.829" style="s2">different from just giving a clean out I</p>
+<p begin="00:29:33.190" end="00:29:36.789" style="s2">think we have a good system going</p>
+<p begin="00:29:35.239" end="00:29:39.529" style="s2">there&#39;s only 18 for you insurance then</p>
+<p begin="00:29:36.789" end="00:29:40.579" style="s2">there was a only up rate a mess we can</p>
+<p begin="00:29:39.529" end="00:29:43.839" style="s2">get people to buy</p>
+<p begin="00:29:40.579" end="00:29:47.239" style="s2">what if whoa we know I got an idea okay</p>
+<p begin="00:29:43.839" end="00:29:50.329" style="s2">no new play no seriously play better</p>
+<p begin="00:29:47.239" end="00:29:52.099" style="s2">rated to get money we&#39;re gonna you as</p>
+<p begin="00:29:50.329" end="00:29:54.379" style="s2">many people as want to use freedom sure</p>
+<p begin="00:29:52.099" end="00:29:55.729" style="s2">tomorrow if you use the code freedom</p>
+<p begin="00:29:54.379" end="00:29:59.389" style="s2">shirt you enter into the freedom shirt</p>
+<p begin="00:29:55.729" end="00:30:01.099" style="s2">lottery every time a to you by enters</p>
+<p begin="00:29:59.389" end="00:30:03.499" style="s2">you once into the freedom shirt lottery</p>
+<p begin="00:30:01.099" end="00:30:04.940" style="s2">okay yeah and then we&#39;re gonna do dice</p>
+<p begin="00:30:03.499" end="00:30:06.769" style="s2">to determine which order numbers get</p>
+<p begin="00:30:04.940" end="00:30:08.089" style="s2">free of insurance Oh that&#39;ll be great</p>
+<p begin="00:30:06.769" end="00:30:13.820" style="s2">stream oh I love it</p>
+<p begin="00:30:08.089" end="00:30:17.209" style="s2">oh well not stream there&#39;s no more usage</p>
+<p begin="00:30:13.820" end="00:30:19.549" style="s2">limits on freedom sharing every comment</p>
+<p begin="00:30:17.209" end="00:30:21.079" style="s2">to you purchase don&#39;t show them this to</p>
+<p begin="00:30:19.549" end="00:30:24.079" style="s2">make sure people know you know when it</p>
+<p begin="00:30:21.079" end="00:30:28.969" style="s2">is what it&#39;s scheduled it&#39;s not illegal</p>
+<p begin="00:30:24.079" end="00:30:30.769" style="s2">it&#39;s a look it&#39;s a loot box actually go</p>
+<p begin="00:30:28.969" end="00:30:33.969" style="s2">um no you can have it you could have a</p>
+<p begin="00:30:30.769" end="00:30:38.749" style="s2">lottery I believe the lotteries allowed</p>
+<p begin="00:30:33.969" end="00:30:44.629" style="s2">is really can I show the Hyundai Sonata</p>
+<p begin="00:30:38.749" end="00:30:47.869" style="s2">it&#39;s illegal banned for life we could</p>
+<p begin="00:30:44.629" end="00:30:50.059" style="s2">use some more high-profile officers if</p>
+<p begin="00:30:47.869" end="00:30:53.649" style="s2">we could George doesn&#39;t have that enough</p>
+<p begin="00:30:50.059" end="00:30:58.629" style="s2">high-profile lawsuits in its life um</p>
+<p begin="00:30:53.649" end="00:30:58.629" style="s2">loot box is not a lottery that&#39;s correct</p>
+<p begin="00:30:58.640" end="00:31:01.729" style="s2">[Music]</p>
+<p begin="00:31:06.609" end="00:31:13.179" style="s2">we request it yeah they are very rare</p>
+<p begin="00:31:10.179" end="00:31:13.179" style="s2">yeah</p>
+<p begin="00:31:13.450" end="00:31:19.380" style="s2">I entertain requests time I said uncle</p>
+<p begin="00:31:17.110" end="00:31:23.200" style="s2">your local Hyundai dealership</p>
+<p begin="00:31:19.380" end="00:31:25.019" style="s2">these are ultra radar creatures they</p>
+<p begin="00:31:23.200" end="00:31:28.360" style="s2">look so soft</p>
+<p begin="00:31:25.019" end="00:31:29.200" style="s2">no pretty nice yeah I&#39;m gonna put one on</p>
+<p begin="00:31:28.360" end="00:31:34.659" style="s2">later all right</p>
+<p begin="00:31:29.200" end="00:31:36.610" style="s2">tomorrow we did it to PDG every tomorrow</p>
+<p begin="00:31:34.659" end="00:31:38.740" style="s2">everyone gets a free t-shirt if we get</p>
+<p begin="00:31:36.610" end="00:31:42.220" style="s2">less than 18 everyone gets a freedom</p>
+<p begin="00:31:38.740" end="00:31:44.559" style="s2">shirt we get more than 18 lottery sorry</p>
+<p begin="00:31:42.220" end="00:31:47.409" style="s2">leaf box whatever the most legal way to</p>
+<p begin="00:31:44.559" end="00:31:51.789" style="s2">stay that says you&#39;re looking fit raffle</p>
+<p begin="00:31:47.409" end="00:31:55.299" style="s2">thanks alright alright I think that&#39;s it</p>
+<p begin="00:31:51.789" end="00:31:57.970" style="s2">alright yeah discord we&#39;re really trying</p>
+<p begin="00:31:55.299" end="00:32:00.220" style="s2">to make everything higher brow higher</p>
+<p begin="00:31:57.970" end="00:32:02.710" style="s2">brown community if you&#39;re here to be a</p>
+<p begin="00:32:00.220" end="00:32:05.980" style="s2">leech don&#39;t fire Chelsea have you</p>
+<p begin="00:32:02.710" end="00:32:07.720" style="s2">listened to anything we&#39;ve said today if</p>
+<p begin="00:32:05.980" end="00:32:10.049" style="s2">we buy a common tool you show me the</p>
+<p begin="00:32:07.720" end="00:32:10.049" style="s2">Hyundai Sonata</p>
+<p begin="00:32:12.029" end="00:32:21.340" style="s2">Barnaby says sure can they listen to</p>
+<p begin="00:32:18.429" end="00:32:26.519" style="s2">anything we&#39;ve said today how many more</p>
+<p begin="00:32:21.340" end="00:32:29.200" style="s2">times do we need to say it yeah yeah</p>
+<p begin="00:32:26.519" end="00:32:30.930" style="s2">encourage things like that you know back</p>
+<p begin="00:32:29.200" end="00:32:34.470" style="s2">when we needed money</p>
+<p begin="00:32:30.930" end="00:32:37.500" style="s2">watch all right we calling it yeah I</p>
+<p begin="00:32:34.470" end="00:32:39.090" style="s2">think we called it yeah oh my god my</p>
+<p begin="00:32:37.500" end="00:32:40.920" style="s2">house is a car manufacturers lock the</p>
+<p begin="00:32:39.090" end="00:32:42.870" style="s2">comma to zap answer this question all</p>
+<p begin="00:32:40.920" end="00:32:45.120" style="s2">the time why why do people think it&#39;s</p>
+<p begin="00:32:42.870" end="00:32:47.400" style="s2">gonna happen well we can&#39;t yeah they are</p>
+<p begin="00:32:45.120" end="00:32:50.670" style="s2">aware that Apple and Sony couldn&#39;t keep</p>
+<p begin="00:32:47.400" end="00:32:52.800" style="s2">me out right like software companies do</p>
+<p begin="00:32:50.670" end="00:32:56.280" style="s2">they think that like Honda and Toyota</p>
+<p begin="00:32:52.800" end="00:32:57.900" style="s2">can keep me out bro what did I say last</p>
+<p begin="00:32:56.280" end="00:33:00.540" style="s2">time that was asked dog means never</p>
+<p begin="00:32:57.900" end="00:33:02.310" style="s2">having to say you&#39;re sorry I think we</p>
+<p begin="00:33:00.540" end="00:33:05.720" style="s2">under it create a wiki for FAQ I think</p>
+<p begin="00:33:02.310" end="00:33:05.720" style="s2">we did all right bye-bye</p>
+</div>
+</body>
+</tt>

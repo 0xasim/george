@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.219" end="00:00:03.839" style="s2">And ride on it, like jay-z, let&#39;s look at jay-z on Jeff</p>
+<p begin="00:00:20.140" end="00:00:28.050" style="s2">Well, that&#39;s what I will do I swear if tonight we find $200,000 I will buy a jet ski</p>
+<p begin="00:00:30.310" end="00:00:34.649" style="s2">I&#39;m hungry too. I got some bubble tea tonight. Um</p>
+<p begin="00:00:36.579" end="00:00:41.849" style="s2">Look forward to working with the security community. No, I swear I&#39;ll buy a jet ski, all right</p>
+<p begin="00:00:48.010" end="00:00:50.010" style="s2">Okay, so</p>
+<p begin="00:00:52.870" end="00:00:57.360" style="s2">Where I would kind of look for vulnerabilities here, oh by the way, please subscribe to my shit</p>
+<p begin="00:00:57.360" end="00:01:00.809" style="s2">I&#39;m not gonna make $200,000. I need your money from twitch</p>
+<p begin="00:01:03.370" end="00:01:06.960" style="s2">Please please give me money. Oh poor I need any rice</p>
+<p begin="00:01:09.820" end="00:01:11.820" style="s2">Fans off the fan off</p>
+<p begin="00:01:17.530" end="00:01:19.530" style="s2">See like my feet are cold</p>
+<p begin="00:01:19.810" end="00:01:21.810" style="s2">My arms are warm</p>
+<p begin="00:01:22.299" end="00:01:26.188" style="s2">No, my arms are cold too. But I want the fan. All right</p>
+<p begin="00:01:28.150" end="00:01:33.389" style="s2">Let&#39;s say do we have sound to sound work good sound or excited good</p>
+<p begin="00:01:34.840" end="00:01:36.840" style="s2">Let&#39;s feel we can find</p>
+<p begin="00:01:39.189" end="00:01:44.189" style="s2">What we are dealing to find is a place where I market isn&#39;t validated</p>
+<p begin="00:01:49.390" end="00:01:52.739" style="s2">They do like they label it like shady market generally</p>
+<p begin="00:01:56.740" end="00:02:00.030" style="s2">Looking for bugs for a bit. I don&#39;t really think I&#39;m gonna find anything</p>
+<p begin="00:02:01.930" end="00:02:08.099" style="s2">Yeah, we use sublime to read code and I use them to write code pimple my arm I</p>
+<p begin="00:02:09.640" end="00:02:13.500" style="s2">Live in the same house will come AI guess who would live at work just savage</p>
+<p begin="00:02:16.330" end="00:02:18.389" style="s2">Alright guys, what do I want over eats? Ooh</p>
+<p begin="00:02:20.319" end="00:02:25.109" style="s2">North Beach pizza. Oh, yeah a homemade flatbread breadstick. Is that what I want?</p>
+<p begin="00:02:26.409" end="00:02:28.739" style="s2">Cheese pizza. Is that what I want to see P?</p>
+<p begin="00:02:32.530" end="00:02:39.959" style="s2">Mmm Oh Sasha&#39;s Pakistani restaurant. Whoo that seems kind of good food chicken tikka masala. That&#39;s what I want</p>
+<p begin="00:02:41.200" end="00:02:42.400" style="s2">Yeah</p>
+<p begin="00:02:42.400" end="00:02:44.400" style="s2">Get that chicken tikka masala</p>
+<p begin="00:02:44.650" end="00:02:46.650" style="s2">And that&#39;s what we&#39;re talking about. All right</p>
+<p begin="00:02:47.290" end="00:02:49.290" style="s2">Is that healthy guys?</p>
+<p begin="00:02:55.569" end="00:02:59.759" style="s2">Please order. All right. We got some Pakistani food coming</p>
+<p begin="00:03:00.670" end="00:03:02.500" style="s2">too AM</p>
+<p begin="00:03:02.500" end="00:03:07.169" style="s2">Is he jumping off a yacht this is real shit or is this meme shit?</p>
+<p begin="00:03:21.459" end="00:03:25.168" style="s2">This rollercoaster</p>
+<p begin="00:03:30.790" end="00:03:32.790" style="s2">Yeah</p>
+<p begin="00:03:38.680" end="00:03:41.819" style="s2">All right, all right guys I know we got work to do tonight</p>
+<p begin="00:03:41.819" end="00:03:45.388" style="s2">So we&#39;re gonna make $200,000 and then we&#39;re gonna buy a jet ski, yeah</p>
+<p begin="00:03:46.870" end="00:03:51.480" style="s2">Wait, we should put jet ski in the title. Maybe we&#39;ll get more likes and clicks and views and shit</p>
+<p begin="00:03:53.620" end="00:03:57.389" style="s2">We&#39;ll buy jet ski if win</p>
+<p begin="00:04:01.150" end="00:04:03.150" style="s2">All right, cool</p>
+<p begin="00:04:03.489" end="00:04:05.608" style="s2">All right. So what we have to find oh</p>
+<p begin="00:04:07.030" end="00:04:10.410" style="s2">Man, I wish it with syntax highlight here. That&#39;s kind of shitty</p>
+<p begin="00:04:11.919" end="00:04:15.149" style="s2">So you see this market is legit call</p>
+<p begin="00:04:17.320" end="00:04:23.729" style="s2">Like this is not this is I would say poorly rigged like they&#39;re very careful. Some of them have market as legit calls</p>
+<p begin="00:04:23.729" end="00:04:26.489" style="s2">There&#39;s no reason you can&#39;t have a market as legit call here</p>
+<p begin="00:04:27.069" end="00:04:32.309" style="s2">But they don&#39;t do it for some reason. So that&#39;s generally like not the best practice. I guess you don&#39;t wanna waste gas</p>
+<p begin="00:04:38.650" end="00:04:41.789" style="s2">So, okay, let&#39;s let&#39;s look into this only whitelisted call this thing</p>
+<p begin="00:04:41.789" end="00:04:43.979" style="s2">Let&#39;s see if there&#39;s ever a way we&#39;re gonna be able to bust that</p>
+<p begin="00:04:44.830" end="00:04:52.740" style="s2">Know these things are just whitelisted by the control wire. That&#39;s all order has this contract called it can scatter. What auger is it&#39;s a</p>
+<p begin="00:04:55.629" end="00:04:59.999" style="s2">Decentralized prediction market platform built on a theory. Oh, that&#39;s right</p>
+<p begin="00:05:02.289" end="00:05:09.149" style="s2">Well, my friends works there and I told them look at security, but it&#39;s actually extremely good</p>
+<p begin="00:05:20.639" end="00:05:23.208" style="s2">So there&#39;s all this like forking crap</p>
+<p begin="00:05:24.749" end="00:05:27.409" style="s2">I&#39;m not sure like how useful it is like I</p>
+<p begin="00:05:28.829" end="00:05:32.779" style="s2">Worry that there aren&#39;t shallow bugs that there&#39;s just like extremely deep bugs</p>
+<p begin="00:05:33.599" end="00:05:37.998" style="s2">That would take weeks to find and we don&#39;t have weeks. The Karger is launching soon</p>
+<p begin="00:05:40.379" end="00:05:45.319" style="s2">No, but we got to stop with the pessimism we got to start believing in myself and you know, what else</p>
+<p begin="00:05:45.319" end="00:05:47.319" style="s2">I wish I had some damn chapstick</p>
+<p begin="00:05:48.929" end="00:05:50.929" style="s2">Stick</p>
+<p begin="00:06:05.339" end="00:06:11.689" style="s2">Weed pen check it a crazy dream today guys took a nap</p>
+<p begin="00:06:19.289" end="00:06:23.628" style="s2">Chapstick no chapstick</p>
+<p begin="00:06:35.770" end="00:06:42.630" style="s2">Come on relaxation supports learning ability. Here&#39;s my theory are they allowed to say that shit that seems it legal?</p>
+<p begin="00:06:57.310" end="00:06:59.310" style="s2">Delicious vitamin alright</p>
+<p begin="00:07:15.539" end="00:07:17.539" style="s2">So these are the libraries</p>
+<p begin="00:07:28.910" end="00:07:34.599" style="s2">Is this like its own contract that gets deployed should read the deployment code</p>
+<p begin="00:08:00.940" end="00:08:02.940" style="s2">I</p>
+<p begin="00:08:06.680" end="00:08:10.959" style="s2">Think it&#39;s mostly just gonna be a reading code. You can zoom in. Whoa. Let&#39;s see you guys can see better</p>
+<p begin="00:08:18.440" end="00:08:23.709" style="s2">Universe create yes, no more. This is how markets get created and just look at the universe</p>
+<p begin="00:08:38.260" end="00:08:43.510" style="s2">I cashed a nomination to</p>
+<p begin="00:08:53.480" end="00:08:55.839" style="s2">Market factory create market value</p>
+<p begin="00:08:59.720" end="00:09:03.130" style="s2">So this stuff always makes me excited because</p>
+<p begin="00:09:03.980" end="00:09:05.000" style="s2">like</p>
+<p begin="00:09:05.000" end="00:09:12.489" style="s2">It looks like I can create a market. They&#39;re calling it I cash but it looks like I can create a market with anything</p>
+<p begin="00:09:13.940" end="00:09:20.229" style="s2">So remember that if you don&#39;t actually check it I can pass in any contract here that doesn&#39;t actually have to behave like any RC</p>
+<p begin="00:09:22.040" end="00:09:24.040" style="s2">2000</p>
+<p begin="00:09:24.320" end="00:09:26.320" style="s2">Use &#39;fl that is though</p>
+<p begin="00:09:50.250" end="00:09:52.250" style="s2">The market</p>
+<p begin="00:09:58.320" end="00:10:05.539" style="s2">Yeah, okay so see it&#39;s useless the idea of like passing in something weird here is useless because it doesn&#39;t look up with the controller</p>
+<p begin="00:10:10.920" end="00:10:15.020" style="s2">The great thing is though since we&#39;re attacker is we only need to find one bad thing</p>
+<p begin="00:10:22.710" end="00:10:24.710" style="s2">Contribute</p>
+<p begin="00:10:29.220" end="00:10:32.420" style="s2">That for create dispute crowdsource, er</p>
+<p begin="00:10:38.010" end="00:10:41.869" style="s2">If there&#39;s any way - like shoving something here that isn&#39;t actually a</p>
+<p begin="00:10:43.590" end="00:10:48.079" style="s2">Disavow crowdsources see okay. So it&#39;s this kind of bullshit</p>
+<p begin="00:10:56.100" end="00:11:01.670" style="s2">I wonder if there were bugs like deeper in the etherium platform that we can think about</p>
+<p begin="00:11:06.210" end="00:11:08.689" style="s2">There&#39;s little you could do to a contract</p>
+<p begin="00:11:12.510" end="00:11:15.349" style="s2">The whole order would fall apart if we could get one</p>
+<p begin="00:11:15.930" end="00:11:18.859" style="s2">Malicious contract in like the trusted stuff, right?</p>
+<p begin="00:11:19.440" end="00:11:22.970" style="s2">Does the whole a theory of security model is is weird to think about?</p>
+<p begin="00:11:24.990" end="00:11:26.550" style="s2">By the way</p>
+<p begin="00:11:26.550" end="00:11:28.760" style="s2">I&#39;m telling you 24 are you&#39;re watching?</p>
+<p begin="00:11:29.250" end="00:11:34.760" style="s2">If people actually showed up here then this would have to go away because no people can&#39;t have nice things</p>
+<p begin="00:11:35.460" end="00:11:40.069" style="s2">Like this is what I&#39;ve learned about the world the people used to be able to have nice things</p>
+<p begin="00:11:40.140" end="00:11:42.979" style="s2">But like now people can&#39;t or nice things anymore</p>
+<p begin="00:11:47.460" end="00:11:49.460" style="s2">Maybe the default</p>
+<p begin="00:11:50.010" end="00:11:55.999" style="s2">Maybe if they default to call if you&#39;re in function what you mean by that so like there&#39;s this kind of crap here</p>
+<p begin="00:11:58.200" end="00:12:00.200" style="s2">Anything the checks deep Oh</p>
+<p begin="00:12:04.530" end="00:12:07.970" style="s2">Get his address or 0 address shady reporting</p>
+<p begin="00:12:11.100" end="00:12:15.680" style="s2">What is the zero contract what happens if you try to call the zero contract</p>
+<p begin="00:12:21.090" end="00:12:26.949" style="s2">Not useful I</p>
+<p begin="00:12:33.649" end="00:12:35.858" style="s2">Can get that to return anyone but</p>
+<p begin="00:12:39.529" end="00:12:44.558" style="s2">All right, so this good morning this function here can actually be anything I want</p>
+<p begin="00:12:46.459" end="00:12:48.758" style="s2">Like it&#39;s not really useful</p>
+<p begin="00:12:55.339" end="00:12:57.608" style="s2">You&#39;re not gonna get past this check</p>
+<p begin="00:13:16.760" end="00:13:19.749" style="s2">You&#39;re searching only on the source so you don&#39;t get all the testing crap</p>
+<p begin="00:13:29.390" end="00:13:31.629" style="s2">Now the functions that define them</p>
+<p begin="00:13:34.130" end="00:13:36.130" style="s2">I</p>
+<p begin="00:13:37.700" end="00:13:39.700" style="s2">Wish take highlighted this</p>
+<p begin="00:13:46.710" end="00:13:48.710" style="s2">There&#39;s a container for a few went down</p>
+<p begin="00:13:52.200" end="00:13:57.409" style="s2">Get few window ID return shady few endo equals legit few window</p>
+<p begin="00:14:02.310" end="00:14:07.849" style="s2">So this isn&#39;t gonna work is container for feet</p>
+<p begin="00:14:18.480" end="00:14:23.810" style="s2">Unfortunately these these is container calls. They&#39;re really what I want to attack but they all seem good</p>
+<p begin="00:14:33.890" end="00:14:40.629" style="s2">If we could attack any of these is container for their things now, I think we might have some lock</p>
+<p begin="00:14:44.630" end="00:14:48.880" style="s2">Start time shady feeling go get start time. Okay, so we can actually do anything</p>
+<p begin="00:14:49.670" end="00:14:51.589" style="s2">We want there</p>
+<p begin="00:14:51.589" end="00:14:54.129" style="s2">Like that, that&#39;s the weird stuff to think about</p>
+<p begin="00:15:07.600" end="00:15:09.600" style="s2">Start time</p>
+<p begin="00:15:10.089" end="00:15:12.599" style="s2">That&#39;s already determined</p>
+<p begin="00:15:14.410" end="00:15:17.670" style="s2">Like it has to have the address in this feet windows thing</p>
+<p begin="00:15:27.189" end="00:15:30.329" style="s2">Yeah, and if you assume that checks cry for this checks, correct</p>
+<p begin="00:15:31.959" end="00:15:34.828" style="s2">Its container for share token is this one bad</p>
+<p begin="00:15:36.370" end="00:15:39.929" style="s2">Get market, if not is container for more. Okay. Oh</p>
+<p begin="00:15:40.779" end="00:15:44.669" style="s2">Man, I wish I could get through. This is a container for market check. It&#39;s the best one</p>
+<p begin="00:15:47.800" end="00:15:49.800" style="s2">Legit market</p>
+<p begin="00:15:53.050" end="00:15:55.050" style="s2">Alright I&#39;ll see</p>
+<p begin="00:16:06.160" end="00:16:09.779" style="s2">Come back to universe in a minute. Oh man. I&#39;ve really opened a lot of these</p>
+<p begin="00:16:21.620" end="00:16:28.750" style="s2">Show your 14 participant presents</p>
+<p begin="00:16:36.560" end="00:16:38.560" style="s2">I don&#39;t wanna share this</p>
+<p begin="00:16:45.550" end="00:16:47.550" style="s2">Participants against as part of the market</p>
+<p begin="00:16:48.220" end="00:16:52.949" style="s2">so we checked with the shittier boy, which is actually a part of the market as</p>
+<p begin="00:16:53.590" end="00:16:55.799" style="s2">Well as a crowd sorcerer</p>
+<p begin="00:17:13.880" end="00:17:18.249" style="s2">See look if we can break this container for market we could like mess with the open interest</p>
+<p begin="00:17:18.250" end="00:17:22.300" style="s2">That&#39;s what I really want to do. So we win two hundred thousand dollars and we get a jetski</p>
+<p begin="00:17:29.480" end="00:17:32.380" style="s2">Dude I don&#39;t know man, that was all bullshit man</p>
+<p begin="00:17:34.070" end="00:17:38.949" style="s2">Did that sound I talk that was that was during the smoke weed erryday phase man</p>
+<p begin="00:17:41.000" end="00:17:43.420" style="s2">Does bullshit like you can&#39;t really do that</p>
+<p begin="00:17:44.420" end="00:17:46.690" style="s2">like it good - why if you care I</p>
+<p begin="00:17:47.660" end="00:17:51.249" style="s2">Get it. Well, I like neuro-link. I don&#39;t think really works. I</p>
+<p begin="00:17:51.800" end="00:17:56.919" style="s2">Don&#39;t know anyone might be smarter than that. At least when I talked to him early on about the software having car stuff</p>
+<p begin="00:17:56.920" end="00:17:58.910" style="s2">I don&#39;t think he exactly understood</p>
+<p begin="00:17:58.910" end="00:18:01.509" style="s2">Like what machine learning was? I think he might now</p>
+<p begin="00:18:06.050" end="00:18:12.099" style="s2">Really it&#39;s not a bandwidth issue and the simple argument to be made about why it&#39;s not a bandwidth issue is</p>
+<p begin="00:18:13.520" end="00:18:17.259" style="s2">Your eyes have so much bandwidth, right? Why can&#39;t you read faster?</p>
+<p begin="00:18:19.700" end="00:18:21.700" style="s2">You&#39;d have to pre-process it</p>
+<p begin="00:18:22.430" end="00:18:24.430" style="s2">So no, it&#39;s not. It&#39;s a stupid idea</p>
+<p begin="00:18:24.800" end="00:18:26.510" style="s2">you know like</p>
+<p begin="00:18:26.510" end="00:18:29.140" style="s2">Yeah, I probably used to talk with it like more confidence</p>
+<p begin="00:18:29.140" end="00:18:33.520" style="s2">I probably used to like, you know, I would be able to oh, yeah. Yeah, we&#39;ll talk like I know what I&#39;m saying</p>
+<p begin="00:18:33.520" end="00:18:38.469" style="s2">That&#39;s bullshit man. And none anyone else knows that the talking about, you know, a lot of people are real idiots. But oh</p>
+<p begin="00:18:41.420" end="00:18:43.420" style="s2">No you</p>
+<p begin="00:18:45.620" end="00:18:49.420" style="s2">Can&#39;t you can&#39;t stick a high-bandwidth pipe into the brain that makes no sense</p>
+<p begin="00:19:02.309" end="00:19:04.309" style="s2">Life advice on the</p>
+<p begin="00:19:04.619" end="00:19:06.119" style="s2">Switch. Oh</p>
+<p begin="00:19:06.119" end="00:19:12.169" style="s2">God, I don&#39;t know are there even like good bugs in this this probably bugs are the probably really deep. I want shallow bugs</p>
+<p begin="00:19:12.690" end="00:19:14.720" style="s2">don&#39;t want jet ski now I</p>
+<p begin="00:19:15.690" end="00:19:18.440" style="s2">Will buy a jet ski guys, I will buy a jet ski</p>
+<p begin="00:19:38.140" end="00:19:44.730" style="s2">Excitable or if it&#39;s migrated out function and you could burn and you could pass in any amount that you want to burn something like</p>
+<p begin="00:19:45.670" end="00:19:47.670" style="s2">whatever</p>
+<p begin="00:20:37.309" end="00:20:42.638" style="s2">All right, so here&#39;s like a nice great one-off check written does that check wrong</p>
+<p begin="00:20:47.359" end="00:20:50.799" style="s2">You can&#39;t be geo hot 2.0 this is dumb idea</p>
+<p begin="00:20:51.919" end="00:20:56.618" style="s2">You can&#39;t be 2.0 of somebody else. You gotta just be 0 to 1</p>
+<p begin="00:20:57.349" end="00:20:59.349" style="s2">You know</p>
+<p begin="00:20:59.869" end="00:21:01.988" style="s2">We&#39;re gonna press next economy eyebrows</p>
+<p begin="00:21:06.470" end="00:21:08.470" style="s2">Where my karma shirt</p>
+<p begin="00:21:09.139" end="00:21:13.959" style="s2">Disgusting. No bike. I&#39;m sure shelter come another. I know this twitch and I don&#39;t have to shell</p>
+<p begin="00:21:15.830" end="00:21:19.629" style="s2">The only reason I stream is so I look less stupid when I talk to myself</p>
+<p begin="00:21:20.989" end="00:21:22.989" style="s2">Where&#39;s my chicken?</p>
+<p begin="00:21:29.010" end="00:21:31.010" style="s2">You</p>
+<p begin="00:22:38.860" end="00:22:46.120" style="s2">Oh my mouse works, oh nice did everything working sweet everything&#39;s working</p>
+<p begin="00:22:51.049" end="00:22:53.859" style="s2">Look I have a pink iPad. It&#39;s pink</p>
+<p begin="00:22:57.590" end="00:22:59.590" style="s2">All right</p>
+<p begin="00:23:01.940" end="00:23:03.940" style="s2">Let&#39;s see</p>
+<p begin="00:23:13.159" end="00:23:17.709" style="s2">I&#39;ve been bored tonight. I did the triple bite quiz to get a job. Maybe someone will hire me</p>
+<p begin="00:23:22.909" end="00:23:28.539" style="s2">Yo we go put Ian on a jetski, that&#39;s right, no not here talking with coma guy</p>
+<p begin="00:23:37.549" end="00:23:42.129" style="s2">Okay, so the only thing I was seeing was that I could create another Genesis universe</p>
+<p begin="00:23:43.279" end="00:23:45.729" style="s2">Like it&#39;s again still not really help</p>
+<p begin="00:23:47.419" end="00:23:51.009" style="s2">If you don&#39;t get any control of anything when you create a Genesis universe</p>
+<p begin="00:23:56.240" end="00:24:01.120" style="s2">Your look I can call create Genesis universe but like it&#39;s like useless I</p>
+<p begin="00:24:03.769" end="00:24:08.289" style="s2">Could control some of these things might be useful</p>
+<p begin="00:24:12.679" end="00:24:17.439" style="s2">What does parent invalid mean some log</p>
+<p begin="00:24:20.649" end="00:24:22.649" style="s2">Good child universe</p>
+<p begin="00:24:36.840" end="00:24:39.380" style="s2">See this can only be called from a market</p>
+<p begin="00:24:42.420" end="00:24:47.149" style="s2">It&#39;s only whitelisted caller things makes things useless and that&#39;s just all logging</p>
+<p begin="00:24:48.300" end="00:24:55.129" style="s2">Which won&#39;t actually mess with anything. I mean, it might be broken, but there were actually break auger get me $200,000</p>
+<p begin="00:24:55.350" end="00:24:58.880" style="s2">Let me tell you something if we find a high-priority bug we only get</p>
+<p begin="00:24:59.490" end="00:25:03.770" style="s2">$5,000 and that&#39;s a shitty jetski compared. Good jetski</p>
+<p begin="00:25:18.929" end="00:25:20.929" style="s2">Huh</p>
+<p begin="00:25:37.700" end="00:25:39.939" style="s2">What is only in bad times man</p>
+<p begin="00:25:44.220" end="00:25:48.839" style="s2">I can pass anything that I want here from market</p>
+<p begin="00:25:52.990" end="00:26:00.240" style="s2">See how like this has this market as the JIT modifier and then trading ask a patch this one doesn&#39;t</p>
+<p begin="00:26:12.100" end="00:26:15.449" style="s2">No, no, no, we don&#39;t look for exploits anymore. I&#39;m doing this for a friend</p>
+<p begin="00:26:23.980" end="00:26:25.980" style="s2">What can I do with this</p>
+<p begin="00:26:30.970" end="00:26:32.970" style="s2">Calls this</p>
+<p begin="00:26:37.450" end="00:26:44.460" style="s2">It doesn&#39;t matter cuz this doesn&#39;t modify anything notice how they like this isn&#39;t good</p>
+<p begin="00:26:48.880" end="00:26:54.179" style="s2">Jeff Rossen share value your market, so this can be I can pass anything one. There&#39;s anything actually call this</p>
+<p begin="00:26:55.539" end="00:26:57.539" style="s2">contract interfaces</p>
+<p begin="00:26:58.600" end="00:27:04.860" style="s2">No, no, that&#39;s a view I mean they should call it a view because it is a view as far as I can tell</p>
+<p begin="00:27:07.659" end="00:27:10.229" style="s2">Home get frozen share value</p>
+<p begin="00:27:23.560" end="00:27:31.269" style="s2">Ooh, but it&#39;s not a view because it looks like it does this Nemo eyes frozen shares value. Oh, this is interesting</p>
+<p begin="00:27:38.630" end="00:27:42.219" style="s2">So what if you can break it lets me my last</p>
+<p begin="00:27:47.570" end="00:27:49.570" style="s2">Known outcomes</p>
+<p begin="00:27:52.190" end="00:27:56.019" style="s2">Yeah, oh this is interesting</p>
+<p begin="00:27:59.720" end="00:28:05.050" style="s2">Well, so what is the key that it uses to mean a lot uses a market key it might not be useful</p>
+<p begin="00:28:11.750" end="00:28:18.160" style="s2">Yeah, okay it looks like it uses a market key so it isn&#39;t useful I</p>
+<p begin="00:28:29.390" end="00:28:32.229" style="s2">Think yeah, I mean there&#39;s no way to spoof that</p>
+<p begin="00:29:02.490" end="00:29:07.699" style="s2">No just be zero for my fake market, okay, that&#39;s not that useful</p>
+<p begin="00:29:26.309" end="00:29:28.428" style="s2">Market outcome frozen share value</p>
+<p begin="00:29:29.340" end="00:29:32.300" style="s2">Yeah, I&#39;ll be cool theta and I should have the market there</p>
+<p begin="00:29:33.450" end="00:29:35.540" style="s2">Yeah, I know. They&#39;re offering a good bounty, right?</p>
+<p begin="00:29:39.870" end="00:29:41.900" style="s2">We&#39;re gonna get back to streaming twitch slam</p>
+<p begin="00:29:45.390" end="00:29:50.270" style="s2">Some day tomorrow maybe extreme Trish slam tomorrow I</p>
+<p begin="00:29:53.970" end="00:29:56.240" style="s2">Went to Vegas last weekend, it&#39;s pretty awesome</p>
+<p begin="00:29:59.010" end="00:30:02.510" style="s2">What that I&#39;m streaming who cares</p>
+<p begin="00:30:07.830" end="00:30:11.990" style="s2">Don&#39;t pay me. I don&#39;t care about any money except I need money from twitch people</p>
+<p begin="00:30:12.929" end="00:30:17.059" style="s2">on twitch s yeah, we could go back to church says I saw your contribution to twitch s</p>
+<p begin="00:30:18.120" end="00:30:24.290" style="s2">We should try we should do more Trish maybe but no what I want what I want to add to twitch slam</p>
+<p begin="00:30:25.170" end="00:30:27.469" style="s2">Is no I didn&#39;t win this. No jetski</p>
+<p begin="00:30:27.990" end="00:30:31.609" style="s2">But I wanted you for Twitter slams. I want to make a virtual world to test it</p>
+<p begin="00:30:31.610" end="00:30:35.990" style="s2">I don&#39;t want to test on real videos thing where I want to build a goal of rendering little environment</p>
+<p begin="00:30:37.679" end="00:30:39.679" style="s2">Okay</p>
+<p begin="00:30:43.740" end="00:30:49.760" style="s2">Alright let&#39;s look at all of these ones that take in markets and see if any of them don&#39;t enforce that markets are legit</p>
+<p begin="00:30:55.509" end="00:30:59.488" style="s2">I&#39;m sure that&#39;s all right. Just test markets legit</p>
+<p begin="00:31:02.559" end="00:31:04.559" style="s2">Private this one doesn&#39;t</p>
+<p begin="00:31:10.419" end="00:31:15.988" style="s2">Divide up winnings doesn&#39;t check if markets legit. I&#39;ll just calculate proceeds</p>
+<p begin="00:31:17.499" end="00:31:19.499" style="s2">Lots of you so it&#39;s not useful</p>
+<p begin="00:31:23.710" end="00:31:25.710" style="s2">That&#39;s not useful right there</p>
+<p begin="00:31:28.720" end="00:31:32.279" style="s2">Let just divide up winnings I</p>
+<p begin="00:31:34.899" end="00:31:36.899" style="s2">Mean it&#39;s not a view</p>
+<p begin="00:31:43.809" end="00:31:45.809" style="s2">Why isn&#39;t this one of you</p>
+<p begin="00:32:05.480" end="00:32:07.019" style="s2">Oh</p>
+<p begin="00:32:07.019" end="00:32:13.909" style="s2">Wow responsible disclosure, here&#39;s my middle fingers. No, it&#39;s not live yet. I wouldn&#39;t do this for live</p>
+<p begin="00:32:19.860" end="00:32:21.860" style="s2">Their launch date is uh</p>
+<p begin="00:32:24.149" end="00:32:26.149" style="s2">I&#39;ll say I wanna scare</p>
+<p begin="00:32:29.370" end="00:32:32.089" style="s2">Ya July nice so they have two days</p>
+<p begin="00:32:35.100" end="00:32:42.079" style="s2">But this is also my feelings about responsible disclosure, I think you might feelings about responsible anything</p>
+<p begin="00:32:43.590" end="00:32:47.389" style="s2">Oh, wait, is it at the top of hm, really?</p>
+<p begin="00:32:56.789" end="00:32:58.789" style="s2">See my nature</p>
+<p begin="00:33:03.269" end="00:33:05.269" style="s2">God like dude</p>
+<p begin="00:33:05.639" end="00:33:09.649" style="s2">They should ban. I would love to see a ban of</p>
+<p begin="00:33:10.380" end="00:33:11.610" style="s2">all</p>
+<p begin="00:33:11.610" end="00:33:13.610" style="s2">like news</p>
+<p begin="00:33:14.760" end="00:33:20.239" style="s2">Like no no the Guardian no, New York Times no Wall Street Journal. No</p>
+<p begin="00:33:22.320" end="00:33:25.970" style="s2">Chicago Tribune, no Reuters. Hell no</p>
+<p begin="00:33:29.639" end="00:33:33.619" style="s2">Hacker news without any links to mainstream news. Oh</p>
+<p begin="00:33:36.299" end="00:33:38.749" style="s2">So Java zero, I love them people job zero des man</p>
+<p begin="00:33:41.100" end="00:33:43.100" style="s2">Did the worldly</p>
+<p begin="00:33:43.380" end="00:33:45.380" style="s2">Love me. It&#39;s more Anarchy</p>
+<p begin="00:33:45.990" end="00:33:49.639" style="s2">nothing everything in balance, but more Anarchy would uh</p>
+<p begin="00:33:50.700" end="00:33:53.179" style="s2">Kind of be nice. Okay, so why is this not a view?</p>
+<p begin="00:33:54.600" end="00:33:57.649" style="s2">Get more cash reporting fee divisor. So</p>
+<p begin="00:34:03.600" end="00:34:05.600" style="s2">It&#39;s only universe</p>
+<p begin="00:34:08.339" end="00:34:13.279" style="s2">So check that the deaths under their cash before you device</p>
+<p begin="00:34:19.299" end="00:34:25.979" style="s2">Good current he wouldn&#39;t know get her create previous even know</p>
+<p begin="00:34:28.960" end="00:34:34.109" style="s2">Cut our create timestamp. Oh no</p>
+<p begin="00:34:42.279" end="00:34:44.279" style="s2">I don&#39;t actually know</p>
+<p begin="00:34:46.059" end="00:34:53.249" style="s2">What um, I mean hacker news is fine as an aggregator, I just I just yeah, I&#39;m just disgusted by like the headlines</p>
+<p begin="00:34:55.690" end="00:34:59.369" style="s2">The rise of sudo AI how tech firms</p>
+<p begin="00:35:00.039" end="00:35:05.759" style="s2">Quietly use humans to do BOTS work like I actually this is the one that really disgusts me</p>
+<p begin="00:35:05.760" end="00:35:08.039" style="s2">Like let&#39;s look at the use of the word quietly</p>
+<p begin="00:35:09.250" end="00:35:15.629" style="s2">Right, like that&#39;s not a factual word. That&#39;s an agenda pushing word Oh</p>
+<p begin="00:35:20.710" end="00:35:22.710" style="s2">Using what one it&#39;s just disgusting</p>
+<p begin="00:35:26.140" end="00:35:28.140" style="s2">Quietly</p>
+<p begin="00:35:29.109" end="00:35:34.768" style="s2">Like this is ways to write things in a much more neutral tone I</p>
+<p begin="00:35:37.660" end="00:35:41.579" style="s2">Mean that and that&#39;s what like I just don&#39;t like to see it triggers me, you know. Oh</p>
+<p begin="00:35:49.509" end="00:35:55.439" style="s2">South Korea has limited no see I&#39;m just disgusted reading this. Never mind. Okay. I can&#39;t I can&#39;t no</p>
+<p begin="00:36:00.039" end="00:36:02.609" style="s2">Like I would like for one site to be different</p>
+<p begin="00:36:02.609" end="00:36:04.609" style="s2">I would like for one community of people to be like</p>
+<p begin="00:36:04.930" end="00:36:10.440" style="s2">Smart enough to recognize that stuff and then not have and then also to have the UM</p>
+<p begin="00:36:11.019" end="00:36:13.019" style="s2">What&#39;s the word the?</p>
+<p begin="00:36:16.930" end="00:36:19.379" style="s2">Responsible Ness to avoid being triggered by it Oh</p>
+<p begin="00:36:20.140" end="00:36:22.170" style="s2">Read it&#39;s destroyed all I it&#39;s a god</p>
+<p begin="00:36:22.170" end="00:36:28.920" style="s2">I I want to one read it I go on one subreddit I go on our machine learning. I like our fashion learning, okay</p>
+<p begin="00:36:31.809" end="00:36:33.809" style="s2">Let&#39;s see what&#39;s here</p>
+<p begin="00:36:35.470" end="00:36:38.520" style="s2">Under the great pin post, what are you reading?</p>
+<p begin="00:36:40.210" end="00:36:43.619" style="s2">How big of a generalist are you like this is this is just good</p>
+<p begin="00:36:51.309" end="00:36:53.309" style="s2">She like this is awesome</p>
+<p begin="00:36:57.130" end="00:36:59.550" style="s2">Sorry, I&#39;m getting distract it is hard to read this code</p>
+<p begin="00:37:10.610" end="00:37:12.999" style="s2">We have a great data set for us at Como</p>
+<p begin="00:37:31.130" end="00:37:33.130" style="s2">One day two separate areas</p>
+<p begin="00:37:48.579" end="00:37:50.579" style="s2">Me</p>
+<p begin="00:37:53.460" end="00:37:57.829" style="s2">That&#39;s it like there&#39;s nothing offensive this subreddit there&#39;s nothing offensive about it</p>
+<p begin="00:38:08.030" end="00:38:14.019" style="s2">Yeah, probably I wish I just wish hacker news was more like that and there is still some good content on there</p>
+<p begin="00:38:16.340" end="00:38:18.789" style="s2">And to keep triggered seeing the bad content I</p>
+<p begin="00:38:21.320" end="00:38:27.969" style="s2">Mean it&#39;s it&#39;s just it&#39;s what&#39;s scaring the Internet apart. I googled something. I googled something I was looking for I googled like</p>
+<p begin="00:38:28.850" end="00:38:34.719" style="s2">It was an old concept. It was like when sports stars burn outs. I remember reading something about it years ago</p>
+<p begin="00:38:36.170" end="00:38:42.399" style="s2">So, oh, yeah. I was googling private search engines. So I googled like sports star burn out</p>
+<p begin="00:38:43.340" end="00:38:45.340" style="s2">and it&#39;s just</p>
+<p begin="00:38:45.560" end="00:38:47.560" style="s2">shit</p>
+<p begin="00:38:49.130" end="00:38:51.130" style="s2">Like legally late like</p>
+<p begin="00:38:51.260" end="00:38:58.389" style="s2">Want to be a sports star don&#39;t specialize the young star when athletes decide the thrill is gone like oh my god. I</p>
+<p begin="00:38:59.420" end="00:39:01.420" style="s2">would love to see</p>
+<p begin="00:39:04.550" end="00:39:10.239" style="s2">What this used to be I would love to see what Google looked like in in 2012 and then sorry, you know</p>
+<p begin="00:39:10.240" end="00:39:14.229" style="s2">I went to doctor go and I was like, okay these people any better. Um,</p>
+<p begin="00:39:16.550" end="00:39:18.639" style="s2">No, and it&#39;s it&#39;s the same shit</p>
+<p begin="00:39:19.550" end="00:39:26.739" style="s2">Look, they even have news like come on DuckDuckGo. Like I don&#39;t care about your privacy shit. I just wish they would give me like</p>
+<p begin="00:39:34.550" end="00:39:37.779" style="s2">I mean, I would rather eat Oh see like this is interesting</p>
+<p begin="00:39:41.150" end="00:39:43.150" style="s2">I love archive</p>
+<p begin="00:40:07.959" end="00:40:11.459" style="s2">Interesting, but this is fascinating right like like like like wow</p>
+<p begin="00:40:12.339" end="00:40:14.339" style="s2">This is something nice</p>
+<p begin="00:40:15.009" end="00:40:19.049" style="s2">And I mean, this is something yeah, this is something I probably would have would have thought beforehand</p>
+<p begin="00:40:19.749" end="00:40:21.749" style="s2">in the NBA</p>
+<p begin="00:40:22.689" end="00:40:28.889" style="s2">All the talent is of the Golden State Warriors of LeBron and baseball and hockey are pretty random</p>
+<p begin="00:40:30.279" end="00:40:32.279" style="s2">That&#39;s why they have to play so many games. Oh</p>
+<p begin="00:40:32.799" end="00:40:34.799" style="s2">My foods almost here sweet</p>
+<p begin="00:40:35.019" end="00:40:36.309" style="s2">um</p>
+<p begin="00:40:36.309" end="00:40:39.718" style="s2">But yeah, I mean look this is like interesting. Alright, I wish yeah</p>
+<p begin="00:40:41.169" end="00:40:45.239" style="s2">But I wish I wish the internet was more like this. I wish was the content more people wanted</p>
+<p begin="00:40:49.029" end="00:40:52.768" style="s2">To get my chicken tikka masala with my grown on</p>
+<p begin="00:40:53.529" end="00:40:57.899" style="s2">With ubers here who&#39;s running out of here. Yeah. I hate when they do this. They&#39;re like, oh we&#39;re gonna go downstairs</p>
+<p begin="00:40:57.900" end="00:41:01.049" style="s2">We know how long it takes you there that the algorithm you have fuck your algorithms</p>
+<p begin="00:41:03.369" end="00:41:06.058" style="s2">And then we&#39;re gonna go back to auditing order</p>
+<p begin="00:41:08.349" end="00:41:10.349" style="s2">What is that oh</p>
+<p begin="00:41:13.269" end="00:41:20.968" style="s2">Nice oh, this is this is good old good old good old finding them whereas FTPS because the internet used to be cool</p>
+<p begin="00:43:37.750" end="00:43:39.760" style="s2">Ah food</p>
+<p begin="00:43:43.250" end="00:43:49.689" style="s2">No, yo, bro, yeah when you go home do it a thousand dollars, so I&#39;m going to a femoral necks tweaked my</p>
+<p begin="00:43:50.900" end="00:43:52.900" style="s2">elbow</p>
+<p begin="00:43:55.580" end="00:43:59.109" style="s2">Ha ha yeah got that garlic naan</p>
+<p begin="00:44:07.010" end="00:44:09.010" style="s2">Back to auditing order</p>
+<p begin="00:44:22.400" end="00:44:27.970" style="s2">Tentative winning. Oh, yeah, we&#39;re ready for press of course</p>
+<p begin="00:44:34.670" end="00:44:36.700" style="s2">Who lose all spicy hmm</p>
+<p begin="00:44:48.970" end="00:44:56.560" style="s2">I read this universe one a lot. Like this is where I&#39;d be really excited to find the exploit because it would be good. I</p>
+<p begin="00:44:58.310" end="00:45:00.429" style="s2">Can&#39;t buy Jeff D for a $5,000</p>
+<p begin="00:45:07.550" end="00:45:10.810" style="s2">How I don&#39;t you secure it anymore slop bullshit</p>
+<p begin="00:45:12.230" end="00:45:14.230" style="s2">fathers like breathing</p>
+<p begin="00:45:15.109" end="00:45:17.109" style="s2">You might not even be about</p>
+<p begin="00:45:18.140" end="00:45:20.140" style="s2">No marketable</p>
+<p begin="00:45:23.599" end="00:45:25.599" style="s2">Gent where cash</p>
+<p begin="00:45:31.580" end="00:45:35.299" style="s2">I mean on stuff that doesn&#39;t even have a name</p>
+<p begin="00:45:43.830" end="00:45:45.830" style="s2">Points look a batter far</p>
+<p begin="00:46:03.030" end="00:46:08.840" style="s2">Yeah, lift up the auger bug bounty program we&#39;re looking for anything worth $200,000</p>
+<p begin="00:46:19.770" end="00:46:21.770" style="s2">What&#39;s an I mailbox</p>
+<p begin="00:46:33.420" end="00:46:36.500" style="s2">What&#39;s a delegation target, let&#39;s figure this out</p>
+<p begin="00:46:56.940" end="00:46:59.149" style="s2">I&#39;m telling target is controlled</p>
+<p begin="00:47:11.380" end="00:47:14.910" style="s2">Yeah just means they have this control arm and</p>
+<p begin="00:47:17.140" end="00:47:22.829" style="s2">I&#39;m also excited about complete sets. This does seem like way too much logic to handle complete sets</p>
+<p begin="00:47:26.470" end="00:47:29.760" style="s2">No, if I get a hundred CAD reports that to five K&#39;s on ones were blaring</p>
+<p begin="00:47:33.760" end="00:47:39.149" style="s2">Allen to $5,000 bounty programs lose five acres</p>
+<p begin="00:48:33.540" end="00:48:35.540" style="s2">It&#39;s not hack this hacker one, uh</p>
+<p begin="00:48:45.570" end="00:48:47.570" style="s2">Make probably big thing. I wanna</p>
+<p begin="00:49:03.840" end="00:49:05.840" style="s2">Know did they not give me a fork</p>
+<p begin="00:49:06.510" end="00:49:10.100" style="s2">Hey, don&#39;t give me a fork. I don&#39;t know why they give me a fork. Ah</p>
+<p begin="00:49:10.950" end="00:49:13.610" style="s2">Fork I was like a sporky thing</p>
+<p begin="00:49:31.099" end="00:49:33.099" style="s2">So</p>
+<p begin="00:49:45.360" end="00:49:47.360" style="s2">What&#39;s a delegator</p>
+<p begin="00:50:23.480" end="00:50:26.770" style="s2">Do these factories have any special permissions</p>
+<p begin="00:50:37.440" end="00:50:39.440" style="s2">I would doubt</p>
+<p begin="00:50:54.609" end="00:50:56.470" style="s2">We have linked to the</p>
+<p begin="00:50:56.470" end="00:50:59.879" style="s2">Universe in some way because otherwise, how are they doing universe? I</p>
+<p begin="00:51:00.400" end="00:51:04.680" style="s2">Have to pass in the universe. Okay, it looks like they don&#39;t have any special permissions at all</p>
+<p begin="00:51:10.270" end="00:51:12.270" style="s2">What other report</p>
+<p begin="00:51:19.399" end="00:51:21.399" style="s2">Not rip this apart</p>
+<p begin="00:51:42.490" end="00:51:44.550" style="s2">This report is extremely good</p>
+<p begin="00:51:48.340" end="00:51:50.640" style="s2">It&#39;s also not that many lines of code</p>
+<p begin="00:51:59.050" end="00:52:01.050" style="s2">Let&#39;s really commit history</p>
+<p begin="00:52:16.070" end="00:52:18.070" style="s2">No</p>
+<p begin="00:52:27.870" end="00:52:32.069" style="s2">Oh fix some issues now</p>
+<p begin="00:52:51.380" end="00:52:56.990" style="s2">A minor can manipulate the gas reporting bond</p>
+<p begin="00:53:15.880" end="00:53:18.810" style="s2">They only got $5,000 that&#39;s not enough</p>
+<p begin="00:53:23.320" end="00:53:26.039" style="s2">Like I said, we have to be able to buy a jet ski</p>
+<p begin="00:53:37.270" end="00:53:39.719" style="s2">My Tesla&#39;s down and so I&#39;ll talk about</p>
+<p begin="00:54:41.000" end="00:54:43.000" style="s2">Wow, you should pull</p>
+<p begin="00:55:41.150" end="00:55:43.150" style="s2">Logic removed</p>
+<p begin="00:56:48.039" end="00:56:50.039" style="s2">Let&#39;s go up on Tesla, we&#39;re all oh</p>
+<p begin="00:56:52.690" end="00:56:59.970" style="s2">You know, let&#39;s listen to push a tease album even though we&#39;re getting copyrights I haven&#39;t listened to it yet. It was my release radar</p>
+<p begin="00:57:16.390" end="00:57:21.480" style="s2">I don&#39;t know man. Mrs. Drake had a kid</p>
+<p begin="00:57:43.480" end="00:57:48.359" style="s2">Drake named named one of his songs after the day his kid was conceived</p>
+<p begin="00:57:50.270" end="00:57:52.270" style="s2">I</p>
+<p begin="00:57:52.290" end="00:57:54.290" style="s2">Just like I have listened to this</p>
+<p begin="00:58:08.610" end="00:58:12.799" style="s2">Broken new dick time body</p>
+<p begin="00:58:23.970" end="00:58:26.300" style="s2">The copper please a mess with my computer</p>
+<p begin="00:58:41.000" end="00:58:43.540" style="s2">What someone hacking my spot</p>
+<p begin="00:58:49.910" end="00:58:57.430" style="s2">Nevermind they don&#39;t want me to play the copyright police came after me. Oh my god</p>
+<p begin="00:59:07.870" end="00:59:12.700" style="s2">I don&#39;t know. What would</p>
+<p begin="00:59:25.250" end="00:59:29.620" style="s2">Classic classic guile online, you know, I ain&#39;t saw him and use that against</p>
+<p begin="01:00:27.130" end="01:00:29.130" style="s2">I</p>
+<p begin="01:01:26.630" end="01:01:28.630" style="s2">Was not doing</p>
+<p begin="01:01:47.720" end="01:01:51.669" style="s2">Alright I&#39;ll say what I&#39;ve acted Melissa Ling Joe</p>
+<p begin="01:02:19.410" end="01:02:21.410" style="s2">She calls me</p>
+<p begin="01:03:41.220" end="01:03:43.220" style="s2">Harder than the government</p>
+<p begin="01:04:37.130" end="01:04:39.130" style="s2">Bro</p>
+<p begin="01:04:48.240" end="01:04:55.550" style="s2">If I had some Alvin you believe, you know a good day chicky chicky saw in honor</p>
+<p begin="01:05:03.220" end="01:05:05.220" style="s2">There&#39;s this thing called the back</p>
+<p begin="01:05:12.210" end="01:05:20.179" style="s2">It&#39;s actually like this song doesn&#39;t lie if I had the Carter five</p>
+<p begin="01:05:29.069" end="01:05:33.768" style="s2">I&#39;ve you and you&#39;re organized that guy if Joe Rogan would have me while I go on</p>
+<p begin="01:05:50.540" end="01:05:55.959" style="s2">You better have a rule if I going any shows it&#39;s no politics</p>
+<p begin="01:05:57.680" end="01:05:59.980" style="s2">Politics is the mind come</p>
+<p begin="01:06:18.950" end="01:06:23.169" style="s2">And talk about Louis the 15th during the French Revolution</p>
+<p begin="01:06:35.460" end="01:06:37.460" style="s2">Oh</p>
+<p begin="01:06:38.349" end="01:06:44.219" style="s2">No, I really want the girl shallow bugs in this I&#39;m gonna kick myself when someone finds one now</p>
+<p begin="01:06:46.900" end="01:06:48.900" style="s2">And why am I auditing I</p>
+<p begin="01:06:49.180" end="01:06:52.169" style="s2">Wanna say this is dumped and I really planted $200,000</p>
+<p begin="01:06:52.200" end="01:06:57.119" style="s2">I should audit some aetherium code that&#39;s like never been audited that has just two hundred thousand dollars of eats sitting in it</p>
+<p begin="01:06:59.800" end="01:07:02.429" style="s2">There&#39;s so much money to be made doing this shit pros</p>
+<p begin="01:07:08.410" end="01:07:10.410" style="s2">Don&#39;t actually want a jet ski</p>
+<p begin="01:07:11.319" end="01:07:16.558" style="s2">Guys, if I actually got a jet ski, I really want you to think about what a hassle that would be. Okay, so</p>
+<p begin="01:07:17.920" end="01:07:20.129" style="s2">I&#39;m not sure you can park the jet ski on land</p>
+<p begin="01:07:21.400" end="01:07:25.290" style="s2">Like I probably to be honest need a trailer for my jet ski now</p>
+<p begin="01:07:26.230" end="01:07:29.250" style="s2">and now we&#39;re gonna leave my trailer with a jet ski somewhere I</p>
+<p begin="01:07:30.160" end="01:07:33.750" style="s2">Could take it up. Am I just allowed to take a jet? Ski and go?</p>
+<p begin="01:07:34.839" end="01:07:36.839" style="s2">to the beach</p>
+<p begin="01:07:37.240" end="01:07:40.530" style="s2">We&#39;ve really you stood it up ugly chest. That&#39;s awesome</p>
+<p begin="01:07:41.230" end="01:07:43.180" style="s2">that is</p>
+<p begin="01:07:43.180" end="01:07:46.290" style="s2">Nope, it&#39;s not. I made a lot of money. It&#39;s that I</p>
+<p begin="01:07:46.809" end="01:07:51.959" style="s2">Don&#39;t spend money on anything. I mean like okay, I spend like 30 bucks a day on food</p>
+<p begin="01:07:53.799" end="01:07:55.799" style="s2">But</p>
+<p begin="01:08:02.670" end="01:08:06.020" style="s2">Okay, you can actually wait let&#39;s let&#39;s go delete s and let&#39;s play trick stuff</p>
+<p begin="01:08:12.030" end="01:08:14.030" style="s2">I&#39;m copying and pasting</p>
+<p begin="01:08:26.940" end="01:08:31.190" style="s2">Can I play it it only loses I</p>
+<p begin="01:08:39.900" end="01:08:41.900" style="s2">Can watch it I can look at its games</p>
+<p begin="01:08:50.640" end="01:08:52.640" style="s2">Might play against it</p>
+<p begin="01:08:57.630" end="01:09:04.190" style="s2">There with the machine, come on, wait, how do I challenge someone li chess?</p>
+<p begin="01:09:07.230" end="01:09:10.730" style="s2">Can I challenge the bot just sign up</p>
+<p begin="01:09:32.430" end="01:09:34.430" style="s2">Hate that</p>
+<p begin="01:09:48.750" end="01:09:50.750" style="s2">Oh</p>
+<p begin="01:09:58.900" end="01:10:00.900" style="s2">This is too hard</p>
+<p begin="01:10:01.570" end="01:10:08.190" style="s2">Alright fine real email at gmail.com. We need to don&#39;t tell me I need like to farm at</p>
+<p begin="01:10:12.910" end="01:10:14.910" style="s2">This is the worst oh</p>
+<p begin="01:10:19.330" end="01:10:23.279" style="s2">Sweet oh god, I don&#39;t get confirmed shit. Okay, I can I challenge it</p>
+<p begin="01:10:25.930" end="01:10:27.930" style="s2">Challenge to again, let&#39;s go</p>
+<p begin="01:10:30.520" end="01:10:32.520" style="s2">Real-time</p>
+<p begin="01:10:38.060" end="01:10:40.060" style="s2">And outside</p>
+<p begin="01:10:41.900" end="01:10:43.900" style="s2">Challenge declined</p>
+<p begin="01:10:46.340" end="01:10:48.340" style="s2">Let&#39;s bounce back</p>
+<p begin="01:10:55.460" end="01:10:57.460" style="s2">Enter your email. Oh</p>
+<p begin="01:11:08.120" end="01:11:12.099" style="s2">Wait, how come twitch chests declines my challenge?</p>
+<p begin="01:11:18.770" end="01:11:24.339" style="s2">No, I want to play twitch chess challenge to a game maybe it&#39;s because I set like stuff</p>
+<p begin="01:11:25.880" end="01:11:27.880" style="s2">Unlimited</p>
+<p begin="01:11:28.489" end="01:11:30.489" style="s2">Size</p>
+<p begin="01:11:52.610" end="01:12:00.610" style="s2">It&#39;s gonna make me want to improve twitch chess. Yeah. I really don&#39;t think I&#39;m gonna find anything casually reading me clothes like this</p>
+<p begin="01:12:55.270" end="01:12:59.189" style="s2">When I find something I don&#39;t gotta do shit man because I&#39;m real</p>
+<p begin="01:12:59.800" end="01:13:05.189" style="s2">This is America a huge American flag over there. I love America and I love freedom and I didn&#39;t got to do shit</p>
+<p begin="01:13:10.000" end="01:13:16.830" style="s2">And that&#39;s the true fact about everything anybody who tells you that you God you shit they&#39;re lying, this is America</p>
+<p begin="01:13:49.929" end="01:13:51.929" style="s2">It doesn&#39;t work I</p>
+<p begin="01:13:55.449" end="01:13:57.449" style="s2">Hate this</p>
+<p begin="01:13:59.290" end="01:14:04.409" style="s2">Has experience on shrews or acid don&#39;t talk about that here guys</p>
+<p begin="01:14:10.120" end="01:14:12.120" style="s2">Maybe it only wants to play rated</p>
+<p begin="01:14:19.080" end="01:14:23.870" style="s2">Damn and we have rooms mass in America. They&#39;re like legal here. Now. That&#39;s a lie</p>
+<p begin="01:14:25.110" end="01:14:28.430" style="s2">But you know, it&#39;s America we have freedom</p>
+<p begin="01:14:55.270" end="01:14:57.270" style="s2">Superleague, oh, man</p>
+<p begin="01:14:59.920" end="01:15:03.539" style="s2">Everything is legal like no the thing about America is like everything&#39;s illegal</p>
+<p begin="01:15:03.540" end="01:15:06.690" style="s2">But like it doesn&#39;t matter because who respects the law nobody</p>
+<p begin="01:15:07.060" end="01:15:11.460" style="s2">Because they made all these stupid laws against like drugs and shit and made nobody respectful law</p>
+<p begin="01:15:45.889" end="01:15:49.239" style="s2">They&#39;re watering to have the cannabis I have experienced this</p>
+<p begin="01:15:50.780" end="01:15:56.019" style="s2">You so good. Yeah. Yeah, I think the legal shit&#39;s a little bit worse than the medical shit I used to get</p>
+<p begin="01:16:02.690" end="01:16:07.269" style="s2">You know leach s works fine, but can I challenge twitch s to a game</p>
+<p begin="01:16:20.590" end="01:16:25.170" style="s2">Okay, if someone wants to challenge me blahblah 121 and you want to play it you want to play fast I&#39;ll play it</p>
+<p begin="01:16:25.480" end="01:16:27.480" style="s2">I&#39;ll play a five-minute game against um</p>
+<p begin="01:16:53.760" end="01:16:55.940" style="s2">So I want to challenge you right now you&#39;ll probably beat me</p>
+<p begin="01:17:01.350" end="01:17:03.350" style="s2">I&#39;m blahblah 121</p>
+<p begin="01:17:33.590" end="01:17:38.019" style="s2">This is check correct required token</p>
+<p begin="01:17:41.330" end="01:17:43.899" style="s2">The universe get beyond universe</p>
+<p begin="01:17:47.060" end="01:17:49.060" style="s2">I&#39;m the child universe</p>
+<p begin="01:17:58.350" end="01:18:02.629" style="s2">Yeah, that checks good put this one</p>
+<p begin="01:18:09.000" end="01:18:11.000" style="s2">Long doesn&#39;t reach parameter</p>
+<p begin="01:18:24.560" end="01:18:26.560" style="s2">Someone challenged me</p>
+<p begin="01:18:43.679" end="01:18:45.679" style="s2">Mumbai shower copies. Oh</p>
+<p begin="01:18:50.820" end="01:18:52.820" style="s2">Yeah, let go</p>
+<p begin="01:18:57.449" end="01:19:00.828" style="s2">We go with the King&#39;s pawn opening follow it up with the</p>
+<p begin="01:19:04.079" end="01:19:06.079" style="s2">Denied - right here. Oh</p>
+<p begin="01:19:06.300" end="01:19:10.699" style="s2">That&#39;s the ready attack. Oh, we&#39;re in a real Oh pens. Oh, I love the we Lopez. Oh</p>
+<p begin="01:19:11.760" end="01:19:15.289" style="s2">Yeah, I know that that&#39;s the morphe defense. We&#39;ll take the night</p>
+<p begin="01:19:17.940" end="01:19:20.389" style="s2">Yeah, thank you for your pawn good sir</p>
+<p begin="01:19:35.400" end="01:19:39.150" style="s2">Oh, he&#39;s attacking me retreat</p>
+<p begin="01:19:44.830" end="01:19:47.519" style="s2">Let&#39;s see, they should exchange</p>
+<p begin="01:19:53.560" end="01:19:59.999" style="s2">No, bishop exchange council King Schneider cleans that and I looks like the actually only Kingston will go there</p>
+<p begin="01:20:02.470" end="01:20:05.970" style="s2">Good castle sir good castle. All right</p>
+<p begin="01:20:08.470" end="01:20:13.709" style="s2">There yeah, I can&#39;t tell you guys my strategy because whoever this is might be watching this this chess</p>
+<p begin="01:20:13.710" end="01:20:16.410" style="s2">Oh, yeah, look at that freak on love it. Ah</p>
+<p begin="01:20:22.750" end="01:20:27.510" style="s2">The old retweet retreat the Queen but now this pawn is free to I believe</p>
+<p begin="01:20:28.840" end="01:20:30.840" style="s2">Yeah, ah</p>
+<p begin="01:20:32.170" end="01:20:36.450" style="s2">The old Knight attacks the Queen problem</p>
+<p begin="01:20:37.900" end="01:20:40.620" style="s2">Mmm, yeah, we might not be able to come home</p>
+<p begin="01:20:42.250" end="01:20:44.250" style="s2">Mmm there just go there</p>
+<p begin="01:20:49.570" end="01:20:51.570" style="s2">There</p>
+<p begin="01:21:04.840" end="01:21:11.680" style="s2">Oh, okay. Well now that&#39;s being uh, yeah</p>
+<p begin="01:21:16.160" end="01:21:19.660" style="s2">They&#39;re playing defensive play defensive guys. Oh</p>
+<p begin="01:21:23.900" end="01:21:31.330" style="s2">Let me check it make this throw bros, I didn&#39;t think this through oh</p>
+<p begin="01:21:33.890" end="01:21:41.859" style="s2">I thought you were gonna attack that. Okay, we&#39;re gonna take that. I just gave you ideas queen</p>
+<p begin="01:21:55.179" end="01:21:57.179" style="s2">Ah</p>
+<p begin="01:21:57.199" end="01:22:04.119" style="s2">The old retreat the Queen I love that one. Oh, yeah marks with the pause push push push push</p>
+<p begin="01:22:06.679" end="01:22:08.679" style="s2">Push push</p>
+<p begin="01:22:10.610" end="01:22:12.610" style="s2">Yeah every pawn</p>
+<p begin="01:22:28.319" end="01:22:31.579" style="s2">Bro that was a bad movie this gave me a rock. I</p>
+<p begin="01:22:34.260" end="01:22:38.089" style="s2">Think oh, well, I&#39;m actually to throw I was eating</p>
+<p begin="01:22:41.489" end="01:22:44.718" style="s2">Hmm what that goes</p>
+<p begin="01:22:55.859" end="01:22:57.859" style="s2">Right, we gotta play a little faster half</p>
+<p begin="01:23:06.719" end="01:23:11.779" style="s2">Goes no one knows when the Batcave closed ah</p>
+<p begin="01:23:14.699" end="01:23:18.199" style="s2">The attack of that, I don&#39;t care you take that</p>
+<p begin="01:23:42.630" end="01:23:44.630" style="s2">No, oops</p>
+<p begin="01:24:13.110" end="01:24:16.220" style="s2">Hello and welcome back</p>
+<p begin="01:24:34.300" end="01:24:36.300" style="s2">Why&#39;d you do that bro, I</p>
+<p begin="01:24:44.229" end="01:24:47.699" style="s2">Mean take that it&#39;s fine. I didn&#39;t want it to begin with</p>
+<p begin="01:24:52.780" end="01:24:54.780" style="s2">That&#39;s what I wanted to do</p>
+<p begin="01:25:55.870" end="01:25:57.870" style="s2">Yeah, well</p>
+<p begin="01:26:06.480" end="01:26:12.260" style="s2">Yeah, resign o&#39;clock good game bro</p>
+<p begin="01:26:17.220" end="01:26:21.049" style="s2">The nine-year-old you&#39;re losing jiwan&#39;s is one minutes back. Yeah</p>
+<p begin="01:26:30.390" end="01:26:32.599" style="s2">I&#39;m embarrassing the bad Chester G</p>
+<p begin="01:26:52.800" end="01:26:54.800" style="s2">Let&#39;s play the bye</p>
+<p begin="01:27:12.050" end="01:27:14.050" style="s2">No Oh</p>
+<p begin="01:27:29.060" end="01:27:36.609" style="s2">Who&#39;s this unlimited now alright pot doesn&#39;t work broken</p>
+<p begin="01:27:39.320" end="01:27:42.489" style="s2">Are we giving up are we giving up on auger guys I</p>
+<p begin="01:27:43.880" end="01:27:49.540" style="s2">Don&#39;t have any ideas about where to look let&#39;s just go through every contract and take a look at those bugs there</p>
+<p begin="01:28:06.380" end="01:28:08.380" style="s2">Can&#39;t call initialize twice</p>
+<p begin="01:28:12.050" end="01:28:14.739" style="s2">Those are gonna have any special authority</p>
+<p begin="01:28:16.280" end="01:28:20.739" style="s2">Let&#39;s see who gets let&#39;s check the contract employer and see who gets whitelisted</p>
+<p begin="01:28:23.449" end="01:28:25.779" style="s2">Weightless trading contractors</p>
+<p begin="01:28:29.510" end="01:28:33.760" style="s2">I&#39;ll do a five minute challenge. Okay, last one. I&#39;ll try</p>
+<p begin="01:28:35.600" end="01:28:39.339" style="s2">Cuz I did create the account which was a lot of effort</p>
+<p begin="01:28:41.600" end="01:28:44.589" style="s2">Time control. Oh, yeah</p>
+<p begin="01:28:49.680" end="01:28:51.680" style="s2">Oh</p>
+<p begin="01:28:53.080" end="01:28:57.419" style="s2">Don&#39;t work let that keep going and maybe it&#39;ll work I</p>
+<p begin="01:28:59.110" end="01:29:01.110" style="s2">Said trading. Oh</p>
+<p begin="01:29:03.310" end="01:29:05.370" style="s2">Yeah, let&#39;s go twitch chess</p>
+<p begin="01:29:07.150" end="01:29:09.929" style="s2">All right, you&#39;re white you go first</p>
+<p begin="01:29:11.590" end="01:29:17.130" style="s2">Please be nice on the chess I&#39;ve ever met the Internet. What a stupid move. Well his pot sauce</p>
+<p begin="01:29:19.840" end="01:29:21.840" style="s2">Wow, this pot really sucks. I</p>
+<p begin="01:29:27.040" end="01:29:30.179" style="s2">Lost my second clean. Oh, no good thing was my second Queen</p>
+<p begin="01:29:34.240" end="01:29:41.310" style="s2">Will it take my queen. Oh, no, it took my queen. Oh, that was a good move, but this bot is so bad</p>
+<p begin="01:29:48.370" end="01:29:52.949" style="s2">Wow it knew how to put me in shit. Well that was actually pretty good move. Oh, never mind, you know</p>
+<p begin="01:29:59.440" end="01:30:01.440" style="s2">Unbelievably dumb</p>
+<p begin="01:30:05.530" end="01:30:07.530" style="s2">Yeah checkmate bitch</p>
+<p begin="01:30:26.949" end="01:30:31.839" style="s2">Oh chicken tikka masala kind of nasty</p>
+<p begin="01:30:39.560" end="01:30:41.560" style="s2">Nope</p>
+<p begin="01:30:44.690" end="01:30:49.239" style="s2">Yeah, b201 that was how well it played chess</p>
+<p begin="01:30:54.110" end="01:30:57.610" style="s2">All right things to do improve twitch chess</p>
+<p begin="01:31:02.690" end="01:31:05.919" style="s2">Did alphago complete my asset go I&#39;m pretty bad at go</p>
+<p begin="01:31:05.920" end="01:31:11.109" style="s2">I bet even the old the old non neural things could be my asset gal</p>
+<p begin="01:31:12.739" end="01:31:16.718" style="s2">Alright so everything that&#39;s called trading apparently. Oh</p>
+<p begin="01:31:18.020" end="01:31:20.020" style="s2">These these are all trusted</p>
+<p begin="01:31:23.810" end="01:31:25.929" style="s2">These are white listed contracts</p>
+<p begin="01:31:41.490" end="01:31:43.490" style="s2">Well</p>
+<p begin="01:31:49.889" end="01:31:51.889" style="s2">Well, I may be sure that means</p>
+<p begin="01:32:13.999" end="01:32:17.829" style="s2">Okay, so what if I mess with that</p>
+<p begin="01:32:48.560" end="01:32:50.810" style="s2">I don&#39;t really think that&#39;s like useful like</p>
+<p begin="01:32:58.320" end="01:33:00.320" style="s2">Hmm</p>
+<p begin="01:33:09.139" end="01:33:15.098" style="s2">Okay, alright, so here&#39;s what I&#39;m thinking guys this is a whitelisted contract</p>
+<p begin="01:33:27.520" end="01:33:33.960" style="s2">This would record are some interesting shit for it to work for like okay for example, like take a look at this one here, right?</p>
+<p begin="01:33:42.160" end="01:33:48.360" style="s2">Well, no, okay, we have to look out let&#39;s understand how the message sender works</p>
+<p begin="01:33:51.490" end="01:33:55.320" style="s2">Like eat all that not pass out any that monster it looked one serving</p>
+<p begin="01:33:55.840" end="01:34:00.329" style="s2">Now movies foods nasty then add that a pizza that I ate disgusting food</p>
+<p begin="01:34:03.370" end="01:34:05.370" style="s2">Sender of the message so</p>
+<p begin="01:34:22.400" end="01:34:24.400" style="s2">Can change for every</p>
+<p begin="01:34:26.030" end="01:34:31.059" style="s2">External function call okay, so this doesn&#39;t actually have to be a market</p>
+<p begin="01:34:37.639" end="01:34:39.639" style="s2">That can actually be a</p>
+<p begin="01:34:45.139" end="01:34:49.868" style="s2">So I can call contracts that say like whitelisted only</p>
+<p begin="01:34:52.249" end="01:34:54.249" style="s2">From there assuming that this is a</p>
+<p begin="01:35:01.010" end="01:35:06.010" style="s2">Yeah, like dot get universal this is actually done with a hash</p>
+<p begin="01:35:09.800" end="01:35:12.820" style="s2">There might just be no collisions here, but you see what I&#39;m saying I</p>
+<p begin="01:35:13.369" end="01:35:16.479" style="s2">Don&#39;t know if anyone knows anything about aetherium. Correct me if I&#39;m wrong</p>
+<p begin="01:35:17.179" end="01:35:25.118" style="s2">But like I passed something else in here. It&#39;s a contract that like it&#39;s like the like which contract like every other contract</p>
+<p begin="01:35:27.980" end="01:35:30.909" style="s2">You know, where&#39;s the one that like lets you is that a market contract</p>
+<p begin="01:35:31.039" end="01:35:34.059" style="s2">There&#39;s one unless you just manipulate open interest if you&#39;re a market</p>
+<p begin="01:35:34.760" end="01:35:36.760" style="s2">Or if you&#39;re white list</p>
+<p begin="01:35:42.710" end="01:35:44.710" style="s2">Only white list of callers</p>
+<p begin="01:35:52.100" end="01:35:57.279" style="s2">Controller a searches whitelisted message center. Okay, so this is probably</p>
+<p begin="01:36:00.469" end="01:36:02.469" style="s2">Trusted</p>
+<p begin="01:36:08.630" end="01:36:10.630" style="s2">No sir, it is white listed</p>
+<p begin="01:36:16.400" end="01:36:18.400" style="s2">Yeah, it&#39;s fine</p>
+<p begin="01:36:20.180" end="01:36:24.309" style="s2">So it&#39;d be added to the white list so now if we&#39;re on the white list of their cool things we can do I</p>
+<p begin="01:36:24.980" end="01:36:27.430" style="s2">Think more than white list. We&#39;re just entirely trusted</p>
+<p begin="01:36:38.330" end="01:36:40.330" style="s2">Market you never</p>
+<p begin="01:36:42.800" end="01:36:46.630" style="s2">See like I like this one because it&#39;s not well</p>
+<p begin="01:36:48.110" end="01:36:51.549" style="s2">does that even matter its marked as a view but</p>
+<p begin="01:37:05.899" end="01:37:07.899" style="s2">Ah</p>
+<p begin="01:37:12.209" end="01:37:13.349" style="s2">Okay</p>
+<p begin="01:37:13.349" end="01:37:19.998" style="s2">So be fine if they were views, but like this one&#39;s not a few. So this calculate reporting fee will actually let me call</p>
+<p begin="01:37:20.550" end="01:37:22.550" style="s2">arbitrary things on a contract</p>
+<p begin="01:37:23.189" end="01:37:25.909" style="s2">Assuming they have the same hash as get universe</p>
+<p begin="01:37:30.239" end="01:37:34.998" style="s2">But unfortunately, whatever it returns will actually also have to be contract Oh</p>
+<p begin="01:37:41.610" end="01:37:42.619" style="s2">So this, okay</p>
+<p begin="01:37:42.619" end="01:37:50.029" style="s2">I can I can make this a contract I control this market contract then I can call Margaret get universe on it and</p>
+<p begin="01:37:50.760" end="01:37:56.030" style="s2">I could pass in any address there. So I just need to find something that collides with</p>
+<p begin="01:37:56.999" end="01:37:59.299" style="s2">Get or cash reporting fee divisor</p>
+<p begin="01:38:00.239" end="01:38:02.239" style="s2">That&#39;s white listed</p>
+<p begin="01:38:03.510" end="01:38:05.429" style="s2">now</p>
+<p begin="01:38:05.429" end="01:38:07.429" style="s2">enough to dig into the theory maybe I</p>
+<p begin="01:38:08.820" end="01:38:10.820" style="s2">to figure out</p>
+<p begin="01:38:11.489" end="01:38:18.498" style="s2">Who this shit works though, you see what I&#39;m saying? Who understands the exploit? I don&#39;t know man. That&#39;s probably not an exploit</p>
+<p begin="01:38:20.849" end="01:38:23.929" style="s2">This is so this can this can return any contract I want and</p>
+<p begin="01:38:24.780" end="01:38:26.959" style="s2">the message dot sender</p>
+<p begin="01:38:27.599" end="01:38:29.719" style="s2">Will be this claim trading proceeds</p>
+<p begin="01:38:38.960" end="01:38:42.669" style="s2">Now we just need to find a collision, okay, so</p>
+<p begin="01:38:44.420" end="01:38:49.600" style="s2">We would need to find a collision in the name space with a getter cache reporting fee divisor</p>
+<p begin="01:38:55.910" end="01:38:58.720" style="s2">With something that&#39;s only whitelisted callers</p>
+<p begin="01:39:02.660" end="01:39:05.499" style="s2">Safari see if there&#39;s anything cool you can do if you&#39;re a while s good call</p>
+<p begin="01:39:13.760" end="01:39:15.760" style="s2">Oh wow</p>
+<p begin="01:39:21.070" end="01:39:27.600" style="s2">It looks like you can do anything, okay, Eddie I hash</p>
+<p begin="01:39:43.449" end="01:39:48.119" style="s2">No, that&#39;s too much effort</p>
+<p begin="01:39:58.120" end="01:40:00.120" style="s2">Wow</p>
+<p begin="01:40:23.780" end="01:40:28.539" style="s2">Just going online thing for this city I - online cake Oh</p>
+<p begin="01:40:38.210" end="01:40:40.210" style="s2">Useless</p>
+<p begin="01:41:02.909" end="01:41:08.549" style="s2">If I recall correctly, yeah, that&#39;s not right. Is it the other</p>
+<p begin="01:41:47.130" end="01:41:50.389" style="s2">Okay Webster here sweet</p>
+<p begin="01:41:55.530" end="01:41:57.530" style="s2">Sweet</p>
+<p begin="01:41:58.740" end="01:42:00.740" style="s2">Making my life easy. Ah</p>
+<p begin="01:42:03.420" end="01:42:07.729" style="s2">So the function I can call from is here</p>
+<p begin="01:42:09.450" end="01:42:12.979" style="s2">It&#39;s a few so fucking a work I can certainly call this</p>
+<p begin="01:42:15.870" end="01:42:17.870" style="s2">Alright</p>
+<p begin="01:42:19.800" end="01:42:22.039" style="s2">What JavaScript</p>
+<p begin="01:42:26.730" end="01:42:28.730" style="s2">Yeah</p>
+<p begin="01:42:28.830" end="01:42:30.830" style="s2">That&#39;s a lot to collide</p>
+<p begin="01:42:32.310" end="01:42:34.760" style="s2">No, no either for you fuck off</p>
+<p begin="01:42:37.380" end="01:42:40.279" style="s2">Yeah, so there was something colliding with that</p>
+<p begin="01:42:51.870" end="01:42:56.749" style="s2">So way for me to get control over that but like</p>
+<p begin="01:43:00.210" end="01:43:02.210" style="s2">It&#39;s not really an exploit</p>
+<p begin="01:43:05.010" end="01:43:08.870" style="s2">We would have to make it seem like it came from this contract</p>
+<p begin="01:43:10.170" end="01:43:14.180" style="s2">Message that sender will be this contract. So this is an external call</p>
+<p begin="01:43:17.880" end="01:43:21.319" style="s2">Market don&#39;t get universe. Well, actually we can let&#39;s see what that actually is</p>
+<p begin="01:43:27.690" end="01:43:29.690" style="s2">Directions a tie universe</p>
+<p begin="01:43:30.360" end="01:43:33.080" style="s2">Checking my universe it has this crap</p>
+<p begin="01:43:34.470" end="01:43:42.350" style="s2">So some functions are each other you inch that doesn&#39;t matter those returns really matters. I don&#39;t know</p>
+<p begin="01:44:09.670" end="01:44:12.509" style="s2">You don&#39;t want to read the actual assembly that it outputs</p>
+<p begin="01:44:32.860" end="01:44:36.839" style="s2">Sioux City nice out of that guy&#39;s been a while stuck down this</p>
+<p begin="01:44:44.320" end="01:44:47.909" style="s2">Alright so I was attacking this clam trading proceeds like</p>
+<p begin="01:44:52.570" end="01:44:54.570" style="s2">This one didn&#39;t know</p>
+<p begin="01:45:08.900" end="01:45:10.900" style="s2">Well isn&#39;t gonna compile</p>
+<p begin="01:45:11.390" end="01:45:13.569" style="s2">This there&#39;s no definition of highmarket</p>
+<p begin="01:45:14.510" end="01:45:17.019" style="s2">Let&#39;s get I mortgage. Oh</p>
+<p begin="01:45:24.800" end="01:45:30.700" style="s2">You get universe function and charge our universe no, you&#39;re not universe -</p>
+<p begin="01:45:36.350" end="01:45:41.950" style="s2">So I type tell me just like check something</p>
+<p begin="01:45:47.300" end="01:45:50.200" style="s2">No, this is stupid get type name function, that&#39;s great</p>
+<p begin="01:46:03.780" end="01:46:05.780" style="s2">Hi</p>
+<p begin="01:46:08.610" end="01:46:15.049" style="s2">What expected pragma import or contrast what</p>
+<p begin="01:46:19.019" end="01:46:21.019" style="s2">Was the problem</p>
+<p begin="01:46:25.979" end="01:46:31.519" style="s2">Remember div visible all because I&#39;m not using out, okay</p>
+<p begin="01:46:37.800" end="01:46:39.800" style="s2">Alright already call them. That&#39;s fine</p>
+<p begin="01:46:45.729" end="01:46:47.729" style="s2">Okay, cool</p>
+<p begin="01:46:51.849" end="01:46:57.268" style="s2">Unused function parameter I had something called a mount. I don&#39;t know</p>
+<p begin="01:47:04.269" end="01:47:08.458" style="s2">After this compiles, can I see the assembly?</p>
+<p begin="01:47:26.790" end="01:47:31.459" style="s2">I&#39;ll go here Oscar VM</p>
+<p begin="01:47:48.050" end="01:47:50.050" style="s2">Oh my god, I</p>
+<p begin="01:48:00.360" end="01:48:02.360" style="s2">Don&#39;t need that</p>
+<p begin="01:48:06.420" end="01:48:09.920" style="s2">No, they&#39;re gonna Twitter kay, I have it on good authority</p>
+<p begin="01:48:41.320" end="01:48:43.320" style="s2">P.m. Error vert</p>
+<p begin="01:48:43.959" end="01:48:49.349" style="s2">Debug the transaction to get more information. Well good. There&#39;s what I wanted to begin with. Okay</p>
+<p begin="01:49:01.269" end="01:49:03.269" style="s2">This is total crap</p>
+<p begin="01:49:07.149" end="01:49:09.149" style="s2">Okay</p>
+<p begin="01:49:09.669" end="01:49:13.409" style="s2">So that&#39;s the call to market to get universe we can confirm that</p>
+<p begin="01:49:15.159" end="01:49:17.159" style="s2">About three years well</p>
+<p begin="01:49:24.309" end="01:49:26.458" style="s2">Yeah universe</p>
+<p begin="01:49:29.769" end="01:49:32.489" style="s2">Yeah, so notice how this number here matches</p>
+<p begin="01:49:33.130" end="01:49:36.179" style="s2">Those off-screen number down here this number here</p>
+<p begin="01:49:37.090" end="01:49:39.539" style="s2">They do match that&#39;s good. So exciting</p>
+<p begin="01:49:47.800" end="01:49:54.929" style="s2">Shorty em low. Oh-oh-oh size zero</p>
+<p begin="01:50:17.489" end="01:50:22.399" style="s2">Alright, so there&#39;s a call to physic call see the stack</p>
+<p begin="01:50:54.300" end="01:50:56.300" style="s2">That&#39;s your shall we</p>
+<p begin="01:51:55.090" end="01:51:58.060" style="s2">I can&#39;t use Ida for this call data</p>
+<p begin="01:52:38.650" end="01:52:40.650" style="s2">What&#39;s horseshit I</p>
+<p begin="01:52:41.860" end="01:52:48.960" style="s2">Have an idea guys, I don&#39;t know if any of this works doesn&#39;t work. I probably shouldn&#39;t tell you all about it. I</p>
+<p begin="01:52:50.650" end="01:52:52.859" style="s2">Mean where&#39;s the retard</p>
+<p begin="01:52:57.310" end="01:53:01.139" style="s2">You&#39;d have to very carefully corrupt the stack</p>
+<p begin="01:53:04.510" end="01:53:06.510" style="s2">I&#39;m not really sure you can do it</p>
+<p begin="01:53:14.020" end="01:53:17.069" style="s2">We require diving deep into the etherium vienna</p>
+<p begin="01:53:21.220" end="01:53:23.220" style="s2">But it&#39;s a cute idea</p>
+<p begin="01:53:39.530" end="01:53:47.499" style="s2">We&#39;re way over tax code size</p>
+<p begin="01:54:02.389" end="01:54:04.389" style="s2">Of the coded address a</p>
+<p begin="01:54:12.989" end="01:54:14.989" style="s2">Interesting</p>
+<p begin="01:54:46.599" end="01:54:50.168" style="s2">It&#39;s the address where let&#39;s go back to where we did they call</p>
+<p begin="01:55:17.749" end="01:55:19.989" style="s2">The clothes the coolest thing we did</p>
+<p begin="01:55:27.349" end="01:55:31.328" style="s2">Okay, cool gasp call</p>
+<p begin="01:55:38.950" end="01:55:41.460" style="s2">You can&#39;t believe you know, what bro</p>
+<p begin="01:55:43.690" end="01:55:45.690" style="s2">You</p>
+<p begin="01:55:45.940" end="01:55:48.750" style="s2">Are banned that&#39;s right</p>
+<p begin="01:55:52.030" end="01:55:54.030" style="s2">That&#39;s right a</p>
+<p begin="01:55:55.540" end="01:55:58.199" style="s2">Little bit just ignored no, no, no, but like</p>
+<p begin="01:55:59.380" end="01:56:03.630" style="s2">We want to ban this user. Oh, there we go. Mod user</p>
+<p begin="01:56:05.140" end="01:56:09.150" style="s2">Timeout user yeah, everything bad for that. Oh, no, not moderator</p>
+<p begin="01:56:09.790" end="01:56:14.009" style="s2">No, that&#39;s not what I want. What why the hell I do that timeout user</p>
+<p begin="01:56:19.390" end="01:56:23.160" style="s2">Yeah the same get banned</p>
+<p begin="01:56:40.010" end="01:56:42.229" style="s2">Now he&#39;s not a moderate but don&#39;t worry</p>
+<p begin="01:56:45.180" end="01:56:52.039" style="s2">You had the words moderator ever for like seconds good vibes only gross vibes only</p>
+<p begin="01:56:55.770" end="01:56:57.770" style="s2">Actually, no if this works</p>
+<p begin="01:57:02.220" end="01:57:06.829" style="s2">Point doesn&#39;t know so that&#39;s the cause is that to call to get universe?</p>
+<p begin="01:57:14.099" end="01:57:16.099" style="s2">I</p>
+<p begin="01:57:16.299" end="01:57:18.299" style="s2">Think it is I think this is it actually</p>
+<p begin="01:57:20.679" end="01:57:22.679" style="s2">It&#39;s this</p>
+<p begin="01:57:23.919" end="01:57:25.919" style="s2">She&#39;s actually very interesting</p>
+<p begin="01:57:28.839" end="01:57:30.839" style="s2">Um, I</p>
+<p begin="01:57:32.979" end="01:57:36.059" style="s2">Think uh very call. Yeah I get universes this</p>
+<p begin="01:57:41.019" end="01:57:43.019" style="s2">It&#39;s that so</p>
+<p begin="01:57:46.780" end="01:57:48.780" style="s2">It&#39;s here</p>
+<p begin="01:57:59.889" end="01:58:01.889" style="s2">Call eBay</p>
+<p begin="01:58:12.069" end="01:58:14.069" style="s2">Okay</p>
+<p begin="01:58:19.929" end="01:58:26.608" style="s2">Call up go has gas to value. You know, I&#39;ve set out offset outsides</p>
+<p begin="01:58:45.930" end="01:58:51.979" style="s2">That&#39;s gasps address transaction value</p>
+<p begin="01:58:57.060" end="01:58:59.060" style="s2">Gasps to value</p>
+<p begin="01:59:00.210" end="01:59:07.189" style="s2">In offset in size out offset out size that makes sense because we&#39;re only sending four</p>
+<p begin="01:59:08.430" end="01:59:10.430" style="s2">Yeah</p>
+<p begin="01:59:11.610" end="01:59:13.610" style="s2">That&#39;s really gonna work because</p>
+<p begin="01:59:17.280" end="01:59:19.280" style="s2">An offset out size</p>
+<p begin="01:59:32.130" end="01:59:35.870" style="s2">Know what doing block stream shit fuck block stream</p>
+<p begin="01:59:36.780" end="01:59:40.489" style="s2">um, I mean, I think it up to get extremely I</p>
+<p begin="01:59:42.870" end="01:59:45.529" style="s2">Don&#39;t know I don&#39;t think this works I think you have to get extremely lucky</p>
+<p begin="02:00:00.690" end="02:00:02.690" style="s2">Debtor cash</p>
+<p begin="02:00:06.810" end="02:00:08.810" style="s2">Important fee divisor</p>
+<p begin="02:00:30.580" end="02:00:35.399" style="s2">Now we&#39;re not hacking anything actually I cut it I can&#39;t I kind of regret doing any hacking I</p>
+<p begin="02:00:38.380" end="02:00:45.240" style="s2">Don&#39;t know bros never looting twitch s tomorrow, it&#39;s not fun. This is fun. Fuck this I don&#39;t need money I</p>
+<p begin="02:00:46.660" end="02:00:50.609" style="s2">Think this might work so we should look into it. You see what I&#39;m saying?</p>
+<p begin="02:00:52.180" end="02:00:54.180" style="s2">You understand kind of what the game is</p>
+<p begin="02:00:56.920" end="02:01:03.990" style="s2">Boys I don&#39;t actually need money dis regardless in the next twitch Street when I&#39;m begging you all for money</p>
+<p begin="02:01:04.900" end="02:01:07.710" style="s2">Because I want my food twitch, okay</p>
+<p begin="02:01:08.950" end="02:01:10.090" style="s2">money</p>
+<p begin="02:01:10.090" end="02:01:17.730" style="s2">See look guys look look at all the money. I got I got I got a dollar. I got two dollars. I got $2</p>
+<p begin="02:01:18.460" end="02:01:20.460" style="s2">dollars</p>
+<p begin="02:01:23.110" end="02:01:24.970" style="s2">Rich</p>
+<p begin="02:01:24.970" end="02:01:28.679" style="s2">But no, no the jet ski will be at nightmare. No</p>
+<p begin="02:01:29.710" end="02:01:36.270" style="s2">Somebody else you know, what? How about this take this idea? I think it works like you see the idea, right?</p>
+<p begin="02:01:37.690" end="02:01:43.710" style="s2">You&#39;ll get message sender to be yours Center is set - uh-huh. This was the Evie my paper</p>
+<p begin="02:01:49.210" end="02:01:52.620" style="s2">No, no the one that like goes into like this shit</p>
+<p begin="02:02:04.660" end="02:02:06.660" style="s2">Yeah</p>
+<p begin="02:02:11.750" end="02:02:13.750" style="s2">This goes into the holy video</p>
+<p begin="02:02:47.060" end="02:02:50.439" style="s2">Basically wanna know if the call off code sets message sender</p>
+<p begin="02:02:59.840" end="02:03:01.840" style="s2">Async call</p>
+<p begin="02:03:05.750" end="02:03:09.609" style="s2">Wow that looks like exploits waiting to happen</p>
+<p begin="02:03:58.960" end="02:04:00.960" style="s2">DVM shellcode</p>
+<p begin="02:04:06.789" end="02:04:08.789" style="s2">I</p>
+<p begin="02:04:09.519" end="02:04:12.239" style="s2">Do I do on a way I don&#39;t know I don&#39;t care</p>
+<p begin="02:04:14.050" end="02:04:16.619" style="s2">Maybe I&#39;ll work for tomorrow privately. I</p>
+<p begin="02:04:18.010" end="02:04:20.010" style="s2">Don&#39;t like finding exploits in front of people</p>
+<p begin="02:04:27.280" end="02:04:31.679" style="s2">No, but here&#39;s what it is guys know what you know, why you know what you know, what&#39;s really wrong</p>
+<p begin="02:04:33.639" end="02:04:39.118" style="s2">The stuff don&#39;t of this twitch channel is supposed to be utterly and completely useless</p>
+<p begin="02:04:40.780" end="02:04:41.920" style="s2">And</p>
+<p begin="02:04:41.920" end="02:04:43.920" style="s2">The problem is this</p>
+<p begin="02:04:44.320" end="02:04:49.349" style="s2">verges on the edge of useful like this might actually be relevant because guys</p>
+<p begin="02:04:50.530" end="02:04:53.639" style="s2">Look, do you really want to contribute to the world?</p>
+<p begin="02:04:55.090" end="02:04:56.949" style="s2">Really?</p>
+<p begin="02:04:56.949" end="02:04:58.949" style="s2">It&#39;s overrated</p>
+<p begin="02:04:59.499" end="02:05:07.229" style="s2">You want to have skill and talent and then not contribute because that&#39;s funny</p>
+<p begin="02:05:17.079" end="02:05:19.079" style="s2">That&#39;s funny</p>
+<p begin="02:05:20.619" end="02:05:24.209" style="s2">Think of the opposite of funny somebody who like is</p>
+<p begin="02:05:25.420" end="02:05:28.739" style="s2">Passionately committed to causes. Oh, oh</p>
+<p begin="02:05:30.730" end="02:05:33.779" style="s2">Passionately committed to causes. Oh, that&#39;s not funny</p>
+<p begin="02:05:37.210" end="02:05:39.210" style="s2">No hate money</p>
+<p begin="02:05:43.300" end="02:05:47.399" style="s2">Yeah, I know I know you have to get the money in there now on it now, you know what</p>
+<p begin="02:05:48.070" end="02:05:55.829" style="s2">Care what people think about a thought about me but now I like dough. I don&#39;t care. I can&#39;t do it. It&#39;s too hard</p>
+<p begin="02:05:56.890" end="02:05:59.729" style="s2">It&#39;s impossible guys can&#39;t do it. It&#39;s too hard</p>
+<p begin="02:06:21.580" end="02:06:27.180" style="s2">Core of the first function to be called inside the current contract scope</p>
+<p begin="02:06:55.520" end="02:07:00.429" style="s2">Just the our contract that it just becomes the message center</p>
+<p begin="02:07:16.800" end="02:07:24.770" style="s2">Yes, this does work in theory with the message senders, yeah, well maybe I figured it out everybody I&#39;m gonna mm ah, so are you</p>
+<p begin="02:07:25.320" end="02:07:28.610" style="s2">Wait, this fuckers back. No way</p>
+<p begin="02:07:30.960" end="02:07:32.960" style="s2">Wait, how was he back?</p>
+<p begin="02:07:34.080" end="02:07:36.080" style="s2">No, no he can&#39;t be back</p>
+<p begin="02:07:36.960" end="02:07:38.960" style="s2">ban user</p>
+<p begin="02:07:39.210" end="02:07:41.210" style="s2">Perfect. Now he&#39;s gone</p>
+<p begin="02:07:41.880" end="02:07:43.880" style="s2">Come back</p>
+<p begin="02:07:50.730" end="02:07:54.469" style="s2">No, he&#39;s not a mod no, no, he&#39;s not</p>
+<p begin="02:07:57.300" end="02:08:02.659" style="s2">Yeah, dude, let&#39;s see everyone&#39;s doing with the Malaysian kids I heard about that base deal ah, bro</p>
+<p begin="02:08:10.830" end="02:08:17.419" style="s2">Alright so who sees the exploit it&#39;s right there just diplomat that. Oh, no, so what you have to</p>
+<p begin="02:08:19.020" end="02:08:21.020" style="s2">Mmm, I</p>
+<p begin="02:08:23.100" end="02:08:27.109" style="s2">Mean you get this nice call to set up the stack. However you want</p>
+<p begin="02:08:27.780" end="02:08:33.110" style="s2">You have to somehow manipulate the stack such that that call probably goes to a different</p>
+<p begin="02:08:34.679" end="02:08:36.679" style="s2">Set of bytes</p>
+<p begin="02:08:38.370" end="02:08:40.320" style="s2">And I think</p>
+<p begin="02:08:40.320" end="02:08:41.550" style="s2">my understanding</p>
+<p begin="02:08:41.550" end="02:08:48.409" style="s2">Is is it would be out of bounds if you tried to call I mean, are there any good functions we can call in these?</p>
+<p begin="02:08:49.230" end="02:08:51.799" style="s2">only whitelist callers with I</p>
+<p begin="02:08:53.640" end="02:08:56.539" style="s2">Think it would seg fault line. I try to read that</p>
+<p begin="02:09:01.910" end="02:09:03.910" style="s2">Oh</p>
+<p begin="02:09:12.390" end="02:09:14.390" style="s2">But that&#39;s just man this is beautiful</p>
+<p begin="02:09:29.749" end="02:09:31.749" style="s2">Not a mod</p>
+<p begin="02:09:35.840" end="02:09:37.840" style="s2">All right</p>
+<p begin="02:09:47.240" end="02:09:49.240" style="s2">How&#39;s exploit</p>
+<p begin="02:10:27.600" end="02:10:31.340" style="s2">This whole whitelist things bad I think oh no, I</p>
+<p begin="02:10:31.860" end="02:10:38.599" style="s2">Always be tired guys. I guess I guess I can&#39;t do it. I guess I guess I&#39;m auditing. I guess that&#39;s impossible</p>
+<p begin="02:10:39.050" end="02:10:45.320" style="s2">Oh, yeah, that&#39;s right. It&#39;s impossible a hacking auger is 100% completely impossible and</p>
+<p begin="02:10:46.350" end="02:10:52.430" style="s2">Yes, try to implement this tomorrow. I would be very happy if somebody beat me to it</p>
+<p begin="02:10:52.950" end="02:10:55.400" style="s2">And took the $200,000 for themselves</p>
+<p begin="02:10:57.960" end="02:10:59.960" style="s2">But</p>
+<p begin="02:11:09.060" end="02:11:14.570" style="s2">No, I haven&#39;t done it I told you everything I know like I think this works I</p>
+<p begin="02:11:15.780" end="02:11:19.459" style="s2">Think that you just have to be like particularly clever in the implementation of it</p>
+<p begin="02:11:25.260" end="02:11:29.780" style="s2">200 kgs chump change absolutely. She could really manipulate open interest</p>
+<p begin="02:11:31.350" end="02:11:36.590" style="s2">No guys no nyet don&#39;t learn Java guys technology sucks of technologies evil</p>
+<p begin="02:11:37.470" end="02:11:39.270" style="s2">What&#39;s body yachts?</p>
+<p begin="02:11:39.270" end="02:11:42.350" style="s2">Almost like 200 yards. Yeah, exactly just by yawns bad</p>
+<p begin="02:11:43.140" end="02:11:45.140" style="s2">Spy. Yeah Wow</p>
+<p begin="02:11:45.360" end="02:11:47.360" style="s2">All right</p>
+<p begin="02:11:47.490" end="02:11:51.110" style="s2">I&#39;m gonna lie in bed and stare at this more</p>
+<p begin="02:11:51.990" end="02:11:56.780" style="s2">But I don&#39;t think it&#39;s appropriate. I don&#39;t think we have that kind of relationship where you can come into bed with me</p>
+<p begin="02:12:01.110" end="02:12:04.489" style="s2">The world is a beautiful place. I&#39;m so happy</p>
+<p begin="02:12:09.870" end="02:12:15.800" style="s2">Active launch a no no, this is the only time I regret ever I&#39;ve never had logic again. I&#39;m putting this shit away</p>
+<p begin="02:12:15.800" end="02:12:19.009" style="s2">I&#39;m not looking at any more. It&#39;s stupid. It&#39;s stupid guys</p>
+<p begin="02:12:19.010" end="02:12:23.030" style="s2">you could you could you could waste your life thinking you&#39;re gonna make money and then you could have money and</p>
+<p begin="02:12:23.220" end="02:12:25.220" style="s2">You know what? We&#39;re gonna leave with</p>
+<p begin="02:12:28.680" end="02:12:30.680" style="s2">Ya</p>
+<p begin="02:12:30.840" end="02:12:37.729" style="s2">You do know that he was shot right and if he didn&#39;t have money no one would shop</p>
+<p begin="02:12:40.260" end="02:12:45.199" style="s2">I&#39;m your host for the day mace Gumbel with this last Brodie</p>
+<p begin="02:13:11.460" end="02:13:13.609" style="s2">I&#39;ve never actually watch this video before</p>
+<p begin="02:13:26.040" end="02:13:32.570" style="s2">Just cost shit to code in the closet someone&#39;s got to pay my overeat spell though just steal credit cards</p>
+<p begin="02:13:35.460" end="02:13:39.530" style="s2">Just kidding don&#39;t steal credit cards kids. It&#39;s illegal laws matter</p>
+<p begin="02:13:49.850" end="02:13:51.850" style="s2">I</p>
+<p begin="02:14:05.910" end="02:14:07.910" style="s2">Don&#39;t know I&#39;ve never seen</p>
+<p begin="02:14:19.050" end="02:14:27.019" style="s2">Just kidding just kidding. This is my commitment that we&#39;re done. We&#39;re not hacking anymore shit. Oh, yeah, please I need donations, please</p>
+<p begin="02:14:28.200" end="02:14:32.149" style="s2">Please please the fake money to me. I love you donate money</p>
+<p begin="02:14:34.560" end="02:14:39.499" style="s2">Donate money for the prom banning of that guy who came in here talk shit</p>
+<p begin="02:14:47.220" end="02:14:54.409" style="s2">Bolcom a happy word three commas. I don&#39;t know shit about money. I&#39;m sure yourself self-driving cars sounds kind of fun, right?</p>
+<p begin="02:14:55.830" end="02:15:00.559" style="s2">Donate money stop with it. You&#39;ll piss me off effective altruism Oh,</p>
+<p begin="02:15:02.850" end="02:15:04.850" style="s2">Rationalists Oh</p>
+<p begin="02:15:08.220" end="02:15:10.789" style="s2">, artists with the shitty peppers</p>
+<p begin="02:15:13.890" end="02:15:19.820" style="s2">What you know the kind that like claims they&#39;re artists but actually worship Starbucks of that kind of heart</p>
+<p begin="02:15:20.490" end="02:15:26.780" style="s2">The kind who like like like barista or a latte artist. I&#39;m that kind of artist, right?</p>
+<p begin="02:15:35.490" end="02:15:39.829" style="s2">Say scream chest I did win both my chess games a</p>
+<p begin="02:15:41.640" end="02:15:45.950" style="s2">Sandwich artist yeah, that&#39;s what I&#39;m talking about. I&#39;m that kind of artist</p>
+<p begin="02:16:50.219" end="02:16:54.919" style="s2">All right, that&#39;s the end of the song alright guys I will</p>
+<p begin="02:16:59.880" end="02:17:05.299" style="s2">See you all tomorrow, maybe Christmas wicks-lim maybe bye-bye</p>
+</div>
+</body>
+</tt>

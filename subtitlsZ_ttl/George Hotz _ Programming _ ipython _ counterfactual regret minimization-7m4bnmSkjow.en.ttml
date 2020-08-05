@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:08.540" style="s2">oh I gotta set the title I didn&#39;t do</p>
+<p begin="00:00:05.340" end="00:00:08.540" style="s2">[Music]</p>
+<p begin="00:00:22.039" end="00:00:34.070" style="s2">counter fact Oh regret memorization</p>
+<p begin="00:00:40.480" end="00:00:45.660" style="s2">mostly basic programming I know y&#39;all</p>
+<p begin="00:00:42.609" end="00:00:45.660" style="s2">like basic programming</p>
+<p begin="00:00:56.540" end="00:00:59.660" style="s2">you&#39;re watching an app thank you I</p>
+<p begin="00:00:58.160" end="00:01:02.390" style="s2">really appreciate it when you guys watch</p>
+<p begin="00:00:59.660" end="00:01:04.309" style="s2">ads and subscribe I mean I do want to</p>
+<p begin="00:01:02.390" end="00:01:06.800" style="s2">make all my money from Instagram in the</p>
+<p begin="00:01:04.309" end="00:01:08.510" style="s2">future but at least for now you</p>
+<p begin="00:01:06.800" end="00:01:10.040" style="s2">subscribe to me on twitch is great but</p>
+<p begin="00:01:08.510" end="00:01:12.170" style="s2">make sure if you haven&#39;t already go</p>
+<p begin="00:01:10.040" end="00:01:13.720" style="s2">follow me uh after a child on Instagram</p>
+<p begin="00:01:12.170" end="00:01:18.350" style="s2">that&#39;s trying to set guy from Instagram</p>
+<p begin="00:01:13.720" end="00:01:19.759" style="s2">okay so we still have zero viewers I</p>
+<p begin="00:01:18.350" end="00:01:21.800" style="s2">don&#39;t know watch which isn&#39;t updating</p>
+<p begin="00:01:19.759" end="00:01:25.060" style="s2">but I see that we have people in the</p>
+<p begin="00:01:21.800" end="00:01:25.060" style="s2">chat so let&#39;s get started so</p>
+<p begin="00:01:25.960" end="00:01:31.580" style="s2">counterfactual regret minimize age you</p>
+<p begin="00:01:28.910" end="00:01:33.350" style="s2">have um so a lot of games that have been</p>
+<p begin="00:01:31.580" end="00:01:35.869" style="s2">solved in AI you take like checkers</p>
+<p begin="00:01:33.350" end="00:01:42.340" style="s2">chess go these are what&#39;s known as</p>
+<p begin="00:01:35.869" end="00:01:42.340" style="s2">perfect information games meaning they</p>
+<p begin="00:01:42.460" end="00:01:47.619" style="s2">all the state is visible there&#39;s no</p>
+<p begin="00:01:45.530" end="00:01:50.960" style="s2">there&#39;s no hidden state in the game and</p>
+<p begin="00:01:47.619" end="00:01:53.660" style="s2">all of those games are fairly Markovian</p>
+<p begin="00:01:50.960" end="00:01:57.440" style="s2">meaning you don&#39;t need to track lots of</p>
+<p begin="00:01:53.660" end="00:02:00.020" style="s2">state from previous so like the move</p>
+<p begin="00:01:57.440" end="00:02:02.240" style="s2">that someone took five moves ago if you</p>
+<p begin="00:02:00.020" end="00:02:05.119" style="s2">know the board stay its independent of</p>
+<p begin="00:02:02.240" end="00:02:07.069" style="s2">that move so it&#39;s a Markovian when you</p>
+<p begin="00:02:05.119" end="00:02:10.190" style="s2">take imperfect information games like</p>
+<p begin="00:02:07.069" end="00:02:12.890" style="s2">poker the actions that somebody takes</p>
+<p begin="00:02:10.190" end="00:02:17.170" style="s2">throughout the game gives you insight</p>
+<p begin="00:02:12.890" end="00:02:20.840" style="s2">into what their cards might be so we</p>
+<p begin="00:02:17.170" end="00:02:22.640" style="s2">have this algorithm called</p>
+<p begin="00:02:20.840" end="00:02:23.959" style="s2">counterfactual regret minimization</p>
+<p begin="00:02:22.640" end="00:02:26.150" style="s2">that&#39;s what everyone&#39;s using these days</p>
+<p begin="00:02:23.959" end="00:02:30.709" style="s2">I really don&#39;t know that much about it</p>
+<p begin="00:02:26.150" end="00:02:34.930" style="s2">um autosave failed</p>
+<p begin="00:02:30.709" end="00:02:39.970" style="s2">oh it&#39;s cuz I cleared my leave page</p>
+<p begin="00:02:34.930" end="00:02:39.970" style="s2">okay we need the toke and that&#39;s fine</p>
+<p begin="00:02:50.890" end="00:02:59.830" style="s2">cool so now we can say if this notebook</p>
+<p begin="00:02:58.240" end="00:03:03.400" style="s2">won&#39;t be working here in this notebook</p>
+<p begin="00:02:59.830" end="00:03:07.690" style="s2">there&#39;s an eye Python notebook yeah</p>
+<p begin="00:03:03.400" end="00:03:12.910" style="s2">right no we don&#39;t have people um I also</p>
+<p begin="00:03:07.690" end="00:03:14.830" style="s2">don&#39;t like that I can&#39;t see I can see</p>
+<p begin="00:03:12.910" end="00:03:16.390" style="s2">now yeah follow me on is Joe gallo go</p>
+<p begin="00:03:14.830" end="00:03:18.640" style="s2">seriously tell people follow me on</p>
+<p begin="00:03:16.390" end="00:03:19.930" style="s2">Instagram shelf my Instagram I want half</p>
+<p begin="00:03:18.640" end="00:03:22.540" style="s2">a million followers by the end of the</p>
+<p begin="00:03:19.930" end="00:03:25.959" style="s2">year and then that&#39;s all know I&#39;m</p>
+<p begin="00:03:22.540" end="00:03:28.150" style="s2">Instagram famous okay regret magic</p>
+<p begin="00:03:25.959" end="00:03:31.360" style="s2">players reach equilibrium play by</p>
+<p begin="00:03:28.150" end="00:03:33.340" style="s2">tracking regrets for past place making</p>
+<p begin="00:03:31.360" end="00:03:34.480" style="s2">future plays proportional to positive</p>
+<p begin="00:03:33.340" end="00:03:38.890" style="s2">regret so you have this concept of</p>
+<p begin="00:03:34.480" end="00:03:41.590" style="s2">regret which is they talk about in</p>
+<p begin="00:03:38.890" end="00:03:45.880" style="s2">rock-paper-scissors means like look if</p>
+<p begin="00:03:41.590" end="00:03:49.810" style="s2">you play rock and your opponent played</p>
+<p begin="00:03:45.880" end="00:03:52.630" style="s2">paper you regret you regret playing rock</p>
+<p begin="00:03:49.810" end="00:03:54.310" style="s2">you regret not playing scissors you also</p>
+<p begin="00:03:52.630" end="00:03:58.360" style="s2">regret not playing pay you really regret</p>
+<p begin="00:03:54.310" end="00:04:00.400" style="s2">not playing scissors even more so they</p>
+<p begin="00:03:58.360" end="00:04:03.000" style="s2">have a worked example here usually it&#39;s</p>
+<p begin="00:04:00.400" end="00:04:05.709" style="s2">probably best to start at these examples</p>
+<p begin="00:04:03.000" end="00:04:08.799" style="s2">um so they talk a bit about Nash</p>
+<p begin="00:04:05.709" end="00:04:11.470" style="s2">equilibriums something that up on</p>
+<p begin="00:04:08.799" end="00:04:15.450" style="s2">Kapadia because if you don&#39;t get the</p>
+<p begin="00:04:11.470" end="00:04:15.450" style="s2">definition right it&#39;s kind of annoying</p>
+<p begin="00:04:15.550" end="00:04:19.179" style="s2">[Music]</p>
+<p begin="00:04:20.489" end="00:04:27.460" style="s2">each player is assumed game by chain</p>
+<p begin="00:04:24.310" end="00:04:28.570" style="s2">alone strategy so you guys know what the</p>
+<p begin="00:04:27.460" end="00:04:29.650" style="s2">Nash equilibrium is in</p>
+<p begin="00:04:28.570" end="00:04:32.530" style="s2">rock-paper-scissors</p>
+<p begin="00:04:29.650" end="00:04:33.610" style="s2">it&#39;s a mixed equilibrium meaning that in</p>
+<p begin="00:04:32.530" end="00:04:36.330" style="s2">order to play perfect</p>
+<p begin="00:04:33.610" end="00:04:39.430" style="s2">rock-paper-scissors you have to play</p>
+<p begin="00:04:36.330" end="00:04:41.740" style="s2">rock paper and scissors each with equal</p>
+<p begin="00:04:39.430" end="00:04:43.150" style="s2">probability because if you did it with a</p>
+<p begin="00:04:41.740" end="00:04:45.100" style="s2">different probability and you had like a</p>
+<p begin="00:04:43.150" end="00:04:46.630" style="s2">fixed strategy like here they even talk</p>
+<p begin="00:04:45.100" end="00:04:48.400" style="s2">about an opponent strategy which looks</p>
+<p begin="00:04:46.630" end="00:04:51.310" style="s2">like it plays Rock forty percent of the</p>
+<p begin="00:04:48.400" end="00:04:54.729" style="s2">time and paper and scissors 30% of the</p>
+<p begin="00:04:51.310" end="00:04:57.880" style="s2">time each that is not a good strategy</p>
+<p begin="00:04:54.729" end="00:05:02.800" style="s2">because the correct counter play</p>
+<p begin="00:04:57.880" end="00:05:04.480" style="s2">strategy that if you knew that was</p>
+<p begin="00:05:02.800" end="00:05:06.130" style="s2">exactly your opponent strategy</p>
+<p begin="00:05:04.480" end="00:05:08.920" style="s2">I think the correct counterplay strategy</p>
+<p begin="00:05:06.130" end="00:05:10.900" style="s2">would be always paper but that&#39;s also an</p>
+<p begin="00:05:08.920" end="00:05:13.120" style="s2">exploitable strategy thank you for</p>
+<p begin="00:05:10.900" end="00:05:16.570" style="s2">subscribing Lu Hart welcome to my</p>
+<p begin="00:05:13.120" end="00:05:18.760" style="s2">Twitter so that&#39;d be it that&#39;d be an</p>
+<p begin="00:05:16.570" end="00:05:28.150" style="s2">exploitable strategy so let&#39;s let&#39;s go</p>
+<p begin="00:05:18.760" end="00:05:29.530" style="s2">through this example regret matching</p>
+<p begin="00:05:28.150" end="00:05:31.750" style="s2">selects actions in proportion to</p>
+<p begin="00:05:29.530" end="00:05:37.240" style="s2">positive regrets of not having chosen in</p>
+<p begin="00:05:31.750" end="00:05:46.690" style="s2">the past copying all positive regrets</p>
+<p begin="00:05:37.240" end="00:05:51.790" style="s2">and some of them let&#39;s just stupidly</p>
+<p begin="00:05:46.690" end="00:06:02.290" style="s2">implement us get strategy so we have</p>
+<p begin="00:05:51.790" end="00:06:04.540" style="s2">this thing called normalizing some so</p>
+<p begin="00:06:02.290" end="00:06:10.330" style="s2">they use stupid C++ which is a really</p>
+<p begin="00:06:04.540" end="00:06:14.440" style="s2">bad choice I&#39;m not sure I have to do</p>
+<p begin="00:06:10.330" end="00:06:19.240" style="s2">that I could also do NP double zeros</p>
+<p begin="00:06:14.440" end="00:06:25.630" style="s2">there I don&#39;t worry about that okay so</p>
+<p begin="00:06:19.240" end="00:06:27.970" style="s2">regret some strategy strategy some and</p>
+<p begin="00:06:25.630" end="00:06:32.400" style="s2">then the opponent strategy which looks</p>
+<p begin="00:06:27.970" end="00:06:32.400" style="s2">obviously like just probabilities of</p>
+<p begin="00:06:32.940" end="00:06:38.080" style="s2">I&#39;ve acted right we don&#39;t you need those</p>
+<p begin="00:06:36.280" end="00:06:42.600" style="s2">stupid definitions but we know that</p>
+<p begin="00:06:38.080" end="00:06:48.820" style="s2">they&#39;re wrong paper and scissors</p>
+<p begin="00:06:42.600" end="00:06:51.040" style="s2">respective cool link to paper it&#39;s</p>
+<p begin="00:06:48.820" end="00:06:53.290" style="s2">called an introduction to counterfactual</p>
+<p begin="00:06:51.040" end="00:06:55.510" style="s2">regret minimization you could just</p>
+<p begin="00:06:53.290" end="00:06:57.610" style="s2">Google that I don&#39;t know it&#39;s all my</p>
+<p begin="00:06:55.510" end="00:06:59.590" style="s2">yeah there you go so I&#39;m posted that Oh</p>
+<p begin="00:06:57.610" end="00:07:01.360" style="s2">excellent you posted the link to paper</p>
+<p begin="00:06:59.590" end="00:07:06.690" style="s2">you didn&#39;t ask cool thank you yeah good</p>
+<p begin="00:07:01.360" end="00:07:06.690" style="s2">someone give that guy a twitch cookie</p>
+<p begin="00:07:08.930" end="00:07:20.810" style="s2">okay I&#39;m sorry let&#39;s look at what this</p>
+<p begin="00:07:17.970" end="00:07:20.810" style="s2">code isn&#39;t doing</p>
+<p begin="00:07:31.990" end="00:07:40.210" style="s2">okay so it looks like another way to</p>
+<p begin="00:07:35.080" end="00:07:42.849" style="s2">write this is just strategy equals NP</p>
+<p begin="00:07:40.210" end="00:07:44.860" style="s2">clip notice how this is actually the</p>
+<p begin="00:07:42.849" end="00:07:54.270" style="s2">same thing or actually really just NP</p>
+<p begin="00:07:44.860" end="00:07:54.270" style="s2">dah dah we want a maximum grab some zero</p>
+<p begin="00:07:56.400" end="00:08:04.020" style="s2">and then on the lighting some equals NP</p>
+<p begin="00:08:00.610" end="00:08:04.020" style="s2">dots on strategy</p>
+<p begin="00:08:29.330" end="00:08:46.140" style="s2">so I&#39;m just copying this code rewriting</p>
+<p begin="00:08:31.560" end="00:08:49.700" style="s2">in Python gonna see we toast so coding a</p>
+<p begin="00:08:46.140" end="00:08:49.700" style="s2">Python 3 here so I can just do that and</p>
+<p begin="00:08:56.330" end="00:08:59.690" style="s2">[Music]</p>
+<p begin="00:09:00.800" end="00:09:07.970" style="s2">start right strategy right cool</p>
+<p begin="00:09:19.020" end="00:09:24.100" style="s2">all right see what this does he&#39;s gonna</p>
+<p begin="00:09:22.570" end="00:09:27.550" style="s2">get our strategy for our purposes so</p>
+<p begin="00:09:24.100" end="00:09:34.450" style="s2">because it was zero this stuff didn&#39;t</p>
+<p begin="00:09:27.550" end="00:09:38.440" style="s2">happen I really cool so get current</p>
+<p begin="00:09:34.450" end="00:09:40.810" style="s2">mixed strategy to regret matching so it</p>
+<p begin="00:09:38.440" end="00:09:44.470" style="s2">really just seems like we got rid of all</p>
+<p begin="00:09:40.810" end="00:09:48.490" style="s2">the negative regrets then normalized</p>
+<p begin="00:09:44.470" end="00:09:50.830" style="s2">that and if there wasn&#39;t any</p>
+<p begin="00:09:48.490" end="00:09:52.390" style="s2">normalization strategy we just assigned</p>
+<p begin="00:09:50.830" end="00:10:05.760" style="s2">them all equally which I could probably</p>
+<p begin="00:09:52.390" end="00:10:05.760" style="s2">write that a little bit cleaner ooh</p>
+<p begin="00:10:08.440" end="00:10:14.590" style="s2">face to the bottom-left it&#39;s on the</p>
+<p begin="00:10:10.630" end="00:10:22.870" style="s2">bottom left Oh is my face covering the</p>
+<p begin="00:10:14.590" end="00:10:25.570" style="s2">code you mean hold up here better I&#39;ll</p>
+<p begin="00:10:22.870" end="00:10:27.880" style="s2">move this down here then we&#39;ll increase</p>
+<p begin="00:10:25.570" end="00:10:34.480" style="s2">the chilling size more shilling for the</p>
+<p begin="00:10:27.880" end="00:10:36.790" style="s2">Instagram cool and I&#39;ll remember to not</p>
+<p begin="00:10:34.480" end="00:10:38.950" style="s2">use that that corner why no more of them</p>
+<p begin="00:10:36.790" end="00:10:41.620" style="s2">just two notebooks today I still use</p>
+<p begin="00:10:38.950" end="00:10:42.910" style="s2">them guess we&#39;re learning something</p>
+<p begin="00:10:41.620" end="00:10:44.890" style="s2">right I think the best way to learn is</p>
+<p begin="00:10:42.910" end="00:10:46.450" style="s2">called learn CFR it&#39;s my notebook over</p>
+<p begin="00:10:44.890" end="00:10:50.730" style="s2">here it&#39;s in a web browser</p>
+<p begin="00:10:46.450" end="00:10:52.110" style="s2">no it&#39;s Python 3 there&#39;s pretty nice</p>
+<p begin="00:10:50.730" end="00:10:55.360" style="s2">alright</p>
+<p begin="00:10:52.110" end="00:11:02.190" style="s2">mmm okay some readers might be idiots</p>
+<p begin="00:10:55.360" end="00:11:02.190" style="s2">and not know what an if statement is</p>
+<p begin="00:11:03.660" end="00:11:12.270" style="s2">normalizing some could be non-positive</p>
+<p begin="00:11:07.110" end="00:11:14.800" style="s2">such cases who make the Uniform probably</p>
+<p begin="00:11:12.270" end="00:11:16.150" style="s2">cumulated strategies I return Kevin so</p>
+<p begin="00:11:14.800" end="00:11:17.680" style="s2">strategy one could select an action</p>
+<p begin="00:11:16.150" end="00:11:19.900" style="s2">according to the probabilities yep</p>
+<p begin="00:11:17.680" end="00:11:20.960" style="s2">that&#39;s fine there&#39;s like a numpy thing</p>
+<p begin="00:11:19.900" end="00:11:24.399" style="s2">to do that I don&#39;t know</p>
+<p begin="00:11:20.960" end="00:11:24.399" style="s2">right now somebody could look it up</p>
+<p begin="00:11:29.830" end="00:11:35.620" style="s2">okay so okay alia get action so we&#39;ll</p>
+<p begin="00:11:33.670" end="00:11:40.540" style="s2">just write that there&#39;s a cuter way to</p>
+<p begin="00:11:35.620" end="00:11:42.550" style="s2">write this get action I think so get</p>
+<p begin="00:11:40.540" end="00:11:46.589" style="s2">action with respect to a strategy so I</p>
+<p begin="00:11:42.550" end="00:11:57.040" style="s2">think you just do like MP dot come some</p>
+<p begin="00:11:46.589" end="00:12:07.540" style="s2">strategy Shh numpy bisect here search</p>
+<p begin="00:11:57.040" end="00:12:13.269" style="s2">sorted yes this we do random random</p>
+<p begin="00:12:07.540" end="00:12:19.709" style="s2">random over here I know that&#39;s why my</p>
+<p begin="00:12:13.269" end="00:12:19.709" style="s2">faces and I&#39;m not random is zero to one</p>
+<p begin="00:12:20.640" end="00:12:28.899" style="s2">uniform from zero to one I want</p>
+<p begin="00:12:27.670" end="00:12:31.630" style="s2">something they&#39;re just gonna do uniform</p>
+<p begin="00:12:28.899" end="00:12:32.709" style="s2">from zero to one which i think is yeah</p>
+<p begin="00:12:31.630" end="00:12:33.790" style="s2">return the next random floating-point</p>
+<p begin="00:12:32.709" end="00:12:36.850" style="s2">number they don&#39;t actually talk about</p>
+<p begin="00:12:33.790" end="00:12:39.490" style="s2">whether it&#39;s uniform why do you need to</p>
+<p begin="00:12:36.850" end="00:12:41.880" style="s2">solve imperfect info game as well isn&#39;t</p>
+<p begin="00:12:39.490" end="00:12:44.470" style="s2">the world an imperfect information game</p>
+<p begin="00:12:41.880" end="00:12:46.510" style="s2">not make an Instagram box guys we&#39;re</p>
+<p begin="00:12:44.470" end="00:12:48.490" style="s2">gonna fill those legitimate real social</p>
+<p begin="00:12:46.510" end="00:12:51.279" style="s2">following by the way if anyone hope that</p>
+<p begin="00:12:48.490" end="00:12:54.010" style="s2">works for Facebook you know I&#39;d love if</p>
+<p begin="00:12:51.279" end="00:12:55.570" style="s2">you could get me verified give you my</p>
+<p begin="00:12:54.010" end="00:12:57.670" style="s2">bro will go out to the club together</p>
+<p begin="00:12:55.570" end="00:13:01.360" style="s2">let&#39;s try it</p>
+<p begin="00:12:57.670" end="00:13:09.060" style="s2">MP dot search sorted and because I&#39;m</p>
+<p begin="00:13:01.360" end="00:13:13.600" style="s2">strategy should be this so this is</p>
+<p begin="00:13:09.060" end="00:13:15.420" style="s2">strategy so I&#39;m actually increasing it</p>
+<p begin="00:13:13.600" end="00:13:22.860" style="s2">is okay whatever</p>
+<p begin="00:13:15.420" end="00:13:26.140" style="s2">yeah so if we do get action to zero zero</p>
+<p begin="00:13:22.860" end="00:13:30.970" style="s2">let&#39;s just let&#39;s just test this quickly</p>
+<p begin="00:13:26.140" end="00:13:35.889" style="s2">Ryan range 100 equals</p>
+<p begin="00:13:30.970" end="00:13:40.420" style="s2">say equals this hundred just just like</p>
+<p begin="00:13:35.889" end="00:13:44.519" style="s2">let&#39;s like do a sanity check and do like</p>
+<p begin="00:13:40.420" end="00:13:48.310" style="s2">lots were today okay cool so it&#39;s about</p>
+<p begin="00:13:44.519" end="00:13:51.990" style="s2">130 each which is right there now if</p>
+<p begin="00:13:48.310" end="00:13:51.990" style="s2">you&#39;re playing against at opponent yet</p>
+<p begin="00:13:52.829" end="00:14:01.480" style="s2">charge I don&#39;t know what the charge is</p>
+<p begin="00:13:59.740" end="00:14:07.300" style="s2">I&#39;ll go do that but what I could do that</p>
+<p begin="00:14:01.480" end="00:14:10.389" style="s2">right now okay cool that&#39;s about that&#39;s</p>
+<p begin="00:14:07.300" end="00:14:11.980" style="s2">about random right actually gonna play</p>
+<p begin="00:14:10.389" end="00:14:19.089" style="s2">was on cool let&#39;s just see like with the</p>
+<p begin="00:14:11.980" end="00:14:20.069" style="s2">variances is kind of your variance it&#39;s</p>
+<p begin="00:14:19.089" end="00:14:23.050" style="s2">kind of cute right</p>
+<p begin="00:14:20.069" end="00:14:26.860" style="s2">don&#39;t we love plot had plots sorted this</p>
+<p begin="00:14:23.050" end="00:14:29.949" style="s2">guy taught me this and I was like man</p>
+<p begin="00:14:26.860" end="00:14:32.139" style="s2">that&#39;s a good trick for if you don&#39;t</p>
+<p begin="00:14:29.949" end="00:14:38.949" style="s2">remember what PLT dot hist you know</p>
+<p begin="00:14:32.139" end="00:14:40.569" style="s2">that I get cool with the building blocks</p>
+<p begin="00:14:38.949" end="00:14:43.829" style="s2">in place we can now construct our</p>
+<p begin="00:14:40.569" end="00:14:43.829" style="s2">training algorithm</p>
+<p begin="00:14:49.410" end="00:14:59.459" style="s2">I do kind of like my one-liner look I</p>
+<p begin="00:14:55.529" end="00:15:01.109" style="s2">can put random dot random there though</p>
+<p begin="00:14:59.459" end="00:15:04.619" style="s2">that may still be a one-liner oh how</p>
+<p begin="00:15:01.109" end="00:15:09.889" style="s2">nice would that be uh make money selling</p>
+<p begin="00:15:04.619" end="00:15:09.889" style="s2">ups I know yo no mention in that</p>
+<p begin="00:15:13.849" end="00:15:27.379" style="s2">all right where were we train get the</p>
+<p begin="00:15:23.549" end="00:15:30.749" style="s2">grip matched mixed strategy actions</p>
+<p begin="00:15:27.379" end="00:15:32.609" style="s2">compute action utilities accumulate</p>
+<p begin="00:15:30.749" end="00:15:34.510" style="s2">action regrets okay well that sounds</p>
+<p begin="00:15:32.609" end="00:15:37.669" style="s2">easy enough</p>
+<p begin="00:15:34.510" end="00:15:37.669" style="s2">[Music]</p>
+<p begin="00:15:37.939" end="00:16:09.600" style="s2">follow me mr. Graham guys forgiven</p>
+<p begin="00:15:45.479" end="00:16:15.029" style="s2">number of iterations okay so remember</p>
+<p begin="00:16:09.600" end="00:16:16.889" style="s2">our opponent is gonna play rock 40% of</p>
+<p begin="00:16:15.029" end="00:16:20.519" style="s2">the time so I think the strategy should</p>
+<p begin="00:16:16.889" end="00:16:22.679" style="s2">converge to always pape well we did</p>
+<p begin="00:16:20.519" end="00:16:24.749" style="s2">always paper if we played always paper</p>
+<p begin="00:16:22.679" end="00:16:26.399" style="s2">against the strategy we&#39;d have a 30% tie</p>
+<p begin="00:16:24.749" end="00:16:27.929" style="s2">rate of 30 percent loss rate and a 40</p>
+<p begin="00:16:26.399" end="00:16:29.089" style="s2">percent win rate which i think is the</p>
+<p begin="00:16:27.929" end="00:16:31.499" style="s2">best you can do</p>
+<p begin="00:16:29.089" end="00:16:33.619" style="s2">okay we&#39;re writing a Rock Paper</p>
+<p begin="00:16:31.499" end="00:16:37.669" style="s2">Scissors bot I think you can follow this</p>
+<p begin="00:16:33.619" end="00:16:37.669" style="s2">but please follow me on instagram</p>
+<p begin="00:16:40.879" end="00:16:44.720" style="s2">compute the utility</p>
+<p begin="00:16:54.940" end="00:17:03.310" style="s2">let&#39;s just let&#39;s just write a quick</p>
+<p begin="00:16:57.320" end="00:17:03.310" style="s2">funky called value so if zero is rock</p>
+<p begin="00:17:04.120" end="00:17:17.540" style="s2">now let&#39;s just write that this isn&#39;t</p>
+<p begin="00:17:15.890" end="00:17:18.919" style="s2">this isn&#39;t genius we&#39;re writing a</p>
+<p begin="00:17:17.540" end="00:17:23.959" style="s2">rock-paper-scissors bot</p>
+<p begin="00:17:18.919" end="00:17:26.780" style="s2">don&#39;t be noobs now thank you thank you</p>
+<p begin="00:17:23.959" end="00:17:28.250" style="s2">please promote my Instagram if you want</p>
+<p begin="00:17:26.780" end="00:17:30.620" style="s2">me to do more streams it&#39;s not even</p>
+<p begin="00:17:28.250" end="00:17:32.090" style="s2">about subscribing a twitch anymore I do</p>
+<p begin="00:17:30.620" end="00:17:34.070" style="s2">really appreciate the subscriptions but</p>
+<p begin="00:17:32.090" end="00:17:35.660" style="s2">I appreciate more increasing my</p>
+<p begin="00:17:34.070" end="00:17:39.429" style="s2">Instagram followers my goal is to have a</p>
+<p begin="00:17:35.660" end="00:17:45.049" style="s2">million by the end of the year okay so</p>
+<p begin="00:17:39.429" end="00:17:49.640" style="s2">if value from the perspective of P 1 P 2</p>
+<p begin="00:17:45.049" end="00:17:52.429" style="s2">if P 1 equals equals wrong and P 2 okay</p>
+<p begin="00:17:49.640" end="00:17:54.200" style="s2">so first off P 1 equals equals T 2</p>
+<p begin="00:17:52.429" end="00:17:57.830" style="s2">retiring 0 because there&#39;s no value for</p>
+<p begin="00:17:54.200" end="00:18:00.890" style="s2">player 1 that&#39;s a tie if player 1 played</p>
+<p begin="00:17:57.830" end="00:18:05.480" style="s2">raw and play or 2 played scissors we</p>
+<p begin="00:18:00.890" end="00:18:07.460" style="s2">know scissors smashes rock there&#39;s</p>
+<p begin="00:18:05.480" end="00:18:09.970" style="s2">probably like a smart way to just like</p>
+<p begin="00:18:07.460" end="00:18:13.130" style="s2">use the fact these the numbers I gave it</p>
+<p begin="00:18:09.970" end="00:18:14.809" style="s2">no no a million Instagram how would i</p>
+<p begin="00:18:13.130" end="00:18:17.960" style="s2">monetize Instagram followers I don&#39;t</p>
+<p begin="00:18:14.809" end="00:18:19.549" style="s2">know yet but really guys it&#39;s about you</p>
+<p begin="00:18:17.960" end="00:18:28.730" style="s2">know we&#39;re not gonna go into that right</p>
+<p begin="00:18:19.549" end="00:18:36.159" style="s2">now okay player 1 plays scissors and I</p>
+<p begin="00:18:28.730" end="00:18:36.159" style="s2">caught paper and paper covers rock</p>
+<p begin="00:18:40.059" end="00:18:43.520" style="s2">there&#39;s some ways to do this is like</p>
+<p begin="00:18:41.870" end="00:18:44.809" style="s2">mods and but like do you want to</p>
+<p begin="00:18:43.520" end="00:18:54.850" style="s2">think about that right now I know I</p>
+<p begin="00:18:44.809" end="00:18:54.850" style="s2">don&#39;t cool um so let&#39;s just do this</p>
+<p begin="00:19:03.190" end="00:19:07.789" style="s2">let&#39;s play 100 rounds of let&#39;s play</p>
+<p begin="00:19:06.740" end="00:19:11.780" style="s2">thousand rounds of rock-paper-scissors</p>
+<p begin="00:19:07.789" end="00:19:21.860" style="s2">don&#39;t be cheap and then let&#39;s see what</p>
+<p begin="00:19:11.780" end="00:19:23.000" style="s2">my value is 41 28 31 negative 23 this</p>
+<p begin="00:19:21.860" end="00:19:34.669" style="s2">probably isn&#39;t enough to get a real</p>
+<p begin="00:19:23.000" end="00:19:39.470" style="s2">sampling oh let&#39;s play 100 rounds of 10</p>
+<p begin="00:19:34.669" end="00:19:40.789" style="s2">and also this is a noob it&#39;s</p>
+<p begin="00:19:39.470" end="00:19:43.429" style="s2">probably a magical way to do this with</p>
+<p begin="00:19:40.789" end="00:19:44.960" style="s2">like range estimators and stuff they</p>
+<p begin="00:19:43.429" end="00:19:47.860" style="s2">talk about this stuff on the paper but</p>
+<p begin="00:19:44.960" end="00:19:47.860" style="s2">you know I&#39;m an idiot so</p>
+<p begin="00:19:57.340" end="00:20:15.950" style="s2">I think I don&#39;t know maybe fit a</p>
+<p begin="00:20:12.919" end="00:20:19.940" style="s2">Gaussian to that let&#39;s I mean that&#39;s</p>
+<p begin="00:20:15.950" end="00:20:22.840" style="s2">pretty small so I don&#39;t think we&#39;re</p>
+<p begin="00:20:19.940" end="00:20:22.840" style="s2">exploiting at all</p>
+<p begin="00:20:24.610" end="00:20:36.530" style="s2">yeah so after playing all those games of</p>
+<p begin="00:20:28.130" end="00:20:39.020" style="s2">rock-paper-scissors yeah we&#39;re not we&#39;re</p>
+<p begin="00:20:36.530" end="00:20:40.520" style="s2">not exploiting at all but just let&#39;s uh</p>
+<p begin="00:20:39.020" end="00:20:42.679" style="s2">let&#39;s try for a sec let&#39;s try that</p>
+<p begin="00:20:40.520" end="00:20:44.750" style="s2">strategy that I was talking about and</p>
+<p begin="00:20:42.679" end="00:20:48.409" style="s2">see what value we can get so that</p>
+<p begin="00:20:44.750" end="00:20:52.450" style="s2">strategy would be always paper so never</p>
+<p begin="00:20:48.409" end="00:20:52.450" style="s2">rock always pay for a never scissors</p>
+<p begin="00:20:53.810" end="00:20:56.940" style="s2">[Music]</p>
+<p begin="00:20:57.270" end="00:21:02.730" style="s2">no cheetah yes that doesn&#39;t matter</p>
+<p begin="00:21:04.559" end="00:21:11.070" style="s2">actually you really shouldn&#39;t do this I</p>
+<p begin="00:21:13.170" end="00:21:17.890" style="s2">always run into problems like NP copy</p>
+<p begin="00:21:15.900" end="00:21:20.710" style="s2">okay look now we&#39;re getting an average</p>
+<p begin="00:21:17.890" end="00:21:22.059" style="s2">value of 10 see this value of 10 so</p>
+<p begin="00:21:20.710" end="00:21:24.580" style="s2">we&#39;re exploiting him by always playing</p>
+<p begin="00:21:22.059" end="00:21:25.870" style="s2">paper that&#39;s right um please follow me</p>
+<p begin="00:21:24.580" end="00:21:27.400" style="s2">on instagram if you haven&#39;t really</p>
+<p begin="00:21:25.870" end="00:21:31.270" style="s2">follow me in Instagram you know I love</p>
+<p begin="00:21:27.400" end="00:21:33.280" style="s2">Instagram power cycle okay now of course</p>
+<p begin="00:21:31.270" end="00:21:35.050" style="s2">I hand coded that strategy so let&#39;s see</p>
+<p begin="00:21:33.280" end="00:21:38.590" style="s2">if we can use counterfactual regret</p>
+<p begin="00:21:35.050" end="00:21:40.380" style="s2">minimization to learn that strategy</p>
+<p begin="00:21:38.590" end="00:21:45.280" style="s2">because we want to do machine learning</p>
+<p begin="00:21:40.380" end="00:21:47.110" style="s2">this is a machine learning channel for</p>
+<p begin="00:21:45.280" end="00:21:50.470" style="s2">those who just followed we&#39;re coding</p>
+<p begin="00:21:47.110" end="00:21:53.650" style="s2">rock paper scissors agents um so my</p>
+<p begin="00:21:50.470" end="00:21:55.570" style="s2">opponent is pretty stupid plays rock 40%</p>
+<p begin="00:21:53.650" end="00:21:58.630" style="s2">of the time paper 30% of time and</p>
+<p begin="00:21:55.570" end="00:22:01.660" style="s2">scissors 30% of time so it seems like we</p>
+<p begin="00:21:58.630" end="00:22:04.020" style="s2">can get 10 value out of him 10 out of</p>
+<p begin="00:22:01.660" end="00:22:06.070" style="s2">100 so we&#39;re getting we&#39;re getting 10 I</p>
+<p begin="00:22:04.020" end="00:22:08.890" style="s2">don&#39;t know this is like proper way to</p>
+<p begin="00:22:06.070" end="00:22:10.510" style="s2">talk about this but let me tell you why</p>
+<p begin="00:22:08.890" end="00:22:14.520" style="s2">I&#39;m interested in this stuff I know you</p>
+<p begin="00:22:10.510" end="00:22:16.480" style="s2">guys like the rants there&#39;s money in</p>
+<p begin="00:22:14.520" end="00:22:18.130" style="s2">imperfect information games there&#39;s no</p>
+<p begin="00:22:16.480" end="00:22:20.500" style="s2">money as perfect information gives in</p>
+<p begin="00:22:18.130" end="00:22:23.890" style="s2">here&#39;s why when you play chess against</p>
+<p begin="00:22:20.500" end="00:22:25.270" style="s2">somebody it&#39;s quick to tell who&#39;s who&#39;s</p>
+<p begin="00:22:23.890" end="00:22:26.770" style="s2">good at chess and who&#39;s bad at chess</p>
+<p begin="00:22:25.270" end="00:22:28.360" style="s2">right you&#39;re not gonna you&#39;re not gonna</p>
+<p begin="00:22:26.770" end="00:22:30.790" style="s2">play somebody against chess for money</p>
+<p begin="00:22:28.360" end="00:22:32.620" style="s2">but my chassis laws like 1400 all right</p>
+<p begin="00:22:30.790" end="00:22:34.059" style="s2">if you have a lower low if you have like</p>
+<p begin="00:22:32.620" end="00:22:35.830" style="s2">a you know thousand T low I&#39;m gonna beat</p>
+<p begin="00:22:34.059" end="00:22:37.120" style="s2">you if you have an 1800 eat long you&#39;re</p>
+<p begin="00:22:35.830" end="00:22:40.900" style="s2">gonna be me there&#39;s no reason that we</p>
+<p begin="00:22:37.120" end="00:22:42.429" style="s2">need to wager on this but with imperfect</p>
+<p begin="00:22:40.900" end="00:22:44.110" style="s2">information games there&#39;s much more</p>
+<p begin="00:22:42.429" end="00:22:46.720" style="s2">variance and it&#39;s much easier for people</p>
+<p begin="00:22:44.110" end="00:22:49.960" style="s2">to wrongly estimate how good they are</p>
+<p begin="00:22:46.720" end="00:22:52.090" style="s2">with respect to somebody else so if we</p>
+<p begin="00:22:49.960" end="00:22:56.320" style="s2">learn how to play imperfect information</p>
+<p begin="00:22:52.090" end="00:23:00.700" style="s2">games we can make money and then with</p>
+<p begin="00:22:56.320" end="00:23:04.390" style="s2">money we can buy expensive like</p>
+<p begin="00:23:00.700" end="00:23:08.760" style="s2">Gucci and Fendi and Prada and and</p>
+<p begin="00:23:04.390" end="00:23:10.620" style="s2">javante and and the you know st. Laurent</p>
+<p begin="00:23:08.760" end="00:23:13.590" style="s2">all those rich people brands and then we</p>
+<p begin="00:23:10.620" end="00:23:16.740" style="s2">can post that on my Instagram so I</p>
+<p begin="00:23:13.590" end="00:23:19.230" style="s2">become Instagram famous I&#39;m satisfied</p>
+<p begin="00:23:16.740" end="00:23:20.640" style="s2">with you but you know really what we got</p>
+<p begin="00:23:19.230" end="00:23:26.490" style="s2">to do is convert you guys into an</p>
+<p begin="00:23:20.640" end="00:23:28.140" style="s2">Instagram audience that will go with</p>
+<p begin="00:23:26.490" end="00:23:29.160" style="s2">that you got to take high quality photos</p>
+<p begin="00:23:28.140" end="00:23:30.930" style="s2">I know I know I know</p>
+<p begin="00:23:29.160" end="00:23:32.100" style="s2">look look we&#39;re looking into that we&#39;re</p>
+<p begin="00:23:30.930" end="00:23:33.840" style="s2">looking into that you don&#39;t want we&#39;re</p>
+<p begin="00:23:32.100" end="00:23:36.030" style="s2">gonna get money we&#39;re gonna pay a guy</p>
+<p begin="00:23:33.840" end="00:23:41.510" style="s2">he&#39;s gonna be my Instagram guy and he&#39;s</p>
+<p begin="00:23:36.030" end="00:23:41.510" style="s2">gonna be a millions of followers okay oh</p>
+<p begin="00:23:44.690" end="00:23:48.750" style="s2">you missed the old rants I know you</p>
+<p begin="00:23:47.040" end="00:23:51.600" style="s2">missed the aldryn that was a different</p>
+<p begin="00:23:48.750" end="00:23:55.050" style="s2">there was a different character that was</p>
+<p begin="00:23:51.600" end="00:23:56.970" style="s2">George Hotz the common I see you and I</p>
+<p begin="00:23:55.050" end="00:24:02.460" style="s2">work in research and I do this all</p>
+<p begin="00:23:56.970" end="00:24:07.800" style="s2">day I&#39;m very satisfied with my twitchy&#39;s</p>
+<p begin="00:24:02.460" end="00:24:11.100" style="s2">oh no guys it&#39;s a weird year it&#39;s 2019</p>
+<p begin="00:24:07.800" end="00:24:13.140" style="s2">its sanity 2019 everything&#39;s changing</p>
+<p begin="00:24:11.100" end="00:24:18.800" style="s2">you got to keep up with the times be</p>
+<p begin="00:24:13.140" end="00:24:18.800" style="s2">left behind okay</p>
+<p begin="00:24:27.720" end="00:24:31.799" style="s2">golden keyboard</p>
+<p begin="00:24:33.220" end="00:24:36.410" style="s2">[Music]</p>
+<p begin="00:24:45.169" end="00:24:50.940" style="s2">where is action utilities initial oh</p>
+<p begin="00:24:47.639" end="00:24:53.789" style="s2">it&#39;s initialized okay all right so let&#39;s</p>
+<p begin="00:24:50.940" end="00:24:57.600" style="s2">just write whoops what did that do</p>
+<p begin="00:24:53.789" end="00:25:03.350" style="s2">it&#39;s not that long just try to write</p>
+<p begin="00:24:57.600" end="00:25:03.350" style="s2">this training iterations</p>
+<p begin="00:25:04.240" end="00:25:07.640" style="s2">[Music]</p>
+<p begin="00:25:18.350" end="00:25:25.260" style="s2">no no guys we&#39;re not living in the past</p>
+<p begin="00:25:22.620" end="00:25:27.059" style="s2">you know we&#39;re not talking about how</p>
+<p begin="00:25:25.260" end="00:25:29.190" style="s2">like this was done manner this was done</p>
+<p begin="00:25:27.059" end="00:25:30.240" style="s2">that this is the future we&#39;re gonna live</p>
+<p begin="00:25:29.190" end="00:25:36.809" style="s2">in the future</p>
+<p begin="00:25:30.240" end="00:25:43.440" style="s2">futures crazy place it&#39;s just I&#39;m just</p>
+<p begin="00:25:36.809" end="00:25:52.710" style="s2">cleaning a colorful bit okay ah we want</p>
+<p begin="00:25:43.440" end="00:25:54.090" style="s2">to say action utility oh yeah can I just</p>
+<p begin="00:25:52.710" end="00:25:55.919" style="s2">do that that&#39;s the same thing as</p>
+<p begin="00:25:54.090" end="00:26:01.049" style="s2">actually doing the the tuple with one</p>
+<p begin="00:25:55.919" end="00:26:02.279" style="s2">right so that&#39;s equivalent to that yes</p>
+<p begin="00:26:01.049" end="00:26:05.100" style="s2">it is oh cool</p>
+<p begin="00:26:02.279" end="00:26:07.350" style="s2">get rid of characters save characters</p>
+<p begin="00:26:05.100" end="00:26:12.990" style="s2">save typing time be faster next time</p>
+<p begin="00:26:07.350" end="00:26:14.429" style="s2">coding I know they&#39;re shorter you can</p>
+<p begin="00:26:12.990" end="00:26:17.010" style="s2">write your code number code is written</p>
+<p begin="00:26:14.429" end="00:26:24.210" style="s2">you write code in order to be read not</p>
+<p begin="00:26:17.010" end="00:26:25.740" style="s2">to be yeah I know I know</p>
+<p begin="00:26:24.210" end="00:26:27.000" style="s2">now what programming today I mean</p>
+<p begin="00:26:25.740" end="00:26:29.669" style="s2">sometimes I just come on the stream</p>
+<p begin="00:26:27.000" end="00:26:31.440" style="s2">because you guys are like I like talking</p>
+<p begin="00:26:29.669" end="00:26:34.470" style="s2">out loud and when I talk to myself I</p>
+<p begin="00:26:31.440" end="00:26:35.909" style="s2">just seem weird but when I talk to I&#39;m</p>
+<p begin="00:26:34.470" end="00:26:38.580" style="s2">talking to 200 people right now it&#39;s</p>
+<p begin="00:26:35.909" end="00:26:44.610" style="s2">like a lecture Broce the future really</p>
+<p begin="00:26:38.580" end="00:26:45.990" style="s2">is a crazy place it&#39;s Merritt it&#39;s hard</p>
+<p begin="00:26:44.610" end="00:26:48.409" style="s2">to do things watching yourself and</p>
+<p begin="00:26:45.990" end="00:26:48.409" style="s2">marina</p>
+<p begin="00:26:55.810" end="00:27:03.560" style="s2">um no no I&#39;m the files are kind of</p>
+<p begin="00:27:01.310" end="00:27:06.410" style="s2">over you can see you can check my github</p>
+<p begin="00:27:03.560" end="00:27:07.670" style="s2">I implemented a lot of I just want to</p>
+<p begin="00:27:06.410" end="00:27:09.170" style="s2">like a number theory textbook</p>
+<p begin="00:27:07.670" end="00:27:12.830" style="s2">maybe they implemented like 20 proofs</p>
+<p begin="00:27:09.170" end="00:27:14.810" style="s2">from it it&#39;s good tools aren&#39;t really</p>
+<p begin="00:27:12.830" end="00:27:16.130" style="s2">good enough yet and I mean it&#39;s a</p>
+<p begin="00:27:14.810" end="00:27:17.630" style="s2">company idea right like you could take a</p>
+<p begin="00:27:16.130" end="00:27:22.610" style="s2">company you can make you could make good</p>
+<p begin="00:27:17.630" end="00:27:23.780" style="s2">tools for that kind of programming I</p>
+<p begin="00:27:22.610" end="00:27:25.510" style="s2">mean a really cool thing about that kind</p>
+<p begin="00:27:23.780" end="00:27:28.430" style="s2">of programming is you can&#39;t write bugs</p>
+<p begin="00:27:25.510" end="00:27:30.050" style="s2">but even with the amount of bugs I write</p>
+<p begin="00:27:28.430" end="00:27:31.100" style="s2">in Python I&#39;m still more productive in</p>
+<p begin="00:27:30.050" end="00:27:38.890" style="s2">Python than it would be in a language</p>
+<p begin="00:27:31.100" end="00:27:38.890" style="s2">like train</p>
+<p begin="00:27:46.920" end="00:27:49.989" style="s2">[Music]</p>
+<p begin="00:28:02.280" end="00:28:07.910" style="s2">I don&#39;t really understand this okay</p>
+<p begin="00:28:14.409" end="00:28:28.609" style="s2">other action equals 2 then 0 gassy just</p>
+<p begin="00:28:24.710" end="00:28:29.509" style="s2">like wrap it round see that you see what</p>
+<p begin="00:28:28.609" end="00:28:36.039" style="s2">they&#39;re doing there it&#39;s like wrap</p>
+<p begin="00:28:29.509" end="00:28:36.039" style="s2">around I&#39;ll just copy is fine</p>
+<p begin="00:28:37.119" end="00:28:41.499" style="s2">basically if it&#39;s to the next one zero</p>
+<p begin="00:28:45.249" end="00:28:53.320" style="s2">and I guess this is for for</p>
+<p begin="00:28:50.610" end="00:28:55.129" style="s2">[Music]</p>
+<p begin="00:28:53.320" end="00:29:01.219" style="s2">rock-paper-scissors</p>
+<p begin="00:28:55.129" end="00:29:03.460" style="s2">I don&#39;t just copy the normal thing to do</p>
+<p begin="00:29:01.219" end="00:29:03.460" style="s2">it more</p>
+<p begin="00:29:10.070" end="00:29:16.620" style="s2">no comedy knees are ultra rare exclusive</p>
+<p begin="00:29:13.529" end="00:29:18.690" style="s2">March you could have bought them at one</p>
+<p begin="00:29:16.620" end="00:29:22.549" style="s2">point but you know what they say get an</p>
+<p begin="00:29:18.690" end="00:29:25.289" style="s2">early get rich getting late get</p>
+<p begin="00:29:22.549" end="00:29:27.500" style="s2">cumulate action we&#39;re grads alright so</p>
+<p begin="00:29:25.289" end="00:29:30.360" style="s2">we&#39;re back to this idea of regrets some</p>
+<p begin="00:29:27.500" end="00:29:32.580" style="s2">actually isn&#39;t it is used here well it&#39;s</p>
+<p begin="00:29:30.360" end="00:29:47.770" style="s2">a strategy okay it&#39;s a strategy if I</p>
+<p begin="00:29:32.580" end="00:29:49.730" style="s2">have a strategy okay so my regret equals</p>
+<p begin="00:29:47.770" end="00:29:53.100" style="s2">[Music]</p>
+<p begin="00:29:49.730" end="00:29:57.179" style="s2">the action utility minus the action</p>
+<p begin="00:29:53.100" end="00:29:59.820" style="s2">utility of my action got some plus</p>
+<p begin="00:29:57.179" end="00:30:01.350" style="s2">equals notice how they&#39;re doing this all</p>
+<p begin="00:29:59.820" end="00:30:04.649" style="s2">with four loops so you don&#39;t really have</p>
+<p begin="00:30:01.350" end="00:30:05.909" style="s2">to do four loops thank you thank you 24</p>
+<p begin="00:30:04.649" end="00:30:07.950" style="s2">new followers and it&#39;s to keep the</p>
+<p begin="00:30:05.909" end="00:30:10.890" style="s2">followers coming guys this is a follower</p>
+<p begin="00:30:07.950" end="00:30:12.240" style="s2">shell stream I love you all if you can</p>
+<p begin="00:30:10.890" end="00:30:14.100" style="s2">get me followers because we need</p>
+<p begin="00:30:12.240" end="00:30:17.220" style="s2">followers them we need to be in coma</p>
+<p begin="00:30:14.100" end="00:30:21.539" style="s2">Instagram lover how does dream like two</p>
+<p begin="00:30:17.220" end="00:30:23.730" style="s2">weeks ago I was lying in bed it was this</p>
+<p begin="00:30:21.539" end="00:30:26.909" style="s2">girl it smoked a bit of weed and I was</p>
+<p begin="00:30:23.730" end="00:30:28.799" style="s2">just like ranting for an hour about how</p>
+<p begin="00:30:26.909" end="00:30:32.220" style="s2">I&#39;m gonna be an Instagram celebrity and</p>
+<p begin="00:30:28.799" end="00:30:33.299" style="s2">then never hear the secret you know it&#39;s</p>
+<p begin="00:30:32.220" end="00:30:36.179" style="s2">like that when you like say</p>
+<p begin="00:30:33.299" end="00:30:37.770" style="s2">something it becomes true what am i</p>
+<p begin="00:30:36.179" end="00:30:40.140" style="s2">starting a new company yeah that&#39;s a</p>
+<p begin="00:30:37.770" end="00:30:42.960" style="s2">great question right um you say some a</p>
+<p begin="00:30:40.140" end="00:30:45.630" style="s2">lot of times and it becomes true well</p>
+<p begin="00:30:42.960" end="00:30:47.760" style="s2">that&#39;s how I felt with this look every</p>
+<p begin="00:30:45.630" end="00:30:49.500" style="s2">scams are over guys scams are over the</p>
+<p begin="00:30:47.760" end="00:30:51.710" style="s2">best thing is just be authentic and be</p>
+<p begin="00:30:49.500" end="00:30:51.710" style="s2">real</p>
+<p begin="00:30:53.299" end="00:31:04.409" style="s2">they&#39;re not gonna copyright me for this</p>
+<p begin="00:30:56.390" end="00:31:06.919" style="s2">oh man that is a great song if you guys</p>
+<p begin="00:31:04.409" end="00:31:06.919" style="s2">haven&#39;t heard it</p>
+<p begin="00:31:09.280" end="00:31:59.919" style="s2">[Music]</p>
+<p begin="00:31:55.000" end="00:32:03.890" style="s2">if I turn what if they&#39;re right</p>
+<p begin="00:31:59.919" end="00:32:08.360" style="s2">what if I ruin Broadway by being in this</p>
+<p begin="00:32:03.890" end="00:32:12.110" style="s2">ad tonight I see what you&#39;re saying</p>
+<p begin="00:32:08.360" end="00:32:16.190" style="s2">and I make you this pact I will never</p>
+<p begin="00:32:12.110" end="00:32:32.029" style="s2">make again so long</p>
+<p begin="00:32:16.190" end="00:32:32.029" style="s2">[Music]</p>
+<p begin="00:32:40.350" end="00:32:47.100" style="s2">that way the rainbow taste the rainbow</p>
+<p begin="00:32:42.940" end="00:32:47.100" style="s2">here the full cast recording one Spotify</p>
+<p begin="00:32:55.809" end="00:33:01.009" style="s2">Michael last week you expressed some</p>
+<p begin="00:32:57.980" end="00:33:03.590" style="s2">anxiety about storing in skittles</p>
+<p begin="00:33:01.009" end="00:33:06.019" style="s2">commercial the Broadway musical yes I</p>
+<p begin="00:33:03.590" end="00:33:08.149" style="s2">have been having some doubts I mean I</p>
+<p begin="00:33:06.019" end="00:33:09.860" style="s2">don&#39;t really do ads well it wouldn&#39;t be</p>
+<p begin="00:33:08.149" end="00:33:11.749" style="s2">stressful to be seen by millions of</p>
+<p begin="00:33:09.860" end="00:33:14.090" style="s2">people in the big game no just to be</p>
+<p begin="00:33:11.749" end="00:33:17.779" style="s2">clear the ad won&#39;t be on the actual game</p>
+<p begin="00:33:14.090" end="00:33:20.080" style="s2">people will buy takes much longer but no</p>
+<p begin="00:33:17.779" end="00:33:23.960" style="s2">there&#39;s a whole album it&#39;s called</p>
+<p begin="00:33:20.080" end="00:33:29.119" style="s2">skittles advertising the musical um it</p>
+<p begin="00:33:23.960" end="00:33:33.019" style="s2">really is great no I wasn&#39;t getting the</p>
+<p begin="00:33:29.119" end="00:33:35.389" style="s2">pie I was taking a piss real okay</p>
+<p begin="00:33:33.019" end="00:33:36.769" style="s2">for each individual iteration we&#39;re</p>
+<p begin="00:33:35.389" end="00:33:38.179" style="s2">training our regrets may be temporarily</p>
+<p begin="00:33:36.769" end="00:33:39.440" style="s2">skewed in such way an influencer</p>
+<p begin="00:33:38.179" end="00:33:43.009" style="s2">strategy is a- regrets um you know</p>
+<p begin="00:33:39.440" end="00:33:45.889" style="s2">chosen converges to a minimal regret</p>
+<p begin="00:33:43.009" end="00:33:56.350" style="s2">strategy is the average strategy across</p>
+<p begin="00:33:45.889" end="00:33:56.350" style="s2">all iterations is this it</p>
+<p begin="00:34:04.050" end="00:34:15.110" style="s2">I think I can use value here</p>
+<p begin="00:34:18.929" end="00:34:24.000" style="s2">and then yeah okay there was the action</p>
+<p begin="00:34:21.119" end="00:34:32.329" style="s2">energy you see you brethren thank you</p>
+<p begin="00:34:24.000" end="00:34:32.329" style="s2">for watching ten Prince</p>
+<p begin="00:34:39.290" end="00:34:44.940" style="s2">this is actually a really stupid way to</p>
+<p begin="00:34:41.370" end="00:34:46.879" style="s2">write this okay see you see what it&#39;s</p>
+<p begin="00:34:44.940" end="00:34:49.169" style="s2">doing right like it&#39;s kind of annoying</p>
+<p begin="00:34:46.879" end="00:34:53.399" style="s2">this is a stupid alright this I can just</p>
+<p begin="00:34:49.169" end="00:34:59.970" style="s2">say other action plus 1 mod num actions</p>
+<p begin="00:34:53.399" end="00:35:02.130" style="s2">these guys are noobs and I want to</p>
+<p begin="00:34:59.970" end="00:35:06.320" style="s2">confirm that mod and pythons way to like</p>
+<p begin="00:35:02.130" end="00:35:06.320" style="s2">minus 1 mod gnome actions goats - I</p>
+<p begin="00:35:09.770" end="00:35:14.700" style="s2">understand they even wrote a paragraph</p>
+<p begin="00:35:11.790" end="00:35:16.290" style="s2">introducing inline if statements like I</p>
+<p begin="00:35:14.700" end="00:35:20.180" style="s2">know the guy like discovered in line of</p>
+<p begin="00:35:16.290" end="00:35:20.180" style="s2">statements and you know I get excited</p>
+<p begin="00:35:21.200" end="00:35:24.720" style="s2">now there&#39;s the thing about these kind</p>
+<p begin="00:35:23.130" end="00:35:26.520" style="s2">of research people like some of them are</p>
+<p begin="00:35:24.720" end="00:35:30.780" style="s2">absolute geniuses and I understand math</p>
+<p begin="00:35:26.520" end="00:35:35.790" style="s2">I never will but then they like code and</p>
+<p begin="00:35:30.780" end="00:35:38.780" style="s2">they came Oh strategy some plus equals</p>
+<p begin="00:35:35.790" end="00:35:38.780" style="s2">strategy</p>
+<p begin="00:35:53.290" end="00:35:56.530" style="s2">small right</p>
+<p begin="00:36:25.269" end="00:36:28.779" style="s2">that&#39;s just not right</p>
+<p begin="00:36:48.080" end="00:37:20.700" style="s2">how did strategy some become three what</p>
+<p begin="00:37:01.950" end="00:37:24.770" style="s2">oh okay</p>
+<p begin="00:37:20.700" end="00:37:29.040" style="s2">so here are my regrets I regret playing</p>
+<p begin="00:37:24.770" end="00:37:32.660" style="s2">rock not at all cuz I don&#39;t understand</p>
+<p begin="00:37:29.040" end="00:37:32.660" style="s2">why that&#39;s negative that&#39;s weird</p>
+<p begin="00:37:43.430" end="00:37:47.569" style="s2">cumulate action regrets</p>
+<p begin="00:37:52.700" end="00:37:58.420" style="s2">I mean looks like we&#39;re close I just</p>
+<p begin="00:37:55.250" end="00:38:02.180" style="s2">need to write this last function yet</p>
+<p begin="00:37:58.420" end="00:38:04.280" style="s2">average strategy so what we&#39;re expecting</p>
+<p begin="00:38:02.180" end="00:38:07.609" style="s2">to get and we can run it down here once</p>
+<p begin="00:38:04.280" end="00:38:11.690" style="s2">we have a strategy is a value of about</p>
+<p begin="00:38:07.609" end="00:38:14.960" style="s2">when I delete that I think the optimal</p>
+<p begin="00:38:11.690" end="00:38:16.280" style="s2">strategy against a agent we should use</p>
+<p begin="00:38:14.960" end="00:38:18.049" style="s2">the right word for this an agent with a</p>
+<p begin="00:38:16.280" end="00:38:21.200" style="s2">stationary distribution that favors</p>
+<p begin="00:38:18.049" end="00:38:22.910" style="s2">wrong is to always play paper so that</p>
+<p begin="00:38:21.200" end="00:38:25.160" style="s2">strategy is that when you encode it in</p>
+<p begin="00:38:22.910" end="00:38:29.900" style="s2">strategy for him and this gives me a</p>
+<p begin="00:38:25.160" end="00:38:31.130" style="s2">mean value of 10 so I think that&#39;s the</p>
+<p begin="00:38:29.900" end="00:38:33.109" style="s2">best we can do so that&#39;s what we&#39;re</p>
+<p begin="00:38:31.130" end="00:38:34.160" style="s2">hoping for when we run this at the end</p>
+<p begin="00:38:33.109" end="00:38:35.170" style="s2">you know it&#39;s always nice to write your</p>
+<p begin="00:38:34.160" end="00:38:48.380" style="s2">evaluator</p>
+<p begin="00:38:35.170" end="00:38:52.040" style="s2">to my misspelled average okay equals NP</p>
+<p begin="00:38:48.380" end="00:38:54.410" style="s2">zeroes please uh follow me on Instagram</p>
+<p begin="00:38:52.040" end="00:39:02.210" style="s2">you know just that&#39;s my real dream in</p>
+<p begin="00:38:54.410" end="00:39:05.109" style="s2">life okay wait this looks like denticles</p>
+<p begin="00:39:02.210" end="00:39:05.109" style="s2">to get strategy</p>
+<p begin="00:39:09.310" end="00:39:24.520" style="s2">great it&#39;s just identical to get</p>
+<p begin="00:39:11.260" end="00:39:28.680" style="s2">strategy I think normalizing sums just a</p>
+<p begin="00:39:24.520" end="00:39:28.680" style="s2">sum the normal sum is greater than zero</p>
+<p begin="00:39:31.440" end="00:39:41.260" style="s2">sure oh well they&#39;re not doing this zero</p>
+<p begin="00:39:35.440" end="00:39:43.510" style="s2">thing it just doesn&#39;t make sense I don&#39;t</p>
+<p begin="00:39:41.260" end="00:39:45.370" style="s2">really understand what this does but I</p>
+<p begin="00:39:43.510" end="00:39:57.280" style="s2">think that it&#39;s just that if I take that</p>
+<p begin="00:39:45.370" end="00:40:02.020" style="s2">line away negative regrets up well that</p>
+<p begin="00:39:57.280" end="00:40:03.430" style="s2">sounds are highly okay yeah this this is</p>
+<p begin="00:40:02.020" end="00:40:04.630" style="s2">computer in a manner similar to get</p>
+<p begin="00:40:03.430" end="00:40:06.280" style="s2">strategy without the need to be</p>
+<p begin="00:40:04.630" end="00:40:09.900" style="s2">concerned negative values okay I mean</p>
+<p begin="00:40:06.280" end="00:40:09.900" style="s2">again I don&#39;t really understand that but</p>
+<p begin="00:40:11.370" end="00:40:20.670" style="s2">okay so let&#39;s train for a lot of ethics</p>
+<p begin="00:40:16.710" end="00:40:20.670" style="s2">and then</p>
+<p begin="00:40:29.240" end="00:40:37.110" style="s2">okay so strategy is global thing that I</p>
+<p begin="00:40:33.060" end="00:40:43.650" style="s2">don&#39;t really have anywhere Oh</p>
+<p begin="00:40:37.110" end="00:40:53.610" style="s2">so this is strategy some we don&#39;t have</p>
+<p begin="00:40:43.650" end="00:40:54.900" style="s2">that at all strategy I don&#39;t even</p>
+<p begin="00:40:53.610" end="00:40:57.630" style="s2">understand like I don&#39;t know what this</p>
+<p begin="00:40:54.900" end="00:41:04.200" style="s2">is used for period because it&#39;s used</p>
+<p begin="00:40:57.630" end="00:41:06.180" style="s2">here like like that used to be a global</p>
+<p begin="00:41:04.200" end="00:41:07.380" style="s2">variable let&#39;s just make sure sometimes</p>
+<p begin="00:41:06.180" end="00:41:08.550" style="s2">you restart your notebooks make sure you</p>
+<p begin="00:41:07.380" end="00:41:11.360" style="s2">don&#39;t have just a little bit hanging</p>
+<p begin="00:41:08.550" end="00:41:11.360" style="s2">around that you&#39;re using</p>
+<p begin="00:41:12.910" end="00:41:16.090" style="s2">[Music]</p>
+<p begin="00:41:24.750" end="00:41:48.450" style="s2">oh no strategy just come to Uncle I can</p>
+<p begin="00:41:31.800" end="00:41:57.140" style="s2">treat you today okay so this key what&#39;s</p>
+<p begin="00:41:48.450" end="00:42:09.840" style="s2">not working in that one strategy some</p>
+<p begin="00:41:57.140" end="00:42:19.470" style="s2">use strategy some I don&#39;t know it&#39;s</p>
+<p begin="00:42:09.840" end="00:42:24.270" style="s2">basic okay let&#39;s get the average</p>
+<p begin="00:42:19.470" end="00:42:28.820" style="s2">strategy and see what we have local</p>
+<p begin="00:42:24.270" end="00:42:28.820" style="s2">variable strategy reference before her</p>
+<p begin="00:43:06.130" end="00:43:12.369" style="s2">oh my god I hate when stupid numpy does</p>
+<p begin="00:43:09.279" end="00:43:16.749" style="s2">this put this up in here I just have one</p>
+<p begin="00:43:12.369" end="00:43:18.299" style="s2">block that I copy set print options per</p>
+<p begin="00:43:16.749" end="00:43:21.069" style="s2">se it&#39;s true</p>
+<p begin="00:43:18.299" end="00:43:24.220" style="s2">okay now it looks correct I think the</p>
+<p begin="00:43:21.069" end="00:43:25.839" style="s2">strategy is exactly right so almost</p>
+<p begin="00:43:24.220" end="00:43:28.839" style="s2">never play Rock almost always play paper</p>
+<p begin="00:43:25.839" end="00:43:31.869" style="s2">and almost ever play scissors so if we</p>
+<p begin="00:43:28.839" end="00:43:36.729" style="s2">just replace this with strategy equals</p>
+<p begin="00:43:31.869" end="00:43:39.989" style="s2">get averaged strategy there we go ten</p>
+<p begin="00:43:36.729" end="00:43:46.180" style="s2">point two okay we just learned the</p>
+<p begin="00:43:39.989" end="00:43:47.739" style="s2">perfect strategy you think this is basic</p>
+<p begin="00:43:46.180" end="00:43:49.599" style="s2">do you understand this algorithm do you</p>
+<p begin="00:43:47.739" end="00:43:53.650" style="s2">honestly can you honestly tell me you</p>
+<p begin="00:43:49.599" end="00:43:57.279" style="s2">understand what this what this algorithm</p>
+<p begin="00:43:53.650" end="00:44:00.249" style="s2">is I don&#39;t know just kind of copied you</p>
+<p begin="00:43:57.279" end="00:44:05.920" style="s2">from this now let&#39;s see if we can</p>
+<p begin="00:44:00.249" end="00:44:08.349" style="s2">try to understand it okay so like this</p>
+<p begin="00:44:05.920" end="00:44:12.329" style="s2">is poorly written because the others</p>
+<p begin="00:44:08.349" end="00:44:12.329" style="s2">accumulates like this shouldn&#39;t be here</p>
+<p begin="00:44:13.619" end="00:44:23.069" style="s2">they should pass in regrets um let&#39;s</p>
+<p begin="00:44:20.140" end="00:44:23.069" style="s2">refactor this</p>
+<p begin="00:44:34.889" end="00:44:38.999" style="s2">move these down into train</p>
+<p begin="00:44:47.650" end="00:44:55.239" style="s2">this is better way to code because you</p>
+<p begin="00:44:49.539" end="00:44:59.039" style="s2">want to stick you wanna stick Global&#39;s</p>
+<p begin="00:44:55.239" end="00:44:59.039" style="s2">everywhere global some pretty nasty</p>
+<p begin="00:45:18.059" end="00:45:22.259" style="s2">especially in articles you write too</p>
+<p begin="00:45:42.500" end="00:45:47.520" style="s2">it&#39;s also doesn&#39;t eject me gnome actions</p>
+<p begin="00:45:45.090" end="00:45:51.630" style="s2">I could just say a strategy that shapes</p>
+<p begin="00:45:47.520" end="00:45:54.410" style="s2">of the CRL there&#39;s also ones like closer</p>
+<p begin="00:45:51.630" end="00:45:54.410" style="s2">to the same thing</p>
+<p begin="00:46:25.220" end="00:46:31.040" style="s2">is that really small right like it</p>
+<p begin="00:46:27.470" end="00:46:32.210" style="s2">doesn&#39;t look spelled right strat eg I</p>
+<p begin="00:46:31.040" end="00:46:38.569" style="s2">guess it is right</p>
+<p begin="00:46:32.210" end="00:46:39.140" style="s2">I mean asked repeatedly what&#39;s your</p>
+<p begin="00:46:38.569" end="00:46:40.430" style="s2">problem</p>
+<p begin="00:46:39.140" end="00:46:42.730" style="s2">I don&#39;t know op time come in all that</p>
+<p begin="00:46:40.430" end="00:46:42.730" style="s2"> is</p>
+<p begin="00:46:54.030" end="00:46:58.440" style="s2">that&#39;s right I don&#39;t even know what</p>
+<p begin="00:46:55.620" end="00:47:04.860" style="s2">average strategy was it&#39;s just a stupid</p>
+<p begin="00:46:58.440" end="00:47:06.510" style="s2">thing they used in there it&#39;s fine so</p>
+<p begin="00:47:04.860" end="00:47:08.070" style="s2">they really are you see much simpler</p>
+<p begin="00:47:06.510" end="00:47:20.190" style="s2">that is like once you write things that</p>
+<p begin="00:47:08.070" end="00:47:21.930" style="s2">aren&#39;t terrible you shouldn&#39;t do that</p>
+<p begin="00:47:20.190" end="00:47:27.120" style="s2">you see the danger there so let&#39;s just</p>
+<p begin="00:47:21.930" end="00:47:35.100" style="s2">learn em get our coffee in there start</p>
+<p begin="00:47:27.120" end="00:47:41.300" style="s2">let&#39;s see if it all runs no mansions is</p>
+<p begin="00:47:35.100" end="00:47:41.300" style="s2">not defined well stupid race condition</p>
+<p begin="00:48:10.710" end="00:48:21.940" style="s2">alright alright then of course we train</p>
+<p begin="00:48:15.490" end="00:48:24.690" style="s2">it for more don&#39;t the verge better how</p>
+<p begin="00:48:21.940" end="00:48:27.550" style="s2">am I gonna draw that little plot as well</p>
+<p begin="00:48:24.690" end="00:48:37.390" style="s2">get strategy requires one positional</p>
+<p begin="00:48:27.550" end="00:48:42.520" style="s2">argument strategy cool so it always</p>
+<p begin="00:48:37.390" end="00:48:45.730" style="s2">picks paper it&#39;s a paper his action one</p>
+<p begin="00:48:42.520" end="00:48:48.070" style="s2">I am so rock paper scissors paper Swan</p>
+<p begin="00:48:45.730" end="00:48:53.680" style="s2">this isn&#39;t in blue which starts that one</p>
+<p begin="00:48:48.070" end="00:48:54.970" style="s2">all hey Lu Italy okay guys I think we</p>
+<p begin="00:48:53.680" end="00:49:06.610" style="s2">learned about counterfactual</p>
+<p begin="00:48:54.970" end="00:49:08.770" style="s2">urbanization neither I will stream in</p>
+<p begin="00:49:06.610" end="00:49:11.730" style="s2">our let&#39;s go through and make sure we</p>
+<p begin="00:49:08.770" end="00:49:12.940" style="s2">actually understand what&#39;s codes doing</p>
+<p begin="00:49:11.730" end="00:49:17.040" style="s2">okay</p>
+<p begin="00:49:12.940" end="00:49:26.720" style="s2">so qu</p>
+<p begin="00:49:17.040" end="00:49:29.880" style="s2">late current strategy based on regrets</p>
+<p begin="00:49:26.720" end="00:49:29.880" style="s2">[Music]</p>
+<p begin="00:49:30.180" end="00:49:41.940" style="s2">select my and Poland&#39;s</p>
+<p begin="00:49:39.040" end="00:49:41.940" style="s2">action</p>
+<p begin="00:49:44.250" end="00:49:53.380" style="s2">okay let&#39;s so I mean this is the rules</p>
+<p begin="00:49:49.420" end="00:49:59.920" style="s2">of rock-paper-scissors here the action</p>
+<p begin="00:49:53.380" end="00:50:03.630" style="s2">utility of the other action so if we</p>
+<p begin="00:49:59.920" end="00:50:03.630" style="s2">yeah you always want to do the next one</p>
+<p begin="00:50:05.220" end="00:50:12.900" style="s2">so we can say like if P plus one loss</p>
+<p begin="00:50:15.420" end="00:50:20.860" style="s2">that&#39;s covered by so we want to do this</p>
+<p begin="00:50:18.600" end="00:50:25.290" style="s2">MA remember how I said we could do is</p>
+<p begin="00:50:20.860" end="00:50:31.630" style="s2">cute thing with a mod equals p2 so paper</p>
+<p begin="00:50:25.290" end="00:50:32.830" style="s2">we want if player two pays paper we want</p>
+<p begin="00:50:31.630" end="00:50:39.130" style="s2">to play the previous action which is</p>
+<p begin="00:50:32.830" end="00:50:40.360" style="s2">rock so that&#39;ll clean up that code now</p>
+<p begin="00:50:39.130" end="00:50:41.830" style="s2">if we were doing this in Cocke you know</p>
+<p begin="00:50:40.360" end="00:50:43.260" style="s2">be kind of beautiful because we could</p>
+<p begin="00:50:41.830" end="00:50:45.400" style="s2">confirm those two things are equivalent</p>
+<p begin="00:50:43.260" end="00:50:46.750" style="s2">like I wish it was just a way to just do</p>
+<p begin="00:50:45.400" end="00:50:48.310" style="s2">that in Python right leg over the same</p>
+<p begin="00:50:46.750" end="00:50:50.520" style="s2">function we just say those two functions</p>
+<p begin="00:50:48.310" end="00:50:50.520" style="s2">are equivalent</p>
+<p begin="00:50:50.660" end="00:50:53.900" style="s2">[Music]</p>
+<p begin="00:51:05.830" end="00:51:15.430" style="s2">eight that&#39;s pathetic why do you do so</p>
+<p begin="00:51:07.960" end="00:51:17.590" style="s2">badly call variance guys even if you&#39;re</p>
+<p begin="00:51:15.430" end="00:51:22.050" style="s2">you know playing an advantage you can</p>
+<p begin="00:51:17.590" end="00:51:22.050" style="s2">still lose here&#39;s gotta remember that</p>
+<p begin="00:51:23.280" end="00:51:28.240" style="s2">how they coded in Java</p>
+<p begin="00:51:25.980" end="00:51:30.760" style="s2">okay the average strategies computer</p>
+<p begin="00:51:28.240" end="00:51:32.290" style="s2">regret matching in other words is this</p>
+<p begin="00:51:30.760" end="00:51:33.400" style="s2">the best respond to their strategy you</p>
+<p begin="00:51:32.290" end="00:51:40.300" style="s2">might not be obvious because always a</p>
+<p begin="00:51:33.400" end="00:51:43.120" style="s2">pure it might not be obvious but there&#39;s</p>
+<p begin="00:51:40.300" end="00:51:47.470" style="s2">always a pure best response strategy to</p>
+<p begin="00:51:43.120" end="00:51:49.210" style="s2">any mix strategy I mean I guess alright</p>
+<p begin="00:51:47.470" end="00:51:50.830" style="s2">cuz even if you have the correct mixed</p>
+<p begin="00:51:49.210" end="00:51:52.510" style="s2">strategy of rock-paper-scissors which is</p>
+<p begin="00:51:50.830" end="00:51:54.160" style="s2">one-third one-third one-third I can play</p>
+<p begin="00:51:52.510" end="00:51:56.380" style="s2">I can play always Rock and it&#39;ll do the</p>
+<p begin="00:51:54.160" end="00:51:58.870" style="s2">same there&#39;s no agent that&#39;ll play</p>
+<p begin="00:51:56.380" end="00:52:01.300" style="s2">against that better the only difference</p>
+<p begin="00:51:58.870" end="00:52:05.370" style="s2">is exploitability they go into this</p>
+<p begin="00:52:01.300" end="00:52:05.370" style="s2">stuff called local best response Oh</p>
+<p begin="00:52:06.900" end="00:52:11.500" style="s2">modified so both players use your grant</p>
+<p begin="00:52:10.030" end="00:52:17.830" style="s2">matching should we do that you actually</p>
+<p begin="00:52:11.500" end="00:52:21.550" style="s2">write that eight is just like my number</p>
+<p begin="00:52:17.830" end="00:52:25.800" style="s2">out of a hundred my my wins some winning</p>
+<p begin="00:52:21.550" end="00:52:25.800" style="s2">what I say that in poker I&#39;d be like</p>
+<p begin="00:52:28.860" end="00:52:35.260" style="s2">yeah it means my advantage is like if we</p>
+<p begin="00:52:33.040" end="00:52:37.510" style="s2">play for a hundred I expect a dollar</p>
+<p begin="00:52:35.260" end="00:52:39.430" style="s2">each I expect if we play a hundred times</p>
+<p begin="00:52:37.510" end="00:52:44.980" style="s2">for a dollar each I expect to be up ten</p>
+<p begin="00:52:39.430" end="00:52:46.720" style="s2">dollars which I&#39;m sure there&#39;s an</p>
+<p begin="00:52:44.980" end="00:52:49.020" style="s2">explicit way to calculate it but I don&#39;t</p>
+<p begin="00:52:46.720" end="00:52:49.020" style="s2">know it</p>
+<p begin="00:52:51.300" end="00:52:59.520" style="s2">a median a better estimator of the chef</p>
+<p begin="00:52:57.660" end="00:53:03.360" style="s2">oh yeah 10-point know exactly oh yeah</p>
+<p begin="00:52:59.520" end="00:53:04.190" style="s2">look at that median estimator solid all</p>
+<p begin="00:53:03.360" end="00:53:11.280" style="s2">right let&#39;s do it</p>
+<p begin="00:53:04.190" end="00:53:22.260" style="s2">okay so if we&#39;re gonna train both our</p>
+<p begin="00:53:11.280" end="00:53:27.930" style="s2">players with 2p iterations just all</p>
+<p begin="00:53:22.260" end="00:53:30.770" style="s2">right this tumbly well we can write it a</p>
+<p begin="00:53:27.930" end="00:53:30.770" style="s2">little bit smarter</p>
+<p begin="00:53:36.760" end="00:53:43.580" style="s2">all right</p>
+<p begin="00:53:38.120" end="00:53:45.560" style="s2">she&#39;d be perfectly symmetric hey I do</p>
+<p begin="00:53:43.580" end="00:53:46.610" style="s2">suck a chance I we got five minutes to</p>
+<p begin="00:53:45.560" end="00:53:50.030" style="s2">do this let&#39;s go let&#39;s go let&#39;s go let&#39;s</p>
+<p begin="00:53:46.610" end="00:53:50.960" style="s2">go by the way guys this is really just</p>
+<p begin="00:53:50.030" end="00:53:52.490" style="s2">for me to shield free Instagram</p>
+<p begin="00:53:50.960" end="00:53:54.590" style="s2">followers so please go on Instagram</p>
+<p begin="00:53:52.490" end="00:53:55.520" style="s2">right now tell your friends tell your</p>
+<p begin="00:53:54.590" end="00:54:00.020" style="s2">mother</p>
+<p begin="00:53:55.520" end="00:54:01.880" style="s2">tell your sister tell your dogs and dogs</p>
+<p begin="00:54:00.020" end="00:54:05.840" style="s2">have Instagram accounts to go follow</p>
+<p begin="00:54:01.880" end="00:54:07.970" style="s2">after our trials on Instagram that&#39;s</p>
+<p begin="00:54:05.840" end="00:54:14.900" style="s2">right thank you rs poni for subscribing</p>
+<p begin="00:54:07.970" end="00:54:16.370" style="s2">I appreciate every subscriber just being</p>
+<p begin="00:54:14.900" end="00:54:19.360" style="s2">assigned to every time so this can</p>
+<p begin="00:54:16.370" end="00:54:19.360" style="s2">actually go inside the loop</p>
+<p begin="00:54:40.680" end="00:55:03.100" style="s2">okay so put this down here move these</p>
+<p begin="00:54:47.530" end="00:55:07.840" style="s2">two new thingy entertain that&#39;s no it&#39;s</p>
+<p begin="00:55:03.100" end="00:55:17.440" style="s2">not exactly gonna work that&#39;s okay</p>
+<p begin="00:55:07.840" end="00:55:20.580" style="s2">actually you know regrets um here and</p>
+<p begin="00:55:17.440" end="00:55:20.580" style="s2">strategy some here</p>
+<p begin="00:55:25.760" end="00:55:31.730" style="s2">I also have to pass in my opponent</p>
+<p begin="00:55:27.740" end="00:55:33.230" style="s2">strategy again you see up</p>
+<p begin="00:55:31.730" end="00:55:43.870" style="s2">whenever you use global variables</p>
+<p begin="00:55:33.230" end="00:55:47.990" style="s2">don&#39;t use global variables burrows and</p>
+<p begin="00:55:43.870" end="00:55:51.850" style="s2">return the two things we update look at</p>
+<p begin="00:55:47.990" end="00:55:51.850" style="s2">this functional programming ish</p>
+<p begin="00:56:01.840" end="00:56:08.320" style="s2">it still works I know it could pass in</p>
+<p begin="00:56:05.830" end="00:56:10.650" style="s2">the opponent strategy every day from</p>
+<p begin="00:56:08.320" end="00:56:10.650" style="s2">here</p>
+<p begin="00:56:16.460" end="00:56:22.589" style="s2">starts I&#39;m not I&#39;m dangling Global&#39;s</p>
+<p begin="00:56:19.559" end="00:56:24.630" style="s2">global variables are a bad choice if</p>
+<p begin="00:56:22.589" end="00:56:27.480" style="s2">you&#39;re using global variables you made</p>
+<p begin="00:56:24.630" end="00:56:31.829" style="s2">bad choices good news is you can fix</p>
+<p begin="00:56:27.480" end="00:56:34.230" style="s2">your bad choices by refactoring be a bro</p>
+<p begin="00:56:31.829" end="00:56:36.000" style="s2">refactor and don&#39;t use global variables</p>
+<p begin="00:56:34.230" end="00:56:37.289" style="s2">because somebody someday is gonna be</p>
+<p begin="00:56:36.000" end="00:56:39.930" style="s2">reading your code and I&#39;m gonna be like</p>
+<p begin="00:56:37.289" end="00:56:42.569" style="s2">why is only global variables all</p>
+<p begin="00:56:39.930" end="00:56:49.500" style="s2">right so now we want to go to player</p>
+<p begin="00:56:42.569" end="00:56:52.579" style="s2">let&#39;s say regrets on p1 walls s do we</p>
+<p begin="00:56:49.500" end="00:57:00.140" style="s2">actually need to track both of these I</p>
+<p begin="00:56:52.579" end="00:57:00.140" style="s2">think we do yes we do</p>
+<p begin="00:57:01.039" end="00:57:14.720" style="s2">got some p2 a song p1 strategy some T</p>
+<p begin="00:57:11.190" end="00:57:17.940" style="s2">two generations</p>
+<p begin="00:57:14.720" end="00:57:29.039" style="s2">all right let&#39;s train player one now</p>
+<p begin="00:57:17.940" end="00:57:33.960" style="s2">what school is for opponent strategy we</p>
+<p begin="00:57:29.039" end="00:57:36.359" style="s2">say equals get average strategy get</p>
+<p begin="00:57:33.960" end="00:57:40.799" style="s2">average strategy this is why I like</p>
+<p begin="00:57:36.359" end="00:57:45.170" style="s2">using them get over strategies judges so</p>
+<p begin="00:57:40.799" end="00:57:45.170" style="s2">this is train p1</p>
+<p begin="00:57:48.690" end="00:57:52.589" style="s2">and we should know what this converges</p>
+<p begin="00:57:50.789" end="00:57:53.760" style="s2">to it should be because they&#39;re both</p>
+<p begin="00:57:52.589" end="00:57:58.130" style="s2">trying to exploit each other it should</p>
+<p begin="00:57:53.760" end="00:58:01.639" style="s2">be just 1/3 1/3 1/3 for both of them</p>
+<p begin="00:57:58.130" end="00:58:01.639" style="s2">[Music]</p>
+<p begin="00:58:10.789" end="00:58:17.270" style="s2">turned strategy some p1</p>
+<p begin="00:58:33.510" end="00:58:38.350" style="s2">no it&#39;s not ready to get a machete yeah</p>
+<p begin="00:58:36.220" end="00:58:39.730" style="s2">sure just the same as calling normalizer</p>
+<p begin="00:58:38.350" end="00:58:43.320" style="s2">like that&#39;s all it does yeah it just</p>
+<p begin="00:58:39.730" end="00:58:43.320" style="s2">calls him harm home has is so stupid</p>
+<p begin="00:59:00.080" end="00:59:09.270" style="s2">okay well that isn&#39;t what it converged</p>
+<p begin="00:59:04.470" end="00:59:11.490" style="s2">to but it really may not matter there</p>
+<p begin="00:59:09.270" end="00:59:14.450" style="s2">might be no things forcing this to</p>
+<p begin="00:59:11.490" end="00:59:14.450" style="s2">converge to anything</p>
+<p begin="00:59:14.820" end="00:59:18.089" style="s2">[Music]</p>
+<p begin="00:59:18.500" end="00:59:22.400" style="s2">yeah as garrotted s</p>
+<p begin="00:59:32.990" end="00:59:46.290" style="s2">as long as this is zero I think it&#39;s</p>
+<p begin="00:59:35.310" end="00:59:56.580" style="s2">just right wait 30 not as up yeah</p>
+<p begin="00:59:46.290" end="01:00:02.370" style="s2">okay this is not an okay strategy all</p>
+<p begin="00:59:56.580" end="01:00:04.290" style="s2">right let&#39;s figure out what happened two</p>
+<p begin="01:00:02.370" end="01:00:06.450" style="s2">players are some game pair of average</p>
+<p begin="01:00:04.290" end="01:00:17.310" style="s2">strategies converges to a neat Nash</p>
+<p begin="01:00:06.450" end="01:00:24.870" style="s2">equilibrium okay maybe this is like</p>
+<p begin="01:00:17.310" end="01:00:28.050" style="s2">unstable like Ganz you know so hope to</p>
+<p begin="01:00:24.870" end="01:00:31.740" style="s2">try something like this where they like</p>
+<p begin="01:00:28.050" end="01:00:38.850" style="s2">train against each other for a bet or</p>
+<p begin="01:00:31.740" end="01:00:44.330" style="s2">did I just make a typo I think we might</p>
+<p begin="01:00:38.850" end="01:00:44.330" style="s2">have to reset the over gret some here</p>
+<p begin="01:00:44.450" end="01:00:50.730" style="s2">try resetting them both I don&#39;t know</p>
+<p begin="01:00:48.470" end="01:00:53.030" style="s2">I&#39;ll try just resetting one and see what</p>
+<p begin="01:00:50.730" end="01:00:53.030" style="s2">happens</p>
+<p begin="01:01:17.359" end="01:01:20.690" style="s2">do anymore</p>
+<p begin="01:01:37.930" end="01:01:59.270" style="s2">and keep your rats local yeah that&#39;s</p>
+<p begin="01:01:43.670" end="01:02:01.390" style="s2">closer more Oh run run run run yeah okay</p>
+<p begin="01:01:59.270" end="01:02:03.650" style="s2">so that&#39;s much better</p>
+<p begin="01:02:01.390" end="01:02:05.210" style="s2">now when we run them against each other</p>
+<p begin="01:02:03.650" end="01:02:10.520" style="s2">we&#39;re still getting that because I</p>
+<p begin="01:02:05.210" end="01:02:14.090" style="s2">didn&#39;t run this okay cool</p>
+<p begin="01:02:10.520" end="01:02:17.270" style="s2">so that&#39;s very close to zero okay so it</p>
+<p begin="01:02:14.090" end="01:02:19.610" style="s2">works let&#39;s see if we can take this</p>
+<p begin="01:02:17.270" end="01:02:22.250" style="s2">outside and if it still works or do you</p>
+<p begin="01:02:19.610" end="01:02:29.420" style="s2">have to do the regret sums I know what</p>
+<p begin="01:02:22.250" end="01:02:32.870" style="s2">we did the first time didn&#39;t work train</p>
+<p begin="01:02:29.420" end="01:02:35.150" style="s2">train train train train no see that</p>
+<p begin="01:02:32.870" end="01:02:37.010" style="s2">doesn&#39;t work okay so you have to reset</p>
+<p begin="01:02:35.150" end="01:02:42.170" style="s2">the regret sums every time or it doesn&#39;t</p>
+<p begin="01:02:37.010" end="01:02:43.910" style="s2">work as for why that&#39;s true</p>
+<p begin="01:02:42.170" end="01:02:46.550" style="s2">maybe we&#39;ll leave that as an exercise to</p>
+<p begin="01:02:43.910" end="01:02:48.920" style="s2">the reader because I don&#39;t know but it</p>
+<p begin="01:02:46.550" end="01:02:53.540" style="s2">certainly seems true now if you want it</p>
+<p begin="01:02:48.920" end="01:02:55.310" style="s2">to converge to this stuff yeah no I mean</p>
+<p begin="01:02:53.540" end="01:02:59.890" style="s2">okay you can kind of see why right if</p>
+<p begin="01:02:55.310" end="01:03:03.140" style="s2">the other opponent is playing a strategy</p>
+<p begin="01:02:59.890" end="01:03:05.630" style="s2">where they&#39;re always playing Rock right</p>
+<p begin="01:03:03.140" end="01:03:06.950" style="s2">you&#39;re gonna say oh well my strategy is</p>
+<p begin="01:03:05.630" end="01:03:09.230" style="s2">I&#39;m always gonna play paper and you&#39;re</p>
+<p begin="01:03:06.950" end="01:03:11.270" style="s2">gonna you&#39;re gonna really regret every</p>
+<p begin="01:03:09.230" end="01:03:12.890" style="s2">time you don&#39;t play paper um but then</p>
+<p begin="01:03:11.270" end="01:03:14.360" style="s2">your opponents like oh hey wait a second</p>
+<p begin="01:03:12.890" end="01:03:19.400" style="s2">this guy&#39;s moron he&#39;s always playing</p>
+<p begin="01:03:14.360" end="01:03:21.430" style="s2">paper imma always play scissors so um</p>
+<p begin="01:03:19.400" end="01:03:23.750" style="s2">you know what I have an idea let&#39;s uh</p>
+<p begin="01:03:21.430" end="01:03:26.920" style="s2">this isn&#39;t that many iterations</p>
+<p begin="01:03:23.750" end="01:03:26.920" style="s2">let&#39;s put strategy every time</p>
+<p begin="01:03:45.059" end="01:03:53.579" style="s2">yeah okay cool you see what Convergys so</p>
+<p begin="01:03:48.449" end="01:03:56.999" style="s2">yeah look she can see the first one here</p>
+<p begin="01:03:53.579" end="01:04:00.539" style="s2">player 1 had a propensity toward rock</p>
+<p begin="01:03:56.999" end="01:04:04.259" style="s2">player 2 learned always uh always play</p>
+<p begin="01:04:00.539" end="01:04:06.179" style="s2">paper then yeah yeah well I was really</p>
+<p begin="01:04:04.259" end="01:04:07.679" style="s2">cool player 2 Oh this worked way better</p>
+<p begin="01:04:06.179" end="01:04:10.949" style="s2">than I thought I look I love when things</p>
+<p begin="01:04:07.679" end="01:04:15.299" style="s2">work so this thing learned to have a</p>
+<p begin="01:04:10.949" end="01:04:21.989" style="s2">propensity towards scissors for some</p>
+<p begin="01:04:15.299" end="01:04:24.479" style="s2">reason despite that it well I guess it&#39;s</p>
+<p begin="01:04:21.989" end="01:04:25.799" style="s2">just a small propensity some reason I</p>
+<p begin="01:04:24.479" end="01:04:27.089" style="s2">learned to never play scissors oh I</p>
+<p begin="01:04:25.799" end="01:04:28.439" style="s2">guess cuz that was okay that was the</p>
+<p begin="01:04:27.089" end="01:04:30.630" style="s2">strategy from before where it never</p>
+<p begin="01:04:28.439" end="01:04:32.130" style="s2">played scissors then it learns that it</p>
+<p begin="01:04:30.630" end="01:04:33.029" style="s2">has to start playing scissors again then</p>
+<p begin="01:04:32.130" end="01:04:37.349" style="s2">it plays this which isn&#39;t really</p>
+<p begin="01:04:33.029" end="01:04:39.119" style="s2">exploitable cool I mean I wonder if we</p>
+<p begin="01:04:37.349" end="01:04:41.099" style="s2">could put it to K factor on the strategy</p>
+<p begin="01:04:39.119" end="01:04:42.359" style="s2">or even if we have to we probably don&#39;t</p>
+<p begin="01:04:41.099" end="01:04:44.429" style="s2">that&#39;s probably one of the cool things</p>
+<p begin="01:04:42.359" end="01:04:49.859" style="s2">about it well you see that it eventually</p>
+<p begin="01:04:44.429" end="01:04:54.209" style="s2">converges I wonder if we can even lower</p>
+<p begin="01:04:49.859" end="01:04:56.689" style="s2">this number is this number you can see</p>
+<p begin="01:04:54.209" end="01:05:01.039" style="s2">yeah yeah needs a few more than that</p>
+<p begin="01:04:56.689" end="01:05:01.039" style="s2">didn&#39;t say this algorithm was fast guys</p>
+<p begin="01:05:09.270" end="01:05:17.710" style="s2">cool yeah it&#39;s converging and like</p>
+<p begin="01:05:13.510" end="01:05:20.230" style="s2">that&#39;s close to an equilibrium but you</p>
+<p begin="01:05:17.710" end="01:05:22.420" style="s2">know things take a long time so really</p>
+<p begin="01:05:20.230" end="01:05:24.850" style="s2">cool look you wanted to play early rock</p>
+<p begin="01:05:22.420" end="01:05:26.530" style="s2">I don&#39;t know why he learns early rock</p>
+<p begin="01:05:24.850" end="01:05:29.980" style="s2">maybe you might using the same random</p>
+<p begin="01:05:26.530" end="01:05:31.630" style="s2">seeds or something but uh yeah and</p>
+<p begin="01:05:29.980" end="01:05:33.820" style="s2">there&#39;s probably 27 subtle bugs in this</p>
+<p begin="01:05:31.630" end="01:05:36.030" style="s2">that&#39;s making it less than perfect I&#39;m</p>
+<p begin="01:05:33.820" end="01:05:41.950" style="s2">pretty happy with that we built an</p>
+<p begin="01:05:36.030" end="01:05:46.500" style="s2">automatic rock-paper-scissors a I pull</p>
+<p begin="01:05:41.950" end="01:05:49.540" style="s2">like the stream give me your feedback</p>
+<p begin="01:05:46.500" end="01:05:50.170" style="s2">and also don&#39;t forget follow me on</p>
+<p begin="01:05:49.540" end="01:05:54.160" style="s2">Instagram</p>
+<p begin="01:05:50.170" end="01:05:55.450" style="s2">she&#39;s over there now so look that&#39;s I</p>
+<p begin="01:05:54.160" end="01:05:56.530" style="s2">gotta use the other hand so it&#39;s over</p>
+<p begin="01:05:55.450" end="01:06:01.060" style="s2">there so that I see the see the</p>
+<p begin="01:05:56.530" end="01:06:04.470" style="s2">Instagram hope you all enjoyed there&#39;s</p>
+<p begin="01:06:01.060" end="01:06:06.940" style="s2">some high quality programming content</p>
+<p begin="01:06:04.470" end="01:06:10.090" style="s2">the algorithms called counterfactual</p>
+<p begin="01:06:06.940" end="01:06:14.620" style="s2">regret minimization and it is the key to</p>
+<p begin="01:06:10.090" end="01:06:18.100" style="s2">solving high complexity imperfect</p>
+<p begin="01:06:14.620" end="01:06:21.460" style="s2">information games oh why don&#39;t we go</p>
+<p begin="01:06:18.100" end="01:06:25.270" style="s2">what are we gonna play the knows</p>
+<p begin="01:06:21.460" end="01:06:26.920" style="s2">about that our PS game thank you thank</p>
+<p begin="01:06:25.270" end="01:06:28.600" style="s2">you for following on Instagram tell</p>
+<p begin="01:06:26.920" end="01:06:30.010" style="s2">everybody you know I want a million</p>
+<p begin="01:06:28.600" end="01:06:32.110" style="s2">followers by the end of the year I</p>
+<p begin="01:06:30.010" end="01:06:34.450" style="s2">believe in you guys I don&#39;t know I don&#39;t</p>
+<p begin="01:06:32.110" end="01:06:38.380" style="s2">know how I&#39;m gonna do it yet but never</p>
+<p begin="01:06:34.450" end="01:06:42.970" style="s2">just believe man you ever know them of</p>
+<p begin="01:06:38.380" end="01:06:44.470" style="s2">them am i sharing that too bitter nope</p>
+<p begin="01:06:42.970" end="01:06:46.870" style="s2">nope no it&#39;s a secret</p>
+<p begin="01:06:44.470" end="01:06:49.810" style="s2">oh I got all bloated somewhat about</p>
+<p begin="01:06:46.870" end="01:06:54.040" style="s2">effort you can even retype it you learn</p>
+<p begin="01:06:49.810" end="01:06:57.490" style="s2">stuff by doing it thank you thank you</p>
+<p begin="01:06:54.040" end="01:07:00.580" style="s2">Pokhara alright what&#39;s up by twitches</p>
+<p begin="01:06:57.490" end="01:07:03.790" style="s2">bye see you later from beautiful lovely</p>
+<p begin="01:07:00.580" end="01:07:07.990" style="s2">LA with my got some candles I got some</p>
+<p begin="01:07:03.790" end="01:07:10.930" style="s2">other thing behind me no vinton a we did</p>
+<p begin="01:07:07.990" end="01:07:14.910" style="s2">ipython notebooks high quality ahh</p>
+<p begin="01:07:10.930" end="01:07:14.910" style="s2">bye bye bye bye</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.769" end="00:00:19.690" style="s2">good morning scobie&#39;s my room but trying</p>
+<p begin="00:00:17.090" end="00:00:19.690" style="s2">to vacuum the floor</p>
+<p begin="00:00:22.160" end="00:00:34.579" style="s2">oh yeah get in there get every corner</p>
+<p begin="00:00:27.340" end="00:00:36.320" style="s2">what up drinking a amante I got scope</p>
+<p begin="00:00:34.579" end="00:00:38.329" style="s2">he&#39;s one hand they got Mata and the</p>
+<p begin="00:00:36.320" end="00:00:40.690" style="s2">other a laptop in my back</p>
+<p begin="00:00:38.329" end="00:00:44.949" style="s2">it&#39;s morning guys I love morning</p>
+<p begin="00:00:40.690" end="00:00:48.790" style="s2">mornings my favorite tired day seriously</p>
+<p begin="00:00:44.949" end="00:00:53.210" style="s2">nobody&#39;s awake yet to ask me questions</p>
+<p begin="00:00:48.790" end="00:00:56.239" style="s2">no questions mornings I wake up maybe</p>
+<p begin="00:00:53.210" end="00:00:57.920" style="s2">I&#39;ll play a little chess maybe I&#39;ll read</p>
+<p begin="00:00:56.239" end="00:01:03.619" style="s2">a little bit I&#39;ve been reading Jordan</p>
+<p begin="00:00:57.920" end="00:01:07.220" style="s2">Peterson&#39;s book it&#39;s pretty good yeah</p>
+<p begin="00:01:03.619" end="00:01:09.530" style="s2">early scope yeah so I might lose some</p>
+<p begin="00:01:07.220" end="00:01:14.570" style="s2">reception when I walked out right on my</p>
+<p begin="00:01:09.530" end="00:01:16.400" style="s2">talks at 9:45 come find it</p>
+<p begin="00:01:14.570" end="00:01:21.170" style="s2">come find it I&#39;m going to be talking</p>
+<p begin="00:01:16.400" end="00:01:22.939" style="s2">about pandas neons and , and you know</p>
+<p begin="00:01:21.170" end="00:01:28.100" style="s2">I&#39;m dropping fire right you always drop</p>
+<p begin="00:01:22.939" end="00:01:31.850" style="s2">fire alright will it be online I don&#39;t</p>
+<p begin="00:01:28.100" end="00:01:37.969" style="s2">know but I will tweet out the fire part</p>
+<p begin="00:01:31.850" end="00:01:42.170" style="s2">of the talk after it&#39;s done oh I love</p>
+<p begin="00:01:37.969" end="00:01:44.899" style="s2">super hearts man yeah I know</p>
+<p begin="00:01:42.170" end="00:01:46.579" style="s2">well okay so but I&#39;m also doing a</p>
+<p begin="00:01:44.899" end="00:01:48.979" style="s2">workshop apparently I&#39;m not really sure</p>
+<p begin="00:01:46.579" end="00:01:52.310" style="s2">what that is but I&#39;m doing a workshop at</p>
+<p begin="00:01:48.979" end="00:01:56.659" style="s2">1:00 p.m. so if you guys are around for</p>
+<p begin="00:01:52.310" end="00:01:58.999" style="s2">that that is an option as well took my</p>
+<p begin="00:01:56.659" end="00:02:00.619" style="s2">MOT a laptop of my back on my air pods</p>
+<p begin="00:01:58.999" end="00:02:05.749" style="s2">in my pocket I bought a new pair of ear</p>
+<p begin="00:02:00.619" end="00:02:07.639" style="s2">pods read this survey this morning our</p>
+<p begin="00:02:05.749" end="00:02:09.440" style="s2">Tesla is the most trusted brand in</p>
+<p begin="00:02:07.639" end="00:02:11.590" style="s2">self-driving cars interesting to think</p>
+<p begin="00:02:09.440" end="00:02:11.590" style="s2">about</p>
+<p begin="00:02:13.140" end="00:02:18.210" style="s2">no no no we got fire man we got fire you</p>
+<p begin="00:02:16.530" end="00:02:20.070" style="s2">know a fire is we don&#39;t talk about what</p>
+<p begin="00:02:18.210" end="00:02:21.860" style="s2">fire is yeah we&#39;ll talk about what fire</p>
+<p begin="00:02:20.070" end="00:02:25.910" style="s2">is afterward</p>
+<p begin="00:02:21.860" end="00:02:28.080" style="s2">I&#39;m common next hey maybe I don&#39;t know</p>
+<p begin="00:02:25.910" end="00:02:32.340" style="s2">do I look like the kind of guy who can</p>
+<p begin="00:02:28.080" end="00:02:35.190" style="s2">be trusted I don&#39;t know about that um ah</p>
+<p begin="00:02:32.340" end="00:02:37.650" style="s2">there&#39;s a different pass for Expo and</p>
+<p begin="00:02:35.190" end="00:02:40.070" style="s2">speaking I don&#39;t know man I don&#39;t know</p>
+<p begin="00:02:37.650" end="00:02:42.060" style="s2">who actually goes to these conferences</p>
+<p begin="00:02:40.070" end="00:02:46.470" style="s2">probably people who want to get away</p>
+<p begin="00:02:42.060" end="00:02:48.660" style="s2">from their shitty jobs I don&#39;t blame you</p>
+<p begin="00:02:46.470" end="00:02:49.440" style="s2">find a shitty job and there&#39;s 72</p>
+<p begin="00:02:48.660" end="00:02:52.230" style="s2">conferences</p>
+<p begin="00:02:49.440" end="00:02:55.230" style="s2">I go - yeah I&#39;m gonna learn about the</p>
+<p begin="00:02:52.230" end="00:02:56.940" style="s2">Cyberman the cyber security notice how</p>
+<p begin="00:02:55.230" end="00:03:00.360" style="s2">everything that puts cyber in front of</p>
+<p begin="00:02:56.940" end="00:03:02.010" style="s2">his bullshit but even wired said that so</p>
+<p begin="00:03:00.360" end="00:03:08.310" style="s2">that&#39;s kind of bullshit I&#39;m quoting the</p>
+<p begin="00:03:02.010" end="00:03:09.810" style="s2">news here the media safety support an</p>
+<p begin="00:03:08.310" end="00:03:12.360" style="s2">actual safety you know it&#39;s not</p>
+<p begin="00:03:09.810" end="00:03:14.750" style="s2">important talking about safety so I&#39;m</p>
+<p begin="00:03:12.360" end="00:03:17.730" style="s2">not gonna talk about it anymore</p>
+<p begin="00:03:14.750" end="00:03:20.400" style="s2">am I on something you people always</p>
+<p begin="00:03:17.730" end="00:03:22.799" style="s2">think I&#39;m on drugs I&#39;m not on drugs most</p>
+<p begin="00:03:20.400" end="00:03:26.430" style="s2">of the time sometimes I am people think</p>
+<p begin="00:03:22.799" end="00:03:32.120" style="s2">I&#39;m more normal maybe but no no no just</p>
+<p begin="00:03:26.430" end="00:03:32.120" style="s2">just woke up submit my mottai you know</p>
+<p begin="00:03:33.440" end="00:03:39.450" style="s2">when I smoke and get like normal man</p>
+<p begin="00:03:36.320" end="00:03:43.620" style="s2">this is the Hyper&#39;s is just the hyper is</p>
+<p begin="00:03:39.450" end="00:03:48.410" style="s2">just my life I got to have a lot of</p>
+<p begin="00:03:43.620" end="00:03:48.410" style="s2">energy good bye</p>
+<p begin="00:03:49.150" end="00:03:52.180" style="s2">all right so we&#39;re gonna buy a Muni</p>
+<p begin="00:03:51.010" end="00:03:55.170" style="s2">ticket you guys on bottom you need to</p>
+<p begin="00:03:52.180" end="00:03:58.060" style="s2">take it with me taking the Muni downtown</p>
+<p begin="00:03:55.170" end="00:04:02.700" style="s2">they miss the Muni ones the next Muni</p>
+<p begin="00:03:58.060" end="00:04:04.810" style="s2">come heels good ma&#39;am</p>
+<p begin="00:04:02.700" end="00:04:08.290" style="s2">another interesting thing that about</p>
+<p begin="00:04:04.810" end="00:04:10.870" style="s2">that survey was wammo wasn&#39;t very highly</p>
+<p begin="00:04:08.290" end="00:04:12.700" style="s2">rated and you don&#39;t really think like</p>
+<p begin="00:04:10.870" end="00:04:16.229" style="s2">how much does Google believe in their</p>
+<p begin="00:04:12.700" end="00:04:19.810" style="s2">crap if they won&#39;t call it Google right</p>
+<p begin="00:04:16.229" end="00:04:24.130" style="s2">alright let&#39;s buy Muni ticket by Muni</p>
+<p begin="00:04:19.810" end="00:04:25.510" style="s2">ticket adult single trip okay now let&#39;s</p>
+<p begin="00:04:24.130" end="00:04:32.160" style="s2">put $3 and OH</p>
+<p begin="00:04:25.510" end="00:04:32.160" style="s2">oh man let&#39;s go let&#39;s go let&#39;s go</p>
+<p begin="00:04:35.360" end="00:04:39.819" style="s2">I should just have Muni tickets you know</p>
+<p begin="00:04:43.180" end="00:04:46.339" style="s2">[Music]</p>
+<p begin="00:04:47.060" end="00:04:50.689" style="s2">take my dollar</p>
+<p begin="00:04:51.490" end="00:04:53.860" style="s2">sweet</p>
+<p begin="00:04:52.620" end="00:04:55.810" style="s2">[Music]</p>
+<p begin="00:04:53.860" end="00:04:57.850" style="s2">this community to go let&#39;s go let&#39;s go</p>
+<p begin="00:04:55.810" end="00:05:02.440" style="s2">let&#39;s go no I don&#39;t need to repeat only</p>
+<p begin="00:04:57.850" end="00:05:03.580" style="s2">my quarter just little homeless yeah</p>
+<p begin="00:05:02.440" end="00:05:07.990" style="s2">let&#39;s roll</p>
+<p begin="00:05:03.580" end="00:05:09.370" style="s2">oh man that pew meets packed so no one</p>
+<p begin="00:05:07.990" end="00:05:14.410" style="s2">really knows you can watch the way about</p>
+<p begin="00:05:09.370" end="00:05:16.060" style="s2">cars they drive like grandma&#39;s alright</p>
+<p begin="00:05:14.410" end="00:05:21.150" style="s2">scobie&#39;s I&#39;m sure I&#39;m gonna lose you</p>
+<p begin="00:05:16.060" end="00:05:24.450" style="s2">when we go in the Muni oh man oh man</p>
+<p begin="00:05:21.150" end="00:05:24.450" style="s2">excuse me</p>
+</div>
+</body>
+</tt>

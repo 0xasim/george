@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.610" end="00:00:08.160" style="s2">except better we get some quality issues</p>
+<p begin="00:00:06.419" end="00:00:10.230" style="s2">with the previous one I feel sometimes</p>
+<p begin="00:00:08.160" end="00:00:13.650" style="s2">periscope doesn&#39;t like try to up</p>
+<p begin="00:00:10.230" end="00:00:14.940" style="s2">bandwidth enough again may add a nursing</p>
+<p begin="00:00:13.650" end="00:00:22.470" style="s2">so what your people join so quickly but</p>
+<p begin="00:00:14.940" end="00:00:24.119" style="s2">it&#39;s a quality better dad tell me is a</p>
+<p begin="00:00:22.470" end="00:00:27.300" style="s2">quality about it by the way I can go to</p>
+<p begin="00:00:24.119" end="00:00:32.930" style="s2">Twitter or get Jack let&#39;s go to Twitter</p>
+<p begin="00:00:27.300" end="00:00:36.990" style="s2">how much better guy shave know either</p>
+<p begin="00:00:32.930" end="00:00:39.210" style="s2">you guys know instagrams facebook bros</p>
+<p begin="00:00:36.990" end="00:00:42.000" style="s2">but you know what new respect from Mark</p>
+<p begin="00:00:39.210" end="00:00:44.670" style="s2">Zuckerberg um okay cool I&#39;m glad it&#39;s</p>
+<p begin="00:00:42.000" end="00:00:46.620" style="s2">better is it much better I&#39;d say well</p>
+<p begin="00:00:44.670" end="00:00:48.270" style="s2">that&#39;s so good okay nobody can complain</p>
+<p begin="00:00:46.620" end="00:00:53.010" style="s2">right now you have broken now you have</p>
+<p begin="00:00:48.270" end="00:00:55.899" style="s2">broken stuff flip the orientation yes if</p>
+<p begin="00:00:53.010" end="00:01:05.440" style="s2">you&#39;re using a neo case you are</p>
+<p begin="00:00:55.899" end="00:01:11.890" style="s2">all right kissing screen now that&#39;s Jeff</p>
+<p begin="00:01:05.440" end="00:01:14.850" style="s2">whatever make sure it&#39;s good if you&#39;ve</p>
+<p begin="00:01:11.890" end="00:01:19.030" style="s2">joined the Wi-Fi Twitter&#39;s interface</p>
+<p begin="00:01:14.850" end="00:01:20.680" style="s2">saves the bit right that&#39;s so bad yeah</p>
+<p begin="00:01:19.030" end="00:01:22.509" style="s2">look we&#39;re watching myself on the scope</p>
+<p begin="00:01:20.680" end="00:01:24.310" style="s2">II that&#39;s pretty good I don&#39;t think we</p>
+<p begin="00:01:22.509" end="00:01:26.290" style="s2">can complain about that all right cool</p>
+<p begin="00:01:24.310" end="00:01:28.479" style="s2">let&#39;s go through the code um this is 0</p>
+<p begin="00:01:26.290" end="00:01:31.390" style="s2">for 4 are the biggest news is your yawns</p>
+<p begin="00:01:28.479" end="00:01:34.210" style="s2">are flipped if you don&#39;t have something</p>
+<p begin="00:01:31.390" end="00:01:37.330" style="s2">flipped you&#39;re gonna be very sad I see</p>
+<p begin="00:01:34.210" end="00:01:41.020" style="s2">you know we have the neo to Aeon trading</p>
+<p begin="00:01:37.330" end="00:01:43.149" style="s2">program ridge line support thanks to</p>
+<p begin="00:01:41.020" end="00:01:45.820" style="s2">energy optional front camera recording</p>
+<p begin="00:01:43.149" end="00:01:47.590" style="s2">increased acceleration the new</p>
+<p begin="00:01:45.820" end="00:01:50.710" style="s2">onboarding screen didn&#39;t make it in and</p>
+<p begin="00:01:47.590" end="00:01:52.149" style="s2">Neos are no longer supported so maybe we</p>
+<p begin="00:01:50.710" end="00:01:53.920" style="s2">should put a sad face next to that one</p>
+<p begin="00:01:52.149" end="00:01:57.220" style="s2">but it is sad so maybe we&#39;ll check it</p>
+<p begin="00:01:53.920" end="00:02:01.450" style="s2">with a sad face all right cool this is</p>
+<p begin="00:01:57.220" end="00:02:04.239" style="s2">the diff we added in a bunch of crap in</p>
+<p begin="00:02:01.450" end="00:02:05.800" style="s2">cereal car Kathy Eppie none of that</p>
+<p begin="00:02:04.239" end="00:02:10.390" style="s2">should matter never to you guys so you</p>
+<p begin="00:02:05.800" end="00:02:12.400" style="s2">can see the screen better cereal car</p>
+<p begin="00:02:10.390" end="00:02:14.349" style="s2">caffeine pee we added in a bunch of</p>
+<p begin="00:02:12.400" end="00:02:16.980" style="s2">crappy air I&#39;m gonna rotate you back</p>
+<p begin="00:02:14.349" end="00:02:16.980" style="s2">this is too hard</p>
+<p begin="00:02:17.040" end="00:02:21.849" style="s2">front cameras are now recorded we have a</p>
+<p begin="00:02:19.629" end="00:02:26.140" style="s2">third MPC you guys aren&#39;t really using</p>
+<p begin="00:02:21.849" end="00:02:28.420" style="s2">that and on the whip thatis we added in</p>
+<p begin="00:02:26.140" end="00:02:30.099" style="s2">the fingerprint for the bolt so we&#39;ve</p>
+<p begin="00:02:28.420" end="00:02:32.590" style="s2">pulled the voltage or our internal code</p>
+<p begin="00:02:30.099" end="00:02:37.030" style="s2">we&#39;re thinking about buying a GM next</p>
+<p begin="00:02:32.590" end="00:02:39.700" style="s2">week and doing the port record front is</p>
+<p begin="00:02:37.030" end="00:02:41.940" style="s2">now an option so this is just an option</p>
+<p begin="00:02:39.700" end="00:02:44.050" style="s2">and our usual options interface I</p>
+<p begin="00:02:41.940" end="00:02:46.090" style="s2">refactored the fingerprinting stuff bit</p>
+<p begin="00:02:44.050" end="00:02:48.250" style="s2">so if you guys remember this is what it</p>
+<p begin="00:02:46.090" end="00:02:49.989" style="s2">used to be to add a new car I don&#39;t have</p>
+<p begin="00:02:48.250" end="00:02:50.790" style="s2">like all these like try caches and stuff</p>
+<p begin="00:02:49.989" end="00:02:58.120" style="s2">so I just</p>
+<p begin="00:02:50.790" end="00:03:01.330" style="s2">refactor that to that what about bolt</p>
+<p begin="00:02:58.120" end="00:03:05.620" style="s2">yes the part the boldest of ACC it only</p>
+<p begin="00:03:01.330" end="00:03:09.909" style="s2">has L casts where do you store all these</p>
+<p begin="00:03:05.620" end="00:03:11.290" style="s2">cars we let the employees drive them you</p>
+<p begin="00:03:09.909" end="00:03:14.760" style="s2">guys tell us to worry about any of that</p>
+<p begin="00:03:11.290" end="00:03:14.760" style="s2">you&#39;re not using angle control</p>
+<p begin="00:03:17.480" end="00:03:21.360" style="s2">know why that wasn&#39;t in there I&#39;m not</p>
+<p begin="00:03:19.830" end="00:03:22.830" style="s2">really understanding why that changes in</p>
+<p begin="00:03:21.360" end="00:03:24.720" style="s2">there you guys have to worry about that</p>
+<p begin="00:03:22.830" end="00:03:28.590" style="s2">so notice the orientation is no longer</p>
+<p begin="00:03:24.720" end="00:03:30.030" style="s2">three it&#39;s now one the version was</p>
+<p begin="00:03:28.590" end="00:03:33.650" style="s2">bumped to 0 for 4</p>
+<p begin="00:03:30.030" end="00:03:35.760" style="s2">he used to be 0.32 now it&#39;s over for</p>
+<p begin="00:03:33.650" end="00:03:39.360" style="s2">bunch of improvements to the vision</p>
+<p begin="00:03:35.760" end="00:03:40.650" style="s2">stream API that just clean up better we</p>
+<p begin="00:03:39.360" end="00:03:44.070" style="s2">added a streaming for the front camera</p>
+<p begin="00:03:40.650" end="00:03:46.290" style="s2">so it can be recorded and oh we&#39;ve</p>
+<p begin="00:03:44.070" end="00:03:47.970" style="s2">changed it um so it&#39;s not just always</p>
+<p begin="00:03:46.290" end="00:03:49.440" style="s2">keep hands on wheel anymore</p>
+<p begin="00:03:47.970" end="00:03:52.739" style="s2">it&#39;s always keeping hands on wheel and</p>
+<p begin="00:03:49.440" end="00:03:54.239" style="s2">eyes on the road uh just you know pay</p>
+<p begin="00:03:52.739" end="00:03:57.560" style="s2">attention recall my buddies gonna be</p>
+<p begin="00:03:54.239" end="00:03:57.560" style="s2">here in 30 minutes it&#39;s perfect timing</p>
+<p begin="00:03:57.860" end="00:04:02.430" style="s2">if you clean up to the MPC don&#39;t use</p>
+<p begin="00:04:00.510" end="00:04:05.550" style="s2">divide the vines are evil we don&#39;t use</p>
+<p begin="00:04:02.430" end="00:04:08.250" style="s2">divides its yeah a lot of a path right</p>
+<p begin="00:04:05.550" end="00:04:12.290" style="s2">in Python I&#39;m since it generated code</p>
+<p begin="00:04:08.250" end="00:04:16.620" style="s2">I&#39;m very bad oh the uploader change um I</p>
+<p begin="00:04:12.290" end="00:04:18.120" style="s2">mention that Mia release notes oh I</p>
+<p begin="00:04:16.620" end="00:04:20.310" style="s2">should mention that the release notes oh</p>
+<p begin="00:04:18.120" end="00:04:23.280" style="s2">okay I&#39;ll make sure to add that um so</p>
+<p begin="00:04:20.310" end="00:04:25.440" style="s2">the upload are no longer uploads over</p>
+<p begin="00:04:23.280" end="00:04:27.090" style="s2">cellular if you turn off upload routes</p>
+<p begin="00:04:25.440" end="00:04:29.010" style="s2">over cellular so you guys can put a sim</p>
+<p begin="00:04:27.090" end="00:04:31.229" style="s2">card in your eons and they won&#39;t waste</p>
+<p begin="00:04:29.010" end="00:04:33.030" style="s2">tons of data anymore not that it&#39;s a</p>
+<p begin="00:04:31.229" end="00:04:35.370" style="s2">waste but if you don&#39;t have unlimited</p>
+<p begin="00:04:33.030" end="00:04:38.250" style="s2">data and now should use open pilots</p>
+<p begin="00:04:35.370" end="00:04:41.160" style="s2">should use like like a Megan our I&#39;m so</p>
+<p begin="00:04:38.250" end="00:04:44.910" style="s2">that should kind of be no problem the</p>
+<p begin="00:04:41.160" end="00:04:47.160" style="s2">flippin Aang that&#39;s therein manager yeah</p>
+<p begin="00:04:44.910" end="00:04:50.010" style="s2">t-mobile unlimited data that&#39;s where</p>
+<p begin="00:04:47.160" end="00:04:51.960" style="s2">it&#39;s at um so note that 0 here record</p>
+<p begin="00:04:50.010" end="00:04:55.979" style="s2">front is disabled by default so it&#39;s</p>
+<p begin="00:04:51.960" end="00:04:58.050" style="s2">opt-in it&#39;s not opt out evident in code</p>
+<p begin="00:04:55.979" end="00:05:01.790" style="s2">ID acts added a new maneuver to the</p>
+<p begin="00:04:58.050" end="00:05:05.070" style="s2">tests a couple bug fixes to the UI and</p>
+<p begin="00:05:01.790" end="00:05:07.490" style="s2">the new updater okay yeah so the updater</p>
+<p begin="00:05:05.070" end="00:05:11.389" style="s2">is going to</p>
+<p begin="00:05:07.490" end="00:05:14.440" style="s2">ask you before it installs an update we</p>
+<p begin="00:05:11.389" end="00:05:19.190" style="s2">learn we improve every day we get better</p>
+<p begin="00:05:14.440" end="00:05:24.169" style="s2">we drive all right scobie&#39;s that&#39;s been</p>
+<p begin="00:05:19.190" end="00:05:27.919" style="s2">zero for for um any questions don&#39;t</p>
+<p begin="00:05:24.169" end="00:05:28.400" style="s2">limit any audible for old cars I don&#39;t</p>
+<p begin="00:05:27.919" end="00:05:31.900" style="s2">care</p>
+<p begin="00:05:28.400" end="00:05:36.650" style="s2">oh you mean even New Model T whoa whoa</p>
+<p begin="00:05:31.900" end="00:05:39.770" style="s2">whoa whoa don&#39;t want me to introduce you</p>
+<p begin="00:05:36.650" end="00:05:41.030" style="s2">to the map team last night can you see</p>
+<p begin="00:05:39.770" end="00:05:44.810" style="s2">the front video so we don&#39;t actually way</p>
+<p begin="00:05:41.030" end="00:05:47.150" style="s2">to do that we&#39;ll see what we are going</p>
+<p begin="00:05:44.810" end="00:05:48.680" style="s2">to launch first is an attention report</p>
+<p begin="00:05:47.150" end="00:05:52.220" style="s2">that you&#39;ll be able to download for your</p>
+<p begin="00:05:48.680" end="00:05:54.020" style="s2">routes the third video is completely</p>
+<p begin="00:05:52.220" end="00:05:56.120" style="s2">optional don&#39;t opt in if you don&#39;t feel</p>
+<p begin="00:05:54.020" end="00:05:59.440" style="s2">comfortable doing it what does NPC NPCs</p>
+<p begin="00:05:56.120" end="00:05:59.440" style="s2">model predictive control</p>
+<p begin="00:05:59.870" end="00:06:04.940" style="s2">no no world war three guys though</p>
+<p begin="00:06:03.380" end="00:06:06.500" style="s2">though I do have seven days of food and</p>
+<p begin="00:06:04.940" end="00:06:07.610" style="s2">water in my basement so maybe that&#39;s why</p>
+<p begin="00:06:06.500" end="00:06:14.479" style="s2">I&#39;m a little less worried than the rest</p>
+<p begin="00:06:07.610" end="00:06:17.419" style="s2">of you it sucks you know but just just</p>
+<p begin="00:06:14.479" end="00:06:19.159" style="s2">live your life and try to do your best</p>
+<p begin="00:06:17.419" end="00:06:20.930" style="s2">at whatever you do unless it&#39;s bothering</p>
+<p begin="00:06:19.159" end="00:06:24.229" style="s2">people in the above all anybody that</p>
+<p begin="00:06:20.930" end="00:06:25.490" style="s2">kind of sucks additional point five</p>
+<p begin="00:06:24.229" end="00:06:29.210" style="s2">common points at release yep that&#39;s</p>
+<p begin="00:06:25.490" end="00:06:30.259" style="s2">already in the back end I believe we&#39;re</p>
+<p begin="00:06:29.210" end="00:06:33.320" style="s2">also the infrastructure engineer</p>
+<p begin="00:06:30.259" end="00:06:35.479" style="s2">starting Monday so he wants to make</p>
+<p begin="00:06:33.320" end="00:06:37.580" style="s2">himself known to you guys but if he does</p>
+<p begin="00:06:35.479" end="00:06:39.259" style="s2">what time it&#39;s gonna drop them like an</p>
+<p begin="00:06:37.580" end="00:06:40.580" style="s2">hour we&#39;re gonna wait for Andy to do</p>
+<p begin="00:06:39.259" end="00:06:42.560" style="s2">something and we gotta wait for Ricardo</p>
+<p begin="00:06:40.580" end="00:06:44.150" style="s2">to do the final test and if those two</p>
+<p begin="00:06:42.560" end="00:06:45.830" style="s2">things are good then we would</p>
+<p begin="00:06:44.150" end="00:06:47.319" style="s2">orientation Three&#39;s old code orientation</p>
+<p begin="00:06:45.830" end="00:06:50.330" style="s2">one is new code</p>
+<p begin="00:06:47.319" end="00:06:51.979" style="s2">alright scobie&#39;s thanks for joining</p>
+<p begin="00:06:50.330" end="00:06:54.560" style="s2">I think through the night throw at the</p>
+<p begin="00:06:51.979" end="00:06:56.000" style="s2">release I&#39;m sure you guys do too but the</p>
+<p begin="00:06:54.560" end="00:06:58.060" style="s2">release will go out about 30 minutes</p>
+<p begin="00:06:56.000" end="00:07:00.860" style="s2">we&#39;ll tweet about it on Twitter</p>
+<p begin="00:06:58.060" end="00:07:02.930" style="s2">0:44 is gonna be nice and we&#39;re gonna</p>
+<p begin="00:07:00.860" end="00:07:05.180" style="s2">just we&#39;ll just going into valve but</p>
+<p begin="00:07:02.930" end="00:07:07.900" style="s2">we&#39;re trying to push that to release you</p>
+<p begin="00:07:05.180" end="00:07:10.900" style="s2">have a good weekend to spell by 32</p>
+<p begin="00:07:07.900" end="00:07:10.900" style="s2">ladies</p>
+</div>
+</body>
+</tt>

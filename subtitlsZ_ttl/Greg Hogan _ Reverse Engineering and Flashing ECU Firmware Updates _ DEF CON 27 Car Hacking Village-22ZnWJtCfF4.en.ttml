@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:05.910" style="s2">my talk is about flashing ECU firmware</p>
+<p begin="00:00:03.899" end="00:00:07.859" style="s2">updates from a web browser more</p>
+<p begin="00:00:05.910" end="00:00:11.130" style="s2">specifically I did some reverse</p>
+<p begin="00:00:07.859" end="00:00:13.799" style="s2">engineering of the Honda firmware update</p>
+<p begin="00:00:11.130" end="00:00:16.560" style="s2">file format that they put out so that&#39;s</p>
+<p begin="00:00:13.799" end="00:00:19.920" style="s2">when were you talking about so Who am I</p>
+<p begin="00:00:16.560" end="00:00:22.830" style="s2">my name is greg hogan you can follow me</p>
+<p begin="00:00:19.920" end="00:00:24.000" style="s2">on twitter all the source code for the</p>
+<p begin="00:00:22.830" end="00:00:25.529" style="s2">software that i&#39;m going to show you is</p>
+<p begin="00:00:24.000" end="00:00:29.189" style="s2">open-source you can find it in one or</p>
+<p begin="00:00:25.529" end="00:00:32.040" style="s2">more my github repositories and I work</p>
+<p begin="00:00:29.189" end="00:00:33.899" style="s2">at common AI on infrastructure which yes</p>
+<p begin="00:00:32.040" end="00:00:36.240" style="s2">you&#39;re wondering that has nothing to do</p>
+<p begin="00:00:33.899" end="00:00:41.120" style="s2">with car hacking</p>
+<p begin="00:00:36.240" end="00:00:44.310" style="s2">so a couple days ago I got an email and</p>
+<p begin="00:00:41.120" end="00:00:47.640" style="s2">it&#39;s a DEFCON 27 talk and I thought oh</p>
+<p begin="00:00:44.310" end="00:00:51.180" style="s2">this is information on like my speaking</p>
+<p begin="00:00:47.640" end="00:00:53.790" style="s2">gig here I opened up the email and no it</p>
+<p begin="00:00:51.180" end="00:00:56.850" style="s2">is from Honda so apparently they were</p>
+<p begin="00:00:53.790" end="00:00:59.430" style="s2">interested in my talk and I&#39;ll summarize</p>
+<p begin="00:00:56.850" end="00:01:02.730" style="s2">this for you it basically says don&#39;t do</p>
+<p begin="00:00:59.430" end="00:01:05.730" style="s2">something that might kill somebody that</p>
+<p begin="00:01:02.730" end="00:01:07.500" style="s2">was never my intention I won&#39;t be for</p>
+<p begin="00:01:05.730" end="00:01:10.200" style="s2">some reason they thought that I was</p>
+<p begin="00:01:07.500" end="00:01:12.450" style="s2">probably going to be releasing specific</p>
+<p begin="00:01:10.200" end="00:01:14.820" style="s2">modifications about making firmware</p>
+<p begin="00:01:12.450" end="00:01:17.460" style="s2">modifications to power steering</p>
+<p begin="00:01:14.820" end="00:01:19.950" style="s2">controllers of Honda vehicles that&#39;s not</p>
+<p begin="00:01:17.460" end="00:01:21.570" style="s2">the case I never planned on talking</p>
+<p begin="00:01:19.950" end="00:01:22.830" style="s2">about anything like that so that doesn&#39;t</p>
+<p begin="00:01:21.570" end="00:01:25.470" style="s2">change anything that I&#39;m going to be</p>
+<p begin="00:01:22.830" end="00:01:28.470" style="s2">talking about also this is a completely</p>
+<p begin="00:01:25.470" end="00:01:29.610" style="s2">legitimate thing to ask of someone to</p>
+<p begin="00:01:28.470" end="00:01:31.830" style="s2">make sure you don&#39;t do something that</p>
+<p begin="00:01:29.610" end="00:01:34.470" style="s2">could injure somebody and I agree</p>
+<p begin="00:01:31.830" end="00:01:35.729" style="s2">completely that trying to make changes</p>
+<p begin="00:01:34.470" end="00:01:38.040" style="s2">to your electronic power steering</p>
+<p begin="00:01:35.729" end="00:01:41.369" style="s2">firmware of your car could be very</p>
+<p begin="00:01:38.040" end="00:01:43.950" style="s2">dangerous if you screw something up the</p>
+<p begin="00:01:41.369" end="00:01:46.020" style="s2">best case might be that the steering</p>
+<p begin="00:01:43.950" end="00:01:48.240" style="s2">wheel tries to break your arms and the</p>
+<p begin="00:01:46.020" end="00:01:51.479" style="s2">worst case is it&#39;ll flip over your car</p>
+<p begin="00:01:48.240" end="00:01:54.240" style="s2">and kill you so please don&#39;t do anything</p>
+<p begin="00:01:51.479" end="00:01:56.009" style="s2">stupid and I have no intention of</p>
+<p begin="00:01:54.240" end="00:01:57.950" style="s2">enabling you to be able to do such</p>
+<p begin="00:01:56.009" end="00:02:00.950" style="s2">things</p>
+<p begin="00:01:57.950" end="00:02:05.869" style="s2">what got me interested in flashing ECU</p>
+<p begin="00:02:00.950" end="00:02:08.360" style="s2">firmware updates so in 2017 George Hotz</p>
+<p begin="00:02:05.869" end="00:02:10.160" style="s2">he&#39;s actually the guy that started the</p>
+<p begin="00:02:08.360" end="00:02:12.860" style="s2">company that I worked for he gave a talk</p>
+<p begin="00:02:10.160" end="00:02:14.870" style="s2">at code blue at a conference where he</p>
+<p begin="00:02:12.860" end="00:02:16.610" style="s2">kind of showed some you kind of showed</p>
+<p begin="00:02:14.870" end="00:02:17.840" style="s2">some information about like how you can</p>
+<p begin="00:02:16.610" end="00:02:20.599" style="s2">get these firmware updates from</p>
+<p begin="00:02:17.840" end="00:02:21.950" style="s2">different vehicle manufacturers and I</p>
+<p begin="00:02:20.599" end="00:02:23.959" style="s2">looked at these tools that he was</p>
+<p begin="00:02:21.950" end="00:02:27.379" style="s2">showing and I thought wow that&#39;s</p>
+<p begin="00:02:23.959" end="00:02:30.440" style="s2">software&#39;s garbage it looks like it runs</p>
+<p begin="00:02:27.379" end="00:02:34.459" style="s2">on like Windows XP and why isn&#39;t anyone</p>
+<p begin="00:02:30.440" end="00:02:37.930" style="s2">created anything better so that&#39;s kind</p>
+<p begin="00:02:34.459" end="00:02:37.930" style="s2">of what I what I set out to do</p>
+<p begin="00:02:40.210" end="00:02:44.770" style="s2">and I guess to to do that to enable that</p>
+<p begin="00:02:43.000" end="00:02:47.200" style="s2">in like a modern web development stack</p>
+<p begin="00:02:44.770" end="00:02:49.570" style="s2">that&#39;s why I decided to see if I could</p>
+<p begin="00:02:47.200" end="00:02:51.640" style="s2">make this work where I could flesh ECU&#39;s</p>
+<p begin="00:02:49.570" end="00:02:54.700" style="s2">from web browsers</p>
+<p begin="00:02:51.640" end="00:02:56.080" style="s2">it&#39;s basically what I&#39;m going to show</p>
+<p begin="00:02:54.700" end="00:02:57.370" style="s2">you how to do is basically similar to</p>
+<p begin="00:02:56.080" end="00:02:59.440" style="s2">what like there so there&#39;s a whole</p>
+<p begin="00:02:57.370" end="00:03:02.110" style="s2">community of people who go out there and</p>
+<p begin="00:02:59.440" end="00:03:03.850" style="s2">they make changes to do like engine</p>
+<p begin="00:03:02.110" end="00:03:05.400" style="s2">tuning for their ECU&#39;s change like gas</p>
+<p begin="00:03:03.850" end="00:03:07.840" style="s2">fuel mixtures and stuff like that</p>
+<p begin="00:03:05.400" end="00:03:09.730" style="s2">they&#39;ve basically done what I&#39;m going to</p>
+<p begin="00:03:07.840" end="00:03:13.150" style="s2">show you they&#39;ve figured out you know</p>
+<p begin="00:03:09.730" end="00:03:14.500" style="s2">how the firmware updates work for in</p>
+<p begin="00:03:13.150" end="00:03:16.840" style="s2">what I&#39;m going to show you here Honda</p>
+<p begin="00:03:14.500" end="00:03:19.000" style="s2">vehicles and then they figure out how to</p>
+<p begin="00:03:16.840" end="00:03:21.340" style="s2">flash their own firmware updates</p>
+<p begin="00:03:19.000" end="00:03:25.050" style="s2">essentially without using the Honda</p>
+<p begin="00:03:21.340" end="00:03:25.050" style="s2">software to do so that they distribute</p>
+<p begin="00:03:29.720" end="00:03:36.590" style="s2">so how do you get the software and</p>
+<p begin="00:03:33.740" end="00:03:40.100" style="s2">firmware updates for these vehicles so</p>
+<p begin="00:03:36.590" end="00:03:42.500" style="s2">thanks to write to repair vehicle</p>
+<p begin="00:03:40.100" end="00:03:45.290" style="s2">manufacturers are basically required to</p>
+<p begin="00:03:42.500" end="00:03:48.050" style="s2">provide at a reasonable cost the</p>
+<p begin="00:03:45.290" end="00:03:51.230" style="s2">firmware updates for the tools basically</p>
+<p begin="00:03:48.050" end="00:03:54.440" style="s2">that enable any maintenance shop to be</p>
+<p begin="00:03:51.230" end="00:03:56.330" style="s2">able to do repair work so that you&#39;re</p>
+<p begin="00:03:54.440" end="00:03:58.340" style="s2">not like locked into going to a holiday</p>
+<p begin="00:03:56.330" end="00:03:59.540" style="s2">dealership and them like charging you</p>
+<p begin="00:03:58.340" end="00:04:04.250" style="s2">and I&#39;m gonna like to do this kind of</p>
+<p begin="00:03:59.540" end="00:04:07.550" style="s2">stuff so anyone can sign up for these</p>
+<p begin="00:04:04.250" end="00:04:09.760" style="s2">these these websites Honda is really</p>
+<p begin="00:04:07.550" end="00:04:12.290" style="s2">cheap ten dollars for one day to</p>
+<p begin="00:04:09.760" end="00:04:17.090" style="s2">download the software that they provide</p>
+<p begin="00:04:12.290" end="00:04:19.910" style="s2">to their you know to their repair shops</p>
+<p begin="00:04:17.090" end="00:04:22.070" style="s2">and anyone who&#39;s like you know a repair</p>
+<p begin="00:04:19.910" end="00:04:24.410" style="s2">shop that repairs Honda vehicles they&#39;ll</p>
+<p begin="00:04:22.070" end="00:04:26.150" style="s2">you know subscribe to this also if you</p>
+<p begin="00:04:24.410" end="00:04:30.860" style="s2">subscribe for one day interestingly you</p>
+<p begin="00:04:26.150" end="00:04:31.940" style="s2">actually get three days so Toyota&#39;s a</p>
+<p begin="00:04:30.860" end="00:04:34.310" style="s2">little more expensive and you know</p>
+<p begin="00:04:31.940" end="00:04:35.930" style="s2">there&#39;s other vehicle manufactures well</p>
+<p begin="00:04:34.310" end="00:04:37.430" style="s2">I guess just one that does like over the</p>
+<p begin="00:04:35.930" end="00:04:39.050" style="s2">year updates and you don&#39;t have you you</p>
+<p begin="00:04:37.430" end="00:04:40.610" style="s2">know if you have the right access to</p>
+<p begin="00:04:39.050" end="00:04:42.230" style="s2">your car the firmware updates are</p>
+<p begin="00:04:40.610" end="00:04:46.240" style="s2">actually pushed to your vehicle so you</p>
+<p begin="00:04:42.230" end="00:04:46.240" style="s2">don&#39;t have to like pay to get them</p>
+<p begin="00:04:46.320" end="00:04:54.360" style="s2">so so I signed up and I downloaded the</p>
+<p begin="00:04:50.970" end="00:04:56.820" style="s2">software and I wish I could get that</p>
+<p begin="00:04:54.360" end="00:05:00.630" style="s2">four hours of my life back that it took</p>
+<p begin="00:04:56.820" end="00:05:02.250" style="s2">to install it it&#39;s horrible just like</p>
+<p begin="00:05:00.630" end="00:05:05.850" style="s2">from a UI perspective usability</p>
+<p begin="00:05:02.250" end="00:05:07.950" style="s2">perspective it&#39;s not great software the</p>
+<p begin="00:05:05.850" end="00:05:10.590" style="s2">authentication is over HTTP</p>
+<p begin="00:05:07.950" end="00:05:12.030" style="s2">like nobody&#39;s proud of themselves for</p>
+<p begin="00:05:10.590" end="00:05:15.180" style="s2">like working on the software I don&#39;t</p>
+<p begin="00:05:12.030" end="00:05:18.570" style="s2">think this is the new version this is</p>
+<p begin="00:05:15.180" end="00:05:20.880" style="s2">new for like I think like 2017 model</p>
+<p begin="00:05:18.570" end="00:05:22.950" style="s2">year vehicles or something like that the</p>
+<p begin="00:05:20.880" end="00:05:24.990" style="s2">old version looked even sadder</p>
+<p begin="00:05:22.950" end="00:05:27.960" style="s2">it&#39;s called HDS Honda for Honda its</p>
+<p begin="00:05:24.990" end="00:05:29.790" style="s2">Honda Diagnostics system in 2017 when</p>
+<p begin="00:05:27.960" end="00:05:31.590" style="s2">this new version came out they threw an</p>
+<p begin="00:05:29.790" end="00:05:33.150" style="s2">eye in the front of it my guess is</p>
+<p begin="00:05:31.590" end="00:05:35.310" style="s2">they&#39;re like trying to ride the Apple</p>
+<p begin="00:05:33.150" end="00:05:38.640" style="s2">train you know bandwagon or something</p>
+<p begin="00:05:35.310" end="00:05:41.130" style="s2">like I Oh s and so forth but using this</p>
+<p begin="00:05:38.640" end="00:05:44.070" style="s2">software is nothing like using an Apple</p>
+<p begin="00:05:41.130" end="00:05:45.510" style="s2">product you also need a piece of</p>
+<p begin="00:05:44.070" end="00:05:49.260" style="s2">hardware to interface with the car</p>
+<p begin="00:05:45.510" end="00:05:51.360" style="s2">through the ODB to port so that hardware</p>
+<p begin="00:05:49.260" end="00:05:54.830" style="s2">there&#39;s if you go to the Honda website</p>
+<p begin="00:05:51.360" end="00:05:58.020" style="s2">there&#39;s one there&#39;s one like certified</p>
+<p begin="00:05:54.830" end="00:06:00.980" style="s2">Hardware package that you can buy and it</p>
+<p begin="00:05:58.020" end="00:06:04.260" style="s2">is almost $1,500</p>
+<p begin="00:06:00.980" end="00:06:05.670" style="s2">sad because like it just does like stuff</p>
+<p begin="00:06:04.260" end="00:06:07.410" style="s2">that follows specifications that are</p>
+<p begin="00:06:05.670" end="00:06:12.170" style="s2">open you know that anyone can implement</p>
+<p begin="00:06:07.410" end="00:06:12.170" style="s2">because of right to repair basically</p>
+<p begin="00:06:12.740" end="00:06:18.950" style="s2">so one of those boxes on like that first</p>
+<p begin="00:06:16.190" end="00:06:23.090" style="s2">window was something called the J the J</p>
+<p begin="00:06:18.950" end="00:06:25.190" style="s2">2 v 3 for rewrite tool so what is that</p>
+<p begin="00:06:23.090" end="00:06:27.860" style="s2">thing that&#39;s the software that actually</p>
+<p begin="00:06:25.190" end="00:06:32.270" style="s2">does the firmware updates that actually</p>
+<p begin="00:06:27.860" end="00:06:34.820" style="s2">flashes your ECU&#39;s so the company I work</p>
+<p begin="00:06:32.270" end="00:06:37.990" style="s2">for they actually make an obd2 dongle</p>
+<p begin="00:06:34.820" end="00:06:41.570" style="s2">that has a USB port called a panda and</p>
+<p begin="00:06:37.990" end="00:06:44.290" style="s2">it&#39;s a lot cheaper than $1,500 product</p>
+<p begin="00:06:41.570" end="00:06:47.930" style="s2">that Honda sells it has an open-source</p>
+<p begin="00:06:44.290" end="00:06:51.560" style="s2">j2 534 driver which is basically the API</p>
+<p begin="00:06:47.930" end="00:06:52.940" style="s2">that that like the whatever for like</p>
+<p begin="00:06:51.560" end="00:06:55.010" style="s2">emissions testing and so forth they</p>
+<p begin="00:06:52.940" end="00:06:59.570" style="s2">defined it so that you know to enable</p>
+<p begin="00:06:55.010" end="00:07:01.430" style="s2">write to repair essentially and the</p>
+<p begin="00:06:59.570" end="00:07:05.990" style="s2">driver like it&#39;s not perfect but it&#39;ll</p>
+<p begin="00:07:01.430" end="00:07:07.910" style="s2">East works for can and so so I decided</p>
+<p begin="00:07:05.990" end="00:07:11.420" style="s2">to go down this path since it&#39;s so much</p>
+<p begin="00:07:07.910" end="00:07:13.880" style="s2">more cost-effective and the Panda has it</p>
+<p begin="00:07:11.420" end="00:07:16.970" style="s2">has a great Python library for</p>
+<p begin="00:07:13.880" end="00:07:20.990" style="s2">interacting with your vehicle over the</p>
+<p begin="00:07:16.970" end="00:07:23.870" style="s2">obd2 port and someone wrote a web USB</p>
+<p begin="00:07:20.990" end="00:07:25.640" style="s2">driver for it so I&#39;ll get into that a</p>
+<p begin="00:07:23.870" end="00:07:28.340" style="s2">little bit more but that&#39;s a big part of</p>
+<p begin="00:07:25.640" end="00:07:31.330" style="s2">what enables me being able to flash an</p>
+<p begin="00:07:28.340" end="00:07:31.330" style="s2">ECU from a web browser</p>
+<p begin="00:07:31.340" end="00:07:34.850" style="s2">so that four hours that I spend</p>
+<p begin="00:07:33.230" end="00:07:37.190" style="s2">installing the software on a really fast</p>
+<p begin="00:07:34.850" end="00:07:40.520" style="s2">machine another thing that it drops</p>
+<p begin="00:07:37.190" end="00:07:42.919" style="s2">alongside this executable is the actual</p>
+<p begin="00:07:40.520" end="00:07:45.669" style="s2">firmware updates so that&#39;s how you get</p>
+<p begin="00:07:42.919" end="00:07:47.510" style="s2">the actual firmware update files and</p>
+<p begin="00:07:45.669" end="00:07:50.110" style="s2">they&#39;re in this folder here that I</p>
+<p begin="00:07:47.510" end="00:07:50.110" style="s2">listed button</p>
+<p begin="00:07:51.230" end="00:07:56.450" style="s2">so okay now we&#39;ve got a flashing tool</p>
+<p begin="00:07:53.660" end="00:07:59.570" style="s2">and we&#39;ve got firmware updates so now</p>
+<p begin="00:07:56.450" end="00:08:01.250" style="s2">what we want to do is we want to reverse</p>
+<p begin="00:07:59.570" end="00:08:03.980" style="s2">engineer you know whatever the process</p>
+<p begin="00:08:01.250" end="00:08:05.780" style="s2">is so that I can replicate it and build</p>
+<p begin="00:08:03.980" end="00:08:09.530" style="s2">my own software that actually does this</p>
+<p begin="00:08:05.780" end="00:08:13.120" style="s2">so the first thing that I found was this</p>
+<p begin="00:08:09.530" end="00:08:17.210" style="s2">software called J 2 v 3 for lager</p>
+<p begin="00:08:13.120" end="00:08:22.310" style="s2">basically what that does is it acts as a</p>
+<p begin="00:08:17.210" end="00:08:25.250" style="s2">proxy to a real j2 5:34 driver the the J</p>
+<p begin="00:08:22.310" end="00:08:27.260" style="s2">2 v 3 4 spec so the reason part of the</p>
+<p begin="00:08:25.250" end="00:08:29.090" style="s2">reason that this software I did guess I</p>
+<p begin="00:08:27.260" end="00:08:31.730" style="s2">didn&#39;t mention this this Honda software</p>
+<p begin="00:08:29.090" end="00:08:33.950" style="s2">it only runs on Windows and the reason</p>
+<p begin="00:08:31.730" end="00:08:38.410" style="s2">that it only runs on Windows is because</p>
+<p begin="00:08:33.950" end="00:08:42.530" style="s2">the j2 5:34 API specifies things like</p>
+<p begin="00:08:38.410" end="00:08:47.300" style="s2">use these registry keys to find a dll</p>
+<p begin="00:08:42.530" end="00:08:49.060" style="s2">and load it so that&#39;s another reason</p>
+<p begin="00:08:47.300" end="00:08:51.740" style="s2">that I was interested in creating my own</p>
+<p begin="00:08:49.060" end="00:08:53.150" style="s2">software that flashes this because you</p>
+<p begin="00:08:51.740" end="00:08:54.320" style="s2">know if you break out of that you can</p>
+<p begin="00:08:53.150" end="00:08:55.730" style="s2">you know make something that&#39;s like</p>
+<p begin="00:08:54.320" end="00:08:57.700" style="s2">cross-platform there runs on a web</p>
+<p begin="00:08:55.730" end="00:09:00.880" style="s2">browser which should be cool</p>
+<p begin="00:08:57.700" end="00:09:02.980" style="s2">so basically you can you can fire up</p>
+<p begin="00:09:00.880" end="00:09:07.300" style="s2">that j2 five three four rewrite tool the</p>
+<p begin="00:09:02.980" end="00:09:10.000" style="s2">Honda puts out and fire up this install</p>
+<p begin="00:09:07.300" end="00:09:12.370" style="s2">this logger and if you have a vehicle</p>
+<p begin="00:09:10.000" end="00:09:14.440" style="s2">that has an ECU that has an update you</p>
+<p begin="00:09:12.370" end="00:09:17.260" style="s2">can apply it yourself with this software</p>
+<p begin="00:09:14.440" end="00:09:19.990" style="s2">and you can record it and it&#39;ll dump out</p>
+<p begin="00:09:17.260" end="00:09:23.350" style="s2">this big log file that has all the j2</p>
+<p begin="00:09:19.990" end="00:09:25.810" style="s2">534 API calls as well as like the raw</p>
+<p begin="00:09:23.350" end="00:09:29.380" style="s2">data that was sent and received back and</p>
+<p begin="00:09:25.810" end="00:09:32.200" style="s2">forth so then to you know kind of dig</p>
+<p begin="00:09:29.380" end="00:09:35.800" style="s2">deeper into what the actual steps are</p>
+<p begin="00:09:32.200" end="00:09:37.959" style="s2">that happened when you flash a honda ECU</p>
+<p begin="00:09:35.800" end="00:09:40.170" style="s2">firmware update we need to start</p>
+<p begin="00:09:37.959" end="00:09:43.480" style="s2">understanding some of these other specs</p>
+<p begin="00:09:40.170" end="00:09:46.240" style="s2">UDS unified Dinan gnostics that&#39;s like a</p>
+<p begin="00:09:43.480" end="00:09:48.970" style="s2">big one it has all the like commands</p>
+<p begin="00:09:46.240" end="00:09:51.640" style="s2">that j2 534 uses to actually communicate</p>
+<p begin="00:09:48.970" end="00:09:53.140" style="s2">with ECU make it feel like security</p>
+<p begin="00:09:51.640" end="00:09:56.529" style="s2">access key exchange and all these things</p>
+<p begin="00:09:53.140" end="00:09:58.899" style="s2">and send the firmware the next layer</p>
+<p begin="00:09:56.529" end="00:10:00.490" style="s2">down is is OTP I mention we just</p>
+<p begin="00:09:58.899" end="00:10:02.680" style="s2">mentioning these things because this is</p>
+<p begin="00:10:00.490" end="00:10:04.350" style="s2">what I have to implement if I&#39;m going to</p>
+<p begin="00:10:02.680" end="00:10:09.430" style="s2">implement my own and a web browser</p>
+<p begin="00:10:04.350" end="00:10:13.829" style="s2">because as far as I know no one has</p>
+<p begin="00:10:09.430" end="00:10:13.829" style="s2">written one in JavaScript</p>
+<p begin="00:10:16.300" end="00:10:24.580" style="s2">all right so after recording flashing an</p>
+<p begin="00:10:20.410" end="00:10:26.650" style="s2">ECU from that j25 3/4 rewrite tool that</p>
+<p begin="00:10:24.580" end="00:10:30.910" style="s2">honda distributes here&#39;s what you come</p>
+<p begin="00:10:26.650" end="00:10:34.720" style="s2">up with basically more or less an</p>
+<p begin="00:10:30.910" end="00:10:36.250" style="s2">eight-step process here the first thing</p>
+<p begin="00:10:34.720" end="00:10:38.290" style="s2">that you have to do is you have to these</p>
+<p begin="00:10:36.250" end="00:10:41.050" style="s2">are all the names on the right are the</p>
+<p begin="00:10:38.290" end="00:10:42.730" style="s2">UDS message types essentially that you</p>
+<p begin="00:10:41.050" end="00:10:50.140" style="s2">have to send to communicate with your</p>
+<p begin="00:10:42.730" end="00:10:51.520" style="s2">car so basically you need to enter you</p>
+<p begin="00:10:50.140" end="00:10:54.610" style="s2">need to send a session control message</p>
+<p begin="00:10:51.520" end="00:10:57.460" style="s2">because you can&#39;t you can&#39;t request a</p>
+<p begin="00:10:54.610" end="00:10:59.350" style="s2">security access seed until you&#39;ve gotten</p>
+<p begin="00:10:57.460" end="00:11:01.450" style="s2">into that specific diagnostic session</p>
+<p begin="00:10:59.350" end="00:11:05.020" style="s2">mode once you get there you can request</p>
+<p begin="00:11:01.450" end="00:11:07.410" style="s2">a seed you&#39;ll then see you&#39;ll then see</p>
+<p begin="00:11:05.020" end="00:11:09.880" style="s2">the seed go back to the software</p>
+<p begin="00:11:07.410" end="00:11:12.610" style="s2">software then does a manipulation to</p>
+<p begin="00:11:09.880" end="00:11:15.130" style="s2">that seed sends back a key and that key</p>
+<p begin="00:11:12.610" end="00:11:17.980" style="s2">is what allows you to do the next step</p>
+<p begin="00:11:15.130" end="00:11:19.330" style="s2">which is enter a programming session so</p>
+<p begin="00:11:17.980" end="00:11:20.590" style="s2">this is what we want to get to right we</p>
+<p begin="00:11:19.330" end="00:11:22.090" style="s2">want to be able to we want to get the</p>
+<p begin="00:11:20.590" end="00:11:25.780" style="s2">ECU to the state where we can actually</p>
+<p begin="00:11:22.090" end="00:11:29.180" style="s2">send and change the firmware on it</p>
+<p begin="00:11:25.780" end="00:11:31.690" style="s2">then things get dangerous like from a oh</p>
+<p begin="00:11:29.180" end="00:11:33.680" style="s2">crap I might brick my ECU perspective</p>
+<p begin="00:11:31.690" end="00:11:36.590" style="s2">because the next thing that you do is</p>
+<p begin="00:11:33.680" end="00:11:41.120" style="s2">you erase the memory that you want to</p>
+<p begin="00:11:36.590" end="00:11:43.160" style="s2">write after you erase it you you have to</p>
+<p begin="00:11:41.120" end="00:11:44.630" style="s2">send this message that is it turns out</p>
+<p begin="00:11:43.160" end="00:11:49.490" style="s2">what it is is you&#39;re sending it some</p>
+<p begin="00:11:44.630" end="00:11:51.260" style="s2">some keys that go to the firmware so</p>
+<p begin="00:11:49.490" end="00:11:53.090" style="s2">that it can decrypt the firmware that</p>
+<p begin="00:11:51.260" end="00:11:54.920" style="s2">you&#39;re going to send it so it turns out</p>
+<p begin="00:11:53.090" end="00:11:57.530" style="s2">that these Honda firmware update files</p>
+<p begin="00:11:54.920" end="00:12:02.870" style="s2">the firmware portion of the file</p>
+<p begin="00:11:57.530" end="00:12:05.720" style="s2">they actually encrypted and the ajaita</p>
+<p begin="00:12:02.870" end="00:12:07.760" style="s2">5:3 for rewrite tool it doesn&#39;t decrypt</p>
+<p begin="00:12:05.720" end="00:12:10.510" style="s2">it it sends it to the ECU and then the</p>
+<p begin="00:12:07.760" end="00:12:13.940" style="s2">ECU decrypt it so they haven&#39;t</p>
+<p begin="00:12:10.510" end="00:12:16.880" style="s2">distributed per se any software that you</p>
+<p begin="00:12:13.940" end="00:12:19.430" style="s2">can obtain that actually has like the</p>
+<p begin="00:12:16.880" end="00:12:21.520" style="s2">the decryption algorithm in it it&#39;s all</p>
+<p begin="00:12:19.430" end="00:12:23.560" style="s2">needs to you</p>
+<p begin="00:12:21.520" end="00:12:26.440" style="s2">then you you know proceeded to send the</p>
+<p begin="00:12:23.560" end="00:12:28.480" style="s2">firmware and then at the very end it</p>
+<p begin="00:12:26.440" end="00:12:30.280" style="s2">does basically checksum you send a</p>
+<p begin="00:12:28.480" end="00:12:31.600" style="s2">message that performs this validation</p>
+<p begin="00:12:30.280" end="00:12:33.580" style="s2">which I believe what it does is</p>
+<p begin="00:12:31.600" end="00:12:36.100" style="s2">validates that the check sums in the</p>
+<p begin="00:12:33.580" end="00:12:38.650" style="s2">firmware correct the check sums in the</p>
+<p begin="00:12:36.100" end="00:12:41.800" style="s2">Honda firmware extremely poor they&#39;re</p>
+<p begin="00:12:38.650" end="00:12:45.430" style="s2">actually just the sum of all the bytes</p>
+<p begin="00:12:41.800" end="00:12:47.290" style="s2">across a few sections so so I don&#39;t know</p>
+<p begin="00:12:45.430" end="00:12:51.070" style="s2">like that&#39;s kind of crappy a bit you</p>
+<p begin="00:12:47.290" end="00:12:52.480" style="s2">know a couple bit flips and and yeah you</p>
+<p begin="00:12:51.070" end="00:12:55.350" style="s2">might have might have you might not have</p>
+<p begin="00:12:52.480" end="00:12:55.350" style="s2">what you thought you had there</p>
+<p begin="00:12:56.790" end="00:13:01.830" style="s2">all right so this firmware update file I</p>
+<p begin="00:13:00.420" end="00:13:04.170" style="s2">mentioned earlier on that there&#39;s a</p>
+<p begin="00:13:01.830" end="00:13:05.730" style="s2">folder that gets dropped that has all</p>
+<p begin="00:13:04.170" end="00:13:08.820" style="s2">these firmware update files in it and</p>
+<p begin="00:13:05.730" end="00:13:10.920" style="s2">those firmware update files have a</p>
+<p begin="00:13:08.820" end="00:13:13.530" style="s2">certain format that I&#39;m now going to go</p>
+<p begin="00:13:10.920" end="00:13:15.600" style="s2">through and explain you know what the</p>
+<p begin="00:13:13.530" end="00:13:18.690" style="s2">different pieces are because my ultimate</p>
+<p begin="00:13:15.600" end="00:13:20.940" style="s2">goal here is to create a website that I</p>
+<p begin="00:13:18.690" end="00:13:25.140" style="s2">choose one of these firmware update</p>
+<p begin="00:13:20.940" end="00:13:27.810" style="s2">files and I then flash it to an ECU as</p>
+<p begin="00:13:25.140" end="00:13:30.090" style="s2">if I you know was that j2 five three</p>
+<p begin="00:13:27.810" end="00:13:34.560" style="s2">four rewrite tool but without any Honda</p>
+<p begin="00:13:30.090" end="00:13:37.200" style="s2">any software written by Honda so the</p>
+<p begin="00:13:34.560" end="00:13:39.360" style="s2">very first bite of the file is what I</p>
+<p begin="00:13:37.200" end="00:13:40.830" style="s2">call the signature it basically tells</p>
+<p begin="00:13:39.360" end="00:13:42.870" style="s2">you the format of the rest of the file</p>
+<p begin="00:13:40.830" end="00:13:44.520" style="s2">there&#39;s a few different formats I&#39;m just</p>
+<p begin="00:13:42.870" end="00:13:46.920" style="s2">gonna focus on one because I only care</p>
+<p begin="00:13:44.520" end="00:13:48.750" style="s2">about one which is can there&#39;s also</p>
+<p begin="00:13:46.920" end="00:13:50.820" style="s2">other formats I think where like you</p>
+<p begin="00:13:48.750" end="00:13:53.120" style="s2">flash over Lin or other other protocols</p>
+<p begin="00:13:50.820" end="00:13:55.740" style="s2">but I&#39;m just gonna focus on can because</p>
+<p begin="00:13:53.120" end="00:13:59.450" style="s2">that&#39;s probably like the future at least</p>
+<p begin="00:13:55.740" end="00:14:03.350" style="s2">for any vehicle that I&#39;m going to own</p>
+<p begin="00:13:59.450" end="00:14:07.080" style="s2">SOCAN is this in this hex 5a about you</p>
+<p begin="00:14:03.350" end="00:14:09.210" style="s2">all right so now the next section after</p>
+<p begin="00:14:07.080" end="00:14:12.420" style="s2">that first bite now we&#39;re in the cans</p>
+<p begin="00:14:09.210" end="00:14:15.720" style="s2">specific format of the firmware update</p>
+<p begin="00:14:12.420" end="00:14:19.470" style="s2">and there&#39;s six header fields these six</p>
+<p begin="00:14:15.720" end="00:14:23.190" style="s2">header fields they basically have</p>
+<p begin="00:14:19.470" end="00:14:25.920" style="s2">everything that you need to be able to</p>
+<p begin="00:14:23.190" end="00:14:29.670" style="s2">look at one of these firmware update</p>
+<p begin="00:14:25.920" end="00:14:33.690" style="s2">files determine if the car that you&#39;re</p>
+<p begin="00:14:29.670" end="00:14:37.020" style="s2">plugged into has an ECU that a specific</p>
+<p begin="00:14:33.690" end="00:14:41.370" style="s2">firmware update file applies to and if</p>
+<p begin="00:14:37.020" end="00:14:46.860" style="s2">it&#39;s running a version of firmware that</p>
+<p begin="00:14:41.370" end="00:14:48.750" style="s2">is supported as an update or if the file</p>
+<p begin="00:14:46.860" end="00:14:53.400" style="s2">is an update for the version of the</p>
+<p begin="00:14:48.750" end="00:14:55.260" style="s2">firmware that&#39;s on the ECU so you only</p>
+<p begin="00:14:53.400" end="00:14:57.270" style="s2">need a few things you need the can</p>
+<p begin="00:14:55.260" end="00:14:59.520" style="s2">address of the ECU that you want to know</p>
+<p begin="00:14:57.270" end="00:15:01.190" style="s2">if you can update with the specific</p>
+<p begin="00:14:59.520" end="00:15:03.090" style="s2">firmware filed so there&#39;s one byte that</p>
+<p begin="00:15:01.190" end="00:15:04.500" style="s2">specifies it the reason it&#39;s a single</p>
+<p begin="00:15:03.090" end="00:15:06.870" style="s2">byte is because like if you look at the</p>
+<p begin="00:15:04.500" end="00:15:09.810" style="s2">spec 29 bit addresses there&#39;s only one</p>
+<p begin="00:15:06.870" end="00:15:14.970" style="s2">significant byte so they just have that</p>
+<p begin="00:15:09.810" end="00:15:16.920" style="s2">one byte in there and then there&#39;s a few</p>
+<p begin="00:15:14.970" end="00:15:19.800" style="s2">different values like they can change</p>
+<p begin="00:15:16.920" end="00:15:22.200" style="s2">these security access keys per firmware</p>
+<p begin="00:15:19.800" end="00:15:25.769" style="s2">update file so they put the actual keys</p>
+<p begin="00:15:22.200" end="00:15:27.540" style="s2">in the firmware update file</p>
+<p begin="00:15:25.769" end="00:15:29.369" style="s2">because you have to send them to the ECU</p>
+<p begin="00:15:27.540" end="00:15:34.139" style="s2">so when the ECU receives the firmware it</p>
+<p begin="00:15:29.369" end="00:15:37.379" style="s2">knows how to decrypt it and then there&#39;s</p>
+<p begin="00:15:34.139" end="00:15:41.009" style="s2">also a key that I&#39;ll get into in a</p>
+<p begin="00:15:37.379" end="00:15:43.529" style="s2">minute here that is an input to the</p>
+<p begin="00:15:41.009" end="00:15:46.739" style="s2">security access key exchange so what you</p>
+<p begin="00:15:43.529" end="00:15:50.449" style="s2">need to do to get that ECU into</p>
+<p begin="00:15:46.739" end="00:15:50.449" style="s2">programming mode essentially</p>
+<p begin="00:15:51.980" end="00:15:57.420" style="s2">after the headers is the actual firmware</p>
+<p begin="00:15:55.740" end="00:16:00.450" style="s2">this is the encrypted firmware that I</p>
+<p begin="00:15:57.420" end="00:16:04.530" style="s2">talked about before there&#39;s a start</p>
+<p begin="00:16:00.450" end="00:16:06.450" style="s2">address in a length when you that</p>
+<p begin="00:16:04.530" end="00:16:09.330" style="s2">sequence that I laid out a couple of the</p>
+<p begin="00:16:06.450" end="00:16:12.060" style="s2">steps were saying okay what section of</p>
+<p begin="00:16:09.330" end="00:16:14.850" style="s2">firm word do I want to flash on the ECU</p>
+<p begin="00:16:12.060" end="00:16:17.490" style="s2">and how much data am I now going to send</p>
+<p begin="00:16:14.850" end="00:16:18.690" style="s2">that&#39;s part of that UDS sequence of</p>
+<p begin="00:16:17.490" end="00:16:22.350" style="s2">messages that you have to send to the</p>
+<p begin="00:16:18.690" end="00:16:24.390" style="s2">ECU it the the honda ECU&#39;s i&#39;ve looked</p>
+<p begin="00:16:22.350" end="00:16:28.200" style="s2">at they actually only allow you to flash</p>
+<p begin="00:16:24.390" end="00:16:30.840" style="s2">one section of the firmware they did a</p>
+<p begin="00:16:28.200" end="00:16:32.790" style="s2">pretty good job in terms of like making</p>
+<p begin="00:16:30.840" end="00:16:36.000" style="s2">it kind of hard to brick the device</p>
+<p begin="00:16:32.790" end="00:16:38.540" style="s2">because the bootloader is outside of the</p>
+<p begin="00:16:36.000" end="00:16:43.320" style="s2">area that they allow you to flash so</p>
+<p begin="00:16:38.540" end="00:16:45.720" style="s2">that&#39;s good but yeah the state is</p>
+<p begin="00:16:43.320" end="00:16:48.560" style="s2">encrypted so we can&#39;t really look at the</p>
+<p begin="00:16:45.720" end="00:16:48.560" style="s2">firmware at this point</p>
+<p begin="00:16:48.620" end="00:16:53.510" style="s2">and then at the end of the file is a</p>
+<p begin="00:16:51.860" end="00:16:57.560" style="s2">checksum and it&#39;s just the sum of all</p>
+<p begin="00:16:53.510" end="00:17:00.830" style="s2">the bytes except the checksum itself and</p>
+<p begin="00:16:57.560" end="00:17:04.400" style="s2">so that is that&#39;s the entirety of one of</p>
+<p begin="00:17:00.830" end="00:17:09.490" style="s2">these can format honda firmware update</p>
+<p begin="00:17:04.400" end="00:17:12.800" style="s2">files all right the encryption so I</p>
+<p begin="00:17:09.490" end="00:17:14.570" style="s2">mentioned that this firmware is like the</p>
+<p begin="00:17:12.800" end="00:17:17.630" style="s2">data section of the update file for the</p>
+<p begin="00:17:14.570" end="00:17:19.490" style="s2">firmware is encrypted so I thought ok</p>
+<p begin="00:17:17.630" end="00:17:23.240" style="s2">well in the interesting to see if we can</p>
+<p begin="00:17:19.490" end="00:17:24.410" style="s2">decrypt that and the talk that I</p>
+<p begin="00:17:23.240" end="00:17:26.030" style="s2">mentioned at the beginning that got me</p>
+<p begin="00:17:24.410" end="00:17:30.620" style="s2">kind of interested in this George&#39;s code</p>
+<p begin="00:17:26.030" end="00:17:34.070" style="s2">blue talked he shows one algorithm that</p>
+<p begin="00:17:30.620" end="00:17:35.720" style="s2">they used for encryption and I thought</p>
+<p begin="00:17:34.070" end="00:17:37.490" style="s2">to myself oh ok well maybe I&#39;m lucky</p>
+<p begin="00:17:35.720" end="00:17:39.680" style="s2">maybe they use the same encryption for</p>
+<p begin="00:17:37.490" end="00:17:42.410" style="s2">every one of these updates it turns out</p>
+<p begin="00:17:39.680" end="00:17:45.350" style="s2">that&#39;s not the case but there was these</p>
+<p begin="00:17:42.410" end="00:17:48.040" style="s2">keys that we already found in the</p>
+<p begin="00:17:45.350" end="00:17:51.890" style="s2">headers of each firmware update file so</p>
+<p begin="00:17:48.040" end="00:17:53.480" style="s2">I&#39;ve got the keys I&#39;ve got an example so</p>
+<p begin="00:17:51.890" end="00:17:56.029" style="s2">what should I try ok well maybe they</p>
+<p begin="00:17:53.480" end="00:17:59.269" style="s2">just change the operators</p>
+<p begin="00:17:56.029" end="00:18:02.749" style="s2">it turns out at least somewhat common</p>
+<p begin="00:17:59.269" end="00:18:05.629" style="s2">that&#39;s the case and it&#39;s not too hard to</p>
+<p begin="00:18:02.749" end="00:18:08.179" style="s2">write a piece of software in Python that</p>
+<p begin="00:18:05.629" end="00:18:13.429" style="s2">just brute force tries every combination</p>
+<p begin="00:18:08.179" end="00:18:16.940" style="s2">of operators that result in a full 256</p>
+<p begin="00:18:13.429" end="00:18:18.320" style="s2">value lookup table where every value is</p>
+<p begin="00:18:16.940" end="00:18:21.679" style="s2">you know the input is unique to the</p>
+<p begin="00:18:18.320" end="00:18:23.330" style="s2">output so utilizing that I wrote this</p>
+<p begin="00:18:21.679" end="00:18:26.299" style="s2">piece of software that I linked to it</p>
+<p begin="00:18:23.330" end="00:18:29.479" style="s2">that&#39;s out there called RWD x-ray and</p>
+<p begin="00:18:26.299" end="00:18:31.729" style="s2">that it does that exactly it it&#39;ll you</p>
+<p begin="00:18:29.479" end="00:18:35.149" style="s2">give it a firmware update file and it</p>
+<p begin="00:18:31.729" end="00:18:38.059" style="s2">will try to find it&#39;ll try to find a set</p>
+<p begin="00:18:35.149" end="00:18:41.089" style="s2">of operators based on the keys in the</p>
+<p begin="00:18:38.059" end="00:18:43.659" style="s2">RWD file to be able to decrypt the</p>
+<p begin="00:18:41.089" end="00:18:43.659" style="s2">firmware</p>
+<p begin="00:18:46.050" end="00:18:50.850" style="s2">yeah so that&#39;s really fast most these</p>
+<p begin="00:18:49.050" end="00:18:52.950" style="s2">firmware updates are small and yeah it</p>
+<p begin="00:18:50.850" end="00:18:55.800" style="s2">takes like seconds to to run this</p>
+<p begin="00:18:52.950" end="00:18:57.360" style="s2">through and find the find the</p>
+<p begin="00:18:55.800" end="00:18:58.560" style="s2">appropriate operators for a lot of them</p>
+<p begin="00:18:57.360" end="00:18:59.670" style="s2">doesn&#39;t seem to work on all of them</p>
+<p begin="00:18:58.560" end="00:19:01.470" style="s2">which makes me think that maybe they</p>
+<p begin="00:18:59.670" end="00:19:03.510" style="s2">actually use like a different algorithm</p>
+<p begin="00:19:01.470" end="00:19:04.650" style="s2">for some firmware updates but it seems</p>
+<p begin="00:19:03.510" end="00:19:07.080" style="s2">like there&#39;s a number of them that they</p>
+<p begin="00:19:04.650" end="00:19:10.100" style="s2">actually use the same basic algorithm</p>
+<p begin="00:19:07.080" end="00:19:10.100" style="s2">with just different operators</p>
+<p begin="00:19:12.200" end="00:19:18.600" style="s2">so this is just an example of running</p>
+<p begin="00:19:16.590" end="00:19:20.010" style="s2">that tool it just kind of it ties</p>
+<p begin="00:19:18.600" end="00:19:22.830" style="s2">everything together that I just talked</p>
+<p begin="00:19:20.010" end="00:19:27.060" style="s2">through it basically you know parses the</p>
+<p begin="00:19:22.830" end="00:19:29.670" style="s2">file spits out the headers the way that</p>
+<p begin="00:19:27.060" end="00:19:34.110" style="s2">it figures out if it has successfully</p>
+<p begin="00:19:29.670" end="00:19:37.020" style="s2">decrypted the firmware is that there&#39;s a</p>
+<p begin="00:19:34.110" end="00:19:39.720" style="s2">UDS message that you can send to request</p>
+<p begin="00:19:37.020" end="00:19:42.570" style="s2">the software version of an ECU to get</p>
+<p begin="00:19:39.720" end="00:19:45.630" style="s2">the firmware version of an ECU that</p>
+<p begin="00:19:42.570" end="00:19:49.110" style="s2">returns something that looks like a part</p>
+<p begin="00:19:45.630" end="00:19:51.230" style="s2">number for Honda with an extra little</p>
+<p begin="00:19:49.110" end="00:19:55.290" style="s2">bit of an extra few numbers at the end</p>
+<p begin="00:19:51.230" end="00:19:59.490" style="s2">all of these RWD files have a name</p>
+<p begin="00:19:55.290" end="00:20:02.700" style="s2">that looks like a part number so what I</p>
+<p begin="00:19:59.490" end="00:20:06.840" style="s2">do is I take the beginning portion of</p>
+<p begin="00:20:02.700" end="00:20:10.290" style="s2">the RWD file and I say every time I try</p>
+<p begin="00:20:06.840" end="00:20:14.610" style="s2">a set of operators do I find in the</p>
+<p begin="00:20:10.290" end="00:20:19.230" style="s2">decrypted firmware a string that matches</p>
+<p begin="00:20:14.610" end="00:20:20.640" style="s2">that and normally there&#39;s just one down</p>
+<p begin="00:20:19.230" end="00:20:22.650" style="s2">the bottom there all those dots is it</p>
+<p begin="00:20:20.640" end="00:20:25.830" style="s2">trying every possible set of operators</p>
+<p begin="00:20:22.650" end="00:20:28.980" style="s2">that existed and the X means it hit and</p>
+<p begin="00:20:25.830" end="00:20:31.470" style="s2">it actually found the string that it was</p>
+<p begin="00:20:28.980" end="00:20:33.480" style="s2">looking for in this brute force way of</p>
+<p begin="00:20:31.470" end="00:20:36.260" style="s2">going through the different</p>
+<p begin="00:20:33.480" end="00:20:38.559" style="s2">possibilities of all the algorithms</p>
+<p begin="00:20:36.260" end="00:20:40.450" style="s2">[Music]</p>
+<p begin="00:20:38.559" end="00:20:44.070" style="s2">and then it spits out the decrypted</p>
+<p begin="00:20:40.450" end="00:20:44.070" style="s2">firmware into a file at the end</p>
+<p begin="00:20:44.270" end="00:20:51.410" style="s2">okay so my goal here is to flash an ECU</p>
+<p begin="00:20:48.860" end="00:20:53.360" style="s2">from a web browser and I now completely</p>
+<p begin="00:20:51.410" end="00:20:56.600" style="s2">understand this firmware update file</p>
+<p begin="00:20:53.360" end="00:20:59.150" style="s2">that honda has that honda publishes that</p>
+<p begin="00:20:56.600" end="00:21:01.970" style="s2">anyone can get ahold of it has</p>
+<p begin="00:20:59.150" end="00:21:04.220" style="s2">everything in it I guess except the</p>
+<p begin="00:21:01.970" end="00:21:06.320" style="s2">actual security access key exchange</p>
+<p begin="00:21:04.220" end="00:21:08.570" style="s2">algorithm so I know I figured out</p>
+<p begin="00:21:06.320" end="00:21:10.970" style="s2">everything I need to figure out to flash</p>
+<p begin="00:21:08.570" end="00:21:12.559" style="s2">an ECU myself you know write my own</p>
+<p begin="00:21:10.970" end="00:21:13.640" style="s2">software that does it but I don&#39;t know</p>
+<p begin="00:21:12.559" end="00:21:16.850" style="s2">how to make it through the security</p>
+<p begin="00:21:13.640" end="00:21:20.780" style="s2">access key exchange their security</p>
+<p begin="00:21:16.850" end="00:21:24.860" style="s2">access key changes okay it it generates</p>
+<p begin="00:21:20.780" end="00:21:26.690" style="s2">a random two byte number and then you</p>
+<p begin="00:21:24.860" end="00:21:29.330" style="s2">have to manipulate it and send back the</p>
+<p begin="00:21:26.690" end="00:21:31.640" style="s2">corresponding response that is the</p>
+<p begin="00:21:29.330" end="00:21:33.650" style="s2">correct response going you know after</p>
+<p begin="00:21:31.640" end="00:21:35.990" style="s2">you manipulate it with security access</p>
+<p begin="00:21:33.650" end="00:21:38.510" style="s2">key exchange algorithm but we don&#39;t know</p>
+<p begin="00:21:35.990" end="00:21:41.570" style="s2">what that is so a brute force would take</p>
+<p begin="00:21:38.510" end="00:21:43.850" style="s2">a long time it&#39;s probably actually maybe</p>
+<p begin="00:21:41.570" end="00:21:46.390" style="s2">doable but if you do it you&#39;ve now</p>
+<p begin="00:21:43.850" end="00:21:50.120" style="s2">figured it out for one ECU for</p>
+<p begin="00:21:46.390" end="00:21:53.750" style="s2">potentially one single firmware revision</p>
+<p begin="00:21:50.120" end="00:21:55.760" style="s2">of that ECU so what else would have this</p>
+<p begin="00:21:53.750" end="00:21:58.060" style="s2">security access key exchange that I</p>
+<p begin="00:21:55.760" end="00:22:01.650" style="s2">already have access to</p>
+<p begin="00:21:58.060" end="00:22:05.080" style="s2">well how about that j25 3/4 reflash tool</p>
+<p begin="00:22:01.650" end="00:22:07.540" style="s2">turns out it&#39;s pretty easy to find the</p>
+<p begin="00:22:05.080" end="00:22:11.050" style="s2">security access key extraño algorithm in</p>
+<p begin="00:22:07.540" end="00:22:13.800" style="s2">that tool and it looks like as far as I</p>
+<p begin="00:22:11.050" end="00:22:18.010" style="s2">can tell they basically use the same</p>
+<p begin="00:22:13.800" end="00:22:20.730" style="s2">algorithm to a similarly simple</p>
+<p begin="00:22:18.010" end="00:22:26.680" style="s2">algorithm just you know addition</p>
+<p begin="00:22:20.730" end="00:22:28.480" style="s2">multiplication and modulo so basically</p>
+<p begin="00:22:26.680" end="00:22:30.580" style="s2">the same algorithm there&#39;s just like one</p>
+<p begin="00:22:28.480" end="00:22:33.370" style="s2">variation whether the whether the key</p>
+<p begin="00:22:30.580" end="00:22:38.350" style="s2">that&#39;s in the file is 2 or what 4 bytes</p>
+<p begin="00:22:33.370" end="00:22:40.390" style="s2">or 6 bytes and so yeah great now we</p>
+<p begin="00:22:38.350" end="00:22:43.600" style="s2">found how to get through the security</p>
+<p begin="00:22:40.390" end="00:22:46.180" style="s2">access key exchange for probably any</p>
+<p begin="00:22:43.600" end="00:22:49.930" style="s2">honda ECU at least that his flash Dover</p>
+<p begin="00:22:46.180" end="00:22:52.030" style="s2">can most likely and I guess like all the</p>
+<p begin="00:22:49.930" end="00:22:54.220" style="s2">people that do like the engine tuning</p>
+<p begin="00:22:52.030" end="00:22:56.170" style="s2">ECU tuning I guess they all know this I</p>
+<p begin="00:22:54.220" end="00:22:58.360" style="s2">don&#39;t know I guess it was easy to find</p>
+<p begin="00:22:56.170" end="00:23:00.570" style="s2">though so I guess it makes sense that</p>
+<p begin="00:22:58.360" end="00:23:00.570" style="s2">they would</p>
+<p begin="00:23:00.800" end="00:23:06.680" style="s2">all right so I&#39;ve got everything I want</p>
+<p begin="00:23:04.310" end="00:23:09.140" style="s2">or I need to know now to build this</p>
+<p begin="00:23:06.680" end="00:23:13.000" style="s2">website so I created this website it&#39;s</p>
+<p begin="00:23:09.140" end="00:23:17.840" style="s2">open source auto ECU dot IO is the URL</p>
+<p begin="00:23:13.000" end="00:23:22.340" style="s2">it&#39;s the auto ECU github repository that</p>
+<p begin="00:23:17.840" end="00:23:26.050" style="s2">I have it&#39;s open source it&#39;s it only</p>
+<p begin="00:23:22.340" end="00:23:29.030" style="s2">supports this Panda ODB 2 dongle that</p>
+<p begin="00:23:26.050" end="00:23:32.810" style="s2">that I&#39;m using here because I don&#39;t know</p>
+<p begin="00:23:29.030" end="00:23:37.370" style="s2">any other any other ODB - dongle that</p>
+<p begin="00:23:32.810" end="00:23:39.170" style="s2">supports the web USB driver that Chrome</p>
+<p begin="00:23:37.370" end="00:23:42.460" style="s2">has so that you can interact with a USB</p>
+<p begin="00:23:39.170" end="00:23:45.140" style="s2">device directly from from a web browser</p>
+<p begin="00:23:42.460" end="00:23:46.910" style="s2">this website is just static content like</p>
+<p begin="00:23:45.140" end="00:23:49.730" style="s2">you don&#39;t need an internet connection to</p>
+<p begin="00:23:46.910" end="00:23:51.740" style="s2">use it there&#39;s no API you can don&#39;t you</p>
+<p begin="00:23:49.730" end="00:23:54.710" style="s2">can totally just pull down the github</p>
+<p begin="00:23:51.740" end="00:23:56.300" style="s2">repo and run it locally but you know for</p>
+<p begin="00:23:54.710" end="00:23:59.320" style="s2">convenience I just threw it up on auto</p>
+<p begin="00:23:56.300" end="00:23:59.320" style="s2">ECU IO</p>
+<p begin="00:23:59.760" end="00:24:03.160" style="s2">[Music]</p>
+<p begin="00:24:01.180" end="00:24:05.320" style="s2">there are some problems it&#39;s not perfect</p>
+<p begin="00:24:03.160" end="00:24:07.480" style="s2">now this isn&#39;t like productionize code</p>
+<p begin="00:24:05.320" end="00:24:09.310" style="s2">so don&#39;t use it on something that you&#39;re</p>
+<p begin="00:24:07.480" end="00:24:11.950" style="s2">not willing to replace if you end up</p>
+<p begin="00:24:09.310" end="00:24:17.170" style="s2">breaking your ECU I actually opened a</p>
+<p begin="00:24:11.950" end="00:24:20.440" style="s2">chrome a chrome issue because in their</p>
+<p begin="00:24:17.170" end="00:24:22.780" style="s2">effort to curb people doing crypto</p>
+<p begin="00:24:20.440" end="00:24:25.090" style="s2">mining in your web browsers like through</p>
+<p begin="00:24:22.780" end="00:24:27.400" style="s2">ads and so forth they don&#39;t let tabs</p>
+<p begin="00:24:25.090" end="00:24:30.400" style="s2">that are like in the background or don&#39;t</p>
+<p begin="00:24:27.400" end="00:24:33.010" style="s2">have focus keep executing code</p>
+<p begin="00:24:30.400" end="00:24:35.020" style="s2">indefinitely or maybe they only give it</p>
+<p begin="00:24:33.010" end="00:24:36.700" style="s2">like small time slices or something so</p>
+<p begin="00:24:35.020" end="00:24:39.670" style="s2">like for example when you use this you</p>
+<p begin="00:24:36.700" end="00:24:43.390" style="s2">really want to keep the browser focused</p>
+<p begin="00:24:39.670" end="00:24:44.710" style="s2">because because like you switch tabs and</p>
+<p begin="00:24:43.390" end="00:24:46.780" style="s2">then basically the flashing process</p>
+<p begin="00:24:44.710" end="00:24:48.190" style="s2">applause this so you really don&#39;t want</p>
+<p begin="00:24:46.780" end="00:24:52.210" style="s2">that to happen you know what in the</p>
+<p begin="00:24:48.190" end="00:24:54.250" style="s2">middle generally it&#39;s like it&#39;s okay</p>
+<p begin="00:24:52.210" end="00:24:56.110" style="s2">like if you cancel flashing one of these</p>
+<p begin="00:24:54.250" end="00:24:58.360" style="s2">ECU&#39;s in them in the middle you&#39;ve</p>
+<p begin="00:24:56.110" end="00:25:00.430" style="s2">potentially erased the ECU but since the</p>
+<p begin="00:24:58.360" end="00:25:01.840" style="s2">bootloader is at the beginning if you</p>
+<p begin="00:25:00.430" end="00:25:03.520" style="s2">haven&#39;t done anything really dumb and if</p>
+<p begin="00:25:01.840" end="00:25:05.800" style="s2">you&#39;re not really unlucky you can just</p>
+<p begin="00:25:03.520" end="00:25:08.980" style="s2">you can just cycle the power and start</p>
+<p begin="00:25:05.800" end="00:25:10.570" style="s2">over and flash again but yeah it&#39;s</p>
+<p begin="00:25:08.980" end="00:25:15.910" style="s2">definitely possible that you&#39;ll brick an</p>
+<p begin="00:25:10.570" end="00:25:19.720" style="s2">ECU if you use this so I have a little</p>
+<p begin="00:25:15.910" end="00:25:24.760" style="s2">video here I have a 20-17 honda cr-v it</p>
+<p begin="00:25:19.720" end="00:25:27.070" style="s2">has ECU updates for several ACU&#39;s let&#39;s</p>
+<p begin="00:25:24.760" end="00:25:32.740" style="s2">play this here</p>
+<p begin="00:25:27.070" end="00:25:35.440" style="s2">see if I can make it fullscreen here if</p>
+<p begin="00:25:32.740" end="00:25:37.840" style="s2">you watch the - really close things look</p>
+<p begin="00:25:35.440" end="00:25:39.880" style="s2">pretty good right now it looks normal</p>
+<p begin="00:25:37.840" end="00:25:45.310" style="s2">I&#39;m like picking the firmware file right</p>
+<p begin="00:25:39.880" end="00:25:46.900" style="s2">now does a little validation and then</p>
+<p begin="00:25:45.310" end="00:25:52.030" style="s2">I&#39;m gonna start the flashing process</p>
+<p begin="00:25:46.900" end="00:25:57.100" style="s2">here and then holy every error code</p>
+<p begin="00:25:52.030" end="00:25:58.240" style="s2">possible pops up on the dash so I don&#39;t</p>
+<p begin="00:25:57.100" end="00:25:59.860" style="s2">know if I like miss maybe I missed</p>
+<p begin="00:25:58.240" end="00:26:02.500" style="s2">something maybe there&#39;s like some way to</p>
+<p begin="00:25:59.860" end="00:26:04.180" style="s2">prevent that from happening but it&#39;s</p>
+<p begin="00:26:02.500" end="00:26:06.250" style="s2">kind of scary I mean I tested this like</p>
+<p begin="00:26:04.180" end="00:26:08.950" style="s2">on a bench before and actually like had</p>
+<p begin="00:26:06.250" end="00:26:10.960" style="s2">bugs in my code like for example when</p>
+<p begin="00:26:08.950" end="00:26:13.240" style="s2">you plug when you plug into one ECU</p>
+<p begin="00:26:10.960" end="00:26:16.060" style="s2">sitting on a bench there&#39;s no other</p>
+<p begin="00:26:13.240" end="00:26:22.290" style="s2">ECU&#39;s on the canvas so like you can make</p>
+<p begin="00:26:16.060" end="00:26:25.090" style="s2">a mistake where your software assumes</p>
+<p begin="00:26:22.290" end="00:26:27.910" style="s2">accidentally that there&#39;s only what that</p>
+<p begin="00:26:25.090" end="00:26:30.190" style="s2">every message that&#39;s coming is intended</p>
+<p begin="00:26:27.910" end="00:26:31.660" style="s2">for you know your software when you know</p>
+<p begin="00:26:30.190" end="00:26:33.910" style="s2">the ECU&#39;s are throwing messages all over</p>
+<p begin="00:26:31.660" end="00:26:35.800" style="s2">the place all the time and so luckily</p>
+<p begin="00:26:33.910" end="00:26:37.390" style="s2">that was easy to fix and now now it</p>
+<p begin="00:26:35.800" end="00:26:40.630" style="s2">works better in like actually this</p>
+<p begin="00:26:37.390" end="00:26:42.700" style="s2">successfully flashes the ECU looks like</p>
+<p begin="00:26:40.630" end="00:26:43.930" style="s2">it&#39;s flashing right now actually</p>
+<p begin="00:26:42.700" end="00:26:46.390" style="s2">applying the firmware I think this is</p>
+<p begin="00:26:43.930" end="00:26:49.300" style="s2">like applying the radar firmware update</p>
+<p begin="00:26:46.390" end="00:26:52.020" style="s2">for my car or something like that so</p>
+<p begin="00:26:49.300" end="00:26:56.350" style="s2">I&#39;ve just I just took you know the the</p>
+<p begin="00:26:52.020" end="00:26:59.470" style="s2">RWD file the Honda names these firmware</p>
+<p begin="00:26:56.350" end="00:27:01.510" style="s2">update files but RWD is the extension</p>
+<p begin="00:26:59.470" end="00:27:02.980" style="s2">I just took that you know selected in</p>
+<p begin="00:27:01.510" end="00:27:04.960" style="s2">the software that I&#39;ll show you a live</p>
+<p begin="00:27:02.980" end="00:27:08.409" style="s2">demo here in a minute of an ECU on a</p>
+<p begin="00:27:04.960" end="00:27:11.470" style="s2">bench and picked it and flashed it and</p>
+<p begin="00:27:08.409" end="00:27:16.860" style="s2">then I just power cycled the car and all</p>
+<p begin="00:27:11.470" end="00:27:16.860" style="s2">the ears went away so that&#39;s great work</p>
+<p begin="00:27:20.250" end="00:27:25.510" style="s2">Thanks</p>
+<p begin="00:27:21.520" end="00:27:28.059" style="s2">so so that was fun but you know these</p>
+<p begin="00:27:25.510" end="00:27:30.730" style="s2">these ECU engine tuner guys they don&#39;t</p>
+<p begin="00:27:28.059" end="00:27:32.710" style="s2">just flash the updates that they you</p>
+<p begin="00:27:30.730" end="00:27:34.030" style="s2">know get from Honda they reverse</p>
+<p begin="00:27:32.710" end="00:27:36.820" style="s2">engineered this and they generate their</p>
+<p begin="00:27:34.030" end="00:27:38.409" style="s2">own updates right so wouldn&#39;t it be more</p>
+<p begin="00:27:36.820" end="00:27:40.510" style="s2">fun if we you know we could you know</p>
+<p begin="00:27:38.409" end="00:27:42.309" style="s2">figure out how to generate an update</p>
+<p begin="00:27:40.510" end="00:27:48.490" style="s2">maybe for an ECU that doesn&#39;t even have</p>
+<p begin="00:27:42.309" end="00:27:49.570" style="s2">an update and then flash that so you</p>
+<p begin="00:27:48.490" end="00:27:51.520" style="s2">don&#39;t need a whole lot of information</p>
+<p begin="00:27:49.570" end="00:27:54.789" style="s2">you just need you know whatever is in</p>
+<p begin="00:27:51.520" end="00:27:56.710" style="s2">that RWD file you can just make up some</p>
+<p begin="00:27:54.789" end="00:27:58.659" style="s2">keys you do have to be able to figure</p>
+<p begin="00:27:56.710" end="00:27:59.230" style="s2">out you know how to get firmware off of</p>
+<p begin="00:27:58.659" end="00:28:01.299" style="s2">an ECU</p>
+<p begin="00:27:59.230" end="00:28:03.669" style="s2">maybe or you could like I guess start</p>
+<p begin="00:28:01.299" end="00:28:05.020" style="s2">with one of those our double D files if</p>
+<p begin="00:28:03.669" end="00:28:09.880" style="s2">you wanted to just to play around with</p>
+<p begin="00:28:05.020" end="00:28:11.440" style="s2">generating your own and but you got to</p>
+<p begin="00:28:09.880" end="00:28:13.330" style="s2">be able to get you know the firmware you</p>
+<p begin="00:28:11.440" end="00:28:15.940" style="s2">have to be able to encrypt it since it&#39;s</p>
+<p begin="00:28:13.330" end="00:28:18.010" style="s2">encrypted in these are two BD update</p>
+<p begin="00:28:15.940" end="00:28:21.640" style="s2">files but this is actually like a pretty</p>
+<p begin="00:28:18.010" end="00:28:23.740" style="s2">good format for updating an ECU because</p>
+<p begin="00:28:21.640" end="00:28:25.179" style="s2">it&#39;s like self-contained it&#39;s a</p>
+<p begin="00:28:23.740" end="00:28:28.450" style="s2">self-contained file and it has</p>
+<p begin="00:28:25.179" end="00:28:31.179" style="s2">everything in it you need to be able to</p>
+<p begin="00:28:28.450" end="00:28:33.640" style="s2">flash an ECU and validate that you know</p>
+<p begin="00:28:31.179" end="00:28:36.280" style="s2">the ECU that you&#39;re going to flash is</p>
+<p begin="00:28:33.640" end="00:28:38.409" style="s2">running you know an expected version of</p>
+<p begin="00:28:36.280" end="00:28:41.350" style="s2">firmware before you flash it and and so</p>
+<p begin="00:28:38.409" end="00:28:44.889" style="s2">forth so so</p>
+<p begin="00:28:41.350" end="00:28:48.159" style="s2">in my RWE x-ray repo there is a script</p>
+<p begin="00:28:44.889" end="00:28:50.500" style="s2">that does just that if you supply it an</p>
+<p begin="00:28:48.159" end="00:28:53.500" style="s2">encrypted firmware file like what you</p>
+<p begin="00:28:50.500" end="00:28:56.740" style="s2">would find in one of the RWD files in</p>
+<p begin="00:28:53.500" end="00:28:58.960" style="s2">the firmware section and the appropriate</p>
+<p begin="00:28:56.740" end="00:29:03.909" style="s2">headers then it&#39;ll kick out for you an</p>
+<p begin="00:28:58.960" end="00:29:07.840" style="s2">are WD file that you can flash using my</p>
+<p begin="00:29:03.909" end="00:29:10.960" style="s2">website alright so let&#39;s do that I have</p>
+<p begin="00:29:07.840" end="00:29:14.919" style="s2">I just just because out of convenience I</p>
+<p begin="00:29:10.960" end="00:29:18.429" style="s2">have an ECU here that I tore apart to</p>
+<p begin="00:29:14.919" end="00:29:21.149" style="s2">play around with and it&#39;s you can get</p>
+<p begin="00:29:18.429" end="00:29:25.019" style="s2">for example a lot of ECU&#39;s on you know</p>
+<p begin="00:29:21.149" end="00:29:28.029" style="s2">like LQK online for really cheap this is</p>
+<p begin="00:29:25.019" end="00:29:31.240" style="s2">specifically an ECU for the electronic</p>
+<p begin="00:29:28.029" end="00:29:33.429" style="s2">power steering for my 2017 Honda CRV I&#39;m</p>
+<p begin="00:29:31.240" end="00:29:36.940" style="s2">just using it because like that&#39;s what I</p>
+<p begin="00:29:33.429" end="00:29:39.210" style="s2">have out of convenience so let&#39;s let&#39;s</p>
+<p begin="00:29:36.940" end="00:29:39.210" style="s2">do it</p>
+<p begin="00:29:43.420" end="00:29:47.990" style="s2">so yeah so basically I just I was it I</p>
+<p begin="00:29:46.250" end="00:29:50.240" style="s2">figured out how to extract the firmware</p>
+<p begin="00:29:47.990" end="00:29:53.120" style="s2">from the CCU I used that are to be</p>
+<p begin="00:29:50.240" end="00:29:54.380" style="s2">builder to what I did was just build you</p>
+<p begin="00:29:53.120" end="00:29:56.900" style="s2">know for proof of concept</p>
+<p begin="00:29:54.380" end="00:29:58.910" style="s2">I built a firmware update that does</p>
+<p begin="00:29:56.900" end="00:30:02.120" style="s2">nothing it literally just is the</p>
+<p begin="00:29:58.910" end="00:30:03.890" style="s2">original firmware on the ECU so that&#39;s</p>
+<p begin="00:30:02.120" end="00:30:08.650" style="s2">we&#39;re gonna do so this is this is my web</p>
+<p begin="00:30:03.890" end="00:30:11.060" style="s2">sorry this is my website auto ECU IO and</p>
+<p begin="00:30:08.650" end="00:30:14.080" style="s2">right now it has to drop down for</p>
+<p begin="00:30:11.060" end="00:30:16.850" style="s2">manufacturer Honda is the only</p>
+<p begin="00:30:14.080" end="00:30:18.260" style="s2">manufacturer that is supported but you</p>
+<p begin="00:30:16.850" end="00:30:19.730" style="s2">know it&#39;s open-source if someone&#39;s</p>
+<p begin="00:30:18.260" end="00:30:22.520" style="s2">interested they could you know</p>
+<p begin="00:30:19.730" end="00:30:25.910" style="s2">definitely add formats of other firmware</p>
+<p begin="00:30:22.520" end="00:30:28.220" style="s2">update files distributed by other car</p>
+<p begin="00:30:25.910" end="00:30:30.290" style="s2">manufacturers I&#39;d looked a little bit I</p>
+<p begin="00:30:28.220" end="00:30:32.630" style="s2">like Tesla&#39;s firmware update file format</p>
+<p begin="00:30:30.290" end="00:30:34.370" style="s2">and it&#39;s like so much simpler than the</p>
+<p begin="00:30:32.630" end="00:30:35.750" style="s2">Honda for example it just has like I</p>
+<p begin="00:30:34.370" end="00:30:37.610" style="s2">think it has like a header that says the</p>
+<p begin="00:30:35.750" end="00:30:40.100" style="s2">start address in the length and then</p>
+<p begin="00:30:37.610" end="00:30:42.080" style="s2">it&#39;s just the firmware just you know not</p>
+<p begin="00:30:40.100" end="00:30:44.450" style="s2">encrypted or anything so you could</p>
+<p begin="00:30:42.080" end="00:30:47.420" style="s2">definitely expand this you know if you</p>
+<p begin="00:30:44.450" end="00:30:49.610" style="s2">wanted to the other thing too is like</p>
+<p begin="00:30:47.420" end="00:30:51.860" style="s2">you know I can mention it being that</p>
+<p begin="00:30:49.610" end="00:30:54.890" style="s2">that honda diagnostic software is is so</p>
+<p begin="00:30:51.860" end="00:30:56.600" style="s2">hard to use and and slow and a pain to</p>
+<p begin="00:30:54.890" end="00:30:58.940" style="s2">install you can do all kinds of cool</p>
+<p begin="00:30:56.600" end="00:31:00.050" style="s2">stuff with this too right like one of</p>
+<p begin="00:30:58.940" end="00:31:01.280" style="s2">the great things about the honda</p>
+<p begin="00:31:00.050" end="00:31:04.310" style="s2">software is like you can get deep</p>
+<p begin="00:31:01.280" end="00:31:06.350" style="s2">introspection into if you get like check</p>
+<p begin="00:31:04.310" end="00:31:08.210" style="s2">engine lights and so forth what those</p>
+<p begin="00:31:06.350" end="00:31:09.740" style="s2">things you know what are those check</p>
+<p begin="00:31:08.210" end="00:31:11.660" style="s2">engine lights and being able to clear</p>
+<p begin="00:31:09.740" end="00:31:13.730" style="s2">them and so forth so like you can easily</p>
+<p begin="00:31:11.660" end="00:31:16.840" style="s2">you know take this in and for example</p>
+<p begin="00:31:13.730" end="00:31:20.390" style="s2">build your own hds that enabled you to</p>
+<p begin="00:31:16.840" end="00:31:21.980" style="s2">you know more easily maybe clear check</p>
+<p begin="00:31:20.390" end="00:31:23.120" style="s2">engine codes from a web browser so</p>
+<p begin="00:31:21.980" end="00:31:24.640" style="s2">there&#39;s all kinds of cool stuff you can</p>
+<p begin="00:31:23.120" end="00:31:26.650" style="s2">do with this</p>
+<p begin="00:31:24.640" end="00:31:28.420" style="s2">so let me power this it&#39;s powered on</p>
+<p begin="00:31:26.650" end="00:31:30.040" style="s2">here I don&#39;t know if anyone can really</p>
+<p begin="00:31:28.420" end="00:31:30.520" style="s2">see this here sorry we didn&#39;t get a</p>
+<p begin="00:31:30.040" end="00:31:34.380" style="s2">table</p>
+<p begin="00:31:30.520" end="00:31:36.580" style="s2">so this chair here is my what&#39;s that oh</p>
+<p begin="00:31:34.380" end="00:31:39.480" style="s2">hey I got a table I&#39;m gonna go grab the</p>
+<p begin="00:31:36.580" end="00:31:39.480" style="s2">table quick thanks</p>
+<p begin="00:32:11.230" end="00:32:14.500" style="s2">all right so this may be the step</p>
+<p begin="00:32:13.029" end="00:32:16.210" style="s2">deserves a little more explanation here</p>
+<p begin="00:32:14.500" end="00:32:17.620" style="s2">so this doesn&#39;t really look like</p>
+<p begin="00:32:16.210" end="00:32:19.210" style="s2">electronic power steering this because</p>
+<p begin="00:32:17.620" end="00:32:22.620" style="s2">it&#39;s like all tore apart and like the</p>
+<p begin="00:32:19.210" end="00:32:25.000" style="s2">controller in this situation is not</p>
+<p begin="00:32:22.620" end="00:32:27.070" style="s2">separate from the motor they actually</p>
+<p begin="00:32:25.000" end="00:32:28.809" style="s2">put the controller in the motor so</p>
+<p begin="00:32:27.070" end="00:32:32.559" style="s2">that&#39;s why it&#39;s like all tore apart and</p>
+<p begin="00:32:28.809" end="00:32:38.740" style="s2">weird I&#39;m using one of those panda obd2</p>
+<p begin="00:32:32.559" end="00:32:40.120" style="s2">dongles that comment I sells and the red</p>
+<p begin="00:32:38.740" end="00:32:42.669" style="s2">thing plugged in is just so that I have</p>
+<p begin="00:32:40.120" end="00:32:44.350" style="s2">a long USB a long enough USB cord that&#39;s</p>
+<p begin="00:32:42.669" end="00:32:48.010" style="s2">called a panda paw it&#39;s just in case</p>
+<p begin="00:32:44.350" end="00:32:49.779" style="s2">like you brick your your obd2 dongle you</p>
+<p begin="00:32:48.010" end="00:32:51.669" style="s2">can actually you actually can&#39;t really</p>
+<p begin="00:32:49.779" end="00:32:54.840" style="s2">brick it because you can use this panda</p>
+<p begin="00:32:51.669" end="00:32:57.639" style="s2">pod to get it in Adi a few boot mode so</p>
+<p begin="00:32:54.840" end="00:32:59.409" style="s2">that&#39;s plugged into another thing that</p>
+<p begin="00:32:57.639" end="00:33:01.899" style="s2">we sell which you don&#39;t need by any</p>
+<p begin="00:32:59.409" end="00:33:03.779" style="s2">means at all it&#39;s just it&#39;s just like a</p>
+<p begin="00:33:01.899" end="00:33:08.350" style="s2">development board that breaks out the</p>
+<p begin="00:33:03.779" end="00:33:11.169" style="s2">the obd2 pins really conveniently so I</p>
+<p begin="00:33:08.350" end="00:33:13.960" style="s2">just use that to build an adapter to go</p>
+<p begin="00:33:11.169" end="00:33:19.750" style="s2">from the ECU from like the real ECU</p>
+<p begin="00:33:13.960" end="00:33:22.600" style="s2">connector to the Panda PO db2 connector</p>
+<p begin="00:33:19.750" end="00:33:30.399" style="s2">so advice</p>
+<p begin="00:33:22.600" end="00:33:33.519" style="s2">so yeah so all right let&#39;s pull up this</p>
+<p begin="00:33:30.399" end="00:33:35.769" style="s2">is my fake firmware update that is just</p>
+<p begin="00:33:33.519" end="00:33:38.169" style="s2">like the stock firmware that I generated</p>
+<p begin="00:33:35.769" end="00:33:41.440" style="s2">a file for because there is no firmware</p>
+<p begin="00:33:38.169" end="00:33:45.880" style="s2">update for this ECU I picked that from R</p>
+<p begin="00:33:41.440" end="00:33:47.409" style="s2">update file and I say next now this is</p>
+<p begin="00:33:45.880" end="00:33:51.549" style="s2">where those headers that are in the RWD</p>
+<p begin="00:33:47.409" end="00:33:55.230" style="s2">file come into play it just it just went</p>
+<p begin="00:33:51.549" end="00:33:57.789" style="s2">out and so I implemented that UDS</p>
+<p begin="00:33:55.230" end="00:34:00.190" style="s2">protocol and the is OTP I am I</p>
+<p begin="00:33:57.789" end="00:34:02.350" style="s2">implemented in JavaScript you can see it</p>
+<p begin="00:34:00.190" end="00:34:05.740" style="s2">in one of my in the github repo for this</p>
+<p begin="00:34:02.350" end="00:34:08.589" style="s2">for this website so like it just went</p>
+<p begin="00:34:05.740" end="00:34:13.270" style="s2">off and it just worried that can address</p>
+<p begin="00:34:08.589" end="00:34:15.619" style="s2">180 a 3-0 F 1 and I think it might have</p>
+<p begin="00:34:13.270" end="00:34:18.529" style="s2">sound like tester present</p>
+<p begin="00:34:15.619" end="00:34:20.629" style="s2">or something like that I know I&#39;m sorry</p>
+<p begin="00:34:18.529" end="00:34:23.210" style="s2">they didn&#39;t send it off yet we start to</p>
+<p begin="00:34:20.629" end="00:34:25.609" style="s2">connect to the ECU</p>
+<p begin="00:34:23.210" end="00:34:30.139" style="s2">so the way web USB works for like</p>
+<p begin="00:34:25.609" end="00:34:32.270" style="s2">security reasons is if you have a device</p>
+<p begin="00:34:30.139" end="00:34:33.679" style="s2">implements the web USB protocol when you</p>
+<p begin="00:34:32.270" end="00:34:36.530" style="s2">plug into your computer it doesn&#39;t just</p>
+<p begin="00:34:33.679" end="00:34:39.619" style="s2">like get access to things so Chrome has</p>
+<p begin="00:34:36.530" end="00:34:42.500" style="s2">this specification where there&#39;s there&#39;s</p>
+<p begin="00:34:39.619" end="00:34:45.080" style="s2">a JavaScript call you can make to say go</p>
+<p begin="00:34:42.500" end="00:34:49.429" style="s2">you know go talk to this USB device and</p>
+<p begin="00:34:45.080" end="00:34:52.700" style="s2">then it prompts the user to actually say</p>
+<p begin="00:34:49.429" end="00:34:55.810" style="s2">yes you&#39;re allowed to talk to this USB</p>
+<p begin="00:34:52.700" end="00:34:55.810" style="s2">device from a web browser</p>
+<p begin="00:34:56.710" end="00:35:02.319" style="s2">so I pick it I say connect okay now now</p>
+<p begin="00:35:00.579" end="00:35:05.710" style="s2">it actually went out and it actually</p>
+<p begin="00:35:02.319" end="00:35:08.800" style="s2">like sound like tester present to the</p>
+<p begin="00:35:05.710" end="00:35:09.339" style="s2">ECU and said like are you there are you</p>
+<p begin="00:35:08.800" end="00:35:12.520" style="s2">awake</p>
+<p begin="00:35:09.339" end="00:35:13.480" style="s2">and then there&#39;s another UDS message</p>
+<p begin="00:35:12.520" end="00:35:17.440" style="s2">called</p>
+<p begin="00:35:13.480" end="00:35:19.540" style="s2">like read memory by address I think it&#39;s</p>
+<p begin="00:35:17.440" end="00:35:22.180" style="s2">read memory by address and there&#39;s a</p>
+<p begin="00:35:19.540" end="00:35:23.859" style="s2">specific code that&#39;s defined that</p>
+<p begin="00:35:22.180" end="00:35:26.079" style="s2">there&#39;s like four of them they&#39;re like</p>
+<p begin="00:35:23.859" end="00:35:28.660" style="s2">loader versions software version</p>
+<p begin="00:35:26.079" end="00:35:30.970" style="s2">application version so I think it&#39;s I</p>
+<p begin="00:35:28.660" end="00:35:32.950" style="s2">think it&#39;s software version it goes off</p>
+<p begin="00:35:30.970" end="00:35:35.440" style="s2">and it queries the software version and</p>
+<p begin="00:35:32.950" end="00:35:40.119" style="s2">it checks does the software version that</p>
+<p begin="00:35:35.440" end="00:35:43.750" style="s2">the ECU returned match what my RWD</p>
+<p begin="00:35:40.119" end="00:35:46.359" style="s2">headers excuse me what my RWD headers</p>
+<p begin="00:35:43.750" end="00:35:50.109" style="s2">say are the supported software versions</p>
+<p begin="00:35:46.359" end="00:35:55.210" style="s2">for this for a more update file alright</p>
+<p begin="00:35:50.109" end="00:35:56.559" style="s2">so now we&#39;re connected next okay this is</p>
+<p begin="00:35:55.210" end="00:35:58.300" style="s2">the danger screen like I said you can</p>
+<p begin="00:35:56.559" end="00:35:59.559" style="s2">brick an ECU so don&#39;t do this with an</p>
+<p begin="00:35:58.300" end="00:36:02.530" style="s2">ECU that you&#39;re not willing to pay to</p>
+<p begin="00:35:59.559" end="00:36:07.829" style="s2">replace something could go wrong I say I</p>
+<p begin="00:36:02.530" end="00:36:11.829" style="s2">agree and flash it&#39;s erasing the memory</p>
+<p begin="00:36:07.829" end="00:36:12.790" style="s2">and now it&#39;s flashing the firmware so</p>
+<p begin="00:36:11.829" end="00:36:14.049" style="s2">it&#39;s basically just going to that</p>
+<p begin="00:36:12.790" end="00:36:16.900" style="s2">sequence they laid out at the very</p>
+<p begin="00:36:14.049" end="00:36:19.690" style="s2">beginning to actually send the firmware</p>
+<p begin="00:36:16.900" end="00:36:21.430" style="s2">update so you can can&#39;t really see the</p>
+<p begin="00:36:19.690" end="00:36:26.339" style="s2">progress bar there really well but it&#39;s</p>
+<p begin="00:36:21.430" end="00:36:26.339" style="s2">like 25 percent and moving along</p>
+<p begin="00:36:27.200" end="00:36:33.220" style="s2">LEDs are like flashing different colors</p>
+<p begin="00:36:29.270" end="00:36:33.220" style="s2">on the table over here</p>
+<p begin="00:36:35.960" end="00:36:42.480" style="s2">yeah so I know once you have this I</p>
+<p begin="00:36:41.040" end="00:36:44.660" style="s2">guess flashing a firmware updates pretty</p>
+<p begin="00:36:42.480" end="00:36:44.660" style="s2">boring</p>
+<p begin="00:36:47.230" end="00:36:53.589" style="s2">it&#39;ll be done here in a second a few</p>
+<p begin="00:36:50.200" end="00:36:55.630" style="s2">seconds about 80% and then I&#39;ll just</p>
+<p begin="00:36:53.589" end="00:36:58.710" style="s2">pull something up like this ECU just</p>
+<p begin="00:36:55.630" end="00:37:03.130" style="s2">constantly dumps out some messages on</p>
+<p begin="00:36:58.710" end="00:37:05.680" style="s2">the canvas okay it&#39;s complete so all</p>
+<p begin="00:37:03.130" end="00:37:07.599" style="s2">right let&#39;s talk to this ECU I got to</p>
+<p begin="00:37:05.680" end="00:37:10.720" style="s2">free up the USB device the web browser</p>
+<p begin="00:37:07.599" end="00:37:12.460" style="s2">doesn&#39;t have a hold of it and all right</p>
+<p begin="00:37:10.720" end="00:37:14.559" style="s2">so let&#39;s see if this all right so it</p>
+<p begin="00:37:12.460" end="00:37:15.790" style="s2">should be now if I didn&#39;t hopefully this</p>
+<p begin="00:37:14.559" end="00:37:18.430" style="s2">is where like the live demo doesn&#39;t go</p>
+<p begin="00:37:15.790" end="00:37:20.680" style="s2">all wrong if I try to connect to this</p>
+<p begin="00:37:18.430" end="00:37:23.640" style="s2">ECU and read all the messages that it&#39;s</p>
+<p begin="00:37:20.680" end="00:37:23.640" style="s2">dumping out on the canvas</p>
+<p begin="00:37:24.069" end="00:37:30.690" style="s2">there you go so it&#39;s like five messages</p>
+<p begin="00:37:28.599" end="00:37:33.099" style="s2">that just dumps out I think it&#39;s like a</p>
+<p begin="00:37:30.690" end="00:37:35.410" style="s2">torque sensor that&#39;s on it and a bunch</p>
+<p begin="00:37:33.099" end="00:37:39.130" style="s2">of other stuff so</p>
+<p begin="00:37:35.410" end="00:37:49.319" style="s2">so yeah and I guess that&#39;s it that&#39;s my</p>
+<p begin="00:37:39.130" end="00:37:49.319" style="s2">talk what&#39;s up</p>
+<p begin="00:38:06.960" end="00:38:10.099" style="s2">[Applause]</p>
+<p begin="00:38:25.119" end="00:38:27.150" style="s2">I</p>
+<p begin="00:38:38.660" end="00:38:43.789" style="s2">yeah sure so is there any signature on</p>
+<p begin="00:38:41.630" end="00:38:46.759" style="s2">the firmware no yeah there&#39;s no</p>
+<p begin="00:38:43.789" end="00:38:48.640" style="s2">signature it just like they just there&#39;s</p>
+<p begin="00:38:46.759" end="00:38:51.740" style="s2">there&#39;s that last step where they say</p>
+<p begin="00:38:48.640" end="00:38:53.450" style="s2">they say basically validate the firmware</p>
+<p begin="00:38:51.740" end="00:38:55.309" style="s2">there&#39;s like a routine control message</p>
+<p begin="00:38:53.450" end="00:38:57.109" style="s2">that gets called and that validation is</p>
+<p begin="00:38:55.309" end="00:38:59.930" style="s2">just our that check do the checks that</p>
+<p begin="00:38:57.109" end="00:39:01.910" style="s2">do the do the do this some of the bytes</p>
+<p begin="00:38:59.930" end="00:39:03.740" style="s2">add up so yeah so yeah there&#39;s nothing</p>
+<p begin="00:39:01.910" end="00:39:05.480" style="s2">like that did it and then the other</p>
+<p begin="00:39:03.740" end="00:39:08.089" style="s2">comment was I made some assumptions</p>
+<p begin="00:39:05.480" end="00:39:10.400" style="s2">about like I had something I wanted to</p>
+<p begin="00:39:08.089" end="00:39:13.819" style="s2">decrypt it and I didn&#39;t know you know</p>
+<p begin="00:39:10.400" end="00:39:15.019" style="s2">what the how I would do I know like how</p>
+<p begin="00:39:13.819" end="00:39:17.180" style="s2">would I make those assumptions so that I</p>
+<p begin="00:39:15.019" end="00:39:20.269" style="s2">know when it was decrypted completely or</p>
+<p begin="00:39:17.180" end="00:39:23.480" style="s2">properly yeah so I mean I just guessed</p>
+<p begin="00:39:20.269" end="00:39:26.150" style="s2">right and then in addition to guessing</p>
+<p begin="00:39:23.480" end="00:39:29.150" style="s2">though this ECU here is tore apart</p>
+<p begin="00:39:26.150" end="00:39:31.730" style="s2">because then I have the decrypted</p>
+<p begin="00:39:29.150" end="00:39:34.160" style="s2">firmware like I figured out how to dump</p>
+<p begin="00:39:31.730" end="00:39:36.380" style="s2">the full firmware so so like these</p>
+<p begin="00:39:34.160" end="00:39:38.539" style="s2">firmware update files they&#39;re you know</p>
+<p begin="00:39:36.380" end="00:39:40.809" style="s2">potentially not super useful to modify</p>
+<p begin="00:39:38.539" end="00:39:43.000" style="s2">because they&#39;re partial right like</p>
+<p begin="00:39:40.809" end="00:39:45.529" style="s2">important things that you want to modify</p>
+<p begin="00:39:43.000" end="00:39:47.509" style="s2">or you need to like reverse engineering</p>
+<p begin="00:39:45.529" end="00:39:51.410" style="s2">out of them they might not even be in</p>
+<p begin="00:39:47.509" end="00:39:54.289" style="s2">the update section right so like what I</p>
+<p begin="00:39:51.410" end="00:39:57.049" style="s2">did was I got an ECU that I was able to</p>
+<p begin="00:39:54.289" end="00:39:59.299" style="s2">dump the firmware off of and then I just</p>
+<p begin="00:39:57.049" end="00:40:01.160" style="s2">had these ideas like okay well I should</p>
+<p begin="00:39:59.299" end="00:40:03.920" style="s2">be able to find this software version</p>
+<p begin="00:40:01.160" end="00:40:07.339" style="s2">that you can request through read memory</p>
+<p begin="00:40:03.920" end="00:40:09.049" style="s2">by address and maybe it&#39;s like I just</p>
+<p begin="00:40:07.339" end="00:40:11.599" style="s2">tried like okay well maybe how many</p>
+<p begin="00:40:09.049" end="00:40:14.200" style="s2">times I had no idea how many times how</p>
+<p begin="00:40:11.599" end="00:40:15.940" style="s2">many sets of</p>
+<p begin="00:40:14.200" end="00:40:18.369" style="s2">you know combinations of operators and</p>
+<p begin="00:40:15.940" end="00:40:20.950" style="s2">my brute-force decryption would match</p>
+<p begin="00:40:18.369" end="00:40:24.310" style="s2">and it turned out like 99% of the time</p>
+<p begin="00:40:20.950" end="00:40:26.950" style="s2">there was only one and I had the real</p>
+<p begin="00:40:24.310" end="00:40:29.079" style="s2">firmware from an ECU to compare to to</p>
+<p begin="00:40:26.950" end="00:40:31.810" style="s2">then make a hundred percent certain that</p>
+<p begin="00:40:29.079" end="00:40:34.560" style="s2">at least sometimes I was decrypting it</p>
+<p begin="00:40:31.810" end="00:40:34.560" style="s2">successfully</p>
+<p begin="00:40:35.650" end="00:40:40.570" style="s2">this one actually this specific ECU is</p>
+<p begin="00:40:38.470" end="00:40:42.880" style="s2">simpler than that it&#39;s it&#39;s UART its</p>
+<p begin="00:40:40.570" end="00:40:44.470" style="s2">serial but a lot of them are JTAG that</p>
+<p begin="00:40:42.880" end="00:40:47.940" style="s2">you you have to dump them too</p>
+<p begin="00:40:44.470" end="00:40:47.940" style="s2">yep yeah</p>
+<p begin="00:40:53.540" end="00:40:56.570" style="s2">no I don&#39;t think so I mean they don&#39;t</p>
+<p begin="00:40:55.340" end="00:40:58.370" style="s2">they don&#39;t they don&#39;t publish any</p>
+<p begin="00:40:56.570" end="00:41:00.620" style="s2">firmware updates I think George is like</p>
+<p begin="00:40:58.370" end="00:41:03.520" style="s2">set on our discord multiple times at all</p>
+<p begin="00:41:00.620" end="00:41:06.920" style="s2">for more modifications or cancelled so</p>
+<p begin="00:41:03.520" end="00:41:08.210" style="s2">yeah I mean this is just you know this</p>
+<p begin="00:41:06.920" end="00:41:11.270" style="s2">is just me working on this stuff in my</p>
+<p begin="00:41:08.210" end="00:41:15.280" style="s2">free time basically so yeah this is just</p>
+<p begin="00:41:11.270" end="00:41:15.280" style="s2">my stuff for fun so yeah</p>
+<p begin="00:41:23.450" end="00:41:27.500" style="s2">yeah so I haven&#39;t had that much time to</p>
+<p begin="00:41:25.910" end="00:41:30.380" style="s2">like really work on it and make it</p>
+<p begin="00:41:27.500" end="00:41:32.270" style="s2">awesome so like I just tried it on a few</p>
+<p begin="00:41:30.380" end="00:41:33.950" style="s2">ECU&#39;s that are actually in my car but I</p>
+<p begin="00:41:32.270" end="00:41:36.650" style="s2">haven&#39;t like I haven&#39;t specifically</p>
+<p begin="00:41:33.950" end="00:41:39.020" style="s2">tested it out on like what like the</p>
+<p begin="00:41:36.650" end="00:41:42.200" style="s2">engine tuning PC you guys do you know</p>
+<p begin="00:41:39.020" end="00:41:43.670" style="s2">the where there&#39;s a lot more potential I</p>
+<p begin="00:41:42.200" end="00:41:45.530" style="s2">mean they all charge money for that</p>
+<p begin="00:41:43.670" end="00:41:47.030" style="s2">stuff right well metals and I think</p>
+<p begin="00:41:45.530" end="00:41:50.150" style="s2">there&#39;s some free ones like ROM Raider</p>
+<p begin="00:41:47.030" end="00:41:52.579" style="s2">or something like that but like I I</p>
+<p begin="00:41:50.150" end="00:41:54.109" style="s2">think this is the future I think you</p>
+<p begin="00:41:52.579" end="00:41:57.020" style="s2">know it seems like what browsers are</p>
+<p begin="00:41:54.109" end="00:41:58.430" style="s2">gonna be the you know the platform for</p>
+<p begin="00:41:57.020" end="00:42:00.650" style="s2">building modern applications in the</p>
+<p begin="00:41:58.430" end="00:42:01.910" style="s2">future and and so like I don&#39;t I feel</p>
+<p begin="00:42:00.650" end="00:42:03.109" style="s2">like I&#39;m showing you the future of what</p>
+<p begin="00:42:01.910" end="00:42:05.559" style="s2">these tools are going to look like</p>
+<p begin="00:42:03.109" end="00:42:05.559" style="s2">someday</p>
+<p begin="00:42:06.779" end="00:42:13.340" style="s2">all right</p>
+<p begin="00:42:08.750" end="00:42:16.220" style="s2">cool thanks guys and I think someone</p>
+<p begin="00:42:13.340" end="00:42:18.080" style="s2">gave me this adapter thanks a lot for um</p>
+<p begin="00:42:16.220" end="00:42:20.710" style="s2">the adapter so I could actually give my</p>
+<p begin="00:42:18.080" end="00:42:20.710" style="s2">presentation</p>
+<p begin="00:42:22.290" end="00:42:25.030" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

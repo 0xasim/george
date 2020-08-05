@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:03.370" end="00:00:20.199" style="s2">[Music]</p>
+<p begin="00:00:20.280" end="00:00:29.220" style="s2">I guess I rolled over I&#39;ve grown up in a</p>
+<p begin="00:00:26.640" end="00:00:31.650" style="s2">mostly sober childhoods over and so&#39;s my</p>
+<p begin="00:00:29.220" end="00:00:33.840" style="s2">hope foreclosure Taylor Swift don&#39;t ever</p>
+<p begin="00:00:31.650" end="00:00:35.700" style="s2">get to hold her adulthood is a pail of</p>
+<p begin="00:00:33.840" end="00:00:37.770" style="s2"> that it&#39;s your job to deal with</p>
+<p begin="00:00:35.700" end="00:00:39.180" style="s2">it&#39;ll have you one get a nice quick try</p>
+<p begin="00:00:37.770" end="00:00:40.710" style="s2">and say you&#39;re excited but don&#39;t just</p>
+<p begin="00:00:39.180" end="00:00:42.989" style="s2">think it feel it</p>
+<p begin="00:00:40.710" end="00:00:44.940" style="s2">can you still when the years slip why</p>
+<p begin="00:00:42.989" end="00:00:46.320" style="s2">not cuz you&#39;re all grown up but when you</p>
+<p begin="00:00:44.940" end="00:00:46.949" style="s2">ask well out of that it&#39;s cuz you&#39;re all</p>
+<p begin="00:00:46.320" end="00:00:49.290" style="s2">grown up</p>
+<p begin="00:00:46.949" end="00:00:51.059" style="s2">bunch of fascists mash and the pleasure</p>
+<p begin="00:00:49.290" end="00:00:52.290" style="s2">centers of animals with a universal</p>
+<p begin="00:00:51.059" end="00:00:54.000" style="s2">human right to be happy</p>
+<p begin="00:00:52.290" end="00:00:55.680" style="s2">hold on to your right to feel crappy</p>
+<p begin="00:00:54.000" end="00:00:57.090" style="s2">straight-talking jaywalk I move through</p>
+<p begin="00:00:55.680" end="00:00:58.680" style="s2">the streets like a New York up the block</p>
+<p begin="00:00:57.090" end="00:01:00.600" style="s2">at the blocks it&#39;s Chewbacca with a huge</p>
+<p begin="00:00:58.680" end="00:01:03.059" style="s2"> it&#39;s all cool except it&#39;s not true</p>
+<p begin="00:01:00.600" end="00:01:04.649" style="s2">breakthroughs grab soma and take to bed</p>
+<p begin="00:01:03.059" end="00:01:08.750" style="s2">home and it feels like was common in</p>
+<p begin="00:01:04.649" end="00:01:08.750" style="s2">most of our brave new world is fake news</p>
+<p begin="00:01:09.260" end="00:01:11.320" style="s2">you</p>
+</div>
+</body>
+</tt>

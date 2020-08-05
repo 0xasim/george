@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.439" end="00:00:07.210" style="s2">yo yo what up scope peace</p>
+<p begin="00:00:03.810" end="00:00:08.530" style="s2">I&#39;m here with Harold I&#39;m comin yeah and</p>
+<p begin="00:00:07.210" end="00:00:09.820" style="s2">we&#39;re having a discussion that we</p>
+<p begin="00:00:08.530" end="00:00:12.269" style="s2">thought it might be worth it to share</p>
+<p begin="00:00:09.820" end="00:00:12.269" style="s2">with you</p>
+<p begin="00:00:17.130" end="00:00:22.710" style="s2">yeah we need a we need a UH I don&#39;t know</p>
+<p begin="00:00:20.800" end="00:00:26.550" style="s2">I mean there&#39;s no a good way to like</p>
+<p begin="00:00:22.710" end="00:00:26.550" style="s2">should like put this somewhere</p>
+<p begin="00:00:26.910" end="00:00:36.010" style="s2">put it on something any conversation did</p>
+<p begin="00:00:33.340" end="00:00:37.870" style="s2">I see the hallway so oh the poor shit</p>
+<p begin="00:00:36.010" end="00:00:40.150" style="s2">aw little Boyd&#39;s a dog now the real</p>
+<p begin="00:00:37.870" end="00:00:42.670" style="s2">question is what does it do for cat does</p>
+<p begin="00:00:40.150" end="00:00:45.190" style="s2">it run cat well if this is gonna be kind</p>
+<p begin="00:00:42.670" end="00:00:47.140" style="s2">of different company bashing well okay</p>
+<p begin="00:00:45.190" end="00:00:51.430" style="s2">is the front camera cuz we have to see</p>
+<p begin="00:00:47.140" end="00:00:53.500" style="s2">the CoV Gail put it against code names</p>
+<p begin="00:00:51.430" end="00:00:58.960" style="s2">here we got code names gonna be on our</p>
+<p begin="00:00:53.500" end="00:01:04.420" style="s2">phone mount for now okay get in the</p>
+<p begin="00:00:58.960" end="00:01:08.560" style="s2">frame turn it sideways we&#39;re excited to</p>
+<p begin="00:01:04.420" end="00:01:11.409" style="s2">hear about power companies yeah yeah so</p>
+<p begin="00:01:08.560" end="00:01:12.939" style="s2">yeah welcome to uh his periscope good</p>
+<p begin="00:01:11.409" end="00:01:14.799" style="s2">thing I&#39;m on my high quality iPhone X</p>
+<p begin="00:01:12.939" end="00:01:19.869" style="s2">here where you can see great things on</p>
+<p begin="00:01:14.799" end="00:01:22.240" style="s2">camera top yeah so what you&#39;re talking</p>
+<p begin="00:01:19.869" end="00:01:23.890" style="s2">about is is you know I&#39;ve been hacking</p>
+<p begin="00:01:22.240" end="00:01:26.890" style="s2">cell phones for a long time it&#39;s kind of</p>
+<p begin="00:01:23.890" end="00:01:28.420" style="s2">what I do how I used to be and I was</p>
+<p begin="00:01:26.890" end="00:01:30.070" style="s2">just having the Toyota ECU&#39;s and I was</p>
+<p begin="00:01:28.420" end="00:01:32.640" style="s2">talking about how Toyota you see you</p>
+<p begin="00:01:30.070" end="00:01:34.540" style="s2">look a lot like 1990s cell phones I</p>
+<p begin="00:01:32.640" end="00:01:35.890" style="s2">don&#39;t I don&#39;t even mean this is an</p>
+<p begin="00:01:34.540" end="00:01:37.600" style="s2">insult right I don&#39;t even mean this is</p>
+<p begin="00:01:35.890" end="00:01:40.060" style="s2">like oh yeah we&#39;re ripping on Toyota but</p>
+<p begin="00:01:37.600" end="00:01:42.280" style="s2">when you think about what was added like</p>
+<p begin="00:01:40.060" end="00:01:44.860" style="s2">there&#39;s not only no security and these</p>
+<p begin="00:01:42.280" end="00:01:46.750" style="s2">ECU&#39;s there&#39;s no integrity checks really</p>
+<p begin="00:01:44.860" end="00:01:48.460" style="s2">there&#39;s no like strong integrity checks</p>
+<p begin="00:01:46.750" end="00:01:50.710" style="s2">they don&#39;t do like a Shah of the data</p>
+<p begin="00:01:48.460" end="00:01:53.020" style="s2">and compare it to a hash right so if you</p>
+<p begin="00:01:50.710" end="00:01:55.750" style="s2">think of it like you can&#39;t have security</p>
+<p begin="00:01:53.020" end="00:01:58.300" style="s2">without integrity integrity is checking</p>
+<p begin="00:01:55.750" end="00:02:03.130" style="s2">for accidental bit flips security is</p>
+<p begin="00:01:58.300" end="00:02:06.310" style="s2">checking for malicious bit flips but</p>
+<p begin="00:02:03.130" end="00:02:08.080" style="s2">yeah so they don&#39;t there&#39;s no there&#39;s no</p>
+<p begin="00:02:06.310" end="00:02:10.420" style="s2">security but oh these issues all filled</p>
+<p begin="00:02:08.080" end="00:02:11.470" style="s2">by the companies that ship the cars no</p>
+<p begin="00:02:10.420" end="00:02:15.090" style="s2">sword</p>
+<p begin="00:02:11.470" end="00:02:19.180" style="s2">these Toyota use user felt like again so</p>
+<p begin="00:02:15.090" end="00:02:21.400" style="s2">practically den so I don&#39;t own by Toyota</p>
+<p begin="00:02:19.180" end="00:02:22.870" style="s2">like react built Honda but they&#39;re not</p>
+<p begin="00:02:21.400" end="00:02:30.000" style="s2">really owned by Toyota because genso</p>
+<p begin="00:02:22.870" end="00:02:30.000" style="s2">also built easy use for Subarus</p>
+<p begin="00:02:30.430" end="00:02:38.099" style="s2">yeah that&#39;s an awesome build CPU search</p>
+<p begin="00:02:33.060" end="00:02:39.810" style="s2">they&#39;ll decease ubers yeah so I mean you</p>
+<p begin="00:02:38.099" end="00:02:41.340" style="s2">know to be honest I always talk about</p>
+<p begin="00:02:39.810" end="00:02:43.709" style="s2">how the car companies are really just</p>
+<p begin="00:02:41.340" end="00:02:48.209" style="s2">marketing agencies and integrators yeah</p>
+<p begin="00:02:43.709" end="00:02:50.790" style="s2">they yeah so this is a Paul Graham tweet</p>
+<p begin="00:02:48.209" end="00:02:52.110" style="s2">that we just talked about and it said</p>
+<p begin="00:02:50.790" end="00:02:53.970" style="s2">when the iPhone came out every phone</p>
+<p begin="00:02:52.110" end="00:02:56.790" style="s2">manufacturer understood that they needed</p>
+<p begin="00:02:53.970" end="00:02:59.250" style="s2">to copy the iPhone when the Model S came</p>
+<p begin="00:02:56.790" end="00:03:00.840" style="s2">out the car manufacturers still don&#39;t</p>
+<p begin="00:02:59.250" end="00:03:04.170" style="s2">understand that they need to copy the</p>
+<p begin="00:03:00.840" end="00:03:06.239" style="s2">Model S I mean maybe they understand but</p>
+<p begin="00:03:04.170" end="00:03:08.610" style="s2">they&#39;re just not don&#39;t have the dynamic</p>
+<p begin="00:03:06.239" end="00:03:10.290" style="s2">company to to make these changes right</p>
+<p begin="00:03:08.610" end="00:03:12.239" style="s2">if they buy all these easy-to-use from</p>
+<p begin="00:03:10.290" end="00:03:14.430" style="s2">other companies you have this five year</p>
+<p begin="00:03:12.239" end="00:03:16.799" style="s2">cycle like they&#39;re just not theirs can&#39;t</p>
+<p begin="00:03:14.430" end="00:03:18.480" style="s2">but it&#39;s not even like and you know</p>
+<p begin="00:03:16.799" end="00:03:20.819" style="s2">what&#39;s next in the five year cycle right</p>
+<p begin="00:03:18.480" end="00:03:23.069" style="s2">their development roadmaps are not very</p>
+<p begin="00:03:20.819" end="00:03:25.260" style="s2">secret it&#39;s not like they&#39;re planning to</p>
+<p begin="00:03:23.069" end="00:03:29.970" style="s2">put big powerful Linux computers in cars</p>
+<p begin="00:03:25.260" end="00:03:32.299" style="s2">any time soon I just don&#39;t see it but</p>
+<p begin="00:03:29.970" end="00:03:34.410" style="s2">maybe maybe they have this fear of like</p>
+<p begin="00:03:32.299" end="00:03:36.750" style="s2">computers in general because of their</p>
+<p begin="00:03:34.410" end="00:03:38.549" style="s2">five-year like updates right maybe they</p>
+<p begin="00:03:36.750" end="00:03:39.810" style="s2">don&#39;t want to put like didn&#39;t use them</p>
+<p begin="00:03:38.549" end="00:03:41.489" style="s2">Danis thin because they&#39;re like in five</p>
+<p begin="00:03:39.810" end="00:03:43.350" style="s2">years gonna be old anyway and then as a</p>
+<p begin="00:03:41.489" end="00:03:45.750" style="s2">result they put even older shit yeah</p>
+<p begin="00:03:43.350" end="00:03:47.579" style="s2">yeah I mean yeah I guess what they would</p>
+<p begin="00:03:45.750" end="00:03:49.620" style="s2">have to do is really separate out the</p>
+<p begin="00:03:47.579" end="00:03:52.769" style="s2">hardware and the car base from the</p>
+<p begin="00:03:49.620" end="00:03:54.090" style="s2">software yeah yeah yeah make sense to</p>
+<p begin="00:03:52.769" end="00:03:55.739" style="s2">them I think it&#39;s all kind of it&#39;s all</p>
+<p begin="00:03:54.090" end="00:03:57.569" style="s2">kind of you the same but like it&#39;s not</p>
+<p begin="00:03:55.739" end="00:03:59.970" style="s2">even 2000 era cellphones I used to hack</p>
+<p begin="00:03:57.569" end="00:04:02.280" style="s2">2007 is like Motorola RAZR kind of stuff</p>
+<p begin="00:03:59.970" end="00:04:03.900" style="s2">I mean they&#39;re not the security&#39;s</p>
+<p begin="00:04:02.280" end="00:04:07.290" style="s2">nowhere near on the level of like the</p>
+<p begin="00:04:03.900" end="00:04:09.870" style="s2">iPhone security but it&#39;s way better than</p>
+<p begin="00:04:07.290" end="00:04:12.120" style="s2">these ECU&#39;s which look literally like</p>
+<p begin="00:04:09.870" end="00:04:14.579" style="s2">like they look like Nokia you know Nokia</p>
+<p begin="00:04:12.120" end="00:04:15.780" style="s2">shit phones I mean for example you can</p>
+<p begin="00:04:14.579" end="00:04:18.720" style="s2">just go by how much flash they have</p>
+<p begin="00:04:15.780" end="00:04:23.430" style="s2">right so so then the old Toyota ECU&#39;s</p>
+<p begin="00:04:18.720" end="00:04:29.100" style="s2">had 512 K of flash and the new Toyota</p>
+<p begin="00:04:23.430" end="00:04:30.780" style="s2">issues have 1.5 mix this Wow and what&#39;s</p>
+<p begin="00:04:29.100" end="00:04:32.850" style="s2">even more horrifying is that it uses all</p>
+<p begin="00:04:30.780" end="00:04:36.210" style="s2">this code like the code is is spaghetti</p>
+<p begin="00:04:32.850" end="00:04:37.800" style="s2">code written in C I mean at first when I</p>
+<p begin="00:04:36.210" end="00:04:39.690" style="s2">saw this code at first when I was</p>
+<p begin="00:04:37.800" end="00:04:41.940" style="s2">reversing the first ECU the accurate ups</p>
+<p begin="00:04:39.690" end="00:04:43.770" style="s2">I thought it had to be generated I</p>
+<p begin="00:04:41.940" end="00:04:44.700" style="s2">thought that it had to be like okay this</p>
+<p begin="00:04:43.770" end="00:04:46.320" style="s2">is written and like</p>
+<p begin="00:04:44.700" end="00:04:50.400" style="s2">MATLAB and then there&#39;s some plugin</p>
+<p begin="00:04:46.320" end="00:04:52.350" style="s2">which but it&#39;s not like the more you</p>
+<p begin="00:04:50.400" end="00:04:55.020" style="s2">look at it you realize that this is</p>
+<p begin="00:04:52.350" end="00:04:56.670" style="s2">handwritten C that&#39;s being compiled yeah</p>
+<p begin="00:04:55.020" end="00:04:58.170" style="s2">but maybe that&#39;s exactly weather so they</p>
+<p begin="00:04:56.670" end="00:05:00.120" style="s2">have so much trouble going away from me</p>
+<p begin="00:04:58.170" end="00:05:02.760" style="s2">because they can either start again yeah</p>
+<p begin="00:05:00.120" end="00:05:04.110" style="s2">cuz that&#39;s unavailable right it&#39;s not</p>
+<p begin="00:05:02.760" end="00:05:05.910" style="s2">even that it&#39;s unobtainable so the</p>
+<p begin="00:05:04.110" end="00:05:08.970" style="s2">problem of field updates cars are</p>
+<p begin="00:05:05.910" end="00:05:11.190" style="s2">actually updatable they just don&#39;t ship</p>
+<p begin="00:05:08.970" end="00:05:14.340" style="s2">like they&#39;re afraid to do field updates</p>
+<p begin="00:05:11.190" end="00:05:16.710" style="s2">and they should be Toyota&#39;s calibration</p>
+<p begin="00:05:14.340" end="00:05:19.400" style="s2">update wizard if you unplug your thing</p>
+<p begin="00:05:16.710" end="00:05:22.770" style="s2">halfway through it&#39;ll break your ECU</p>
+<p begin="00:05:19.400" end="00:05:23.460" style="s2">like there&#39;s no the Honda one is a</p>
+<p begin="00:05:22.770" end="00:05:25.890" style="s2">little bit better</p>
+<p begin="00:05:23.460" end="00:05:28.740" style="s2">well the Honda checksum is actually not</p>
+<p begin="00:05:25.890" end="00:05:30.000" style="s2">the Toyota the Toyota has a verify step</p>
+<p begin="00:05:28.740" end="00:05:30.990" style="s2">which is a little bit better than a</p>
+<p begin="00:05:30.000" end="00:05:33.540" style="s2">check so you actually send all the data</p>
+<p begin="00:05:30.990" end="00:05:36.330" style="s2">twice right you send it once for a flash</p>
+<p begin="00:05:33.540" end="00:05:37.640" style="s2">and then once for verifying no this is</p>
+<p begin="00:05:36.330" end="00:05:41.850" style="s2">not particularly good</p>
+<p begin="00:05:37.640" end="00:05:43.860" style="s2">it just reverts it&#39;s not the same no no</p>
+<p begin="00:05:41.850" end="00:05:45.570" style="s2">it doesn&#39;t pervert it just says verify</p>
+<p begin="00:05:43.860" end="00:05:46.740" style="s2">failed and like you know you can try</p>
+<p begin="00:05:45.570" end="00:05:48.870" style="s2">flashing again they&#39;re kind of fucked</p>
+<p begin="00:05:46.740" end="00:05:50.790" style="s2">right no but this isn&#39;t even good right</p>
+<p begin="00:05:48.870" end="00:05:52.920" style="s2">because big flips are likely to be</p>
+<p begin="00:05:50.790" end="00:05:54.870" style="s2">correlated when you send bits down the</p>
+<p begin="00:05:52.920" end="00:05:57.030" style="s2">wire once right when you send them down</p>
+<p begin="00:05:54.870" end="00:05:59.160" style="s2">the same wire if some bits flipped</p>
+<p begin="00:05:57.030" end="00:06:01.230" style="s2">there&#39;s a nonzero chance that the exact</p>
+<p begin="00:05:59.160" end="00:06:03.540" style="s2">same bits gonna flip again yeah right</p>
+<p begin="00:06:01.230" end="00:06:06.300" style="s2">it&#39;s much better to do an integrity</p>
+<p begin="00:06:03.540" end="00:06:09.360" style="s2">check even something like a crc32 is</p>
+<p begin="00:06:06.300" end="00:06:11.190" style="s2">better than this you know if you think</p>
+<p begin="00:06:09.360" end="00:06:12.630" style="s2">that what are we uncorrelated on it&#39;s 4</p>
+<p begin="00:06:11.190" end="00:06:16.050" style="s2">billion to 1 right and that&#39;s that&#39;s</p>
+<p begin="00:06:12.630" end="00:06:18.360" style="s2">simple so the same corruption happening</p>
+<p begin="00:06:16.050" end="00:06:21.890" style="s2">is probably higher than lower or like</p>
+<p begin="00:06:18.360" end="00:06:24.000" style="s2">the one yeah or you can just use a sha</p>
+<p begin="00:06:21.890" end="00:06:26.370" style="s2">all right like it takes it took an</p>
+<p begin="00:06:24.000" end="00:06:28.320" style="s2">incredible effort of like thousands of</p>
+<p begin="00:06:26.370" end="00:06:29.910" style="s2">GPUs and some of Google&#39;s best</p>
+<p begin="00:06:28.320" end="00:06:31.680" style="s2">researchers to find a shot collision</p>
+<p begin="00:06:29.910" end="00:06:34.040" style="s2">you&#39;re never gonna you&#39;re never gonna</p>
+<p begin="00:06:31.680" end="00:06:36.270" style="s2">stumble upon a cut shot collision yeah</p>
+<p begin="00:06:34.040" end="00:06:38.040" style="s2">but it&#39;s just this is the way that like</p>
+<p begin="00:06:36.270" end="00:06:38.960" style="s2">Security&#39;s thought about and discussed</p>
+<p begin="00:06:38.040" end="00:06:43.410" style="s2">that&#39;s just absurd</p>
+<p begin="00:06:38.960" end="00:06:45.030" style="s2">right like how can they improve how can</p>
+<p begin="00:06:43.410" end="00:06:46.740" style="s2">they improve I mean none of us armed</p>
+<p begin="00:06:45.030" end="00:06:48.120" style="s2">let&#39;s start with that they could take it</p>
+<p begin="00:06:46.740" end="00:06:50.780" style="s2">out signature checking but please don&#39;t</p>
+<p begin="00:06:48.120" end="00:06:50.780" style="s2">have a signature check</p>
+<p begin="00:06:51.380" end="00:06:55.490" style="s2">please add an integrity check how could</p>
+<p begin="00:06:54.020" end="00:06:58.250" style="s2">they improve this they could write a</p>
+<p begin="00:06:55.490" end="00:07:01.160" style="s2">function in the flasher that will</p>
+<p begin="00:06:58.250" end="00:07:03.500" style="s2">compute a shot edge of the flash right</p>
+<p begin="00:07:01.160" end="00:07:04.970" style="s2">and then you know you can do this</p>
+<p begin="00:07:03.500" end="00:07:08.990" style="s2">without leaking any information you know</p>
+<p begin="00:07:04.970" end="00:07:10.610" style="s2">you put in shot hash should be this yeah</p>
+<p begin="00:07:08.990" end="00:07:12.680" style="s2">it computes the shot hash of the flash</p>
+<p begin="00:07:10.610" end="00:07:14.240" style="s2">but do they do many of these updates in</p>
+<p begin="00:07:12.680" end="00:07:16.940" style="s2">general or do they just usually just</p>
+<p begin="00:07:14.240" end="00:07:18.380" style="s2">keep using the same well they don&#39;t and</p>
+<p begin="00:07:16.940" end="00:07:20.240" style="s2">like that you know anyone who like</p>
+<p begin="00:07:18.380" end="00:07:21.560" style="s2">understands what modern kind of</p>
+<p begin="00:07:20.240" end="00:07:24.020" style="s2">practices are for any kind of code</p>
+<p begin="00:07:21.560" end="00:07:26.510" style="s2">development is you know you don&#39;t want</p>
+<p begin="00:07:24.020" end="00:07:29.540" style="s2">to have rarely-used paths in your code</p>
+<p begin="00:07:26.510" end="00:07:31.430" style="s2">you don&#39;t want to have this updater path</p>
+<p begin="00:07:29.540" end="00:07:32.870" style="s2">that okay will use it like once a year</p>
+<p begin="00:07:31.430" end="00:07:35.000" style="s2">right yeah</p>
+<p begin="00:07:32.870" end="00:07:36.440" style="s2">it&#39;s just you know why not update much</p>
+<p begin="00:07:35.000" end="00:07:37.910" style="s2">more frequently even if you&#39;re updating</p>
+<p begin="00:07:36.440" end="00:07:40.550" style="s2">nothing right it&#39;s like making sure all</p>
+<p begin="00:07:37.910" end="00:07:41.870" style="s2">your keys are rotated doing stuff maybe</p>
+<p begin="00:07:40.550" end="00:07:44.240" style="s2">that&#39;s a pro maybe they&#39;re in this like</p>
+<p begin="00:07:41.870" end="00:07:46.550" style="s2">suboptimal there&#39;s local optima we&#39;re</p>
+<p begin="00:07:44.240" end="00:07:49.730" style="s2">updating is just become so hard yeah but</p>
+<p begin="00:07:46.550" end="00:07:52.040" style="s2">they&#39;re kind of like I don&#39;t know I mean</p>
+<p begin="00:07:49.730" end="00:07:53.840" style="s2">I think they have like completely</p>
+<p begin="00:07:52.040" end="00:07:57.530" style="s2">irrational concerns around those red</p>
+<p begin="00:07:53.840" end="00:07:59.720" style="s2">ants whereas you know the big flip you</p>
+<p begin="00:07:57.530" end="00:08:00.980" style="s2">literally right now if you want to if</p>
+<p begin="00:07:59.720" end="00:08:02.330" style="s2">you want to people talk about it in</p>
+<p begin="00:08:00.980" end="00:08:14.000" style="s2">Toyota forms I&#39;ve been reading the forms</p>
+<p begin="00:08:02.330" end="00:08:16.340" style="s2">lately like BMW mercedes-benz they might</p>
+<p begin="00:08:14.000" end="00:08:17.840" style="s2">be better I know a lot less about their</p>
+<p begin="00:08:16.340" end="00:08:20.150" style="s2">updating architectures I know they have</p>
+<p begin="00:08:17.840" end="00:08:22.160" style="s2">flex write which is you know further</p>
+<p begin="00:08:20.150" end="00:08:26.000" style="s2">advanced than can but the problem isn&#39;t</p>
+<p begin="00:08:22.160" end="00:08:28.250" style="s2">can yeah the problem is you know Tesla&#39;s</p>
+<p begin="00:08:26.000" end="00:08:31.970" style="s2">on can a lot too and I think Tesla has</p>
+<p begin="00:08:28.250" end="00:08:33.440" style="s2">mostly saw this updating problem you</p>
+<p begin="00:08:31.970" end="00:08:35.210" style="s2">know I bet Tesla&#39;s written like quasi</p>
+<p begin="00:08:33.440" end="00:08:36.979" style="s2">reliable updaters for all these things</p>
+<p begin="00:08:35.210" end="00:08:38.210" style="s2">that are written that are written with a</p>
+<p begin="00:08:36.979" end="00:08:40.970" style="s2">modern software stack by the way</p>
+<p begin="00:08:38.210" end="00:08:43.550" style="s2">download the calibration up there update</p>
+<p begin="00:08:40.970" end="00:08:45.710" style="s2">wizard or the J 2 v 3 for a flashing</p>
+<p begin="00:08:43.550" end="00:08:48.560" style="s2">tool for the Honda they&#39;ve written in</p>
+<p begin="00:08:45.710" end="00:08:53.330" style="s2">like shit tier windows they&#39;re written</p>
+<p begin="00:08:48.560" end="00:08:55.860" style="s2">in like like like visual C++ dotnet 2003</p>
+<p begin="00:08:53.330" end="00:08:57.779" style="s2">make sure you import STD</p>
+<p begin="00:08:55.860" end="00:09:01.589" style="s2">effects done each at the top of every</p>
+<p begin="00:08:57.779" end="00:09:03.209" style="s2">file kind of shit car companies have</p>
+<p begin="00:09:01.589" end="00:09:09.810" style="s2">always worked to do this as little as</p>
+<p begin="00:09:03.209" end="00:09:14.430" style="s2">possible so how long have you I don&#39;t</p>
+<p begin="00:09:09.810" end="00:09:15.510" style="s2">know why why what why do you not why do</p>
+<p begin="00:09:14.430" end="00:09:17.250" style="s2">they not want their product to be</p>
+<p begin="00:09:15.510" end="00:09:20.730" style="s2">available you&#39;re still trying to use</p>
+<p begin="00:09:17.250" end="00:09:22.290" style="s2">learn to use Cabana work more uh wasn&#39;t</p>
+<p begin="00:09:20.730" end="00:09:23.850" style="s2">lack of integrity checks the reason the</p>
+<p begin="00:09:22.290" end="00:09:25.740" style="s2">pedal sticking thing that Toyota got</p>
+<p begin="00:09:23.850" end="00:09:27.660" style="s2">sued for honestly I don&#39;t think it was</p>
+<p begin="00:09:25.740" end="00:09:29.850" style="s2">actually a buck my understanding about</p>
+<p begin="00:09:27.660" end="00:09:33.149" style="s2">the pedal sticking thing was literally</p>
+<p begin="00:09:29.850" end="00:09:35.670" style="s2">like on two cars the mechanical pedal</p>
+<p begin="00:09:33.149" end="00:09:38.519" style="s2">got stuck down and then you know I mean</p>
+<p begin="00:09:35.670" end="00:09:42.980" style="s2">that&#39;s okay yeah someone like spills a</p>
+<p begin="00:09:38.519" end="00:09:42.980" style="s2">can of coke down there elegance right</p>
+<p begin="00:09:45.140" end="00:09:49.260" style="s2">well I mean this week yeah yeah there&#39;s</p>
+<p begin="00:09:47.970" end="00:09:50.610" style="s2">the whole thing of you give people an</p>
+<p begin="00:09:49.260" end="00:09:52.200" style="s2">excuse to complain some guy got like</p>
+<p begin="00:09:50.610" end="00:09:53.820" style="s2">pulled over for speeding he was going</p>
+<p begin="00:09:52.200" end="00:09:56.850" style="s2">like 95 on the highway he&#39;s like Oh</p>
+<p begin="00:09:53.820" end="00:09:57.269" style="s2">unintended acceleration yeah yeah that&#39;s</p>
+<p begin="00:09:56.850" end="00:10:01.800" style="s2">what it was</p>
+<p begin="00:09:57.269" end="00:10:06.750" style="s2">um do I think BMW Mercedes Toyota will</p>
+<p begin="00:10:01.800" end="00:10:18.209" style="s2">die no I don&#39;t think I want you guys</p>
+<p begin="00:10:06.750" end="00:10:19.589" style="s2">getting anyway yeah so no I don&#39;t think</p>
+<p begin="00:10:18.209" end="00:10:22.440" style="s2">any of those three companies are gonna</p>
+<p begin="00:10:19.589" end="00:10:26.370" style="s2">die I think that they have roles in the</p>
+<p begin="00:10:22.440" end="00:10:29.209" style="s2">in the future think about Toyota is they</p>
+<p begin="00:10:26.370" end="00:10:31.890" style="s2">do build a really nice cheap safe car</p>
+<p begin="00:10:29.209" end="00:10:33.899" style="s2">Toyota should not be stupid and should</p>
+<p begin="00:10:31.890" end="00:10:37.649" style="s2">you know it let somebody else build</p>
+<p begin="00:10:33.899" end="00:10:38.820" style="s2">their build it I mean you and you see</p>
+<p begin="00:10:37.649" end="00:10:40.230" style="s2">the thing is you wouldn&#39;t actually give</p>
+<p begin="00:10:38.820" end="00:10:41.970" style="s2">me enough authority right you&#39;d make me</p>
+<p begin="00:10:40.230" end="00:10:44.100" style="s2">like a level 3 manager so you see the</p>
+<p begin="00:10:41.970" end="00:10:45.600" style="s2">cab of my toe a minute right they make</p>
+<p begin="00:10:44.100" end="00:10:46.890" style="s2">me like a level 3 manager and I would</p>
+<p begin="00:10:45.600" end="00:10:50.449" style="s2">spend my whole time convincing people</p>
+<p begin="00:10:46.890" end="00:10:50.449" style="s2">that like this yeah I&#39;m not doing that</p>
+<p begin="00:10:52.610" end="00:10:59.430" style="s2">what car companies are good Tesla to be</p>
+<p begin="00:10:56.370" end="00:11:01.140" style="s2">honest it that&#39;s it yeah but that&#39;s part</p>
+<p begin="00:10:59.430" end="00:11:02.519" style="s2">of the problem I mean that that&#39;s means</p>
+<p begin="00:11:01.140" end="00:11:03.660" style="s2">I don&#39;t know if there&#39;s just no other</p>
+<p begin="00:11:02.519" end="00:11:05.370" style="s2">companies that are doing this properly</p>
+<p begin="00:11:03.660" end="00:11:05.550" style="s2">so these companies car companies don&#39;t</p>
+<p begin="00:11:05.370" end="00:11:10.110" style="s2">get</p>
+<p begin="00:11:05.550" end="00:11:12.810" style="s2">because nobody&#39;s gonna yeah yeah I mean</p>
+<p begin="00:11:10.110" end="00:11:14.700" style="s2">I still don&#39;t think they&#39;re all gonna</p>
+<p begin="00:11:12.810" end="00:11:18.089" style="s2">die right they&#39;re not all gonna die</p>
+<p begin="00:11:14.700" end="00:11:21.180" style="s2">Tesla yeah um Tesla has production</p>
+<p begin="00:11:18.089" end="00:11:23.279" style="s2">difficulties and Tesla also is never</p>
+<p begin="00:11:21.180" end="00:11:25.079" style="s2">gonna make gasoline-powered cars yeah</p>
+<p begin="00:11:23.279" end="00:11:28.079" style="s2">and they also don&#39;t make $80,000 cars</p>
+<p begin="00:11:25.079" end="00:11:30.959" style="s2">right there I will see Tesla going back</p>
+<p begin="00:11:28.079" end="00:11:33.779" style="s2">right sometime maybe</p>
+<p begin="00:11:30.959" end="00:11:36.120" style="s2">Tesla wants the Motul right yeah the</p>
+<p begin="00:11:33.779" end="00:11:37.500" style="s2">model 2 was like a yeah yeah I don&#39;t</p>
+<p begin="00:11:36.120" end="00:11:38.820" style="s2">think I don&#39;t think the cost</p>
+<p begin="00:11:37.500" end="00:11:40.860" style="s2">I don&#39;t think Tesla is a luxury brand</p>
+<p begin="00:11:38.820" end="00:11:43.440" style="s2">and its kind of not right like III wrote</p>
+<p begin="00:11:40.860" end="00:11:46.200" style="s2">it a Model S at a 2008 Mercedes s-class</p>
+<p begin="00:11:43.440" end="00:11:48.570" style="s2">um was my car and everyone a model</p>
+<p begin="00:11:46.200" end="00:11:51.660" style="s2">lasted I&#39;m like this is all right but</p>
+<p begin="00:11:48.570" end="00:11:53.430" style="s2">it&#39;s not it&#39;s not a luxury car yeah it&#39;s</p>
+<p begin="00:11:51.660" end="00:11:54.810" style="s2">it&#39;s like the acceleration is really</p>
+<p begin="00:11:53.430" end="00:11:58.440" style="s2">cool it&#39;s a little more close to a</p>
+<p begin="00:11:54.810" end="00:12:00.750" style="s2">sports car and it&#39;s very safe I do like</p>
+<p begin="00:11:58.440" end="00:12:02.010" style="s2">that but that&#39;s not you know you look at</p>
+<p begin="00:12:00.750" end="00:12:04.950" style="s2">the interior and it&#39;s like it&#39;s like</p>
+<p begin="00:12:02.010" end="00:12:10.980" style="s2">plasticy and offensive good it&#39;s nothing</p>
+<p begin="00:12:04.950" end="00:12:12.209" style="s2">yeah it&#39;s a DJ um so if Toyota wants to</p>
+<p begin="00:12:10.980" end="00:12:13.589" style="s2">integrate your tech into their car</p>
+<p begin="00:12:12.209" end="00:12:15.990" style="s2">absolutely it&#39;s all the source I would</p>
+<p begin="00:12:13.589" end="00:12:18.180" style="s2">love to see Toyota integrate it the</p>
+<p begin="00:12:15.990" end="00:12:20.550" style="s2">monopolistic structure of car companies</p>
+<p begin="00:12:18.180" end="00:12:24.060" style="s2">means they don&#39;t have to improve they&#39;re</p>
+<p begin="00:12:20.550" end="00:12:25.950" style="s2">not monopoly right I don&#39;t</p>
+<p begin="00:12:24.060" end="00:12:29.880" style="s2">yeah interior model s not loggia so I&#39;m</p>
+<p begin="00:12:25.950" end="00:12:32.550" style="s2">talking about um all IBM&#39;s I&#39;ll sign</p>
+<p begin="00:12:29.880" end="00:12:35.190" style="s2">licensing deals with Microsoft yeah and</p>
+<p begin="00:12:32.550" end="00:12:37.079" style="s2">where I BM and Microsoft today Microsoft</p>
+<p begin="00:12:35.190" end="00:12:39.990" style="s2">is desperately trying to pivot to be a</p>
+<p begin="00:12:37.079" end="00:12:42.240" style="s2">cloud company and selling you office SAS</p>
+<p begin="00:12:39.990" end="00:12:44.070" style="s2">I mean Microsoft&#39;s business model used</p>
+<p begin="00:12:42.240" end="00:12:45.270" style="s2">to be Bill Gates the reason he&#39;s a</p>
+<p begin="00:12:44.070" end="00:12:46.829" style="s2">billionaire he invented software license</p>
+<p begin="00:12:45.270" end="00:12:48.810" style="s2">yeah that&#39;s what Bill Gates invention</p>
+<p begin="00:12:46.829" end="00:12:51.750" style="s2">he&#39;s like well what if instead of</p>
+<p begin="00:12:48.810" end="00:12:56.000" style="s2">selling you the license to das he</p>
+<p begin="00:12:51.750" end="00:12:59.040" style="s2">$10,000 we show you $50 per computer oh</p>
+<p begin="00:12:56.000" end="00:13:01.170" style="s2">that&#39;s a lot of $50 right like I just</p>
+<p begin="00:12:59.040" end="00:13:02.610" style="s2">imagined Bill Gates like going like this</p>
+<p begin="00:13:01.170" end="00:13:04.079" style="s2">and Steve Ballmer and him were like</p>
+<p begin="00:13:02.610" end="00:13:10.730" style="s2">dancing around Steve Ballmer throws a</p>
+<p begin="00:13:04.079" end="00:13:13.649" style="s2">chair across the room right yeah yeah</p>
+<p begin="00:13:10.730" end="00:13:14.910" style="s2">yeah Tesla Tesla seems to be trying very</p>
+<p begin="00:13:13.649" end="00:13:15.490" style="s2">hard to do all these things right but</p>
+<p begin="00:13:14.910" end="00:13:16.930" style="s2">there&#39;s still me</p>
+<p begin="00:13:15.490" end="00:13:18.010" style="s2">very expensive cars that are less</p>
+<p begin="00:13:16.930" end="00:13:21.070" style="s2">luxurious than their gasoline</p>
+<p begin="00:13:18.010" end="00:13:22.360" style="s2">competitors yeah um so if you think</p>
+<p begin="00:13:21.070" end="00:13:23.470" style="s2">about the model three right you think</p>
+<p begin="00:13:22.360" end="00:13:24.490" style="s2">about what the model crew is gonna be</p>
+<p begin="00:13:23.470" end="00:13:27.459" style="s2">priced out like right now its</p>
+<p begin="00:13:24.490" end="00:13:30.790" style="s2">competitive with an Audi a4 yeah that&#39;s</p>
+<p begin="00:13:27.459" end="00:13:38.110" style="s2">probably right yeah but it&#39;s not</p>
+<p begin="00:13:30.790" end="00:13:40.270" style="s2">profitable I wouldn&#39;t worry about yeah I</p>
+<p begin="00:13:38.110" end="00:13:42.029" style="s2">mean okay I think it&#39;s all reasonable</p>
+<p begin="00:13:40.270" end="00:13:44.529" style="s2">but just hasn&#39;t been done yet right so</p>
+<p begin="00:13:42.029" end="00:13:46.779" style="s2">yeah and we need a bit more time to be</p>
+<p begin="00:13:44.529" end="00:13:48.310" style="s2">sure that you say that yeah the</p>
+<p begin="00:13:46.779" end="00:13:49.480" style="s2">strategy&#39;s definitely better I mean</p>
+<p begin="00:13:48.310" end="00:13:51.700" style="s2">you&#39;re telling me about like the Tesla</p>
+<p begin="00:13:49.480" end="00:13:54.160" style="s2">battery factory thing right yeah it&#39;s</p>
+<p begin="00:13:51.700" end="00:13:57.220" style="s2">something that just so obviously makes</p>
+<p begin="00:13:54.160" end="00:13:58.870" style="s2">sense yeah our our Panasonic and the</p>
+<p begin="00:13:57.220" end="00:14:01.750" style="s2">competitor is like even really trying</p>
+<p begin="00:13:58.870" end="00:14:04.779" style="s2">Tesla will not make it one big recall</p>
+<p begin="00:14:01.750" end="00:14:06.730" style="s2">and they are finished yeah well why do</p>
+<p begin="00:14:04.779" end="00:14:09.010" style="s2">you think that like okay there&#39;s a</p>
+<p begin="00:14:06.730" end="00:14:10.770" style="s2">there&#39;s a recall for something right so</p>
+<p begin="00:14:09.010" end="00:14:15.310" style="s2">first off first off</p>
+<p begin="00:14:10.770" end="00:14:16.990" style="s2">90% of recalls for other cars are bring</p>
+<p begin="00:14:15.310" end="00:14:19.029" style="s2">your car to the dealership so we can</p>
+<p begin="00:14:16.990" end="00:14:20.800" style="s2">plug in a wire and one calibration</p>
+<p begin="00:14:19.029" end="00:14:23.709" style="s2">update wizard on our shitty Windows</p>
+<p begin="00:14:20.800" end="00:14:25.360" style="s2">laptops ease it out like like what&#39;s the</p>
+<p begin="00:14:23.709" end="00:14:27.730" style="s2">recall okay there&#39;s some like bog and</p>
+<p begin="00:14:25.360" end="00:14:29.350" style="s2">Tesla&#39;s ABS okay we understand we&#39;re</p>
+<p begin="00:14:27.730" end="00:14:30.760" style="s2">fixing it we&#39;re getting it out we&#39;re</p>
+<p begin="00:14:29.350" end="00:14:33.010" style="s2">gonna you know most recalls people don&#39;t</p>
+<p begin="00:14:30.760" end="00:14:36.430" style="s2">bring the car back so Tesla gets a much</p>
+<p begin="00:14:33.010" end="00:14:37.829" style="s2">higher penetration rate and Tesla does</p>
+<p begin="00:14:36.430" end="00:14:40.000" style="s2">it in a few weeks</p>
+<p begin="00:14:37.829" end="00:14:44.890" style="s2">what do you mean one big wrinkle what&#39;s</p>
+<p begin="00:14:40.000" end="00:14:46.360" style="s2">the what&#39;s it gonna be recall for um you</p>
+<p begin="00:14:44.890" end="00:14:49.570" style="s2">know maybe you can have something like</p>
+<p begin="00:14:46.360" end="00:14:51.550" style="s2">like the airbags but okay what does that</p>
+<p begin="00:14:49.570" end="00:14:53.200" style="s2">what does that cost them right they&#39;ve</p>
+<p begin="00:14:51.550" end="00:14:55.209" style="s2">maybe the cars back they fix the airbags</p>
+<p begin="00:14:53.200" end="00:15:00.670" style="s2">they sue the airbag company not that big</p>
+<p begin="00:14:55.209" end="00:15:02.110" style="s2">of a deal um how hard was it for Tesla</p>
+<p begin="00:15:00.670" end="00:15:04.540" style="s2">that yeah the car manufacturers</p>
+<p begin="00:15:02.110" end="00:15:06.040" style="s2">definitely want status quo most recalls</p>
+<p begin="00:15:04.540" end="00:15:08.050" style="s2">are probably a suppliers fault yeah um</p>
+<p begin="00:15:06.040" end="00:15:09.520" style="s2">because the thing is everything I&#39;m a</p>
+<p begin="00:15:08.050" end="00:15:15.430" style="s2">Tesla that wouldn&#39;t be the suppliers</p>
+<p begin="00:15:09.520" end="00:15:17.260" style="s2">fault is uh sustainable yeah car</p>
+<p begin="00:15:15.430" end="00:15:19.630" style="s2">accidents kill over 1 million people per</p>
+<p begin="00:15:17.260" end="00:15:25.900" style="s2">year yeah that&#39;s true how many people</p>
+<p begin="00:15:19.630" end="00:15:27.370" style="s2">are those people in Tesla&#39;s yeah I mean</p>
+<p begin="00:15:25.900" end="00:15:27.820" style="s2">they&#39;re very stable cars they&#39;re just</p>
+<p begin="00:15:27.370" end="00:15:31.570" style="s2">kind of</p>
+<p begin="00:15:27.820" end="00:15:32.740" style="s2">surely good in there you know I think</p>
+<p begin="00:15:31.570" end="00:15:35.290" style="s2">the active safety features are gonna</p>
+<p begin="00:15:32.740" end="00:15:36.460" style="s2">play a huge role in mitigating car</p>
+<p begin="00:15:35.290" end="00:15:37.720" style="s2">accidents the future every most car</p>
+<p begin="00:15:36.460" end="00:15:41.290" style="s2">accidents just cause to the stupidest</p>
+<p begin="00:15:37.720" end="00:15:44.050" style="s2">reasons yeah a lot of people die I mean</p>
+<p begin="00:15:41.290" end="00:15:45.640" style="s2">you know that&#39;s uh I think now I when I</p>
+<p begin="00:15:44.050" end="00:15:50.010" style="s2">was a little bit younger suicide was my</p>
+<p begin="00:15:45.640" end="00:15:50.010" style="s2">most likely cause of death no big cars</p>
+<p begin="00:15:51.840" end="00:15:57.700" style="s2">when you&#39;re a teen you&#39;re more likely to</p>
+<p begin="00:15:54.190" end="00:15:59.380" style="s2">crash a car and commence 16 um Microsoft</p>
+<p begin="00:15:57.700" end="00:16:01.000" style="s2">tried to emulate car companies in the</p>
+<p begin="00:15:59.380" end="00:16:02.050" style="s2">90s they were financially successful for</p>
+<p begin="00:16:01.000" end="00:16:02.980" style="s2">a while here&#39;s the thing and there&#39;s</p>
+<p begin="00:16:02.050" end="00:16:04.660" style="s2">something that people always point out</p>
+<p begin="00:16:02.980" end="00:16:06.370" style="s2">to be about Microsoft Microsoft is</p>
+<p begin="00:16:04.660" end="00:16:08.530" style="s2">actually still incredibly financially</p>
+<p begin="00:16:06.370" end="00:16:09.910" style="s2">successful yeah Microsoft because</p>
+<p begin="00:16:08.530" end="00:16:11.560" style="s2">companies in the world of blame for a</p>
+<p begin="00:16:09.910" end="00:16:13.780" style="s2">minute it&#39;s not hard to see for us door</p>
+<p begin="00:16:11.560" end="00:16:16.420" style="s2">you got you think comma a I will make it</p>
+<p begin="00:16:13.780" end="00:16:17.950" style="s2">I think in a couple years you&#39;re gonna</p>
+<p begin="00:16:16.420" end="00:16:20.860" style="s2">have these companies just looking around</p>
+<p begin="00:16:17.950" end="00:16:24.160" style="s2">and be like holy shit that&#39;s what calm a</p>
+<p begin="00:16:20.860" end="00:16:30.580" style="s2">I was doing oh my god we&#39;re fucked</p>
+<p begin="00:16:24.160" end="00:16:32.620" style="s2">I mean what am I missing</p>
+<p begin="00:16:30.580" end="00:16:34.690" style="s2">right well if I&#39;m missing something Oh</p>
+<p begin="00:16:32.620" end="00:16:38.500" style="s2">like explain to me what will never work</p>
+<p begin="00:16:34.690" end="00:16:42.670" style="s2">and explain to me or either explain to</p>
+<p begin="00:16:38.500" end="00:16:49.390" style="s2">me a what won&#39;t work or be where a</p>
+<p begin="00:16:42.670" end="00:16:50.710" style="s2">competitor will be me yeah we view our</p>
+<p begin="00:16:49.390" end="00:16:54.580" style="s2">competitors or the car companies rightly</p>
+<p begin="00:16:50.710" end="00:16:56.590" style="s2">we&#39;ve always talked about this let&#39;s</p>
+<p begin="00:16:54.580" end="00:16:57.790" style="s2">call me guys business model it was very</p>
+<p begin="00:16:56.590" end="00:17:00.610" style="s2">similar to the car companies we sell</p>
+<p begin="00:16:57.790" end="00:17:05.380" style="s2">hardware but we don&#39;t sell cars and sell</p>
+<p begin="00:17:00.610" end="00:17:07.030" style="s2">software for your cars the idea um tesla</p>
+<p begin="00:17:05.380" end="00:17:09.520" style="s2">wants to get legal exception i don&#39;t</p>
+<p begin="00:17:07.030" end="00:17:11.740" style="s2">even know what that means I&#39;m missing a</p>
+<p begin="00:17:09.520" end="00:17:13.750" style="s2">pinstripe suit and a focus on only money</p>
+<p begin="00:17:11.740" end="00:17:18.150" style="s2">on the on the short term maybe that&#39;s</p>
+<p begin="00:17:13.750" end="00:17:20.410" style="s2">not missing right no business people</p>
+<p begin="00:17:18.150" end="00:17:22.839" style="s2">answer that business people come to me</p>
+<p begin="00:17:20.410" end="00:17:25.060" style="s2">you know why don&#39;t you just why do i why</p>
+<p begin="00:17:22.839" end="00:17:26.829" style="s2">do i want your opinion well why do i why</p>
+<p begin="00:17:25.060" end="00:17:28.329" style="s2">do I need your opinion why do I want</p>
+<p begin="00:17:26.829" end="00:17:30.880" style="s2">your opinion why do I want to let you</p>
+<p begin="00:17:28.329" end="00:17:33.730" style="s2">know in the company I don&#39;t know about</p>
+<p begin="00:17:30.880" end="00:17:35.140" style="s2">sales all right I&#39;m sales the sales is</p>
+<p begin="00:17:33.730" end="00:17:36.429" style="s2">one thing and you really are</p>
+<p begin="00:17:35.140" end="00:17:39.250" style="s2">I want some kid to do some internet</p>
+<p begin="00:17:36.429" end="00:17:42.460" style="s2">marketing for me right get some like kid</p>
+<p begin="00:17:39.250" end="00:17:43.929" style="s2">to like you know going gone like SEO</p>
+<p begin="00:17:42.460" end="00:17:45.580" style="s2">doesn&#39;t work anymore I don&#39;t know</p>
+<p begin="00:17:43.929" end="00:17:47.380" style="s2">bison Instagram followers or something</p>
+<p begin="00:17:45.580" end="00:17:50.940" style="s2">um how would I convince companies to buy</p>
+<p begin="00:17:47.380" end="00:17:50.940" style="s2">myself right I won&#39;t I&#39;ll just beat them</p>
+<p begin="00:17:51.600" end="00:17:54.760" style="s2">manufacture flying cars yeah they&#39;ve</p>
+<p begin="00:17:53.620" end="00:17:58.330" style="s2">been talking about that for years how</p>
+<p begin="00:17:54.760" end="00:18:01.240" style="s2">about Chinese copycats let&#39;s see if any</p>
+<p begin="00:17:58.330" end="00:18:04.059" style="s2">of them ship how do we stall the shipper</p>
+<p begin="00:18:01.240" end="00:18:06.070" style="s2">data big hard drives in the cloud um</p>
+<p begin="00:18:04.059" end="00:18:07.480" style="s2">comma a I can win only because small</p>
+<p begin="00:18:06.070" end="00:18:11.049" style="s2">elite teams build better software that&#39;s</p>
+<p begin="00:18:07.480" end="00:18:12.429" style="s2">generally true um that generally is is</p>
+<p begin="00:18:11.049" end="00:18:14.710" style="s2">true I mean I I&#39;ve always viewed</p>
+<p begin="00:18:12.429" end="00:18:19.899" style="s2">software is much more like a like an art</p>
+<p begin="00:18:14.710" end="00:18:21.700" style="s2">project this alright like just imagine</p>
+<p begin="00:18:19.899" end="00:18:23.409" style="s2">art phones I just imagined we&#39;re asking</p>
+<p begin="00:18:21.700" end="00:18:24.730" style="s2">like Oh a 16 your Sistine Chapel all</p>
+<p begin="00:18:23.409" end="00:18:26.500" style="s2">right let&#39;s get IBM to paint the Sistine</p>
+<p begin="00:18:24.730" end="00:18:30.120" style="s2">Chapel okay well we&#39;re gonna spend six</p>
+<p begin="00:18:26.500" end="00:18:30.120" style="s2">months on the design requirement phase</p>
+<p begin="00:18:31.230" end="00:18:44.169" style="s2">author code yeah when will common points</p>
+<p begin="00:18:34.570" end="00:18:48.850" style="s2">be monetized eventually TM hackers and</p>
+<p begin="00:18:44.169" end="00:18:50.049" style="s2">painters by Paul Graham disruption is</p>
+<p begin="00:18:48.850" end="00:18:51.250" style="s2">usually caused by people who don&#39;t have</p>
+<p begin="00:18:50.049" end="00:18:52.990" style="s2">much to lose by challenging the status</p>
+<p begin="00:18:51.250" end="00:18:54.970" style="s2">quo I mean like whoever has anything to</p>
+<p begin="00:18:52.990" end="00:18:59.070" style="s2">lose right what are we gonna lose what&#39;s</p>
+<p begin="00:18:54.970" end="00:19:01.360" style="s2">the worst-case scenario we don&#39;t win Oh</p>
+<p begin="00:18:59.070" end="00:19:02.740" style="s2">whole life was a waste no what am I</p>
+<p begin="00:19:01.360" end="00:19:09.520" style="s2">gonna do I&#39;ll have to go back to</p>
+<p begin="00:19:02.740" end="00:19:13.080" style="s2">flipping burgers do you have a website</p>
+<p begin="00:19:09.520" end="00:19:13.080" style="s2">yeah comma dot hey hi</p>
+<p begin="00:19:15.100" end="00:19:20.679" style="s2">testing theories having quality problems</p>
+<p begin="00:19:16.960" end="00:19:23.470" style="s2">it&#39;s hard yeah sorry um you put it this</p>
+<p begin="00:19:20.679" end="00:19:27.549" style="s2">way Tesla&#39;s quality problems will be</p>
+<p begin="00:19:23.470" end="00:19:30.039" style="s2">fixed long before Toyota&#39;s ECU flashing</p>
+<p begin="00:19:27.549" end="00:19:33.820" style="s2">changes planning to do more funding</p>
+<p begin="00:19:30.039" end="00:19:37.640" style="s2">rounds yeah and we have something Y on</p>
+<p begin="00:19:33.820" end="00:19:45.500" style="s2">Subaru because like you know</p>
+<p begin="00:19:37.640" end="00:19:48.770" style="s2">like superoes man short-term kills bro I</p>
+<p begin="00:19:45.500" end="00:19:50.510" style="s2">mean yeah it&#39;s it&#39;s uh it&#39;s a disease</p>
+<p begin="00:19:48.770" end="00:19:52.460" style="s2">it&#39;s really a disease like people don&#39;t</p>
+<p begin="00:19:50.510" end="00:19:53.780" style="s2">know capitalism is anymore i people</p>
+<p begin="00:19:52.460" end="00:19:55.160" style="s2">think of capitalism is all we&#39;re gonna</p>
+<p begin="00:19:53.780" end="00:19:58.490" style="s2">have to like you know rape and pillage</p>
+<p begin="00:19:55.160" end="00:19:59.750" style="s2">and get all the profits now I mean it&#39;s</p>
+<p begin="00:19:58.490" end="00:20:04.250" style="s2">like the mentality in the world today</p>
+<p begin="00:19:59.750" end="00:20:06.350" style="s2">how stupid only if they don&#39;t run out of</p>
+<p begin="00:20:04.250" end="00:20:08.390" style="s2">cash but what do you mean by run out of</p>
+<p begin="00:20:06.350" end="00:20:11.600" style="s2">cash right like there&#39;s no way Tesla&#39;s</p>
+<p begin="00:20:08.390" end="00:20:16.460" style="s2">like oh we&#39;re out of cash I guess we</p>
+<p begin="00:20:11.600" end="00:20:17.960" style="s2">gotta shut the business down yeah that&#39;s</p>
+<p begin="00:20:16.460" end="00:20:20.540" style="s2">gonna be their their problem</p>
+<p begin="00:20:17.960" end="00:20:23.809" style="s2">um self raising cars I&#39;m actually gonna</p>
+<p begin="00:20:20.540" end="00:20:25.669" style="s2">be at a wedding that week I didn&#39;t</p>
+<p begin="00:20:23.809" end="00:20:28.370" style="s2">realize but I think we&#39;ll send someone</p>
+<p begin="00:20:25.669" end="00:20:38.059" style="s2">commoner wrap it&#39;s like two weeks oh</p>
+<p begin="00:20:28.370" end="00:20:40.010" style="s2">it&#39;s in two weeks yeah people think</p>
+<p begin="00:20:38.059" end="00:20:41.809" style="s2">cronyism equals capitalism yeah I look</p>
+<p begin="00:20:40.010" end="00:20:46.549" style="s2">and you know also people people hate on</p>
+<p begin="00:20:41.809" end="00:20:49.250" style="s2">capitalism capitalism is phenomenal you</p>
+<p begin="00:20:46.549" end="00:20:50.960" style="s2">just need to get rid of the cronyism um</p>
+<p begin="00:20:49.250" end="00:20:53.360" style="s2">biggest fear of someone showing up at</p>
+<p begin="00:20:50.960" end="00:20:57.440" style="s2">Cobo with a dump truck full of money on</p>
+<p begin="00:20:53.360" end="00:20:58.490" style="s2">a what do you mean if we raise another</p>
+<p begin="00:20:57.440" end="00:21:00.530" style="s2">investment round it&#39;s wrong I&#39;m gonna</p>
+<p begin="00:20:58.490" end="00:21:03.020" style="s2">give her a board seat it&#39;s like if I</p>
+<p begin="00:21:00.530" end="00:21:05.240" style="s2">could give up majority control what are</p>
+<p begin="00:21:03.020" end="00:21:09.549" style="s2">you Oh a dump truck of money from me</p>
+<p begin="00:21:05.240" end="00:21:11.630" style="s2">what the hell would I do with money I</p>
+<p begin="00:21:09.549" end="00:21:13.910" style="s2">was really I was really talking about</p>
+<p begin="00:21:11.630" end="00:21:21.559" style="s2">this like what would I do with 50</p>
+<p begin="00:21:13.910" end="00:21:22.880" style="s2">million dollars you know if I bought a</p>
+<p begin="00:21:21.559" end="00:21:32.900" style="s2">boat I&#39;d buy a boat like you&#39;re about</p>
+<p begin="00:21:22.880" end="00:21:37.429" style="s2">yeah Wow I made a lot of money when I</p>
+<p begin="00:21:32.900" end="00:21:38.900" style="s2">was younger and I just I realized when I</p>
+<p begin="00:21:37.429" end="00:21:42.200" style="s2">was like 21 I just kind of looked around</p>
+<p begin="00:21:38.900" end="00:21:45.320" style="s2">and I&#39;m like okay this is how much money</p>
+<p begin="00:21:42.200" end="00:21:46.770" style="s2">I have guys put the hands here right we</p>
+<p begin="00:21:45.320" end="00:21:48.930" style="s2">gotta do this to scale and</p>
+<p begin="00:21:46.770" end="00:21:53.340" style="s2">this is how much money I&#39;ve spent in my</p>
+<p begin="00:21:48.930" end="00:21:55.050" style="s2">life I don&#39;t live a very high</p>
+<p begin="00:21:53.340" end="00:21:56.520" style="s2">maintenance I mean there&#39;s a few things</p>
+<p begin="00:21:55.050" end="00:22:00.810" style="s2">you need to avoid right</p>
+<p begin="00:21:56.520" end="00:22:02.850" style="s2">don&#39;t buy boats don&#39;t buy houses don&#39;t</p>
+<p begin="00:22:00.810" end="00:22:04.740" style="s2">support dependence and don&#39;t spend tons</p>
+<p begin="00:22:02.850" end="00:22:06.540" style="s2">of money on women right like honestly if</p>
+<p begin="00:22:04.740" end="00:22:07.920" style="s2">you manage to avoid those four things</p>
+<p begin="00:22:06.540" end="00:22:09.510" style="s2">what else are people spending money on</p>
+<p begin="00:22:07.920" end="00:22:13.590" style="s2">yeah but this is pretty hard to avoid</p>
+<p begin="00:22:09.510" end="00:22:14.580" style="s2">man when the more respect you have you</p>
+<p begin="00:22:13.590" end="00:22:16.800" style="s2">spend money on it</p>
+<p begin="00:22:14.580" end="00:22:17.940" style="s2">the ones easier what the hell can that</p>
+<p begin="00:22:16.800" end="00:22:19.410" style="s2">one&#39;s easier right now the boat and the</p>
+<p begin="00:22:17.940" end="00:22:33.780" style="s2">woman&#39;s the same well you only need to</p>
+<p begin="00:22:19.410" end="00:22:36.120" style="s2">spend money good someone could someone</p>
+<p begin="00:22:33.780" end="00:22:38.430" style="s2">could someone tell me like what would I</p>
+<p begin="00:22:36.120" end="00:22:42.200" style="s2">do with money if someone gives me an</p>
+<p begin="00:22:38.430" end="00:22:42.200" style="s2">idea and I like it I&#39;m gonna sell out</p>
+<p begin="00:22:44.360" end="00:22:48.120" style="s2">folks and hoes now car companies will</p>
+<p begin="00:22:46.950" end="00:22:50.460" style="s2">try to find my temptation</p>
+<p begin="00:22:48.120" end="00:22:52.140" style="s2">you really think Toyota let me tell you</p>
+<p begin="00:22:50.460" end="00:22:55.650" style="s2">about my temptation let me tell you what</p>
+<p begin="00:22:52.140" end="00:22:57.840" style="s2">it is I want to live in the future guys</p>
+<p begin="00:22:55.650" end="00:23:00.630" style="s2">I want to live in the future where I</p>
+<p begin="00:22:57.840" end="00:23:02.400" style="s2">don&#39;t need to buy a real boat the VR</p>
+<p begin="00:23:00.630" end="00:23:04.440" style="s2">headset that I bought for a thousand</p>
+<p begin="00:23:02.400" end="00:23:07.470" style="s2">bucks is so good i download boat</p>
+<p begin="00:23:04.440" end="00:23:09.630" style="s2">simulator 27 and oh man you should see</p>
+<p begin="00:23:07.470" end="00:23:11.970" style="s2">my boat how much you pay for it</p>
+<p begin="00:23:09.630" end="00:23:16.080" style="s2">pirated man you wouldn&#39;t download a boat</p>
+<p begin="00:23:11.970" end="00:23:17.580" style="s2">I would what do you recommend to a young</p>
+<p begin="00:23:16.080" end="00:23:20.040" style="s2">person who wants to get really good at</p>
+<p begin="00:23:17.580" end="00:23:22.550" style="s2">something just like do it and don&#39;t do</p>
+<p begin="00:23:20.040" end="00:23:22.550" style="s2">anything else</p>
+<p begin="00:23:24.860" end="00:23:29.310" style="s2">women will sleep with you if you&#39;re</p>
+<p begin="00:23:26.910" end="00:23:32.630" style="s2">exciting and fun just be exciting and</p>
+<p begin="00:23:29.310" end="00:23:32.630" style="s2">fun it doesn&#39;t matter if you have a boat</p>
+<p begin="00:23:33.590" end="00:23:37.590" style="s2">time travel I would sell out for time</p>
+<p begin="00:23:36.150" end="00:23:39.990" style="s2">travel but that&#39;s the thing right now</p>
+<p begin="00:23:37.590" end="00:23:42.180" style="s2">like none of these things I can buy with</p>
+<p begin="00:23:39.990" end="00:23:44.670" style="s2">a billion dollars if I had a billion</p>
+<p begin="00:23:42.180" end="00:23:49.440" style="s2">dollars what do I want to buy I could</p>
+<p begin="00:23:44.670" end="00:23:53.250" style="s2">buy the biggest TV TV what $500 like</p>
+<p begin="00:23:49.440" end="00:23:55.080" style="s2">this isn&#39;t money guys take a sailboat to</p>
+<p begin="00:23:53.250" end="00:23:56.490" style="s2">the Cook Islands okay so now I&#39;m on some</p>
+<p begin="00:23:55.080" end="00:23:58.050" style="s2">remote island how&#39;s the internet in the</p>
+<p begin="00:23:56.490" end="00:24:00.860" style="s2">Cook Islands this talk about that I got</p>
+<p begin="00:23:58.050" end="00:24:00.860" style="s2">some like satellite</p>
+<p begin="00:24:01.480" end="00:24:04.569" style="s2">[Music]</p>
+<p begin="00:24:11.610" end="00:24:15.250" style="s2">[Laughter]</p>
+<p begin="00:24:16.470" end="00:24:19.549" style="s2">[Music]</p>
+<p begin="00:24:24.759" end="00:24:55.759" style="s2">when I fly would I go to the moon you</p>
+<p begin="00:24:53.330" end="00:24:57.919" style="s2">know they say when there&#39;s a five-star</p>
+<p begin="00:24:55.759" end="00:25:01.999" style="s2">hotel on the moon and I can buy a ticket</p>
+<p begin="00:24:57.919" end="00:25:04.429" style="s2">for the same price is Jeff bloomin how</p>
+<p begin="00:25:01.999" end="00:25:05.330" style="s2">will come a change as a business by my</p>
+<p begin="00:25:04.429" end="00:25:08.119" style="s2">own private jet</p>
+<p begin="00:25:05.330" end="00:25:10.099" style="s2">why would I want to buy a private jet</p>
+<p begin="00:25:08.119" end="00:25:12.289" style="s2">now I need a place to park it</p>
+<p begin="00:25:10.099" end="00:25:14.450" style="s2">I gotta hire a pilot the pilots trying</p>
+<p begin="00:25:12.289" end="00:25:15.830" style="s2">to unionize I got to go outside I got to</p>
+<p begin="00:25:14.450" end="00:25:18.649" style="s2">go to the picket line and tell them</p>
+<p begin="00:25:15.830" end="00:25:20.509" style="s2">about why the unions are I can buy jets</p>
+<p begin="00:25:18.649" end="00:25:23.239" style="s2">for our subscription for like 10k like</p>
+<p begin="00:25:20.509" end="00:25:24.799" style="s2">again these things aren&#39;t money right</p>
+<p begin="00:25:23.239" end="00:25:26.779" style="s2">like I&#39;m not saying you don&#39;t be poor</p>
+<p begin="00:25:24.799" end="00:25:30.200" style="s2">don&#39;t be poor but like if you&#39;re making</p>
+<p begin="00:25:26.779" end="00:25:32.179" style="s2">like 100k a year pretty much no matter</p>
+<p begin="00:25:30.200" end="00:25:33.679" style="s2">what you want to buy as long as you</p>
+<p begin="00:25:32.179" end="00:25:35.659" style="s2">don&#39;t have dependents and you don&#39;t</p>
+<p begin="00:25:33.679" end="00:25:37.969" style="s2">spend your money stupidly you can get it</p>
+<p begin="00:25:35.659" end="00:25:39.830" style="s2">I like this one in scales linearly so</p>
+<p begin="00:25:37.969" end="00:25:41.960" style="s2">that&#39;s not too bad either no no no no</p>
+<p begin="00:25:39.830" end="00:25:43.549" style="s2">dependents are bad dependents are bad</p>
+<p begin="00:25:41.960" end="00:25:45.469" style="s2">because the problem with dependents is</p>
+<p begin="00:25:43.549" end="00:25:48.200" style="s2">they will spend your money without a</p>
+<p begin="00:25:45.469" end="00:25:49.639" style="s2">care of how you got work oh that&#39;s true</p>
+<p begin="00:25:48.200" end="00:25:51.229" style="s2">right like like that&#39;s what the</p>
+<p begin="00:25:49.639" end="00:25:52.549" style="s2">dependents don&#39;t stare and scale</p>
+<p begin="00:25:51.229" end="00:25:55.969" style="s2">linearly because they won&#39;t have the</p>
+<p begin="00:25:52.549" end="00:25:58.249" style="s2">same frugal attitude you do I&#39;m a are vr</p>
+<p begin="00:25:55.969" end="00:25:59.629" style="s2">porn I can disappoint it but I&#39;m really</p>
+<p begin="00:25:58.249" end="00:26:02.629" style="s2">excited about that if I do start another</p>
+<p begin="00:25:59.629" end="00:26:05.529" style="s2">company um could we talk about vehicle</p>
+<p begin="00:26:02.629" end="00:26:07.579" style="s2">selection interface and II built that uh</p>
+<p begin="00:26:05.529" end="00:26:10.690" style="s2">all the vehicles not on there yet</p>
+<p begin="00:26:07.579" end="00:26:10.690" style="s2">they&#39;re not only we should add more</p>
+<p begin="00:26:11.440" end="00:26:17.570" style="s2">yeah but okay this dependents are bad</p>
+<p begin="00:26:14.900" end="00:26:21.549" style="s2">and dogs are not a scam those are not a</p>
+<p begin="00:26:17.570" end="00:26:26.600" style="s2">scam I mean no I always have a bigger</p>
+<p begin="00:26:21.549" end="00:26:27.770" style="s2">carbon footprint and our interesting so</p>
+<p begin="00:26:26.600" end="00:26:29.870" style="s2">interesting all those like</p>
+<p begin="00:26:27.770" end="00:26:30.919" style="s2">environmentalist cat people chole them I</p>
+<p begin="00:26:29.870" end="00:26:32.299" style="s2">mean the real thing the real thing that</p>
+<p begin="00:26:30.919" end="00:26:33.350" style="s2">is a huge environmental footprint go</p>
+<p begin="00:26:32.299" end="00:26:34.250" style="s2">guys if you want to save the environment</p>
+<p begin="00:26:33.350" end="00:26:36.860" style="s2">don&#39;t have children</p>
+<p begin="00:26:34.250" end="00:26:39.409" style="s2">yeah babies babies are really the worst</p>
+<p begin="00:26:36.860" end="00:26:46.280" style="s2">I missed that was that question twice</p>
+<p begin="00:26:39.409" end="00:26:48.620" style="s2">Capri should keep the questions on all</p>
+<p begin="00:26:46.280" end="00:26:50.120" style="s2">right any last questions we&#39;ll go we&#39;ll</p>
+<p begin="00:26:48.620" end="00:26:51.590" style="s2">go for 30 minutes so it&#39;ll go for</p>
+<p begin="00:26:50.120" end="00:26:53.299" style="s2">another another three minutes and then</p>
+<p begin="00:26:51.590" end="00:26:54.559" style="s2">uh do some work yeah we&#39;re gonna get</p>
+<p begin="00:26:53.299" end="00:26:56.090" style="s2">back to work okay we got we got shit</p>
+<p begin="00:26:54.559" end="00:26:58.010" style="s2">can&#39;t just stay around you should talk</p>
+<p begin="00:26:56.090" end="00:27:00.020" style="s2">all day you know what happened to the</p>
+<p begin="00:26:58.010" end="00:27:03.500" style="s2">man who shit talk too long the whole</p>
+<p begin="00:27:00.020" end="00:27:06.370" style="s2">world pastor by thoughts on Martin</p>
+<p begin="00:27:03.500" end="00:27:09.500" style="s2">shkreli is he really going to jail a sad</p>
+<p begin="00:27:06.370" end="00:27:10.880" style="s2">will come and hit an animal I don&#39;t know</p>
+<p begin="00:27:09.500" end="00:27:12.980" style="s2">don&#39;t hit an animal you&#39;re at the driver</p>
+<p begin="00:27:10.880" end="00:27:14.659" style="s2">babies are good for the future question</p>
+<p begin="00:27:12.980" end="00:27:16.520" style="s2">of all what&#39;s new in common this week</p>
+<p begin="00:27:14.659" end="00:27:20.390" style="s2">the pedal all again we&#39;ll get a nosh</p>
+<p begin="00:27:16.520" end="00:27:21.650" style="s2">part pedalboard today babies are good</p>
+<p begin="00:27:20.390" end="00:27:23.120" style="s2">for the future that is very questionable</p>
+<p begin="00:27:21.650" end="00:27:24.530" style="s2">I just want to live forever</p>
+<p begin="00:27:23.120" end="00:27:26.630" style="s2">why do I need to have children Pelle</p>
+<p begin="00:27:24.530" end="00:27:28.190" style="s2">forever uh will there be a point where</p>
+<p begin="00:27:26.630" end="00:27:30.860" style="s2">open policy is better than humans and</p>
+<p begin="00:27:28.190" end="00:27:34.159" style="s2">bad visibility what do you mean by sees</p>
+<p begin="00:27:30.860" end="00:27:37.850" style="s2">better right probably not on the EON you</p>
+<p begin="00:27:34.159" end="00:27:40.330" style="s2">need kind of better uh you kind of where</p>
+<p begin="00:27:37.850" end="00:27:47.270" style="s2">can you buy comma gear for crypto um</p>
+<p begin="00:27:40.330" end="00:27:48.500" style="s2">sell your crypto on G Dax are you start</p>
+<p begin="00:27:47.270" end="00:27:50.750" style="s2">hacking the brain what do you think I&#39;m</p>
+<p begin="00:27:48.500" end="00:27:52.220" style="s2">doing man the truth about hacking the</p>
+<p begin="00:27:50.750" end="00:27:54.620" style="s2">brain is it&#39;s not sticking wires into</p>
+<p begin="00:27:52.220" end="00:27:56.390" style="s2">the brain and say I see you at pwned oh</p>
+<p begin="00:27:54.620" end="00:27:58.610" style="s2">man I haven&#39;t done that since then I</p>
+<p begin="00:27:56.390" end="00:28:00.440" style="s2">don&#39;t know yeah I don&#39;t want to be old</p>
+<p begin="00:27:58.610" end="00:28:02.929" style="s2">like Charlie Miller who&#39;s like oh I&#39;ve</p>
+<p begin="00:28:00.440" end="00:28:04.730" style="s2">got to harden other Thursday SLR um I</p>
+<p begin="00:28:02.929" end="00:28:06.200" style="s2">don&#39;t know I mean I think the kids are</p>
+<p begin="00:28:04.730" end="00:28:07.520" style="s2">just better than me now I think that the</p>
+<p begin="00:28:06.200" end="00:28:13.970" style="s2">kids you DuPont Eleanor better than me</p>
+<p begin="00:28:07.520" end="00:28:17.630" style="s2">and that&#39;s like how it should be Oh a</p>
+<p begin="00:28:13.970" end="00:28:19.549" style="s2">new calibration record echo I see all</p>
+<p begin="00:28:17.630" end="00:28:21.230" style="s2">right I feel they are banned in America</p>
+<p begin="00:28:19.549" end="00:28:23.179" style="s2">right and I get some new regulations</p>
+<p begin="00:28:21.230" end="00:28:26.179" style="s2">well working with regulators gotta watch</p>
+<p begin="00:28:23.179" end="00:28:27.830" style="s2">it work with regulators what&#39;s the</p>
+<p begin="00:28:26.179" end="00:28:30.500" style="s2">question after the new localization</p>
+<p begin="00:28:27.830" end="00:28:33.919" style="s2">record yeah okay</p>
+<p begin="00:28:30.500" end="00:28:36.169" style="s2">so calibration is defined as if you know</p>
+<p begin="00:28:33.919" end="00:28:38.419" style="s2">how the car is moving and you know how</p>
+<p begin="00:28:36.169" end="00:28:39.860" style="s2">the camera is moving right so you can</p>
+<p begin="00:28:38.419" end="00:28:42.200" style="s2">think about like you have you know two</p>
+<p begin="00:28:39.860" end="00:28:44.840" style="s2">two vectors pointing out right and then</p>
+<p begin="00:28:42.200" end="00:28:46.250" style="s2">there&#39;s a two angles between the vector</p>
+<p begin="00:28:44.840" end="00:28:49.039" style="s2">there&#39;s a yaw angle and a pitch angle</p>
+<p begin="00:28:46.250" end="00:28:50.450" style="s2">right so if you have a gray panda gray</p>
+<p begin="00:28:49.039" end="00:28:52.279" style="s2">Pam does return these great things in</p>
+<p begin="00:28:50.450" end="00:28:59.779" style="s2">the satellite called Doppler shifts and</p>
+<p begin="00:28:52.279" end="00:29:01.370" style="s2">it tells you exactly what you should on</p>
+<p begin="00:28:59.779" end="00:29:08.750" style="s2">average eight dimensional yeah a lot of</p>
+<p begin="00:29:01.370" end="00:29:10.340" style="s2">satellites use that we can turn on glass</p>
+<p begin="00:29:08.750" end="00:29:15.220" style="s2">and switch to beta yeah we should do</p>
+<p begin="00:29:10.340" end="00:29:17.090" style="s2">that the Russians will read ship yeah</p>
+<p begin="00:29:15.220" end="00:29:18.799" style="s2">what do you say they put them in better</p>
+<p begin="00:29:17.090" end="00:29:20.690" style="s2">orbits yeah they did</p>
+<p begin="00:29:18.799" end="00:29:23.840" style="s2">GLONASS is much better dealing with</p>
+<p begin="00:29:20.690" end="00:29:25.340" style="s2">relativity than GPS yes but in their</p>
+<p begin="00:29:23.840" end="00:29:29.299" style="s2">defense they built at the same year as</p>
+<p begin="00:29:25.340" end="00:29:30.380" style="s2">GPS it was quite wild bad yeah that&#39;s</p>
+<p begin="00:29:29.299" end="00:29:33.919" style="s2">encom&#39;s</p>
+<p begin="00:29:30.380" end="00:29:35.960" style="s2">yeah why aren&#39;t boats fully automated</p>
+<p begin="00:29:33.919" end="00:29:41.149" style="s2">with the are there come because boat</p>
+<p begin="00:29:35.960" end="00:29:42.470" style="s2">captain unions man random question how</p>
+<p begin="00:29:41.149" end="00:29:45.110" style="s2">many hours do I work over a hundred a</p>
+<p begin="00:29:42.470" end="00:29:46.220" style="s2">week that life is work when I don&#39;t know</p>
+<p begin="00:29:45.110" end="00:29:49.340" style="s2">works the only thing I&#39;ve ever really</p>
+<p begin="00:29:46.220" end="00:29:51.039" style="s2">found fulfilling in life um what else am</p>
+<p begin="00:29:49.340" end="00:29:55.100" style="s2">I gonna do ride around on my boat I</p>
+<p begin="00:29:51.039" end="00:30:01.070" style="s2">don&#39;t have a boat alright thanks for</p>
+<p begin="00:29:55.100" end="00:30:02.210" style="s2">joining Squad fan out okay what&#39;s poppin</p>
+<p begin="00:30:01.070" end="00:30:02.960" style="s2">oh no make sure you hit that subscribe</p>
+<p begin="00:30:02.210" end="00:30:04.159" style="s2">button</p>
+<p begin="00:30:02.960" end="00:30:05.539" style="s2">let&#39;s serious it up if you want quality</p>
+<p begin="00:30:04.159" end="00:30:07.970" style="s2">content like this make sure to subscribe</p>
+<p begin="00:30:05.539" end="00:30:09.590" style="s2">to our periscopes again on quick you</p>
+<p begin="00:30:07.970" end="00:30:10.429" style="s2">know we got to build a brand here we got</p>
+<p begin="00:30:09.590" end="00:30:13.130" style="s2">to build an army</p>
+<p begin="00:30:10.429" end="00:30:15.860" style="s2">um gray pan that great panel all the way</p>
+<p begin="00:30:13.130" end="00:30:18.559" style="s2">way better GPS if you make a music video</p>
+<p begin="00:30:15.860" end="00:30:20.740" style="s2">absolutely rent a boat absolutely I army</p>
+<p begin="00:30:18.559" end="00:30:20.740" style="s2">out</p>
+</div>
+</body>
+</tt>

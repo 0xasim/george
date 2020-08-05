@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.060" end="00:00:08.960" style="s2">yo yo this is quick today quick stream</p>
+<p begin="00:00:03.360" end="00:00:11.429" style="s2">guys quick stream hmm</p>
+<p begin="00:00:08.960" end="00:00:15.389" style="s2">wait for all I should go at least put it</p>
+<p begin="00:00:11.429" end="00:00:18.119" style="s2">on on Twitter yeah well we&#39;ll do it with</p>
+<p begin="00:00:15.389" end="00:00:29.790" style="s2">the Subaru harness is live nick is alive</p>
+<p begin="00:00:18.119" end="00:00:36.870" style="s2">on the site right now no wait what</p>
+<p begin="00:00:29.790" end="00:00:45.809" style="s2">I don&#39;t have Wi-Fi or something Oh yo yo</p>
+<p begin="00:00:36.870" end="00:00:51.390" style="s2">we live we learn Subaru varnas going</p>
+<p begin="00:00:45.809" end="00:00:52.739" style="s2">live wait hang on I got to find our</p>
+<p begin="00:00:51.390" end="00:00:54.300" style="s2">Channel I got to find our channel I&#39;m on</p>
+<p begin="00:00:52.739" end="00:00:58.980" style="s2">Twitter what&#39;s up we got an announcement</p>
+<p begin="00:00:54.300" end="00:00:59.760" style="s2">for everybody here in a minute in a</p>
+<p begin="00:00:58.980" end="00:01:05.420" style="s2">minute</p>
+<p begin="00:00:59.760" end="00:01:12.060" style="s2">youtube.com he&#39;s alive</p>
+<p begin="00:01:05.420" end="00:01:14.400" style="s2">hey come on there&#39;s a lot I know I just</p>
+<p begin="00:01:12.060" end="00:01:18.140" style="s2">push it to the uh-oh no push is what</p>
+<p begin="00:01:14.400" end="00:01:18.140" style="s2">side yeah yeah</p>
+<p begin="00:01:43.229" end="00:01:45.909" style="s2">alright alright alright alright alright</p>
+<p begin="00:01:45.250" end="00:01:48.549" style="s2">alright</p>
+<p begin="00:01:45.909" end="00:01:51.310" style="s2">when&#39;s the test jumper coming oh no test</p>
+<p begin="00:01:48.549" end="00:01:55.990" style="s2">Jarek but if you want to see the new one</p>
+<p begin="00:01:51.310" end="00:02:01.210" style="s2">logger I can show you that check it out</p>
+<p begin="00:01:55.990" end="00:02:02.950" style="s2">I wrote this beautiful UI myself this is</p>
+<p begin="00:02:01.210" end="00:02:05.220" style="s2">like engaged it&#39;s like Explorer of it</p>
+<p begin="00:02:02.950" end="00:02:05.220" style="s2">fast</p>
+<p begin="00:02:05.860" end="00:02:13.959" style="s2">alright I do we are we good</p>
+<p begin="00:02:08.729" end="00:02:16.510" style="s2">live chat welcome to live chat oh yeah</p>
+<p begin="00:02:13.959" end="00:02:18.370" style="s2">you think July go again why I worked I</p>
+<p begin="00:02:16.510" end="00:02:20.230" style="s2">worked hard on this UI that&#39;s the speed</p>
+<p begin="00:02:18.370" end="00:02:28.920" style="s2">of the car so then like you can see this</p>
+<p begin="00:02:20.230" end="00:02:32.830" style="s2">is like you I you know yo yo yo alright</p>
+<p begin="00:02:28.920" end="00:02:35.470" style="s2">hello world it&#39;s a short announcement</p>
+<p begin="00:02:32.830" end="00:02:38.519" style="s2">today just short announcement think like</p>
+<p begin="00:02:35.470" end="00:02:38.519" style="s2">too short</p>
+<p begin="00:02:42.720" end="00:02:49.320" style="s2">I blocked Twitter in my Etsy host file</p>
+<p begin="00:02:47.280" end="00:02:51.630" style="s2">because otherwise I just go on Twitter</p>
+<p begin="00:02:49.320" end="00:02:52.820" style="s2">all that how am i doing today we&#39;re</p>
+<p begin="00:02:51.630" end="00:02:57.270" style="s2">doing good today</p>
+<p begin="00:02:52.820" end="00:02:58.560" style="s2">what do it good today alright I don&#39;t</p>
+<p begin="00:02:57.270" end="00:03:00.510" style="s2">really know there&#39;s not too much to say</p>
+<p begin="00:02:58.560" end="00:03:07.560" style="s2">in live streams this is gonna be mad</p>
+<p begin="00:03:00.510" end="00:03:11.370" style="s2">short but um so this is uh this is open</p>
+<p begin="00:03:07.560" end="00:03:16.770" style="s2">pilot here if you go down to supported</p>
+<p begin="00:03:11.370" end="00:03:22.770" style="s2">cars we already support the Subaru</p>
+<p begin="00:03:16.770" end="00:03:25.380" style="s2">Crosstrek and Impreza we also have a</p>
+<p begin="00:03:22.770" end="00:03:32.340" style="s2">pull request which means we&#39;re gonna get</p>
+<p begin="00:03:25.380" end="00:03:35.790" style="s2">support pretty soon for the Subaru</p>
+<p begin="00:03:32.340" end="00:03:37.110" style="s2">Legacy and the Subaru Outback no</p>
+<p begin="00:03:35.790" end="00:03:40.170" style="s2">promises on those but if you have a</p>
+<p begin="00:03:37.110" end="00:03:42.660" style="s2">cross tracker and present today and you</p>
+<p begin="00:03:40.170" end="00:03:45.360" style="s2">buy we&#39;re gonna refresh this webpage in</p>
+<p begin="00:03:42.660" end="00:03:47.660" style="s2">a little bit but first we&#39;re gonna go</p>
+<p begin="00:03:45.360" end="00:03:47.660" style="s2">for a walk</p>
+<p begin="00:03:53.099" end="00:04:05.579" style="s2">these are Subaru harnesses they attach</p>
+<p begin="00:04:02.129" end="00:04:08.189" style="s2">to your black panda in your harness so</p>
+<p begin="00:04:05.579" end="00:04:10.920" style="s2">this is just the standard , 28 pin</p>
+<p begin="00:04:08.189" end="00:04:12.450" style="s2">connector and that&#39;s your pass through</p>
+<p begin="00:04:10.920" end="00:04:15.680" style="s2">four Subaru neither of these connectors</p>
+<p begin="00:04:12.450" end="00:04:19.919" style="s2">is 3d printed they&#39;re both real</p>
+<p begin="00:04:15.680" end="00:04:23.520" style="s2">connectors why nobody&#39;s gonna come to</p>
+<p begin="00:04:19.919" end="00:04:25.949" style="s2">the stream today we didn&#39;t announce it</p>
+<p begin="00:04:23.520" end="00:04:27.900" style="s2">we didn&#39;t plan anything but Subaru do</p>
+<p begin="00:04:25.949" end="00:04:33.060" style="s2">you see what this says it says ready to</p>
+<p begin="00:04:27.900" end="00:04:39.780" style="s2">ship so that&#39;s just because it&#39;s ready</p>
+<p begin="00:04:33.060" end="00:04:42.720" style="s2">to ship do you have any comments on the</p>
+<p begin="00:04:39.780" end="00:04:47.490" style="s2">on the Subaru harness oh oh there&#39;s all</p>
+<p begin="00:04:42.720" end="00:04:49.620" style="s2">secrets Oh secrets Wow</p>
+<p begin="00:04:47.490" end="00:04:53.419" style="s2">wow there&#39;s so much so many leaks in</p>
+<p begin="00:04:49.620" end="00:04:53.419" style="s2">here no no nope we can&#39;t have any leaks</p>
+<p begin="00:04:57.360" end="00:05:07.080" style="s2">does anyone does anyone have any</p>
+<p begin="00:04:59.099" end="00:05:08.520" style="s2">comments on the Subaru harness eyesight</p>
+<p begin="00:05:07.080" end="00:05:15.240" style="s2">required yeah it should work with all</p>
+<p begin="00:05:08.520" end="00:05:16.620" style="s2">cars with eyesight all right oh no I&#39;m</p>
+<p begin="00:05:15.240" end="00:05:19.380" style="s2">not you they can&#39;t see your screen don&#39;t</p>
+<p begin="00:05:16.620" end="00:05:21.990" style="s2">worry Wow wow this is this is this is</p>
+<p begin="00:05:19.380" end="00:05:26.849" style="s2">leaked said Julia wow there&#39;s so many</p>
+<p begin="00:05:21.990" end="00:05:27.900" style="s2">leaks going on and there&#39;s leaks on this</p>
+<p begin="00:05:26.849" end="00:05:45.680" style="s2">ticket what is that thick you know it&#39;s</p>
+<p begin="00:05:27.900" end="00:05:59.639" style="s2">a tiny leak is there any leaks here</p>
+<p begin="00:05:45.680" end="00:06:02.070" style="s2">where leaks rinche weeks all right</p>
+<p begin="00:05:59.639" end="00:06:04.580" style="s2">that&#39;s it for leaks let&#39;s we&#39;ll just</p>
+<p begin="00:06:02.070" end="00:06:06.739" style="s2">wait till it goes live right now but</p>
+<p begin="00:06:04.580" end="00:06:22.249" style="s2">with the Subaru horn</p>
+<p begin="00:06:06.739" end="00:06:24.479" style="s2">Subaru is it live yet it&#39;s not live yet</p>
+<p begin="00:06:22.249" end="00:06:26.249" style="s2">but just so you know we make the</p>
+<p begin="00:06:24.479" end="00:06:28.169" style="s2">development vehicle this is like that</p>
+<p begin="00:06:26.249" end="00:06:32.449" style="s2">stream when Elon announced the model y</p>
+<p begin="00:06:28.169" end="00:06:35.610" style="s2">and nobody really cared it&#39;s like that</p>
+<p begin="00:06:32.449" end="00:06:37.349" style="s2">but we&#39;re announcing the Subaru harness</p>
+<p begin="00:06:35.610" end="00:06:39.089" style="s2">let me go get a Subaru harness so I can</p>
+<p begin="00:06:37.349" end="00:06:41.819" style="s2">hold it up every time I say Subaru</p>
+<p begin="00:06:39.089" end="00:06:46.949" style="s2">harness I can&#39;t show you oh</p>
+<p begin="00:06:41.819" end="00:06:50.699" style="s2">leaks no no no we&#39;re walking down here</p>
+<p begin="00:06:46.949" end="00:06:53.459" style="s2">so so nobody can see any leaks no leaks</p>
+<p begin="00:06:50.699" end="00:06:54.689" style="s2">no leaks no leaks no we will show you</p>
+<p begin="00:06:53.459" end="00:06:56.479" style="s2">the datacenter you know I love showing</p>
+<p begin="00:06:54.689" end="00:07:03.419" style="s2">off the datacenter wow it&#39;s beautiful</p>
+<p begin="00:06:56.479" end="00:07:09.360" style="s2">it&#39;s so big we did can&#39;t leak to you the</p>
+<p begin="00:07:03.419" end="00:07:11.119" style="s2">door code well they&#39;re gonna be</p>
+<p begin="00:07:09.360" end="00:07:17.489" style="s2">analyzing those leaks for a long time</p>
+<p begin="00:07:11.119" end="00:07:20.129" style="s2">yeah oh you wants to print a farm we</p>
+<p begin="00:07:17.489" end="00:07:31.219" style="s2">gotta go look at printer farm this is a</p>
+<p begin="00:07:20.129" end="00:07:31.219" style="s2">Subaru harness print farm Civic</p>
+<p begin="00:07:32.629" end="00:07:41.909" style="s2">Oh Oh is those FCI not launched yet but</p>
+<p begin="00:07:39.030" end="00:07:43.199" style="s2">that&#39;s an FCA connector walk so don&#39;t</p>
+<p begin="00:07:41.909" end="00:07:44.909" style="s2">worry you didn&#39;t miss anything we&#39;re</p>
+<p begin="00:07:43.199" end="00:07:47.310" style="s2">just launching the Subaru harness today</p>
+<p begin="00:07:44.909" end="00:07:57.210" style="s2">we have a black band around our harness</p>
+<p begin="00:07:47.310" end="00:07:58.949" style="s2">thingy that I can plug it into so this</p>
+<p begin="00:07:57.210" end="00:08:00.300" style="s2">will be mounted inside your Tsuru it&#39;s</p>
+<p begin="00:07:58.949" end="00:08:02.940" style="s2">the same one that goes in the Civic in</p>
+<p begin="00:08:00.300" end="00:08:06.990" style="s2">the Toyota Subaru harness if you by</p>
+<p begin="00:08:02.940" end="00:08:10.970" style="s2">Subaru harness for $400 yeah one only</p>
+<p begin="00:08:06.990" end="00:08:10.970" style="s2">half only half the FCA is this alone</p>
+<p begin="00:08:23.289" end="00:08:29.150" style="s2">yeah look at that look at how satisfying</p>
+<p begin="00:08:25.759" end="00:08:32.360" style="s2">this Joe anything to say about the</p>
+<p begin="00:08:29.150" end="00:08:33.620" style="s2">Subaru harness yeah with this is what</p>
+<p begin="00:08:32.360" end="00:08:36.890" style="s2">we&#39;re showing I haven&#39;t even seen this</p>
+<p begin="00:08:33.620" end="00:08:40.070" style="s2">oh look at that Wow it&#39;s like is it nice</p>
+<p begin="00:08:36.890" end="00:08:41.659" style="s2">nice plastic huh yeah okay are these the</p>
+<p begin="00:08:40.070" end="00:08:53.390" style="s2">real we didn&#39;t print these no no we&#39;re</p>
+<p begin="00:08:41.659" end="00:08:55.430" style="s2">together right don&#39;t plug it in like</p>
+<p begin="00:08:53.390" end="00:08:57.380" style="s2">that when you get it it intercepts your</p>
+<p begin="00:08:55.430" end="00:09:00.440" style="s2">Subaru it should work with all new</p>
+<p begin="00:08:57.380" end="00:09:02.899" style="s2">Subarus with eyesight I believe and you</p>
+<p begin="00:09:00.440" end="00:09:06.019" style="s2">see this it passes through five of the</p>
+<p begin="00:09:02.899" end="00:09:07.850" style="s2">wires the Subaru harnesses back do we</p>
+<p begin="00:09:06.019" end="00:09:10.880" style="s2">have the old Subaru harnesses around to</p>
+<p begin="00:09:07.850" end="00:09:13.730" style="s2">show them now it was bad it was bad we</p>
+<p begin="00:09:10.880" end="00:09:15.709" style="s2">sold three of them so I&#39;m hoping Gilly</p>
+<p begin="00:09:13.730" end="00:09:17.690" style="s2">I&#39;m acknowledging your message by a</p>
+<p begin="00:09:15.709" end="00:09:23.480" style="s2">harness for your Subaru today when it&#39;s</p>
+<p begin="00:09:17.690" end="00:09:24.800" style="s2">common doing an IPO that&#39;s a</p>
+<p begin="00:09:23.480" end="00:09:28.790" style="s2">forward-looking statement I&#39;m not</p>
+<p begin="00:09:24.800" end="00:09:31.940" style="s2">allowed to say that no you can hack your</p>
+<p begin="00:09:28.790" end="00:09:38.420" style="s2">own Subaru with the Subaru harness buy</p>
+<p begin="00:09:31.940" end="00:09:39.829" style="s2">it today prevent low speed lockout oh</p>
+<p begin="00:09:38.420" end="00:09:41.029" style="s2">I&#39;m excited about the smart TSU</p>
+<p begin="00:09:39.829" end="00:09:42.529" style="s2">intercept you&#39;re gonna sell them what is</p>
+<p begin="00:09:41.029" end="00:09:46.399" style="s2">it going live alright why don&#39;t we go</p>
+<p begin="00:09:42.529" end="00:09:49.449" style="s2">live to our sales team and we ask when</p>
+<p begin="00:09:46.399" end="00:09:49.449" style="s2">they&#39;re going live</p>
+<p begin="00:09:54.540" end="00:09:59.950" style="s2">Subaru harness : life super harness is</p>
+<p begin="00:09:58.300" end="00:10:03.660" style="s2">almost like we got we got 81 people here</p>
+<p begin="00:09:59.950" end="00:10:03.660" style="s2">they&#39;re very excited for Subaru harness</p>
+<p begin="00:10:04.230" end="00:10:11.470" style="s2">it&#39;s gonna be a 20-minute yeah hey you</p>
+<p begin="00:10:09.610" end="00:10:16.180" style="s2">know do you have any comments when the</p>
+<p begin="00:10:11.470" end="00:10:21.850" style="s2">Subaru horn is good any comments on the</p>
+<p begin="00:10:16.180" end="00:10:23.710" style="s2">Subaru harness it&#39;s finally time whoa</p>
+<p begin="00:10:21.850" end="00:10:25.870" style="s2">whoa whoa no torquing acceptors Petar</p>
+<p begin="00:10:23.710" end="00:10:27.610" style="s2">see how thank you for buying one you</p>
+<p begin="00:10:25.870" end="00:10:29.230" style="s2">make it worth it for us you&#39;re just</p>
+<p begin="00:10:27.610" end="00:10:32.230" style="s2">gonna drop down I think we&#39;re adding</p>
+<p begin="00:10:29.230" end="00:10:34.690" style="s2">reading uh just crosstrack and uh yeah</p>
+<p begin="00:10:32.230" end="00:10:39.520" style="s2">cool and that sorry is it on the leg</p>
+<p begin="00:10:34.690" end="00:10:43.420" style="s2">harness nice nice Subaru now officially</p>
+<p begin="00:10:39.520" end="00:10:48.220" style="s2">supported by comma a we&#39;re doing FCA</p>
+<p begin="00:10:43.420" end="00:10:50.770" style="s2">soon to sew the harness you know harness</p>
+<p begin="00:10:48.220" end="00:10:53.200" style="s2">technology Oh exclusive leaks for come a</p>
+<p begin="00:10:50.770" end="00:10:56.380" style="s2">prime subscribers okay everybody else</p>
+<p begin="00:10:53.200" end="00:10:58.060" style="s2">cover your ears wait wait we actually</p>
+<p begin="00:10:56.380" end="00:11:03.180" style="s2">have an exclusive league for come over</p>
+<p begin="00:10:58.060" end="00:11:03.180" style="s2">I&#39;m subscribers we actually have one</p>
+<p begin="00:11:07.300" end="00:11:13.400" style="s2">can we easily show them take pic they</p>
+<p begin="00:11:12.020" end="00:11:37.370" style="s2">ask for leaks for common prime</p>
+<p begin="00:11:13.400" end="00:11:39.170" style="s2">subscribers yeah yo check this out look</p>
+<p begin="00:11:37.370" end="00:11:42.170" style="s2">at the pictures it&#39;s taken pictures</p>
+<p begin="00:11:39.170" end="00:11:44.780" style="s2">right now alright so this is the</p>
+<p begin="00:11:42.170" end="00:11:47.560" style="s2">front-facing camera and this is y&#39;all</p>
+<p begin="00:11:44.780" end="00:11:49.880" style="s2">look at me it&#39;s me guys look we did it</p>
+<p begin="00:11:47.560" end="00:11:51.770" style="s2">yeah so that&#39;s an exclusive that&#39;s gonna</p>
+<p begin="00:11:49.880" end="00:11:53.420" style="s2">be a comma prime exclusive feature</p>
+<p begin="00:11:51.770" end="00:11:55.190" style="s2">you&#39;re gonna be able to take a picture</p>
+<p begin="00:11:53.420" end="00:12:00.860" style="s2">with your car make sure to sign up for</p>
+<p begin="00:11:55.190" end="00:12:04.360" style="s2">come from before we rate the prices yeah</p>
+<p begin="00:12:00.860" end="00:12:07.100" style="s2">yeah gamma prime prime just incredible</p>
+<p begin="00:12:04.360" end="00:12:09.710" style="s2">do you intentionally stream on data to</p>
+<p begin="00:12:07.100" end="00:12:13.030" style="s2">minimize leaks no not streaming a data</p>
+<p begin="00:12:09.710" end="00:12:15.230" style="s2">eric moraga whoa finally something cool</p>
+<p begin="00:12:13.030" end="00:12:16.760" style="s2">baa what what we&#39;ll celebrate with it</p>
+<p begin="00:12:15.230" end="00:12:18.020" style="s2">when the Subaru harness goes live I</p>
+<p begin="00:12:16.760" end="00:12:21.290" style="s2">don&#39;t know what that is look a</p>
+<p begin="00:12:18.020" end="00:12:21.950" style="s2">skateboard ssh become a prime now with</p>
+<p begin="00:12:21.290" end="00:12:26.000" style="s2">camera</p>
+<p begin="00:12:21.950" end="00:12:27.680" style="s2">wait youtube showed you an ad what am i</p>
+<p begin="00:12:26.000" end="00:12:33.170" style="s2">getting new revenue for that i don&#39;t</p>
+<p begin="00:12:27.680" end="00:12:39.680" style="s2">think so the leak I think we cover like</p>
+<p begin="00:12:33.170" end="00:12:41.660" style="s2">50 something cars yeah yeah so just so</p>
+<p begin="00:12:39.680" end="00:12:44.150" style="s2">if you already bought a harness for some</p>
+<p begin="00:12:41.660" end="00:12:46.460" style="s2">reason um you&#39;ll be able to buy just</p>
+<p begin="00:12:44.150" end="00:12:48.890" style="s2">this table for 50 bucks but if you buy a</p>
+<p begin="00:12:46.460" end="00:12:51.350" style="s2">harness it includes the harness it</p>
+<p begin="00:12:48.890" end="00:12:54.710" style="s2">includes the common power v2 it includes</p>
+<p begin="00:12:51.350" end="00:12:57.200" style="s2">the Black Panda yeah we&#39;ll buy Google</p>
+<p begin="00:12:54.710" end="00:12:58.310" style="s2">man no you know what we&#39;ll buy like one</p>
+<p begin="00:12:57.200" end="00:12:59.600" style="s2">of those car companies one of those</p>
+<p begin="00:12:58.310" end="00:13:01.880" style="s2">American car companies when they don&#39;t</p>
+<p begin="00:12:59.600" end="00:13:04.700" style="s2">get bailed out we&#39;ll bottle that&#39;s right</p>
+<p begin="00:13:01.880" end="00:13:05.630" style="s2">and we&#39;ll fire everybody and replace</p>
+<p begin="00:13:04.700" end="00:13:08.810" style="s2">them with robots</p>
+<p begin="00:13:05.630" end="00:13:10.640" style="s2">so saya any robot any roadmap for flex</p>
+<p begin="00:13:08.810" end="00:13:13.580" style="s2">right cars no you are out of luck buy a</p>
+<p begin="00:13:10.640" end="00:13:15.350" style="s2">cheaper car bro trade in your car you</p>
+<p begin="00:13:13.580" end="00:13:18.380" style="s2">know when you go to a dealership you can</p>
+<p begin="00:13:15.350" end="00:13:20.430" style="s2">trade in a car and they&#39;ll actually give</p>
+<p begin="00:13:18.380" end="00:13:23.910" style="s2">you money if the trade-in value of</p>
+<p begin="00:13:20.430" end="00:13:26.250" style="s2">hire the new car don&#39;t buy GM um if I</p>
+<p begin="00:13:23.910" end="00:13:28.170" style="s2">buy Faraday future yeah bloated</p>
+<p begin="00:13:26.250" end="00:13:29.700" style="s2">I&#39;m fingerprinting to point out yeah</p>
+<p begin="00:13:28.170" end="00:13:31.080" style="s2">we&#39;re working on it we&#39;re working on it</p>
+<p begin="00:13:29.700" end="00:13:31.920" style="s2">what was the unlocker stuff is just</p>
+<p begin="00:13:31.080" end="00:13:33.960" style="s2">something that&#39;s what I&#39;ve been working</p>
+<p begin="00:13:31.920" end="00:13:35.730" style="s2">on this week it&#39;s actually already like</p>
+<p begin="00:13:33.960" end="00:13:40.110" style="s2">if you go and open pilot tools and you</p>
+<p begin="00:13:35.730" end="00:13:41.550" style="s2">look in Nui how&#39;s the sound division</p>
+<p begin="00:13:40.110" end="00:13:46.560" style="s2">doing sound division is killing it we</p>
+<p begin="00:13:41.550" end="00:13:48.899" style="s2">love the new sound clarity uh-oh I don&#39;t</p>
+<p begin="00:13:46.560" end="00:13:52.500" style="s2">know about that one oh yeah I&#39;m sorry</p>
+<p begin="00:13:48.899" end="00:13:54.230" style="s2">you bought a weird car if you trade it</p>
+<p begin="00:13:52.500" end="00:14:03.029" style="s2">in your car you&#39;d ask for money well I</p>
+<p begin="00:13:54.230" end="00:14:08.190" style="s2">don&#39;t know how to uh leaks all right</p>
+<p begin="00:14:03.029" end="00:14:10.880" style="s2">let&#39;s see this is my new auger Dearing</p>
+<p begin="00:14:08.190" end="00:14:10.880" style="s2">controls for</p>
+<p begin="00:14:12.360" end="00:14:17.879" style="s2">and you Pam but their their $50 black</p>
+<p begin="00:14:15.149" end="00:14:20.790" style="s2">panda , power v2 includes the correct</p>
+<p begin="00:14:17.879" end="00:14:22.740" style="s2">wire for your Subaru USBC cable Ethernet</p>
+<p begin="00:14:20.790" end="00:14:24.750" style="s2">cable and that&#39;s what your yun looks</p>
+<p begin="00:14:22.740" end="00:14:27.389" style="s2">like mounted well these aren&#39;t leaks</p>
+<p begin="00:14:24.750" end="00:14:28.529" style="s2">this won&#39;t live a while ago you want to</p>
+<p begin="00:14:27.389" end="00:14:34.230" style="s2">see leaks these are the websites that I</p>
+<p begin="00:14:28.529" end="00:14:38.509" style="s2">block um is it lagging he&#39;s a quality</p>
+<p begin="00:14:34.230" end="00:14:38.509" style="s2">bad oh wow wow it&#39;s real potato quality</p>
+<p begin="00:14:40.069" end="00:14:47.180" style="s2">that&#39;s bad that&#39;s low-quality crap Queen</p>
+<p begin="00:14:44.310" end="00:14:47.180" style="s2">increase the quality</p>
+<p begin="00:14:48.709" end="00:14:56.699" style="s2">wow that&#39;s I don&#39;t know man that&#39;s bad</p>
+<p begin="00:14:54.110" end="00:14:59.060" style="s2">but ya know Subarus gonna go live any</p>
+<p begin="00:14:56.699" end="00:14:59.060" style="s2">minute now</p>
+<p begin="00:14:59.089" end="00:15:02.879" style="s2">we&#39;ll just sit here we&#39;ll just sit here</p>
+<p begin="00:15:01.230" end="00:15:09.990" style="s2">I&#39;ll wait with you guys while suber goes</p>
+<p begin="00:15:02.879" end="00:15:12.529" style="s2">live no I&#39;m on my Wi-Fi I don&#39;t I don&#39;t</p>
+<p begin="00:15:09.990" end="00:15:12.529" style="s2">get it</p>
+<p begin="00:15:18.010" end="00:15:25.680" style="s2">Oh yo you know what I got in the mail</p>
+<p begin="00:15:21.580" end="00:15:29.950" style="s2">today but I don&#39;t have it my air pons</p>
+<p begin="00:15:25.680" end="00:15:32.530" style="s2">air pod pro that was no leaks on the</p>
+<p begin="00:15:29.950" end="00:15:42.160" style="s2">board the second I&#39;m paranoid about</p>
+<p begin="00:15:32.530" end="00:15:45.280" style="s2">leaks Oh Oh guys guys it&#39;s live it&#39;s</p>
+<p begin="00:15:42.160" end="00:15:51.150" style="s2">live right now you can pick your Subaru</p>
+<p begin="00:15:45.280" end="00:15:53.380" style="s2">Crosstrek or your Stuber Oh impress out</p>
+<p begin="00:15:51.150" end="00:15:55.960" style="s2">and you can add to cart&#39; you know what</p>
+<p begin="00:15:53.380" end="00:16:00.700" style="s2">this guy&#39;s a known hater you know what</p>
+<p begin="00:15:55.960" end="00:16:04.360" style="s2">happens to known haters hide user on</p>
+<p begin="00:16:00.700" end="00:16:10.800" style="s2">this channel perfect uh-oh the accordi</p>
+<p begin="00:16:04.360" end="00:16:10.800" style="s2">PS oh you want to show me according PS</p>
+<p begin="00:16:13.270" end="00:16:18.130" style="s2">[Music]</p>
+<p begin="00:16:15.060" end="00:16:19.870" style="s2">yeah so so Subaru right they&#39;re only</p>
+<p begin="00:16:18.130" end="00:16:23.260" style="s2">three ninety-nine that&#39;s a good price</p>
+<p begin="00:16:19.870" end="00:16:27.310" style="s2">you&#39;re good bro I like you I&#39;ll give you</p>
+<p begin="00:16:23.260" end="00:16:29.830" style="s2">a harness for 399 super easy just buy it</p>
+<p begin="00:16:27.310" end="00:16:31.300" style="s2">right now I&#39;m just gonna check quickly</p>
+<p begin="00:16:29.830" end="00:16:36.460" style="s2">to see if anybody&#39;s buying it you know</p>
+<p begin="00:16:31.300" end="00:16:40.510" style="s2">what if we&#39;ve sold if we sell at least</p>
+<p begin="00:16:36.460" end="00:16:43.990" style="s2">if we sell three of them in the next two</p>
+<p begin="00:16:40.510" end="00:16:46.900" style="s2">minutes we&#39;re gonna show you guys the</p>
+<p begin="00:16:43.990" end="00:16:48.750" style="s2">accordi PS but if we don&#39;t sell three of</p>
+<p begin="00:16:46.900" end="00:16:51.220" style="s2">them we&#39;re not showing your decoy TPS</p>
+<p begin="00:16:48.750" end="00:16:54.940" style="s2">anyone buy any yet come on bye bye bye</p>
+<p begin="00:16:51.220" end="00:16:58.030" style="s2">no one&#39;s bought any yet if our harness</p>
+<p begin="00:16:54.940" end="00:17:02.050" style="s2">is a fantastic product thank you</p>
+<p begin="00:16:58.030" end="00:17:03.100" style="s2">where&#39;s nougat cosmos leagues leagues</p>
+<p begin="00:17:02.050" end="00:17:05.080" style="s2">all right let&#39;s go and just go ahead and</p>
+<p begin="00:17:03.100" end="00:17:08.650" style="s2">see what the live live leaking situation</p>
+<p begin="00:17:05.080" end="00:17:10.570" style="s2">is Subaru people yeah come on you know</p>
+<p begin="00:17:08.650" end="00:17:12.280" style="s2">you want to see the accordion you got it</p>
+<p begin="00:17:10.570" end="00:17:12.790" style="s2">you got a buy no super people buy</p>
+<p begin="00:17:12.280" end="00:17:16.020" style="s2">anything</p>
+<p begin="00:17:12.790" end="00:17:20.680" style="s2">Oh Subaru</p>
+<p begin="00:17:16.020" end="00:17:22.390" style="s2">oh so quick all the leaks got covered up</p>
+<p begin="00:17:20.680" end="00:17:25.650" style="s2">the leaks are gone oh you didn&#39;t get any</p>
+<p begin="00:17:22.390" end="00:17:28.360" style="s2">leaks people might be buying a Subaru um</p>
+<p begin="00:17:25.650" end="00:17:30.610" style="s2">if you&#39;re going out and buying a Subaru</p>
+<p begin="00:17:28.360" end="00:17:31.140" style="s2">may I recommend it to Lyoto Corolla but</p>
+<p begin="00:17:30.610" end="00:17:33.570" style="s2">if you&#39;re</p>
+<p begin="00:17:31.140" end="00:17:36.630" style="s2">the situation will you already have a</p>
+<p begin="00:17:33.570" end="00:17:41.610" style="s2">Subaru come on we go we got we gotta</p>
+<p begin="00:17:36.630" end="00:17:43.260" style="s2">sell a few of these zero sold so far but</p>
+<p begin="00:17:41.610" end="00:17:44.910" style="s2">only 90 viewers I know I know I know</p>
+<p begin="00:17:43.260" end="00:17:46.440" style="s2">because we didn&#39;t do any real press for</p>
+<p begin="00:17:44.910" end="00:17:49.170" style="s2">this because it&#39;s like you know it&#39;s</p>
+<p begin="00:17:46.440" end="00:18:03.600" style="s2">low-quality crap you got an exclusive ,</p>
+<p begin="00:17:49.170" end="00:18:10.950" style="s2">prime leak yeah take picture bros mah by</p>
+<p begin="00:18:03.600" end="00:18:14.070" style="s2">subaru but also another thing if you</p>
+<p begin="00:18:10.950" end="00:18:16.470" style="s2">don&#39;t have a harness for your car you</p>
+<p begin="00:18:14.070" end="00:18:19.890" style="s2">should get a harness even if you don&#39;t</p>
+<p begin="00:18:16.470" end="00:18:22.950" style="s2">have a Subaru um</p>
+<p begin="00:18:19.890" end="00:18:24.390" style="s2">Oh Bugsy I mean if yours has the same</p>
+<p begin="00:18:22.950" end="00:18:26.280" style="s2">pin outs as ours and you&#39;re using the</p>
+<p begin="00:18:24.390" end="00:18:30.330" style="s2">same harness absolutely keeps telling</p>
+<p begin="00:18:26.280" end="00:18:32.250" style="s2">him we&#39;re just we&#39;re not making a lot of</p>
+<p begin="00:18:30.330" end="00:18:35.220" style="s2">money on these cables that&#39;s why they&#39;ve</p>
+<p begin="00:18:32.250" end="00:18:37.590" style="s2">been debunked glad you enjoyed the</p>
+<p begin="00:18:35.220" end="00:18:41.760" style="s2">medium article 2020 Corolla hybrid I</p>
+<p begin="00:18:37.590" end="00:18:43.140" style="s2">think we fixed that oh sorry we fixed</p>
+<p begin="00:18:41.760" end="00:18:46.080" style="s2">that in the secret good version of open</p>
+<p begin="00:18:43.140" end="00:18:50.130" style="s2">pilot don&#39;t fix it</p>
+<p begin="00:18:46.080" end="00:18:51.960" style="s2">it&#39;s up what if you buy a hundred two</p>
+<p begin="00:18:50.130" end="00:18:53.670" style="s2">weeks from now if you actually want to</p>
+<p begin="00:18:51.960" end="00:18:55.950" style="s2">buy we have we have bulk discounts um</p>
+<p begin="00:18:53.670" end="00:18:57.240" style="s2">we&#39;ve gotten a few orders in the last</p>
+<p begin="00:18:55.950" end="00:18:58.800" style="s2">couple weeks of 10 Yuans</p>
+<p begin="00:18:57.240" end="00:19:01.140" style="s2">and we offer decent discounts for buying</p>
+<p begin="00:18:58.800" end="00:19:02.100" style="s2">ten so you can just reach out supporter</p>
+<p begin="00:19:01.140" end="00:19:03.600" style="s2">comment I have you&#39;re serious about</p>
+<p begin="00:19:02.100" end="00:19:05.010" style="s2">buying in large quantities if you&#39;re</p>
+<p begin="00:19:03.600" end="00:19:11.780" style="s2">buying a hundred will give you a</p>
+<p begin="00:19:05.010" end="00:19:11.780" style="s2">phenomenal price yeah</p>
+<p begin="00:19:12.230" end="00:19:17.240" style="s2">oh yeah zero six six I think I think let</p>
+<p begin="00:19:15.980" end="00:19:19.490" style="s2">me just double check but I think zero</p>
+<p begin="00:19:17.240" end="00:19:27.529" style="s2">six six is gonna support the the Corolla</p>
+<p begin="00:19:19.490" end="00:19:28.730" style="s2">hybrid yes alright alright you want to</p>
+<p begin="00:19:27.529" end="00:19:36.909" style="s2">see some more leaks I&#39;ll show you some</p>
+<p begin="00:19:28.730" end="00:19:40.669" style="s2">more than leaks leaks thanks walk so</p>
+<p begin="00:19:36.909" end="00:19:41.539" style="s2">alright guys I&#39;m glad to have you all</p>
+<p begin="00:19:40.669" end="00:19:44.720" style="s2">here with me</p>
+<p begin="00:19:41.539" end="00:19:48.169" style="s2">but unfortunately uh I don&#39;t think</p>
+<p begin="00:19:44.720" end="00:19:55.190" style="s2">anyone uh yep no people and he&#39;s super</p>
+<p begin="00:19:48.169" end="00:19:58.760" style="s2">honest I really does anyone actually</p>
+<p begin="00:19:55.190" end="00:20:00.980" style="s2">have a sugru or is it just trolls oh</p>
+<p begin="00:19:58.760" end="00:20:03.830" style="s2">crap that was a leak</p>
+<p begin="00:20:00.980" end="00:20:07.250" style="s2">oh we leaked that oh yeah yeah yeah yeah</p>
+<p begin="00:20:03.830" end="00:20:13.190" style="s2">Jay Young has done a great job we&#39;re</p>
+<p begin="00:20:07.250" end="00:20:15.049" style="s2">super happy no trucks no how many</p>
+<p begin="00:20:13.190" end="00:20:17.330" style="s2">versions before zero seven well that&#39;s</p>
+<p begin="00:20:15.049" end="00:20:18.769" style="s2">that so that&#39;s too much of a leak no I</p>
+<p begin="00:20:17.330" end="00:20:23.809" style="s2">think the issue is that nobody actually</p>
+<p begin="00:20:18.769" end="00:20:26.360" style="s2">has a Subaru if you buy if you buy your</p>
+<p begin="00:20:23.809" end="00:20:28.730" style="s2">stuff today well I promise we&#39;ll support</p>
+<p begin="00:20:26.360" end="00:20:33.769" style="s2">your uh your Corolla hybrid by the time</p>
+<p begin="00:20:28.730" end="00:20:35.269" style="s2">against their depends you know like I</p>
+<p begin="00:20:33.769" end="00:20:37.730" style="s2">know some like I know some like like</p>
+<p begin="00:20:35.269" end="00:20:40.100" style="s2">people who have Subarus but they&#39;re like</p>
+<p begin="00:20:37.730" end="00:20:43.149" style="s2">Subarus from 1992 I don&#39;t know anybody</p>
+<p begin="00:20:40.100" end="00:20:46.159" style="s2">who buys a new burro</p>
+<p begin="00:20:43.149" end="00:20:50.269" style="s2">so I&#39;m just I&#39;m just okay so we sold</p>
+<p begin="00:20:46.159" end="00:20:53.330" style="s2">exactly zero Subaru harnesses so guess</p>
+<p begin="00:20:50.269" end="00:20:57.260" style="s2">why uh you don&#39;t get you don&#39;t get to</p>
+<p begin="00:20:53.330" end="00:20:58.760" style="s2">see the uh yeah if you buy me a super</p>
+<p begin="00:20:57.260" end="00:21:00.289" style="s2">exactly exactly</p>
+<p begin="00:20:58.760" end="00:21:01.700" style="s2">oh you have a nineteen Forester all</p>
+<p begin="00:21:00.289" end="00:21:05.870" style="s2">right let&#39;s the point that soon I think</p>
+<p begin="00:21:01.700" end="00:21:09.260" style="s2">I think of all the cars have it now you</p>
+<p begin="00:21:05.870" end="00:21:12.019" style="s2">don&#39;t have a neon yeah yo okay I&#39;ll show</p>
+<p begin="00:21:09.260" end="00:21:14.360" style="s2">you guys I&#39;ll show you get yeah yeah</p>
+<p begin="00:21:12.019" end="00:21:15.769" style="s2">we&#39;re working on the Outback but we got</p>
+<p begin="00:21:14.360" end="00:21:17.299" style="s2">we gotta merge that I know I know</p>
+<p begin="00:21:15.769" end="00:21:18.590" style="s2">ten sales ten sales will be great you</p>
+<p begin="00:21:17.299" end="00:21:20.870" style="s2">mean ten young sales that&#39;d be</p>
+<p begin="00:21:18.590" end="00:21:23.330" style="s2">phenomenal who&#39;d be so happy with Kenny</p>
+<p begin="00:21:20.870" end="00:21:27.010" style="s2">on sales but I did leak how much money</p>
+<p begin="00:21:23.330" end="00:21:27.010" style="s2">we made this but we&#39;re rich boys</p>
+<p begin="00:21:27.500" end="00:21:31.700" style="s2">Subaru&#39;s torque seems pretty good yes</p>
+<p begin="00:21:29.389" end="00:21:33.620" style="s2">super or nice cars if you get over the</p>
+<p begin="00:21:31.700" end="00:21:35.539" style="s2">fact of our supers but I don&#39;t mean to</p>
+<p begin="00:21:33.620" end="00:21:37.909" style="s2">discourage anybody with the Subaru if</p>
+<p begin="00:21:35.539" end="00:21:39.950" style="s2">you guys were if you guys were all you</p>
+<p begin="00:21:37.909" end="00:21:42.230" style="s2">know buying up this harness really fast</p>
+<p begin="00:21:39.950" end="00:21:44.360" style="s2">I&#39;d be like man you guys are all great I</p>
+<p begin="00:21:42.230" end="00:21:46.730" style="s2">love Subaru people but well nobody buys</p>
+<p begin="00:21:44.360" end="00:21:48.769" style="s2">anything well you know how do how do I</p>
+<p begin="00:21:46.730" end="00:21:52.130" style="s2">handle em how am I supposed to feel um</p>
+<p begin="00:21:48.769" end="00:21:55.519" style="s2">but I believe in you Subaru people I</p>
+<p begin="00:21:52.130" end="00:21:57.230" style="s2">know that maybe you take your time to me</p>
+<p begin="00:21:55.519" end="00:21:59.179" style="s2">to make a decision</p>
+<p begin="00:21:57.230" end="00:22:02.600" style="s2">I&#39;m not running ads I don&#39;t know if</p>
+<p begin="00:21:59.179" end="00:22:05.120" style="s2">there are ads if you buy a Subaru</p>
+<p begin="00:22:02.600" end="00:22:06.559" style="s2">harness right now will I make the Kia oh</p>
+<p begin="00:22:05.120" end="00:22:09.429" style="s2">they found out one yeah yeah we&#39;re</p>
+<p begin="00:22:06.559" end="00:22:13.909" style="s2">working on that you a Kia kiyow kiyow</p>
+<p begin="00:22:09.429" end="00:22:16.070" style="s2">Hyundai are the same car right superhot</p>
+<p begin="00:22:13.909" end="00:22:16.840" style="s2">is canceled out now when I cancel it</p>
+<p begin="00:22:16.070" end="00:22:18.860" style="s2">anymore</p>
+<p begin="00:22:16.840" end="00:22:21.370" style="s2">okay we know we&#39;re doing we&#39;re doing the</p>
+<p begin="00:22:18.860" end="00:22:21.370" style="s2">q1 as well</p>
+<p begin="00:22:22.029" end="00:22:26.450" style="s2">all right what other what other car</p>
+<p begin="00:22:24.320" end="00:22:29.570" style="s2">ports we want buy a Subaru one right now</p>
+<p begin="00:22:26.450" end="00:22:31.100" style="s2">and what we&#39;ll do the key light will do</p>
+<p begin="00:22:29.570" end="00:22:36.769" style="s2">it even if you don&#39;t buy Subaru harness</p>
+<p begin="00:22:31.100" end="00:22:41.750" style="s2">but somebody&#39;s coming refresh on the</p>
+<p begin="00:22:36.769" end="00:22:44.360" style="s2">sales page nope nope nobody nobody buys</p>
+<p begin="00:22:41.750" end="00:22:46.610" style="s2">Subaru harnesses but if you&#39;re excited</p>
+<p begin="00:22:44.360" end="00:22:48.980" style="s2">about that , prime leak make sure to</p>
+<p begin="00:22:46.610" end="00:22:52.909" style="s2">find kama prime go in your comment app</p>
+<p begin="00:22:48.980" end="00:22:56.769" style="s2">is very convenient and easy it could</p>
+<p begin="00:22:52.909" end="00:22:56.769" style="s2">somebody please buy us a new harness</p>
+<p begin="00:23:01.390" end="00:23:05.910" style="s2">Great Wall SUVs I don&#39;t know about that</p>
+<p begin="00:23:06.750" end="00:23:13.800" style="s2">nope we&#39;re just gonna we&#39;re just going</p>
+<p begin="00:23:11.140" end="00:23:16.450" style="s2">to leave this stream where absolutely uh</p>
+<p begin="00:23:13.800" end="00:23:21.910" style="s2">you know last time we did the super</p>
+<p begin="00:23:16.450" end="00:23:23.470" style="s2">harness we sold three how many people</p>
+<p begin="00:23:21.910" end="00:23:25.030" style="s2">have a Subaru that open pilot</p>
+<p begin="00:23:23.470" end="00:23:30.400" style="s2">I can&#39;t believe nobody bought them</p>
+<p begin="00:23:25.030" end="00:23:33.430" style="s2">either this is the website broken Subaru</p>
+<p begin="00:23:30.400" end="00:23:36.820" style="s2">harnesses are a great deal okay they&#39;re</p>
+<p begin="00:23:33.430" end="00:23:40.690" style="s2">only 399 for your Subaru I mean it makes</p>
+<p begin="00:23:36.820" end="00:23:41.950" style="s2">your Subaru like like way better you</p>
+<p begin="00:23:40.690" end="00:23:45.130" style="s2">know those things you forget you have a</p>
+<p begin="00:23:41.950" end="00:23:47.410" style="s2">Subaru oh because you already all have</p>
+<p begin="00:23:45.130" end="00:23:50.730" style="s2">harnesses okay oh I think we can check</p>
+<p begin="00:23:47.410" end="00:23:58.840" style="s2">the stats yeah bring that up once I&#39;m</p>
+<p begin="00:23:50.730" end="00:24:00.280" style="s2">fingerprinted vehicles relative let&#39;s</p>
+<p begin="00:23:58.840" end="00:24:04.060" style="s2">say 30</p>
+<p begin="00:24:00.280" end="00:24:06.010" style="s2">oh you can&#39;t process payments what Oh</p>
+<p begin="00:24:04.060" end="00:24:07.090" style="s2">let me show to work um almost you guys</p>
+<p begin="00:24:06.010" end="00:24:08.680" style="s2">are early adopters who already bought</p>
+<p begin="00:24:07.090" end="00:24:10.120" style="s2">all right cool I know we&#39;re not going 30</p>
+<p begin="00:24:08.680" end="00:24:13.930" style="s2">months ago although 30 days ago I will</p>
+<p begin="00:24:10.120" end="00:24:16.500" style="s2">update let&#39;s see oh oh oh we see you</p>
+<p begin="00:24:13.930" end="00:24:16.500" style="s2">here</p>
+<p begin="00:24:23.530" end="00:24:29.080" style="s2">here we go so our most popular car of</p>
+<p begin="00:24:26.170" end="00:24:37.690" style="s2">course is the toyota prius followed by</p>
+<p begin="00:24:29.080" end="00:24:41.770" style="s2">nun civics see RVs vaults city civics</p>
+<p begin="00:24:37.690" end="00:24:44.200" style="s2">Corollas Accords Corollas rap fours</p>
+<p begin="00:24:41.770" end="00:24:47.520" style="s2">Accords rap fours</p>
+<p begin="00:24:44.200" end="00:24:52.390" style="s2">Honda&#39;s Odysseys Camrys rap force</p>
+<p begin="00:24:47.520" end="00:24:54.100" style="s2">Accords CRV is Camrys we hyundai oh oh</p>
+<p begin="00:24:52.390" end="00:24:57.430" style="s2">there we go</p>
+<p begin="00:24:54.100" end="00:25:00.550" style="s2">15 Subaru Impreza limited</p>
+<p begin="00:24:57.430" end="00:25:04.150" style="s2">there we go that&#39;s Subaru I think</p>
+<p begin="00:25:00.550" end="00:25:07.690" style="s2">they&#39;re all upstream cars yeah Wow three</p>
+<p begin="00:25:04.150" end="00:25:11.370" style="s2">likes on the three likes on the on the</p>
+<p begin="00:25:07.690" end="00:25:11.370" style="s2">Subaru and one of them&#39;s our car to help</p>
+<p begin="00:25:12.870" end="00:25:17.040" style="s2">your parents have a Subaru</p>
+<p begin="00:25:20.420" end="00:25:27.050" style="s2">I add more add more yeah yeah yeah what</p>
+<p begin="00:25:24.680" end="00:25:32.150" style="s2">will it more but this isn&#39;t encouraging</p>
+<p begin="00:25:27.050" end="00:25:33.500" style="s2">this isn&#39;t encouraging for Subarus who</p>
+<p begin="00:25:32.150" end="00:25:38.660" style="s2">set up I acknowledge them they were</p>
+<p begin="00:25:33.500" end="00:25:40.250" style="s2">gonna buy one can you get a tutorial</p>
+<p begin="00:25:38.660" end="00:25:44.570" style="s2">yeah if you search for open pilot</p>
+<p begin="00:25:40.250" end="00:25:48.380" style="s2">carport and do a medium post I did all</p>
+<p begin="00:25:44.570" end="00:25:50.390" style="s2">these leaks for you I won&#39;t be pretty</p>
+<p begin="00:25:48.380" end="00:25:56.000" style="s2">bought a harness alright alright alright</p>
+<p begin="00:25:50.390" end="00:25:58.280" style="s2">well you can&#39;t process payment I don&#39;t</p>
+<p begin="00:25:56.000" end="00:26:03.680" style="s2">know what there&#39;s no new hardware you</p>
+<p begin="00:25:58.280" end="00:26:04.940" style="s2">guys got the new hardware the new</p>
+<p begin="00:26:03.680" end="00:26:06.440" style="s2">hardware already came out it&#39;s called</p>
+<p begin="00:26:04.940" end="00:26:09.250" style="s2">the car harness go check it out it&#39;s not</p>
+<p begin="00:26:06.440" end="00:26:09.250" style="s2">a pin post on Twitter</p>
+<p begin="00:26:15.660" end="00:26:21.120" style="s2">you&#39;ll have to wait till 2020 I knew we</p>
+<p begin="00:26:17.970" end="00:26:22.770" style="s2">all know I don&#39;t know about that yo if</p>
+<p begin="00:26:21.120" end="00:26:26.490" style="s2">you guys want to see how many lay echoes</p>
+<p begin="00:26:22.770" end="00:26:29.520" style="s2">we have to continue making yawns Gilly</p>
+<p begin="00:26:26.490" end="00:26:31.830" style="s2">come on and cold quick let&#39;s if this</p>
+<p begin="00:26:29.520" end="00:26:35.880" style="s2">dream gets to the 30 minute mark and not</p>
+<p begin="00:26:31.830" end="00:26:37.740" style="s2">even a single sugru harnason soul I&#39;m</p>
+<p begin="00:26:35.880" end="00:26:39.000" style="s2">just gonna I&#39;m gonna sit at my desk and</p>
+<p begin="00:26:37.740" end="00:26:40.320" style="s2">I&#39;m gonna go get ice cream actually</p>
+<p begin="00:26:39.000" end="00:26:42.809" style="s2">that&#39;s what I&#39;m gonna do and you know</p>
+<p begin="00:26:40.320" end="00:26:45.780" style="s2">what if one is sold I&#39;m gonna go get ice</p>
+<p begin="00:26:42.809" end="00:26:48.000" style="s2">cream too but the difference is that if</p>
+<p begin="00:26:45.780" end="00:26:50.730" style="s2">one gets sold it&#39;s gonna be celebration</p>
+<p begin="00:26:48.000" end="00:26:57.450" style="s2">ice cream and if none get sold its gonna</p>
+<p begin="00:26:50.730" end="00:27:02.970" style="s2">be feel better ice cream guys Legos are</p>
+<p begin="00:26:57.450" end="00:27:03.960" style="s2">the future toppings where&#39;s no toppings</p>
+<p begin="00:27:02.970" end="00:27:06.419" style="s2">now we&#39;re not getting toppings we&#39;re</p>
+<p begin="00:27:03.960" end="00:27:12.000" style="s2">going to a shukshin scoops no no no</p>
+<p begin="00:27:06.419" end="00:27:14.220" style="s2">short lestrade that&#39;s it okay okay okay</p>
+<p begin="00:27:12.000" end="00:27:20.370" style="s2">at least we got seven likes on the on</p>
+<p begin="00:27:14.220" end="00:27:21.990" style="s2">the Subaru harness no no no no we&#39;re</p>
+<p begin="00:27:20.370" end="00:27:26.480" style="s2">gonna eat a moderate amount of ice cream</p>
+<p begin="00:27:21.990" end="00:27:26.480" style="s2">we&#39;re gonna eat in moderation Wow</p>
+<p begin="00:27:30.620" end="00:27:34.710" style="s2">well you know what I was thinking about</p>
+<p begin="00:27:32.730" end="00:27:36.720" style="s2">doing a stream for the FCI harness but</p>
+<p begin="00:27:34.710" end="00:27:38.460" style="s2">now there&#39;s no FCI harness stream and</p>
+<p begin="00:27:36.720" end="00:27:41.730" style="s2">you know why the FCA people the FCA</p>
+<p begin="00:27:38.460" end="00:27:46.280" style="s2">people can blame the Subaru people for</p>
+<p begin="00:27:41.730" end="00:27:49.070" style="s2">not buying any Oh nonono shippers /</p>
+<p begin="00:27:46.280" end="00:27:51.390" style="s2">shippers / you know why shippers / guys</p>
+<p begin="00:27:49.070" end="00:27:53.970" style="s2">because they&#39;re no longer giving us any</p>
+<p begin="00:27:51.390" end="00:27:57.120" style="s2">free cloud money when they gave us lots</p>
+<p begin="00:27:53.970" end="00:27:58.860" style="s2">of free cloud money we ran chipper and</p>
+<p begin="00:27:57.120" end="00:28:00.630" style="s2">then the free cloud money runs out and</p>
+<p begin="00:27:58.860" end="00:28:02.430" style="s2">then the shipper runs out cuz shipper</p>
+<p begin="00:28:00.630" end="00:28:04.950" style="s2">didn&#39;t you know make any money but</p>
+<p begin="00:28:02.430" end="00:28:09.150" style="s2">apparently Subaru harnesses don&#39;t make</p>
+<p begin="00:28:04.950" end="00:28:11.460" style="s2">any money either oh no oh yeah you know</p>
+<p begin="00:28:09.150" end="00:28:14.730" style="s2">about that is that Arduino Uno that&#39;s</p>
+<p begin="00:28:11.460" end="00:28:15.720" style="s2">what I&#39;m talking about yeah I don&#39;t know</p>
+<p begin="00:28:14.730" end="00:28:17.220" style="s2">I don&#39;t feel like streaming on Twitch</p>
+<p begin="00:28:15.720" end="00:28:19.140" style="s2">anymore this is a stream that you get if</p>
+<p begin="00:28:17.220" end="00:28:22.050" style="s2">you want if you want to stream this is</p>
+<p begin="00:28:19.140" end="00:28:27.320" style="s2">the stream you get 30 more seconds of</p>
+<p begin="00:28:22.050" end="00:28:27.320" style="s2">stream come on come on buy a super</p>
+<p begin="00:28:31.000" end="00:28:34.540" style="s2">check them an Apple watch</p>
+<p begin="00:28:36.880" end="00:28:43.660" style="s2">quick Gilly get in I&#39;m just gonna show</p>
+<p begin="00:28:40.210" end="00:28:46.780" style="s2">you guys the accordi PS I&#39;m gonna show</p>
+<p begin="00:28:43.660" end="00:28:49.600" style="s2">you more great leaks but nope nobody</p>
+<p begin="00:28:46.780" end="00:28:51.310" style="s2">blows horn all right we&#39;ll see all you</p>
+<p begin="00:28:49.600" end="00:28:55.420" style="s2">later thank you for joining me for the</p>
+<p begin="00:28:51.310" end="00:28:57.220" style="s2">stream have a nice evening and today we</p>
+<p begin="00:28:55.420" end="00:28:59.590" style="s2">learned the truth that there are no</p>
+<p begin="00:28:57.220" end="00:29:01.690" style="s2">people out there who actually own a</p>
+<p begin="00:28:59.590" end="00:29:04.710" style="s2">Subaru just people who say that they do</p>
+<p begin="00:29:01.690" end="00:29:04.710" style="s2">bye bye</p>
+</div>
+</body>
+</tt>

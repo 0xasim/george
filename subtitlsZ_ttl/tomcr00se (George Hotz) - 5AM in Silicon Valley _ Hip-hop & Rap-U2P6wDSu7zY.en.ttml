@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.290" end="00:00:11.580" style="s2">no slide 4:30</p>
+<p begin="00:00:04.460" end="00:00:14.219" style="s2">take the train I got the house to myself</p>
+<p begin="00:00:11.580" end="00:00:16.049" style="s2">I can finally rap alone back in Jersey</p>
+<p begin="00:00:14.219" end="00:00:18.300" style="s2">for the holidays I don&#39;t think I can</p>
+<p begin="00:00:16.049" end="00:00:20.550" style="s2">call it home started a company this year</p>
+<p begin="00:00:18.300" end="00:00:21.300" style="s2">this is straight in the valley thrown it</p>
+<p begin="00:00:20.550" end="00:00:23.550" style="s2">sucks</p>
+<p begin="00:00:21.300" end="00:00:24.869" style="s2">the only voice left at the party is</p>
+<p begin="00:00:23.550" end="00:00:27.359" style="s2">telling me that I should have known</p>
+<p begin="00:00:24.869" end="00:00:28.769" style="s2">you&#39;re 27 and never groans what these</p>
+<p begin="00:00:27.359" end="00:00:31.109" style="s2">things get to the top and you&#39;re less</p>
+<p begin="00:00:28.769" end="00:00:34.500" style="s2">alone all the pressures and stresses and</p>
+<p begin="00:00:31.109" end="00:00:36.360" style="s2">headaches you wake up feel great now you</p>
+<p begin="00:00:34.500" end="00:00:37.649" style="s2">stagnate and slip a shit when you&#39;re</p>
+<p begin="00:00:36.360" end="00:00:40.079" style="s2">over three minutes late</p>
+<p begin="00:00:37.649" end="00:00:42.809" style="s2">you still make fun of fat people in your</p>
+<p begin="00:00:40.079" end="00:00:45.510" style="s2">BMI is overweight I sort of feel like</p>
+<p begin="00:00:42.809" end="00:00:47.039" style="s2">I&#39;m out of place a year goes by you look</p>
+<p begin="00:00:45.510" end="00:00:49.050" style="s2">around you down on the shitter</p>
+<p begin="00:00:47.039" end="00:00:51.629" style="s2">so down you can&#39;t be fucked if they call</p>
+<p begin="00:00:49.050" end="00:00:53.789" style="s2">you a switch a loser a little bitch who</p>
+<p begin="00:00:51.629" end="00:00:56.399" style="s2">didn&#39;t deliver by the type of guy who</p>
+<p begin="00:00:53.789" end="00:00:58.469" style="s2">comments and gets triggered if that&#39;s</p>
+<p begin="00:00:56.399" end="00:01:00.539" style="s2">the test that I didn&#39;t prepare looking</p>
+<p begin="00:00:58.469" end="00:01:02.640" style="s2">kind of stupid standing about underwear</p>
+<p begin="00:01:00.539" end="00:01:04.860" style="s2">should I rock Chris and be never scared</p>
+<p begin="00:01:02.640" end="00:01:07.890" style="s2">or leave therefore somewhere is this</p>
+<p begin="00:01:04.860" end="00:01:10.020" style="s2">feeling just here or is it everywhere</p>
+<p begin="00:01:07.890" end="00:01:11.790" style="s2">from the yes my chair shit-talking I</p>
+<p begin="00:01:10.020" end="00:01:13.950" style="s2">lost a girl I love this year</p>
+<p begin="00:01:11.790" end="00:01:16.190" style="s2">now I date myself like I&#39;m Creek walking</p>
+<p begin="00:01:13.950" end="00:01:18.200" style="s2">I might sound like Drake</p>
+<p begin="00:01:16.190" end="00:01:19.760" style="s2">I told you in the old docks when we</p>
+<p begin="00:01:18.200" end="00:01:22.430" style="s2">lived in the closet like Harry Potter</p>
+<p begin="00:01:19.760" end="00:01:24.020" style="s2">never was much trust I just want to save</p>
+<p begin="00:01:22.430" end="00:01:25.970" style="s2">us in the future because never love</p>
+<p begin="00:01:24.020" end="00:01:35.570" style="s2">yourself and I never saw where you hold</p>
+<p begin="00:01:25.970" end="00:01:37.490" style="s2">on the train home he never doubted me we</p>
+<p begin="00:01:35.570" end="00:01:40.430" style="s2">made choices and try my best to drop out</p>
+<p begin="00:01:37.490" end="00:01:41.840" style="s2">buts getting loud on these words now is</p>
+<p begin="00:01:40.430" end="00:01:43.880" style="s2">there a place for people who actually</p>
+<p begin="00:01:41.840" end="00:01:45.770" style="s2">want to change the world don&#39;t just want</p>
+<p begin="00:01:43.880" end="00:01:47.150" style="s2">to make a buck and market it to boys and</p>
+<p begin="00:01:45.770" end="00:01:48.140" style="s2">girls and fill the earth with products</p>
+<p begin="00:01:47.150" end="00:01:50.210" style="s2">that are just out of their reach</p>
+<p begin="00:01:48.140" end="00:01:51.620" style="s2">themselves they&#39;re depressed and you can</p>
+<p begin="00:01:50.210" end="00:01:54.200" style="s2">sell them fucking lexapro</p>
+<p begin="00:01:51.620" end="00:01:56.030" style="s2">in conclusion society&#39;s the suckers and</p>
+<p begin="00:01:54.200" end="00:01:58.750" style="s2">if you still put in work you&#39;re a stupid</p>
+<p begin="00:01:56.030" end="00:01:58.750" style="s2">motherfucker</p>
+</div>
+</body>
+</tt>

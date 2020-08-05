@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.410" end="00:00:07.740" style="s2">rap game Jeremy Hammond shown in the</p>
+<p begin="00:00:05.580" end="00:00:09.780" style="s2">lead I need something to do so I&#39;m a</p>
+<p begin="00:00:07.740" end="00:00:11.969" style="s2">pack a bowl and drop some bars on you</p>
+<p begin="00:00:09.780" end="00:00:14.130" style="s2">you script kiddies ain&#39;t you can&#39;t</p>
+<p begin="00:00:11.969" end="00:00:16.470" style="s2">code can you you&#39;ll never guess that my</p>
+<p begin="00:00:14.130" end="00:00:19.140" style="s2">password is hunter - pecking with a</p>
+<p begin="00:00:16.470" end="00:00:21.990" style="s2">banana that so ripe no letters on</p>
+<p begin="00:00:19.140" end="00:00:24.720" style="s2">the keyboard so that you can&#39;t type fork</p>
+<p begin="00:00:21.990" end="00:00:26.789" style="s2">bomb who sanitize funny and code</p>
+<p begin="00:00:24.720" end="00:00:31.199" style="s2">and PHP and print out dollar side money</p>
+<p begin="00:00:26.789" end="00:00:31.949" style="s2">ah keep hacking alley Oh keep hacking</p>
+<p begin="00:00:31.199" end="00:00:36.149" style="s2">alley</p>
+<p begin="00:00:31.949" end="00:00:39.510" style="s2">Oh keep hacking elite Oh keep hacking</p>
+<p begin="00:00:36.149" end="00:00:41.579" style="s2">alley shouts out to my Truelove GrubHub</p>
+<p begin="00:00:39.510" end="00:00:43.739" style="s2">without them I&#39;d be out trying to get</p>
+<p begin="00:00:41.579" end="00:00:46.140" style="s2">fed sitting on the top all over</p>
+<p begin="00:00:43.739" end="00:00:49.230" style="s2">your bunk bed drop deuces like I&#39;m</p>
+<p begin="00:00:46.140" end="00:00:52.260" style="s2">Hollywood Undead I don&#39;t got a team I am</p>
+<p begin="00:00:49.230" end="00:00:55.250" style="s2">just one dude I don&#39;t pop Molly I rock</p>
+<p begin="00:00:52.260" end="00:00:55.250" style="s2">Tom Cruise</p>
+</div>
+</body>
+</tt>

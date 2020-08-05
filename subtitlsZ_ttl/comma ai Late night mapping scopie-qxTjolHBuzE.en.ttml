@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.209" end="00:00:13.130" style="s2">yo guys what&#39;s up dude a late night late</p>
+<p begin="00:00:08.040" end="00:00:13.130" style="s2">night mapping Scobie it&#39;s kind of cool</p>
+<p begin="00:00:13.190" end="00:00:21.050" style="s2">so the first thing that I want to talk</p>
+<p begin="00:00:16.169" end="00:00:21.050" style="s2">about gonna flip you guys the other way</p>
+<p begin="00:00:22.359" end="00:00:29.359" style="s2">so we released a driver monitor and</p>
+<p begin="00:00:25.310" end="00:00:32.419" style="s2">challenge today to come AI yeah I know I</p>
+<p begin="00:00:29.359" end="00:00:33.890" style="s2">heard this so should we cancel Ford is</p>
+<p begin="00:00:32.419" end="00:00:42.710" style="s2">it not the year of the for it anymore</p>
+<p begin="00:00:33.890" end="00:00:46.970" style="s2">the car would cancel Ford don&#39;t buy Ford</p>
+<p begin="00:00:42.710" end="00:00:48.980" style="s2">guys but yeah so the kind I travel</p>
+<p begin="00:00:46.970" end="00:00:51.260" style="s2">monitor challenge but I&#39;m not going to</p>
+<p begin="00:00:48.980" end="00:00:52.370" style="s2">tease you I did promise mapping so I&#39;m</p>
+<p begin="00:00:51.260" end="00:00:54.670" style="s2">gonna show you what I&#39;ve been working on</p>
+<p begin="00:00:52.370" end="00:00:57.769" style="s2">today it&#39;s called depth net point cloud</p>
+<p begin="00:00:54.670" end="00:01:00.440" style="s2">we have a really low quality depth net</p>
+<p begin="00:00:57.769" end="00:01:02.960" style="s2">that I trained in GTA our machine</p>
+<p begin="00:01:00.440" end="00:01:04.610" style="s2">learning team over here has been working</p>
+<p begin="00:01:02.960" end="00:01:08.509" style="s2">hard and it&#39;s hopefully gonna get me a</p>
+<p begin="00:01:04.610" end="00:01:11.600" style="s2">better death nut this is what we have I</p>
+<p begin="00:01:08.509" end="00:01:15.710" style="s2">move you over to this monitor look at</p>
+<p begin="00:01:11.600" end="00:01:20.240" style="s2">that when I talk about the precision of</p>
+<p begin="00:01:15.710" end="00:01:22.250" style="s2">our HD max so I&#39;m generating this little</p>
+<p begin="00:01:20.240" end="00:01:26.300" style="s2">mapping area right now this is from 100</p>
+<p begin="00:01:22.250" end="00:01:31.130" style="s2">frames and the craziest thing is I can</p>
+<p begin="00:01:26.300" end="00:01:35.890" style="s2">zoom out and that&#39;s a 3G that&#39;s a little</p>
+<p begin="00:01:31.130" end="00:01:43.270" style="s2">piece of 3d world that&#39;s been generated</p>
+<p begin="00:01:35.890" end="00:01:48.140" style="s2">now there&#39;s nothing special about this</p>
+<p begin="00:01:43.270" end="00:01:49.940" style="s2">route so I asked on slack for energy to</p>
+<p begin="00:01:48.140" end="00:01:51.709" style="s2">send me another route unfortunately it</p>
+<p begin="00:01:49.940" end="00:01:53.629" style="s2">does take an absurdly long time so</p>
+<p begin="00:01:51.709" end="00:01:57.069" style="s2">you&#39;ll have to bear with me on it but</p>
+<p begin="00:01:53.629" end="00:01:59.750" style="s2">yeah that is fully three-dimensional I</p>
+<p begin="00:01:57.069" end="00:02:00.950" style="s2">can see that building over there you can</p>
+<p begin="00:01:59.750" end="00:02:06.229" style="s2">see the point clouds that have been</p>
+<p begin="00:02:00.950" end="00:02:08.450" style="s2">generated here yeah and that is with a</p>
+<p begin="00:02:06.229" end="00:02:09.890" style="s2">really low quality depth cam</p>
+<p begin="00:02:08.450" end="00:02:12.800" style="s2">well we&#39;ve been working really hard on</p>
+<p begin="00:02:09.890" end="00:02:15.319" style="s2">is our master riser so we&#39;re recovering</p>
+<p begin="00:02:12.800" end="00:02:17.450" style="s2">precise locations of everything using</p>
+<p begin="00:02:15.319" end="00:02:19.459" style="s2">the gray pandas so I&#39;m going to close</p>
+<p begin="00:02:17.450" end="00:02:22.400" style="s2">this one out here and I&#39;m gonna copy and</p>
+<p begin="00:02:19.459" end="00:02:23.540" style="s2">paste energies around now I think it&#39;s a</p>
+<p begin="00:02:22.400" end="00:02:25.610" style="s2">night time route which we&#39;ve never</p>
+<p begin="00:02:23.540" end="00:02:27.950" style="s2">actually tested before it so I have no</p>
+<p begin="00:02:25.610" end="00:02:29.930" style="s2">idea if this is gonna work and it takes</p>
+<p begin="00:02:27.950" end="00:02:30.790" style="s2">about ten minutes so we&#39;ll try to find</p>
+<p begin="00:02:29.930" end="00:02:38.019" style="s2">something to do</p>
+<p begin="00:02:30.790" end="00:02:39.930" style="s2">that&#39;s all do party okay here we go so</p>
+<p begin="00:02:38.019" end="00:02:42.970" style="s2">yeah</p>
+<p begin="00:02:39.930" end="00:02:47.470" style="s2">this runs part of our pipeline it has to</p>
+<p begin="00:02:42.970" end="00:02:49.540" style="s2">do all the processing and yeah I love</p>
+<p begin="00:02:47.470" end="00:02:50.860" style="s2">the super hearts by the way guys let&#39;s</p>
+<p begin="00:02:49.540" end="00:02:55.000" style="s2">talk about the monitoring challenge for</p>
+<p begin="00:02:50.860" end="00:02:56.319" style="s2">a bet so what we&#39;re trying to do is</p>
+<p begin="00:02:55.000" end="00:02:58.180" style="s2">you&#39;re trying to track people&#39;s faces</p>
+<p begin="00:02:56.319" end="00:03:00.310" style="s2">and you&#39;re trying to track their</p>
+<p begin="00:02:58.180" end="00:03:01.629" style="s2">eyeballs and see where they&#39;re looking</p>
+<p begin="00:03:00.310" end="00:03:03.310" style="s2">so you can see let&#39;s see who&#39;s</p>
+<p begin="00:03:01.629" end="00:03:06.340" style="s2">distracted in this photo so you can see</p>
+<p begin="00:03:03.310" end="00:03:09.040" style="s2">Vivian&#39;s looking off to the that way</p>
+<p begin="00:03:06.340" end="00:03:10.180" style="s2">there it&#39;s kind of hard to tell with</p>
+<p begin="00:03:09.040" end="00:03:14.319" style="s2">Eddie you know he&#39;s got the sunglasses</p>
+<p begin="00:03:10.180" end="00:03:17.170" style="s2">on I did all of the super hearts Carlos</p>
+<p begin="00:03:14.319" end="00:03:19.000" style="s2">looks like he&#39;s paying attention but so</p>
+<p begin="00:03:17.170" end="00:03:22.569" style="s2">I can so you can check that out on</p>
+<p begin="00:03:19.000" end="00:03:25.030" style="s2">github so that route over there is still</p>
+<p begin="00:03:22.569" end="00:03:27.040" style="s2">processing it takes a while yeah so in</p>
+<p begin="00:03:25.030" end="00:03:29.379" style="s2">order to track through sunglasses you&#39;re</p>
+<p begin="00:03:27.040" end="00:03:37.919" style="s2">gonna need some infrared stuff but we</p>
+<p begin="00:03:29.379" end="00:03:37.919" style="s2">can take a look at these videos here oh</p>
+<p begin="00:03:39.209" end="00:03:46.449" style="s2">yeah I should probably disable this wait</p>
+<p begin="00:03:43.750" end="00:03:57.010" style="s2">this is your route you just sit in</p>
+<p begin="00:03:46.449" end="00:03:59.519" style="s2">traffic well this is gonna do you energy</p>
+<p begin="00:03:57.010" end="00:04:05.949" style="s2">you&#39;re just sitting traffic wait minute</p>
+<p begin="00:03:59.519" end="00:04:08.169" style="s2">500 do you actually mean 500 I don&#39;t</p>
+<p begin="00:04:05.949" end="00:04:11.079" style="s2">think you mean 500 I tried minute 8 but</p>
+<p begin="00:04:08.169" end="00:04:14.560" style="s2">this is just sitting in traffic I&#39;m</p>
+<p begin="00:04:11.079" end="00:04:17.320" style="s2">sitting in traffic yeah okay you&#39;re</p>
+<p begin="00:04:14.560" end="00:04:18.789" style="s2">doing it starting to move maybe we&#39;ll</p>
+<p begin="00:04:17.320" end="00:04:22.750" style="s2">try the next minute maybe the next</p>
+<p begin="00:04:18.789" end="00:04:24.820" style="s2">minute I&#39;ll have less traffic yeah so</p>
+<p begin="00:04:22.750" end="00:04:29.620" style="s2">these are the videos from the the driver</p>
+<p begin="00:04:24.820" end="00:04:32.440" style="s2">monitoring um I can show you another one</p>
+<p begin="00:04:29.620" end="00:04:36.159" style="s2">that I have prepared it&#39;s not as good</p>
+<p begin="00:04:32.440" end="00:04:38.770" style="s2">let&#39;s see what this one&#39;s gonna do</p>
+<p begin="00:04:36.159" end="00:04:41.199" style="s2">so a lot of the quality issues here are</p>
+<p begin="00:04:38.770" end="00:04:43.059" style="s2">because I&#39;ve got the notes bad but our</p>
+<p begin="00:04:41.199" end="00:04:45.159" style="s2">mesh risers pretty good so let&#39;s see if</p>
+<p begin="00:04:43.059" end="00:05:04.749" style="s2">we can make a tiny little chunk of 3d</p>
+<p begin="00:04:45.159" end="00:05:06.219" style="s2">map out of this let&#39;s see what we can</p>
+<p begin="00:05:04.749" end="00:05:07.929" style="s2">kind of see what happened and what</p>
+<p begin="00:05:06.219" end="00:05:11.019" style="s2">messed up there and we zoom out</p>
+<p begin="00:05:07.929" end="00:05:14.199" style="s2">it&#39;s zoom out so you see that I&#39;m in a</p>
+<p begin="00:05:11.019" end="00:05:16.539" style="s2">canyon yeah it looks like the depth not</p>
+<p begin="00:05:14.199" end="00:05:18.809" style="s2">really just messed up there but it looks</p>
+<p begin="00:05:16.539" end="00:05:24.369" style="s2">much better yeah</p>
+<p begin="00:05:18.809" end="00:05:27.969" style="s2">so we&#39;re building 3d maps of the world</p>
+<p begin="00:05:24.369" end="00:05:29.969" style="s2">now if you have a go over Greg Hannah</p>
+<p begin="00:05:27.969" end="00:05:32.619" style="s2">and you&#39;re earning gold star routes I</p>
+<p begin="00:05:29.969" end="00:05:34.779" style="s2">think we&#39;re gonna make these maps</p>
+<p begin="00:05:32.619" end="00:05:36.399" style="s2">available to you we can look around in</p>
+<p begin="00:05:34.779" end="00:05:38.769" style="s2">here and see that&#39;s actually pretty good</p>
+<p begin="00:05:36.399" end="00:05:40.419" style="s2">she goes grass off to the side here you</p>
+<p begin="00:05:38.769" end="00:05:50.199" style="s2">see the trees here you see the trees</p>
+<p begin="00:05:40.419" end="00:05:51.699" style="s2">over here yeah pretty cool so yeah and</p>
+<p begin="00:05:50.199" end="00:05:55.779" style="s2">Archie was just sitting in traffic and</p>
+<p begin="00:05:51.699" end="00:05:59.079" style="s2">yes we want to sit in traffic guys but</p>
+<p begin="00:05:55.779" end="00:06:01.779" style="s2">um so no we&#39;re not displaying gold stars</p>
+<p begin="00:05:59.079" end="00:06:06.059" style="s2">yet uh hang on let me just set oh mmm</p>
+<p begin="00:06:01.779" end="00:06:06.059" style="s2">threads equals one the right it&#39;s slow</p>
+<p begin="00:06:12.820" end="00:06:16.250" style="s2">let&#39;s see okay this is better look we&#39;re</p>
+<p begin="00:06:15.080" end="00:06:17.720" style="s2">not sitting in traffic anymore that&#39;s</p>
+<p begin="00:06:16.250" end="00:06:20.810" style="s2">pretty cool oh that&#39;s gonna work well if</p>
+<p begin="00:06:17.720" end="00:06:23.180" style="s2">that actually works I don&#39;t know why</p>
+<p begin="00:06:20.810" end="00:06:24.620" style="s2">your times are so labeled wrong though</p>
+<p begin="00:06:23.180" end="00:06:27.680" style="s2">if we&#39;re doing all this matching we&#39;re</p>
+<p begin="00:06:24.620" end="00:06:28.130" style="s2">finding all these features it&#39;s pretty</p>
+<p begin="00:06:27.680" end="00:06:29.420" style="s2">cool</p>
+<p begin="00:06:28.130" end="00:06:31.510" style="s2">I said well just let that run for a</p>
+<p begin="00:06:29.420" end="00:06:33.710" style="s2">while yeah what&#39;s up about Scheffer plus</p>
+<p begin="00:06:31.510" end="00:06:38.780" style="s2">why don&#39;t we work so late cuz you want</p>
+<p begin="00:06:33.710" end="00:06:42.800" style="s2">to win then it was the stayed up late</p>
+<p begin="00:06:38.780" end="00:06:45.020" style="s2">the Toyota Research Institute they don&#39;t</p>
+<p begin="00:06:42.800" end="00:06:49.400" style="s2">wanna win I&#39;ve heard from the other guys</p>
+<p begin="00:06:45.020" end="00:06:50.750" style="s2">told me like cool what&#39;s your opinion on</p>
+<p begin="00:06:49.400" end="00:06:51.410" style="s2">bootcamps of data science look you&#39;re</p>
+<p begin="00:06:50.750" end="00:06:52.940" style="s2">not alone</p>
+<p begin="00:06:51.410" end="00:06:55.280" style="s2">here&#39;s the thing about a boot camp right</p>
+<p begin="00:06:52.940" end="00:06:56.810" style="s2">if someone told you that you could learn</p>
+<p begin="00:06:55.280" end="00:07:01.010" style="s2">Chinese in eight weeks</p>
+<p begin="00:06:56.810" end="00:07:02.660" style="s2">would you believe them oh no right yep</p>
+<p begin="00:07:01.010" end="00:07:05.390" style="s2">someone tells you you can learn data</p>
+<p begin="00:07:02.660" end="00:07:09.590" style="s2">science or Python or programming I don&#39;t</p>
+<p begin="00:07:05.390" end="00:07:11.870" style="s2">know why you believe them right I did</p>
+<p begin="00:07:09.590" end="00:07:17.660" style="s2">shave the beard it grew back</p>
+<p begin="00:07:11.870" end="00:07:20.200" style="s2">I shaved I shaved that Friday throwing</p>
+<p begin="00:07:17.660" end="00:07:20.200" style="s2">out that night</p>
+<p begin="00:07:20.270" end="00:07:25.220" style="s2">if you move your GPS antenna should you</p>
+<p begin="00:07:23.480" end="00:07:27.650" style="s2">recalibrate oh by the way so you can see</p>
+<p begin="00:07:25.220" end="00:07:29.660" style="s2">the routes processing here we&#39;re just</p>
+<p begin="00:07:27.650" end="00:07:31.910" style="s2">you know generating all the features on</p>
+<p begin="00:07:29.660" end="00:07:33.230" style="s2">here and getting the matches oh no you</p>
+<p begin="00:07:31.910" end="00:07:35.570" style="s2">don&#39;t need to recalibrate after you</p>
+<p begin="00:07:33.230" end="00:07:37.160" style="s2">remove your GPS antenna how long for the</p>
+<p begin="00:07:35.570" end="00:07:38.540" style="s2">driver attention software is open source</p>
+<p begin="00:07:37.160" end="00:07:40.130" style="s2">as soon as you write it I&#39;m very</p>
+<p begin="00:07:38.540" end="00:07:42.410" style="s2">disappointed by Ford&#39;s announcement I</p>
+<p begin="00:07:40.130" end="00:07:46.850" style="s2">knew Ford would let me down a new Ford</p>
+<p begin="00:07:42.410" end="00:07:49.610" style="s2">had let me down gross alright so we&#39;re</p>
+<p begin="00:07:46.850" end="00:07:53.660" style="s2">gonna see energy we&#39;re gonna see if your</p>
+<p begin="00:07:49.610" end="00:07:55.400" style="s2">route works oh this is taking forever so</p>
+<p begin="00:07:53.660" end="00:07:58.910" style="s2">slow look at that guy pushing that</p>
+<p begin="00:07:55.400" end="00:08:00.689" style="s2">carriage across the road with those slow</p>
+<p begin="00:07:58.910" end="00:08:03.599" style="s2">feature back there</p>
+<p begin="00:08:00.689" end="00:08:06.809" style="s2">that&#39;s brutal oh that&#39;s brutally slow</p>
+<p begin="00:08:03.599" end="00:08:08.489" style="s2">guys what&#39;s the use of the depth map so</p>
+<p begin="00:08:06.809" end="00:08:09.899" style="s2">once we make it good no it&#39;s not</p>
+<p begin="00:08:08.489" end="00:08:15.289" style="s2">obviously we get rid of warps I mean</p>
+<p begin="00:08:09.899" end="00:08:15.289" style="s2">Harold wrote Harold slam it&#39;s better</p>
+<p begin="00:08:16.729" end="00:08:22.289" style="s2">Harold you want until the scope is about</p>
+<p begin="00:08:18.929" end="00:08:26.610" style="s2">Harold slam you want telescope is about</p>
+<p begin="00:08:22.289" end="00:08:37.740" style="s2">Harold slam no they asked if we were</p>
+<p begin="00:08:26.610" end="00:08:39.959" style="s2">using web slam and I said no yeah yo</p>
+<p begin="00:08:37.740" end="00:08:43.620" style="s2">guys it doesn&#39;t just use cameras it uses</p>
+<p begin="00:08:39.959" end="00:08:50.579" style="s2">grape handed GPS is it uses I am use we</p>
+<p begin="00:08:43.620" end="00:08:53.569" style="s2">got full sensor fusion is crazy oh yeah</p>
+<p begin="00:08:50.579" end="00:08:53.569" style="s2">this thing</p>
+<p begin="00:08:57.210" end="00:09:00.349" style="s2">[Music]</p>
+<p begin="00:09:15.890" end="00:09:19.730" style="s2">you&#39;re moving through space and all the</p>
+<p begin="00:09:18.200" end="00:09:21.950" style="s2">blue things are things your camera seen</p>
+<p begin="00:09:19.730" end="00:09:23.899" style="s2">through gold things are the GPS</p>
+<p begin="00:09:21.950" end="00:09:25.490" style="s2">satellites the red ball is where you</p>
+<p begin="00:09:23.899" end="00:09:33.260" style="s2">chased me cuz everyone&#39;s chasing the</p>
+<p begin="00:09:25.490" end="00:09:37.490" style="s2">ball yeah yeah we think you know Ford</p>
+<p begin="00:09:33.260" end="00:09:39.230" style="s2">canceled all their cars yeah so</p>
+<p begin="00:09:37.490" end="00:09:44.240" style="s2">downstairs we&#39;re running mess 3d</p>
+<p begin="00:09:39.230" end="00:09:48.579" style="s2">everyone&#39;s very sad how slow it is I</p>
+<p begin="00:09:44.240" end="00:09:50.959" style="s2">didn&#39;t pull all right good I won&#39;t pull</p>
+<p begin="00:09:48.579" end="00:09:52.519" style="s2">comments competing with space legs no</p>
+<p begin="00:09:50.959" end="00:09:56.329" style="s2">and I&#39;m competing this face likes and</p>
+<p begin="00:09:52.519" end="00:09:58.399" style="s2">the Rockets aren&#39;t they keeping fusion</p>
+<p begin="00:09:56.329" end="00:10:00.740" style="s2">no I heard it&#39;s just f-150s</p>
+<p begin="00:09:58.399" end="00:10:02.510" style="s2">of police interceptors and the folk is</p>
+<p begin="00:10:00.740" end="00:10:04.670" style="s2">active which hasn&#39;t been introduced yet</p>
+<p begin="00:10:02.510" end="00:10:09.519" style="s2">no I really think that&#39;s why Ford did it</p>
+<p begin="00:10:04.670" end="00:10:11.930" style="s2">because they hate us ah look at that</p>
+<p begin="00:10:09.519" end="00:10:17.390" style="s2">that&#39;s taking way too long it&#39;s not even</p>
+<p begin="00:10:11.930" end="00:10:17.959" style="s2">running nice did you yeah oh no scope</p>
+<p begin="00:10:17.390" end="00:10:24.560" style="s2">ease</p>
+<p begin="00:10:17.959" end="00:10:28.339" style="s2">it&#39;s so slow it&#39;s so slow what are you</p>
+<p begin="00:10:24.560" end="00:10:35.390" style="s2">gonna do we gotta kill ten minutes not a</p>
+<p begin="00:10:28.339" end="00:10:35.779" style="s2">columnstore no speed what what car do</p>
+<p begin="00:10:35.390" end="00:10:46.730" style="s2">you have</p>
+<p begin="00:10:35.779" end="00:10:54.470" style="s2">oh you have a weird car let&#39;s go good</p>
+<p begin="00:10:46.730" end="00:10:55.490" style="s2">car yes a CRV photos like exactly Ford</p>
+<p begin="00:10:54.470" end="00:10:57.589" style="s2">got rid of the cars it&#39;s a</p>
+<p begin="00:10:55.490" end="00:10:59.180" style="s2">scorched-earth policy I love that you</p>
+<p begin="00:10:57.589" end="00:11:04.040" style="s2">know that&#39;s what I would do if I run a</p>
+<p begin="00:10:59.180" end="00:11:09.560" style="s2">company one will shiver plus EGR we</p>
+<p begin="00:11:04.040" end="00:11:12.250" style="s2">really never shipped to really chef</p>
+<p begin="00:11:09.560" end="00:11:12.250" style="s2">released</p>
+<p begin="00:11:17.790" end="00:11:22.650" style="s2">HDR which I love you guys I&#39;ll let you</p>
+<p begin="00:11:21.540" end="00:11:25.050" style="s2">in on a secret</p>
+<p begin="00:11:22.650" end="00:11:27.720" style="s2">if you run an open pilot with passive</p>
+<p begin="00:11:25.050" end="00:11:35.280" style="s2">equals one it&#39;s the same thing as ship</p>
+<p begin="00:11:27.720" end="00:11:41.160" style="s2">replies yes Tillie the session reunified</p>
+<p begin="00:11:35.280" end="00:11:45.480" style="s2">it um so energy error running mesh 3d no</p>
+<p begin="00:11:41.160" end="00:11:47.090" style="s2">speed I can try to hack Messer eg if you</p>
+<p begin="00:11:45.480" end="00:11:59.010" style="s2">give me a second</p>
+<p begin="00:11:47.090" end="00:12:05.550" style="s2">no speed oh no oh it&#39;s not even using</p>
+<p begin="00:11:59.010" end="00:12:08.730" style="s2">speed oh this is stupid okay</p>
+<p begin="00:12:05.550" end="00:12:15.840" style="s2">it doesn&#39;t even use speed don&#39;t worry</p>
+<p begin="00:12:08.730" end="00:12:24.210" style="s2">guys I hacked it now kierra speed T and</p>
+<p begin="00:12:15.840" end="00:12:25.860" style="s2">sure sorted use it for no rod okay we&#39;ll</p>
+<p begin="00:12:24.210" end="00:12:32.640" style="s2">get rid of the no rod observations they</p>
+<p begin="00:12:25.860" end="00:12:34.380" style="s2">really need them all right so we got a</p>
+<p begin="00:12:32.640" end="00:12:36.960" style="s2">download some from NASA you guys</p>
+<p begin="00:12:34.380" end="00:12:38.340" style="s2">know where the satellites are don&#39;t</p>
+<p begin="00:12:36.960" end="00:12:44.040" style="s2">worry NASA doesn&#39;t know where everything</p>
+<p begin="00:12:38.340" end="00:12:46.800" style="s2">is this doesn&#39;t run this is a tragedy</p>
+<p begin="00:12:44.040" end="00:12:49.560" style="s2">and we&#39;re gonna just quit this mapping</p>
+<p begin="00:12:46.800" end="00:12:51.270" style="s2">scope being disgrace it&#39;s downloading</p>
+<p begin="00:12:49.560" end="00:12:53.690" style="s2">some stuff whoo hourly will that&#39;s</p>
+<p begin="00:12:51.270" end="00:12:53.690" style="s2">exciting</p>
+<p begin="00:12:54.900" end="00:13:06.770" style="s2">Harold you don&#39;t use speed but if cars</p>
+<p begin="00:12:59.040" end="00:13:06.770" style="s2">don&#39;t have speed it doesn&#39;t work yeah no</p>
+<p begin="00:13:06.920" end="00:13:11.610" style="s2">yeah now it&#39;s working like I got you</p>
+<p begin="00:13:10.050" end="00:13:13.920" style="s2">blocks GPS ten that means you&#39;ve got a</p>
+<p begin="00:13:11.610" end="00:13:14.520" style="s2">great panel no we&#39;re good we&#39;re good</p>
+<p begin="00:13:13.920" end="00:13:25.589" style="s2">we&#39;re good</p>
+<p begin="00:13:14.520" end="00:13:28.020" style="s2">I fixed it no don&#39;t worry your car</p>
+<p begin="00:13:25.589" end="00:13:29.760" style="s2">doesn&#39;t have speed because it&#39;s a weird</p>
+<p begin="00:13:28.020" end="00:13:33.660" style="s2">Civic right like you have some weird</p>
+<p begin="00:13:29.760" end="00:13:38.610" style="s2">here you go CRV you&#39;re not supported in</p>
+<p begin="00:13:33.660" end="00:13:46.170" style="s2">the back end oh we should do that unify</p>
+<p begin="00:13:38.610" end="00:13:52.950" style="s2">with on pal oh oh so the full courser</p>
+<p begin="00:13:46.170" end="00:13:54.300" style="s2">panda you mean yeah okay cool I&#39;m so</p>
+<p begin="00:13:52.950" end="00:13:56.670" style="s2">energy I think when you get your stuff</p>
+<p begin="00:13:54.300" end="00:14:00.060" style="s2">up streamed it&#39;ll work because we use we</p>
+<p begin="00:13:56.670" end="00:14:01.890" style="s2">use the car library right okay cool yeah</p>
+<p begin="00:14:00.060" end="00:14:04.110" style="s2">we got us chickens gonna work</p>
+<p begin="00:14:01.890" end="00:14:06.390" style="s2">alright guys so mr. D&#39;s running down</p>
+<p begin="00:14:04.110" end="00:14:12.420" style="s2">don&#39;t worry I hacked it for now we have</p>
+<p begin="00:14:06.390" end="00:14:14.730" style="s2">five minutes left and it&#39;s running so</p>
+<p begin="00:14:12.420" end="00:14:16.080" style="s2">let&#39;s download that video so we can take</p>
+<p begin="00:14:14.730" end="00:14:24.330" style="s2">a look and I&#39;ll see what its gonna look</p>
+<p begin="00:14:16.080" end="00:14:25.650" style="s2">like so let&#39;s go in here and you&#39;ve been</p>
+<p begin="00:14:24.330" end="00:14:29.339" style="s2">uploading oh you&#39;ve been uploading d</p>
+<p begin="00:14:25.650" end="00:14:32.029" style="s2">cameras to me thank you thank you for</p>
+<p begin="00:14:29.339" end="00:14:32.029" style="s2">your d cameras</p>
+<p begin="00:14:32.629" end="00:14:44.490" style="s2">d cameras or driver cameras some most</p>
+<p begin="00:14:36.329" end="00:14:46.499" style="s2">happy when we get those anymore why do</p>
+<p begin="00:14:44.490" end="00:14:52.679" style="s2">you Road videos no okay so this is what</p>
+<p begin="00:14:46.499" end="00:14:55.139" style="s2">we&#39;ll be napping right here oh look at</p>
+<p begin="00:14:52.679" end="00:14:58.079" style="s2">them gold marches man for the depth not</p>
+<p begin="00:14:55.139" end="00:14:59.790" style="s2">understands golden arches so the depth</p>
+<p begin="00:14:58.079" end="00:15:02.610" style="s2">note wasn&#39;t trained on videos that look</p>
+<p begin="00:14:59.790" end="00:15:04.350" style="s2">anything like this we have a new depth</p>
+<p begin="00:15:02.610" end="00:15:05.819" style="s2">net coming out and I will show you guys</p>
+<p begin="00:15:04.350" end="00:15:07.319" style="s2">so I want you to remember how bad this</p>
+<p begin="00:15:05.819" end="00:15:08.759" style="s2">way so you can see I&#39;m good the next one</p>
+<p begin="00:15:07.319" end="00:15:10.980" style="s2">I so unfortunately now it&#39;s taking even</p>
+<p begin="00:15:08.759" end="00:15:13.009" style="s2">longer it&#39;s decided it wants to be slow</p>
+<p begin="00:15:10.980" end="00:15:16.920" style="s2">which is lame</p>
+<p begin="00:15:13.009" end="00:15:19.649" style="s2">this is good footage right yo the HDR is</p>
+<p begin="00:15:16.920" end="00:15:21.209" style="s2">so good no you can&#39;t get a 99 Wrangler</p>
+<p begin="00:15:19.649" end="00:15:22.589" style="s2">to dry itself and if you ask again</p>
+<p begin="00:15:21.209" end="00:15:26.730" style="s2">that&#39;s a bad question</p>
+<p begin="00:15:22.589" end="00:15:28.199" style="s2">I&#39;ll penny from the periscope I know</p>
+<p begin="00:15:26.730" end="00:15:32.100" style="s2">it&#39;s late but we still got the banhammer</p>
+<p begin="00:15:28.199" end="00:15:35.699" style="s2">don&#39;t worry how old is the depth net</p>
+<p begin="00:15:32.100" end="00:15:38.639" style="s2">from last year that was a bot all right</p>
+<p begin="00:15:35.699" end="00:15:42.569" style="s2">so I&#39;m arguing with BOTS let&#39;s see what</p>
+<p begin="00:15:38.639" end="00:15:44.129" style="s2">we&#39;re at here we go that&#39;s how much we</p>
+<p begin="00:15:42.569" end="00:15:45.769" style="s2">have left so you guys can like do the</p>
+<p begin="00:15:44.129" end="00:15:52.110" style="s2">countdown up Network to eight minutes</p>
+<p begin="00:15:45.769" end="00:15:53.519" style="s2">great high quality should you sell your</p>
+<p begin="00:15:52.110" end="00:15:57.449" style="s2">Ford yeah probably</p>
+<p begin="00:15:53.519" end="00:16:00.540" style="s2">I don&#39;t think no no maybe I&#39;ll ship</p>
+<p begin="00:15:57.449" end="00:16:03.149" style="s2">something the main reason we got a</p>
+<p begin="00:16:00.540" end="00:16:07.620" style="s2">fusion is because data speeds using it</p>
+<p begin="00:16:03.149" end="00:16:09.929" style="s2">and we were disappointed yeah she&#39;s nice</p>
+<p begin="00:16:07.620" end="00:16:12.329" style="s2">car talk about the challenge for eight</p>
+<p begin="00:16:09.929" end="00:16:13.920" style="s2">minutes okay that sounds good so let&#39;s</p>
+<p begin="00:16:12.329" end="00:16:20.449" style="s2">take a look at these videos and think</p>
+<p begin="00:16:13.920" end="00:16:24.959" style="s2">about what we wanted to do videos this</p>
+<p begin="00:16:20.449" end="00:16:27.689" style="s2">okay so here&#39;s Vivian&#39;s video so you can</p>
+<p begin="00:16:24.959" end="00:16:29.939" style="s2">see your face here you want to track the</p>
+<p begin="00:16:27.689" end="00:16:31.679" style="s2">position of her face so a face you can</p>
+<p begin="00:16:29.939" end="00:16:34.949" style="s2">think of this like I it has pitch and</p>
+<p begin="00:16:31.679" end="00:16:38.160" style="s2">yaw and then once you have the face you</p>
+<p begin="00:16:34.949" end="00:16:40.230" style="s2">can track the eye position as well so</p>
+<p begin="00:16:38.160" end="00:16:43.019" style="s2">you probably want to get these corners</p>
+<p begin="00:16:40.230" end="00:16:43.940" style="s2">and then figure out the rotation of the</p>
+<p begin="00:16:43.019" end="00:16:47.010" style="s2">eyeball</p>
+<p begin="00:16:43.940" end="00:16:47.190" style="s2">then you can project a ray out of the</p>
+<p begin="00:16:47.010" end="00:16:51.450" style="s2">eye</p>
+<p begin="00:16:47.190" end="00:16:53.640" style="s2">and you can figure out where the driver</p>
+<p begin="00:16:51.450" end="00:16:55.760" style="s2">is looking doesn&#39;t that sound like</p>
+<p begin="00:16:53.640" end="00:17:00.110" style="s2">useful data to train a self-driving car</p>
+<p begin="00:16:55.760" end="00:17:03.949" style="s2">yep I was always thinking you know um so</p>
+<p begin="00:17:00.110" end="00:17:07.079" style="s2">download our challenge go to komete I</p>
+<p begin="00:17:03.949" end="00:17:08.189" style="s2">get up and you&#39;ll see that it&#39;s linked</p>
+<p begin="00:17:07.079" end="00:17:12.540" style="s2">it&#39;s one of the hope I can&#39;t show you</p>
+<p begin="00:17:08.189" end="00:17:15.000" style="s2">that that&#39;s the private data they&#39;ve</p>
+<p begin="00:17:12.540" end="00:17:18.300" style="s2">been recorded with me on videos right</p>
+<p begin="00:17:15.000" end="00:17:21.540" style="s2">here on shopback oh I got AI it&#39;s taking</p>
+<p begin="00:17:18.300" end="00:17:23.010" style="s2">even more time that&#39;s a route with a lot</p>
+<p begin="00:17:21.540" end="00:17:25.740" style="s2">of stuff um so we&#39;re hiring a full-time</p>
+<p begin="00:17:23.010" end="00:17:29.340" style="s2">driver monitoring engineer come join us</p>
+<p begin="00:17:25.740" end="00:17:30.870" style="s2">at SF to work with these videos if you</p>
+<p begin="00:17:29.340" end="00:17:32.550" style="s2">guys didn&#39;t see our medium post about</p>
+<p begin="00:17:30.870" end="00:17:34.620" style="s2">safety and driver attention I would</p>
+<p begin="00:17:32.550" end="00:17:39.330" style="s2">definitely check that out</p>
+<p begin="00:17:34.620" end="00:17:43.110" style="s2">look this guy made an open-source</p>
+<p begin="00:17:39.330" end="00:17:44.910" style="s2">allegedly thingy but it said will be out</p>
+<p begin="00:17:43.110" end="00:17:46.679" style="s2">soon so it&#39;s not yeah I want to do a</p>
+<p begin="00:17:44.910" end="00:17:48.090" style="s2">little bit more than just glam</p>
+<p begin="00:17:46.679" end="00:17:49.770" style="s2">classification with a neural network</p>
+<p begin="00:17:48.090" end="00:17:54.750" style="s2">aren&#39;t you want to extract some vectors</p>
+<p begin="00:17:49.770" end="00:17:55.860" style="s2">about the face um usually transaction to</p>
+<p begin="00:17:54.750" end="00:17:57.480" style="s2">classify the drivers looking yeah I</p>
+<p begin="00:17:55.860" end="00:17:59.090" style="s2">don&#39;t just want to classify the drivers</p>
+<p begin="00:17:57.480" end="00:18:00.720" style="s2">looking I want to get like a</p>
+<p begin="00:17:59.090" end="00:18:02.460" style="s2">multi-dimensional vector</p>
+<p begin="00:18:00.720" end="00:18:05.640" style="s2">I want to effectively like represent</p>
+<p begin="00:18:02.460" end="00:18:07.410" style="s2">people with like cartoon heads right and</p>
+<p begin="00:18:05.640" end="00:18:09.330" style="s2">if you could overlay like a nice cartoon</p>
+<p begin="00:18:07.410" end="00:18:12.059" style="s2">head in a person with big like anime</p>
+<p begin="00:18:09.330" end="00:18:18.559" style="s2">eyes you know do I think over stays in</p>
+<p begin="00:18:12.059" end="00:18:20.550" style="s2">the driverless car industry yes yeah</p>
+<p begin="00:18:18.559" end="00:18:22.380" style="s2">yeah I don&#39;t know seems like I don&#39;t</p>
+<p begin="00:18:20.550" end="00:18:25.220" style="s2">just want to do glanced classification I</p>
+<p begin="00:18:22.380" end="00:18:25.220" style="s2">want to do more than that</p>
+<p begin="00:18:30.980" end="00:18:42.980" style="s2">yeah I like like anime eyes let&#39;s Google</p>
+<p begin="00:18:36.300" end="00:18:47.640" style="s2">anime eyes and still read yeah no no</p>
+<p begin="00:18:42.980" end="00:18:49.500" style="s2">there with big eyes yeah yeah I want</p>
+<p begin="00:18:47.640" end="00:18:51.360" style="s2">like like anime eyes like this you know</p>
+<p begin="00:18:49.500" end="00:18:55.200" style="s2">like big eyes that are really very</p>
+<p begin="00:18:51.360" end="00:19:01.170" style="s2">visible where someone&#39;s looking I could</p>
+<p begin="00:18:55.200" end="00:19:03.270" style="s2">not get a rule 34 it here um oh we&#39;re</p>
+<p begin="00:19:01.170" end="00:19:05.040" style="s2">not in the home were in the office is</p>
+<p begin="00:19:03.270" end="00:19:07.200" style="s2">glare Caucasian better just a six minute</p>
+<p begin="00:19:05.040" end="00:19:08.760" style="s2">timer absolutely lot can happen in six</p>
+<p begin="00:19:07.200" end="00:19:11.990" style="s2">minutes</p>
+<p begin="00:19:08.760" end="00:19:15.090" style="s2">what value do you see in doing more Oh</p>
+<p begin="00:19:11.990" end="00:19:17.640" style="s2">more than just glance classification</p>
+<p begin="00:19:15.090" end="00:19:20.010" style="s2">well so here&#39;s the thing right it&#39;s</p>
+<p begin="00:19:17.640" end="00:19:23.010" style="s2">optional for people to upload their uh</p>
+<p begin="00:19:20.010" end="00:19:24.180" style="s2">their video to us because you know you</p>
+<p begin="00:19:23.010" end="00:19:27.900" style="s2">don&#39;t wanna take everyone&#39;s video from</p>
+<p begin="00:19:24.180" end="00:19:29.790" style="s2">the front-facing camera wow this is</p>
+<p begin="00:19:27.900" end="00:19:39.650" style="s2">taking even more time Harold mr. et is</p>
+<p begin="00:19:29.790" end="00:19:39.650" style="s2">so spoiled 22 me too it&#39;s per second</p>
+<p begin="00:19:42.480" end="00:19:46.350" style="s2">how about waking sleepy drivers yeah</p>
+<p begin="00:19:44.549" end="00:19:49.320" style="s2">that kind of stuff - you know how open</p>
+<p begin="00:19:46.350" end="00:19:52.769" style="s2">people&#39;s eyes are that could all be</p>
+<p begin="00:19:49.320" end="00:19:54.200" style="s2">important stuff know what and what do we</p>
+<p begin="00:19:52.769" end="00:19:59.190" style="s2">do Freddie here</p>
+<p begin="00:19:54.200" end="00:20:06.210" style="s2">thank you sunglasses we could track is</p>
+<p begin="00:19:59.190" end="00:20:09.989" style="s2">the track is oh yeah guys go to our</p>
+<p begin="00:20:06.210" end="00:20:12.210" style="s2">github submit that challenge do well on</p>
+<p begin="00:20:09.989" end="00:20:22.019" style="s2">the challenge and we&#39;ll bring you out</p>
+<p begin="00:20:12.210" end="00:20:23.549" style="s2">here for a micro internship ok so I got</p>
+<p begin="00:20:22.019" end="00:20:24.749" style="s2">over you right I got ours what I&#39;m doing</p>
+<p begin="00:20:23.549" end="00:20:28.830" style="s2">tomorrow me right in the Kalman filter</p>
+<p begin="00:20:24.749" end="00:20:30.330" style="s2">and say we&#39;re not gonna like it&#39;s if you</p>
+<p begin="00:20:28.830" end="00:20:38.869" style="s2">take your eyes off the road for two</p>
+<p begin="00:20:30.330" end="00:20:38.869" style="s2">seconds it&#39;s ok 10 seconds less ok I</p>
+<p begin="00:20:40.549" end="00:20:44.340" style="s2">really just got this probably isn&#39;t even</p>
+<p begin="00:20:43.049" end="00:20:45.919" style="s2">gonna be that cool we&#39;re probably gonna</p>
+<p begin="00:20:44.340" end="00:20:50.480" style="s2">wait and it&#39;s not gonna be that cool</p>
+<p begin="00:20:45.919" end="00:20:50.480" style="s2">it&#39;s taking for ever bros</p>
+<p begin="00:20:57.330" end="00:21:02.880" style="s2">nope let&#39;s see let&#39;s see what our</p>
+<p begin="00:21:01.050" end="00:21:05.020" style="s2">notifications are on Twitter</p>
+<p begin="00:21:02.880" end="00:21:06.370" style="s2">I&#39;m checking Twitter let&#39;s copy that we</p>
+<p begin="00:21:05.020" end="00:21:11.490" style="s2">shouldn&#39;t be doing all right what else</p>
+<p begin="00:21:06.370" end="00:21:14.280" style="s2">can we show you while we wait nothing</p>
+<p begin="00:21:11.490" end="00:21:19.809" style="s2">all we can do is wait it&#39;s terrible</p>
+<p begin="00:21:14.280" end="00:21:21.910" style="s2">terrible I do why I got a bot just</p>
+<p begin="00:21:19.809" end="00:21:23.820" style="s2">repeat your message I don&#39;t know man I</p>
+<p begin="00:21:21.910" end="00:21:26.020" style="s2">don&#39;t know why there&#39;s boxing yeah I</p>
+<p begin="00:21:23.820" end="00:21:30.220" style="s2">understand what periscope can&#39;t clean</p>
+<p begin="00:21:26.020" end="00:21:31.929" style="s2">their house up is this worth waiting 12</p>
+<p begin="00:21:30.220" end="00:21:33.280" style="s2">minutes oh yeah okay you want to go</p>
+<p begin="00:21:31.929" end="00:21:34.630" style="s2">check out the GPU farm right I&#39;ll go</p>
+<p begin="00:21:33.280" end="00:21:36.120" style="s2">check out the GPU I know where we&#39;re</p>
+<p begin="00:21:34.630" end="00:21:38.020" style="s2">going</p>
+<p begin="00:21:36.120" end="00:21:40.690" style="s2">what&#39;s the next development least</p>
+<p begin="00:21:38.020" end="00:21:50.530" style="s2">tomorrow no actually have something cool</p>
+<p begin="00:21:40.690" end="00:21:55.630" style="s2">in the GPU far we&#39;ve been expanding the</p>
+<p begin="00:21:50.530" end="00:22:02.230" style="s2">printers look at them look at our 3d</p>
+<p begin="00:21:55.630" end="00:22:06.660" style="s2">printer are me when I go to my bedroom</p>
+<p begin="00:22:02.230" end="00:22:06.660" style="s2">nice but look at this printer are me</p>
+<p begin="00:22:07.660" end="00:22:16.140" style="s2">yeah so these are the GPUs over here</p>
+<p begin="00:22:12.360" end="00:22:18.610" style="s2">these are the storage machines over here</p>
+<p begin="00:22:16.140" end="00:22:21.150" style="s2">they&#39;re multiple I do the 3d printer</p>
+<p begin="00:22:18.610" end="00:22:23.230" style="s2">armies getting uh getting really huge</p>
+<p begin="00:22:21.150" end="00:22:25.560" style="s2">look you can see some great Panda</p>
+<p begin="00:22:23.230" end="00:22:25.560" style="s2">stuffing</p>
+<p begin="00:22:26.030" end="00:22:30.740" style="s2">and looking to get finished printing</p>
+<p begin="00:22:27.590" end="00:22:32.900" style="s2">Jesus crap who pays your power well we</p>
+<p begin="00:22:30.740" end="00:22:34.610" style="s2">pack let&#39;s see these ones finished</p>
+<p begin="00:22:32.900" end="00:22:36.290" style="s2">reading all of those look like quality</p>
+<p begin="00:22:34.610" end="00:22:38.690" style="s2">those look like quality gray panda</p>
+<p begin="00:22:36.290" end="00:22:42.170" style="s2">pieces right here or electricity bills</p>
+<p begin="00:22:38.690" end="00:22:54.350" style="s2">crazy high lights we&#39;re going we don&#39;t</p>
+<p begin="00:22:42.170" end="00:22:54.950" style="s2">need lights pistachio why don&#39;t you have</p>
+<p begin="00:22:54.350" end="00:23:00.440" style="s2">your light on</p>
+<p begin="00:22:54.950" end="00:23:04.930" style="s2">let&#39;s say settings light turn lights on</p>
+<p begin="00:23:00.440" end="00:23:07.670" style="s2">in sleep mode absolutely love lights</p>
+<p begin="00:23:04.930" end="00:23:12.020" style="s2">ping DJ you need some lights in sleep</p>
+<p begin="00:23:07.670" end="00:23:15.560" style="s2">mode to enable sleep mode that turn</p>
+<p begin="00:23:12.020" end="00:23:21.790" style="s2">lights on and sleep mode power is cheap</p>
+<p begin="00:23:15.560" end="00:23:25.100" style="s2">guys light turn lights on in sleep mode</p>
+<p begin="00:23:21.790" end="00:23:27.650" style="s2">yo having a lot of something is a whole</p>
+<p begin="00:23:25.100" end="00:23:30.020" style="s2">lot of fun so I&#39;m gonna have dim lights</p>
+<p begin="00:23:27.650" end="00:23:32.060" style="s2">the Valerie&#39;s like two old dim over</p>
+<p begin="00:23:30.020" end="00:23:35.950" style="s2">there oh these are some great Panda</p>
+<p begin="00:23:32.060" end="00:23:35.950" style="s2">pieces some great panda backs</p>
+<p begin="00:23:38.240" end="00:23:43.100" style="s2">oh great pandas off of like a nut left</p>
+<p begin="00:23:40.309" end="00:23:45.679" style="s2">it let&#39;s say this is trash what do some</p>
+<p begin="00:23:43.100" end="00:23:48.919" style="s2">of these are good you just that one</p>
+<p begin="00:23:45.679" end="00:23:52.279" style="s2">there is bad so we go through them the</p>
+<p begin="00:23:48.919" end="00:23:55.690" style="s2">QA everything we assemble them know</p>
+<p begin="00:23:52.279" end="00:23:55.690" style="s2">what&#39;s up this one need some whites</p>
+<p begin="00:23:56.970" end="00:24:01.320" style="s2">yeah I saw this crazy expensive power</p>
+<p begin="00:23:59.070" end="00:24:08.280" style="s2">it&#39;s like progressive taxation on the</p>
+<p begin="00:24:01.320" end="00:24:08.900" style="s2">power system furs are pretty anything</p>
+<p begin="00:24:08.280" end="00:24:12.170" style="s2">right now</p>
+<p begin="00:24:08.900" end="00:24:12.170" style="s2">Eddie&#39;s sick</p>
+<p begin="00:24:15.710" end="00:24:24.390" style="s2">all right let&#39;s see if we&#39;re finished oh</p>
+<p begin="00:24:20.180" end="00:24:26.910" style="s2">well we have a male person their home</p>
+<p begin="00:24:24.390" end="00:24:27.420" style="s2">right now check out our new fulfillment</p>
+<p begin="00:24:26.910" end="00:24:29.700" style="s2">center</p>
+<p begin="00:24:27.420" end="00:24:33.750" style="s2">this is rolling your star chips from you</p>
+<p begin="00:24:29.700" end="00:24:36.690" style="s2">see this this is the last 128 gig Eon in</p>
+<p begin="00:24:33.750" end="00:24:38.640" style="s2">existence so I don&#39;t know if someone</p>
+<p begin="00:24:36.690" end="00:24:42.600" style="s2">maybe already bought it but when that</p>
+<p begin="00:24:38.640" end="00:24:46.140" style="s2">one sells we&#39;re out of stock guys were</p>
+<p begin="00:24:42.600" end="00:24:46.920" style="s2">running low on us you&#39;re running low on</p>
+<p begin="00:24:46.140" end="00:24:53.940" style="s2">eels</p>
+<p begin="00:24:46.920" end="00:24:57.600" style="s2">we could&#39;ve bother you on to that it&#39;s</p>
+<p begin="00:24:53.940" end="00:25:01.590" style="s2">not even close to done no it&#39;s not even</p>
+<p begin="00:24:57.600" end="00:25:03.750" style="s2">close to done so let&#39;s go peace you guys</p>
+<p begin="00:25:01.590" end="00:25:05.490" style="s2">don&#39;t get to see anymore Maps mapping</p>
+<p begin="00:25:03.750" end="00:25:08.850" style="s2">scope he was a scam</p>
+<p begin="00:25:05.490" end="00:25:10.320" style="s2">tell your friends come AI as a scam no</p>
+<p begin="00:25:08.850" end="00:25:12.480" style="s2">go to shop that comedy I think sure to</p>
+<p begin="00:25:10.320" end="00:25:14.370" style="s2">buy stuff plenty of midnight black</p>
+<p begin="00:25:12.480" end="00:25:16.560" style="s2">laughs to the new hardware platform ooh</p>
+<p begin="00:25:14.370" end="00:25:18.030" style="s2">where&#39;d you hear about that all right</p>
+<p begin="00:25:16.560" end="00:25:21.450" style="s2">that&#39;s it we don&#39;t get to see anymore</p>
+<p begin="00:25:18.030" end="00:25:26.370" style="s2">maps maybe I&#39;ll post a screenshot once</p>
+<p begin="00:25:21.450" end="00:25:28.230" style="s2">we&#39;re good and slack but mesially these</p>
+<p begin="00:25:26.370" end="00:25:28.860" style="s2">too slow we got to make much to do</p>
+<p begin="00:25:28.230" end="00:25:32.450" style="s2">faster</p>
+<p begin="00:25:28.860" end="00:25:32.450" style="s2">all right ladies go peace</p>
+</div>
+</body>
+</tt>

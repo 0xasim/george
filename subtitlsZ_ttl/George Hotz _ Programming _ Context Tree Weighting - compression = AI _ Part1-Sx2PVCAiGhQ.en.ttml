@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.060" end="00:00:14.790" style="s2">that yeah like Takashi 6:9 got arrested</p>
+<p begin="00:00:09.599" end="00:00:17.190" style="s2">or something but listen guys we&#39;ve been</p>
+<p begin="00:00:14.790" end="00:00:22.470" style="s2">extra degenerate on these twitch streams</p>
+<p begin="00:00:17.190" end="00:00:24.019" style="s2">lately hang on me clear mystery I&#39;ve</p>
+<p begin="00:00:22.470" end="00:00:35.370" style="s2">actually been working pretty hard lately</p>
+<p begin="00:00:24.019" end="00:00:42.840" style="s2">been slacking off less I&#39;m in a</p>
+<p begin="00:00:35.370" end="00:00:47.070" style="s2">beautiful country this country&#39;s so good</p>
+<p begin="00:00:42.840" end="00:00:48.420" style="s2">they even have Japanese green tea and</p>
+<p begin="00:00:47.070" end="00:00:53.039" style="s2">roof down along the streams I have a</p>
+<p begin="00:00:48.420" end="00:00:55.050" style="s2">date at 7:30 but we&#39;re gonna try to be</p>
+<p begin="00:00:53.039" end="00:00:57.230" style="s2">less of a degenerate piece of like</p>
+<p begin="00:00:55.050" end="00:00:59.180" style="s2">we usually are on some of these streams</p>
+<p begin="00:00:57.230" end="00:01:08.159" style="s2">what up what up</p>
+<p begin="00:00:59.180" end="00:01:09.630" style="s2">so what context tree waiting is is you</p>
+<p begin="00:01:08.159" end="00:01:12.720" style="s2">guys can look this up so this is prized</p>
+<p begin="00:01:09.630" end="00:01:15.119" style="s2">called the hunter prize and basically</p>
+<p begin="00:01:12.720" end="00:01:18.780" style="s2">markets hunters assertion is that</p>
+<p begin="00:01:15.119" end="00:01:23.430" style="s2">compression is AI if you can build a</p>
+<p begin="00:01:18.780" end="00:01:24.659" style="s2">good compressor you can build by the way</p>
+<p begin="00:01:23.430" end="00:01:28.979" style="s2">this isn&#39;t related to the previous</p>
+<p begin="00:01:24.659" end="00:01:30.390" style="s2">project this is all new stuff maybe away</p>
+<p begin="00:01:28.979" end="00:01:31.799" style="s2">for a few more people and then and then</p>
+<p begin="00:01:30.390" end="00:01:35.150" style="s2">I&#39;ll do the eat the explanation of what</p>
+<p begin="00:01:31.799" end="00:01:41.310" style="s2">it is when we read this read this paper</p>
+<p begin="00:01:35.150" end="00:01:44.990" style="s2">using a context tree this method waits</p>
+<p begin="00:01:41.310" end="00:01:44.990" style="s2">in an efficient recursive way</p>
+<p begin="00:01:47.240" end="00:01:54.510" style="s2">um we put the FPGA thing I don&#39;t know I</p>
+<p begin="00:01:52.050" end="00:02:03.630" style="s2">wasn&#39;t feeling it as a project it would</p>
+<p begin="00:01:54.510" end="00:02:06.450" style="s2">take a long time she&#39;s a local to this</p>
+<p begin="00:02:03.630" end="00:02:07.890" style="s2">this lovely country but you know I&#39;ve</p>
+<p begin="00:02:06.450" end="00:02:09.149" style="s2">been I&#39;ve been less of a degenerate for</p>
+<p begin="00:02:07.890" end="00:02:11.660" style="s2">the last you guys known reading about</p>
+<p begin="00:02:09.149" end="00:02:15.620" style="s2">not context tree waiting in particular</p>
+<p begin="00:02:11.660" end="00:02:17.660" style="s2">but this is a fascinating paper</p>
+<p begin="00:02:15.620" end="00:02:20.340" style="s2">algorithmic theories of everything</p>
+<p begin="00:02:17.660" end="00:02:25.070" style="s2">should be Hooper solved AI guys like all</p>
+<p begin="00:02:20.340" end="00:02:29.520" style="s2">the stuff you&#39;ll need to know is here um</p>
+<p begin="00:02:25.070" end="00:02:31.290" style="s2">so you guys have you know there&#39;s a lot</p>
+<p begin="00:02:29.520" end="00:02:33.330" style="s2">of things in quantum physics that are</p>
+<p begin="00:02:31.290" end="00:02:35.370" style="s2">that are random that we you can&#39;t know</p>
+<p begin="00:02:33.330" end="00:02:38.430" style="s2">all you can do is model them</p>
+<p begin="00:02:35.370" end="00:02:42.150" style="s2">probabilistically but there&#39;s a question</p>
+<p begin="00:02:38.430" end="00:02:45.630" style="s2">of where that randomness comes from if</p>
+<p begin="00:02:42.150" end="00:02:47.700" style="s2">the universe the question is does our</p>
+<p begin="00:02:45.630" end="00:02:49.710" style="s2">universe have a short description or not</p>
+<p begin="00:02:47.700" end="00:02:52.200" style="s2">what&#39;s the column a graph complexity of</p>
+<p begin="00:02:49.710" end="00:02:54.090" style="s2">the universe for all we know there could</p>
+<p begin="00:02:52.200" end="00:02:56.190" style="s2">be a very simple PRNG</p>
+<p begin="00:02:54.090" end="00:02:57.989" style="s2">generating all of that randomness for</p>
+<p begin="00:02:56.190" end="00:03:00.120" style="s2">all we know it could literally be like a</p>
+<p begin="00:02:57.989" end="00:03:02.760" style="s2">es CTR one of these things we haven&#39;t</p>
+<p begin="00:03:00.120" end="00:03:05.850" style="s2">broken yet I&#39;m an Aes CTR you can</p>
+<p begin="00:03:02.760" end="00:03:07.580" style="s2">specify really quickly so this is the</p>
+<p begin="00:03:05.850" end="00:03:10.860" style="s2">stuff I&#39;ve been thinking about lately</p>
+<p begin="00:03:07.580" end="00:03:12.300" style="s2">being less of a degenerate was watching</p>
+<p begin="00:03:10.860" end="00:03:16.739" style="s2">some old streams like wack has</p>
+<p begin="00:03:12.300" end="00:03:20.510" style="s2">degenerate piece of drinking green</p>
+<p begin="00:03:16.739" end="00:03:22.470" style="s2">tea we&#39;re here in this beautiful country</p>
+<p begin="00:03:20.510" end="00:03:24.120" style="s2">and we&#39;ll talk quickly about how our</p>
+<p begin="00:03:22.470" end="00:03:28.830" style="s2">eyes compression I think this is gonna</p>
+<p begin="00:03:24.120" end="00:03:31.980" style="s2">be a theme of streams for now on because</p>
+<p begin="00:03:28.830" end="00:03:34.320" style="s2">this is something I&#39;m actually excited</p>
+<p begin="00:03:31.980" end="00:03:36.000" style="s2">about the FPGA stuff it feels too much</p>
+<p begin="00:03:34.320" end="00:03:38.070" style="s2">like firmware head-fuck firmware that&#39;s</p>
+<p begin="00:03:36.000" end="00:03:40.170" style="s2">one of the things that I&#39;m you know one</p>
+<p begin="00:03:38.070" end="00:03:42.390" style="s2">of the reasons I&#39;m not back in the USA</p>
+<p begin="00:03:40.170" end="00:03:45.890" style="s2">ah</p>
+<p begin="00:03:42.390" end="00:03:49.980" style="s2">so I don&#39;t know what a context tree is</p>
+<p begin="00:03:45.890" end="00:03:54.060" style="s2">but there&#39;s this other paper I was</p>
+<p begin="00:03:49.980" end="00:03:55.500" style="s2">looking at as well called contracts tree</p>
+<p begin="00:03:54.060" end="00:04:00.030" style="s2">switching</p>
+<p begin="00:03:55.500" end="00:04:03.330" style="s2">a modification of contracts tree waiting</p>
+<p begin="00:04:00.030" end="00:04:06.870" style="s2">for the prediction of binary stationary</p>
+<p begin="00:04:03.330" end="00:04:08.850" style="s2">and Markov sources so I think everyone</p>
+<p begin="00:04:06.870" end="00:04:10.200" style="s2">knows what binary means binary just</p>
+<p begin="00:04:08.850" end="00:04:12.600" style="s2">means that it&#39;s a string of zeros and</p>
+<p begin="00:04:10.200" end="00:04:14.190" style="s2">ones right and all all text all images</p>
+<p begin="00:04:12.600" end="00:04:16.890" style="s2">can be can be put as a string of zeros</p>
+<p begin="00:04:14.190" end="00:04:20.450" style="s2">once stationary means that the</p>
+<p begin="00:04:16.890" end="00:04:25.560" style="s2">distribution doesn&#39;t change over time so</p>
+<p begin="00:04:20.450" end="00:04:29.940" style="s2">for example the great prize it&#39;s</p>
+<p begin="00:04:25.560" end="00:04:31.260" style="s2">referenced here is the hunter price the</p>
+<p begin="00:04:29.940" end="00:04:34.430" style="s2">hunter price is to take the first</p>
+<p begin="00:04:31.260" end="00:04:37.410" style="s2">hundred megabytes of Wikipedia and</p>
+<p begin="00:04:34.430" end="00:04:40.980" style="s2">compress it to be as small as possible</p>
+<p begin="00:04:37.410" end="00:04:44.490" style="s2">so I worked in my youth to try to win</p>
+<p begin="00:04:40.980" end="00:04:46.169" style="s2">this but it&#39;s pretty much been this guy</p>
+<p begin="00:04:44.490" end="00:04:55.380" style="s2">over and over again he&#39;s this Russian</p>
+<p begin="00:04:46.169" end="00:04:57.720" style="s2">guy and he writes this crazy code let&#39;s</p>
+<p begin="00:04:55.380" end="00:05:00.330" style="s2">download and McCade just so we can play</p>
+<p begin="00:04:57.720" end="00:05:02.660" style="s2">with them it&#39;s a good it&#39;s a good thing</p>
+<p begin="00:05:00.330" end="00:05:02.660" style="s2">to play with</p>
+<p begin="00:05:03.860" end="00:05:07.250" style="s2">I&#39;m already</p>
+<p begin="00:05:09.930" end="00:05:14.759" style="s2">I think I also pay a bit too much</p>
+<p begin="00:05:13.350" end="00:05:20.509" style="s2">attention to the chat it&#39;s kind of hard</p>
+<p begin="00:05:14.759" end="00:05:20.509" style="s2">to see when it&#39;s on the phone I didn&#39;t</p>
+<p begin="00:05:24.169" end="00:05:28.919" style="s2">but we&#39;re being less of a degenerate on</p>
+<p begin="00:05:26.820" end="00:05:31.110" style="s2">these streams we&#39;re not gonna be a</p>
+<p begin="00:05:28.919" end="00:05:32.729" style="s2">degenerate you know you watch my auger</p>
+<p begin="00:05:31.110" end="00:05:35.090" style="s2">stream where I said working hard is not</p>
+<p begin="00:05:32.729" end="00:05:37.889" style="s2">important that&#39;s a lie</p>
+<p begin="00:05:35.090" end="00:05:41.759" style="s2">working hard for other people is not</p>
+<p begin="00:05:37.889" end="00:05:43.860" style="s2">important um you got to work on things</p>
+<p begin="00:05:41.759" end="00:05:46.009" style="s2">you care about and this is something</p>
+<p begin="00:05:43.860" end="00:05:53.789" style="s2">that I care a lot about I&#39;m gonna be</p>
+<p begin="00:05:46.009" end="00:05:55.550" style="s2">working on it here and there so we&#39;ve</p>
+<p begin="00:05:53.789" end="00:05:58.650" style="s2">selected we know what binary means</p>
+<p begin="00:05:55.550" end="00:05:59.849" style="s2">stationary means as opposed to non</p>
+<p begin="00:05:58.650" end="00:06:03.840" style="s2">stationary it means the distribution</p>
+<p begin="00:05:59.849" end="00:06:05.220" style="s2">stays the same it means any chunk of I</p>
+<p begin="00:06:03.840" end="00:06:07.889" style="s2">think the mathematical definition would</p>
+<p begin="00:06:05.220" end="00:06:10.740" style="s2">be any chunk of the distribution matches</p>
+<p begin="00:06:07.889" end="00:06:19.110" style="s2">any other chunk by any statistical test</p>
+<p begin="00:06:10.740" end="00:06:21.570" style="s2">you could do within some so Wikipedia is</p>
+<p begin="00:06:19.110" end="00:06:23.940" style="s2">a non-stationary distribution because</p>
+<p begin="00:06:21.570" end="00:06:26.370" style="s2">say you&#39;re in the article about durian</p>
+<p begin="00:06:23.940" end="00:06:28.289" style="s2">the word fruit is gonna be mentioned a</p>
+<p begin="00:06:26.370" end="00:06:30.930" style="s2">lot more because you&#39;re in the context</p>
+<p begin="00:06:28.289" end="00:06:34.229" style="s2">of Auckland area now I don&#39;t know what n</p>
+<p begin="00:06:30.930" end="00:06:37.320" style="s2">Markoff means um but what&#39;s interesting</p>
+<p begin="00:06:34.229" end="00:06:39.330" style="s2">about this context so that&#39;s context</p>
+<p begin="00:06:37.320" end="00:06:43.680" style="s2">tree waiting that&#39;s not this</p>
+<p begin="00:06:39.330" end="00:06:48.389" style="s2">modification um so here&#39;s the paper for</p>
+<p begin="00:06:43.680" end="00:06:50.880" style="s2">contracts tree waiting let&#39;s try to</p>
+<p begin="00:06:48.389" end="00:06:52.259" style="s2">understand ok find a memory resource of</p>
+<p begin="00:06:50.880" end="00:06:54.690" style="s2">property the next symbol probabilities</p>
+<p begin="00:06:52.259" end="00:06:56.310" style="s2">depending a finite number of most recent</p>
+<p begin="00:06:54.690" end="00:06:59.930" style="s2">symbols so you go this is called a</p>
+<p begin="00:06:56.310" end="00:07:02.639" style="s2">window for example if you&#39;re compressing</p>
+<p begin="00:06:59.930" end="00:07:04.349" style="s2">you can do a decent job compressing text</p>
+<p begin="00:07:02.639" end="00:07:07.080" style="s2">just by looking at like the previous two</p>
+<p begin="00:07:04.349" end="00:07:09.860" style="s2">letters I&#39;m gonna be like like a tri</p>
+<p begin="00:07:07.080" end="00:07:09.860" style="s2">barium kind of thing</p>
+<p begin="00:07:10.220" end="00:07:14.730" style="s2">binary sequential universal source</p>
+<p begin="00:07:12.690" end="00:07:17.570" style="s2">coding procedures for finding which</p>
+<p begin="00:07:14.730" end="00:07:17.570" style="s2">besides of me</p>
+<p begin="00:07:24.319" end="00:07:29.770" style="s2">okay so what this is saying is after</p>
+<p begin="00:07:27.289" end="00:07:32.779" style="s2">you&#39;ve seen like if you&#39;ve seen 20 of</p>
+<p begin="00:07:29.770" end="00:07:34.309" style="s2">the same you have kind of a probability</p>
+<p begin="00:07:32.779" end="00:07:35.889" style="s2">but the next character is zero the</p>
+<p begin="00:07:34.309" end="00:07:41.240" style="s2">probability of the next character is one</p>
+<p begin="00:07:35.889" end="00:07:42.669" style="s2">so to put that in mathematical terms the</p>
+<p begin="00:07:41.240" end="00:07:48.039" style="s2">way you usually think of this is like</p>
+<p begin="00:07:42.669" end="00:07:48.039" style="s2">what&#39;s the probability of a 1 given</p>
+<p begin="00:07:50.139" end="00:08:00.369" style="s2">probability that X sub I equals equals 1</p>
+<p begin="00:07:55.550" end="00:08:02.629" style="s2">given X is zero X sub I minus 1 right</p>
+<p begin="00:08:00.369" end="00:08:09.199" style="s2">and then of course it&#39;s you know in this</p>
+<p begin="00:08:02.629" end="00:08:11.419" style="s2">binary that&#39;s the girl so given the</p>
+<p begin="00:08:09.199" end="00:08:15.499" style="s2">previous symbols now what this end</p>
+<p begin="00:08:11.419" end="00:08:24.409" style="s2">Markov I believe means that they talk</p>
+<p begin="00:08:15.499" end="00:08:26.300" style="s2">about in the other paper is this one it</p>
+<p begin="00:08:24.409" end="00:08:27.399" style="s2">really is kind of uncomfortable to work</p>
+<p begin="00:08:26.300" end="00:08:34.370" style="s2">on this laptop</p>
+<p begin="00:08:27.399" end="00:08:36.229" style="s2">I do need better I should use that more</p>
+<p begin="00:08:34.370" end="00:08:39.610" style="s2">I guess it&#39;s not bad as long as I don&#39;t</p>
+<p begin="00:08:36.229" end="00:08:39.610" style="s2">have too many windows open</p>
+<p begin="00:08:46.660" end="00:08:49.740" style="s2">[Music]</p>
+<p begin="00:08:53.589" end="00:09:03.230" style="s2">look at our Mexican zip so so Ann McKay</p>
+<p begin="00:08:56.480" end="00:09:09.380" style="s2">is video so thing and Markov is like how</p>
+<p begin="00:09:03.230" end="00:09:11.240" style="s2">many thing is you&#39;re going back run chat</p>
+<p begin="00:09:09.380" end="00:09:13.040" style="s2">on PC yeah but then I have to login to</p>
+<p begin="00:09:11.240" end="00:09:20.089" style="s2">touch on PC and we&#39;re not really doing</p>
+<p begin="00:09:13.040" end="00:09:28.610" style="s2">that this computer doesn&#39;t have any its</p>
+<p begin="00:09:20.089" end="00:09:30.850" style="s2">chaterino know what that is but don&#39;t I</p>
+<p begin="00:09:28.610" end="00:09:33.850" style="s2">probably respond to the chat too much</p>
+<p begin="00:09:30.850" end="00:09:33.850" style="s2">okay</p>
+<p begin="00:09:44.300" end="00:09:53.190" style="s2">so we can write a very simple compressor</p>
+<p begin="00:09:48.200" end="00:09:55.680" style="s2">that just behaves like that now it</p>
+<p begin="00:09:53.190" end="00:09:59.490" style="s2">doesn&#39;t necessarily need to be binary</p>
+<p begin="00:09:55.680" end="00:10:03.870" style="s2">you can of course do this where it&#39;s all</p>
+<p begin="00:09:59.490" end="00:10:06.480" style="s2">of ASCII but one of the problems with</p>
+<p begin="00:10:03.870" end="00:10:08.550" style="s2">that is you have you have rounding</p>
+<p begin="00:10:06.480" end="00:10:10.470" style="s2">errors right like you can you can make</p>
+<p begin="00:10:08.550" end="00:10:14.279" style="s2">you can make the symbol alphabet like</p>
+<p begin="00:10:10.470" end="00:10:16.440" style="s2">255 and you can track the probability</p>
+<p begin="00:10:14.279" end="00:10:26.910" style="s2">equals like you know one of each one of</p>
+<p begin="00:10:16.440" end="00:10:29.700" style="s2">the symbols but it&#39;s not very uh oh yeah</p>
+<p begin="00:10:26.910" end="00:10:32.400" style="s2">so the problems the problem is in the</p>
+<p begin="00:10:29.700" end="00:10:34.020" style="s2">binary one is very easy to do one - and</p>
+<p begin="00:10:32.400" end="00:10:37.020" style="s2">the other one is harder to do one - the</p>
+<p begin="00:10:34.020" end="00:10:40.580" style="s2">rest of them because it&#39;s a sum that&#39;s</p>
+<p begin="00:10:37.020" end="00:10:40.580" style="s2">just a problem that comes to my head</p>
+<p begin="00:10:46.389" end="00:10:52.100" style="s2">but yeah so let&#39;s just invite in the</p>
+<p begin="00:10:50.420" end="00:10:55.839" style="s2">enjoyment of actually writing a little</p>
+<p begin="00:10:52.100" end="00:10:58.870" style="s2">bit of code let&#39;s just make an wick six</p>
+<p begin="00:10:55.839" end="00:11:01.160" style="s2">so we can do this quickly in Python</p>
+<p begin="00:10:58.870" end="00:11:23.029" style="s2">since we&#39;re doing looks like binary or</p>
+<p begin="00:11:01.160" end="00:11:26.569" style="s2">stuff we&#39;re gonna use Python 2 so this</p>
+<p begin="00:11:23.029" end="00:11:28.160" style="s2">is a fun thing so let&#39;s see how well</p>
+<p begin="00:11:26.569" end="00:11:31.309" style="s2">like a normal compression algorithm</p>
+<p begin="00:11:28.160" end="00:11:49.069" style="s2">doesn&#39;t it looks X so yeah and works X</p>
+<p begin="00:11:31.309" end="00:11:53.720" style="s2">is one megabyte so that&#39;s just just an</p>
+<p begin="00:11:49.069" end="00:11:54.860" style="s2">idea of what Jesus juice is a two and</p>
+<p begin="00:11:53.720" end="00:11:57.999" style="s2">let&#39;s see if we can write a compressor</p>
+<p begin="00:11:54.860" end="00:12:02.480" style="s2">that beats gzip so once you have</p>
+<p begin="00:11:57.999" end="00:12:03.230" style="s2">probabilities it&#39;s trivial to well you</p>
+<p begin="00:12:02.480" end="00:12:05.360" style="s2">have something that can generate</p>
+<p begin="00:12:03.230" end="00:12:07.879" style="s2">probabilities of the probability the</p>
+<p begin="00:12:05.360" end="00:12:10.670" style="s2">next symbol you can turns into a</p>
+<p begin="00:12:07.879" end="00:12:16.670" style="s2">compressor perfectly by using this thing</p>
+<p begin="00:12:10.670" end="00:12:18.769" style="s2">called arithmetic coding forget that I</p>
+<p begin="00:12:16.670" end="00:12:20.480" style="s2">do not have chrome on this computer cuz</p>
+<p begin="00:12:18.769" end="00:12:21.920" style="s2"> Google but we&#39;re not gonna dwell on</p>
+<p begin="00:12:20.480" end="00:12:22.850" style="s2">stupid like kugel anymore</p>
+<p begin="00:12:21.920" end="00:12:25.220" style="s2">because that&#39;s not what the streams</p>
+<p begin="00:12:22.850" end="00:12:27.550" style="s2">about I&#39;m in a happy place I&#39;m in a</p>
+<p begin="00:12:25.220" end="00:12:36.279" style="s2">beautiful country beautiful women</p>
+<p begin="00:12:27.550" end="00:12:39.920" style="s2">beautiful skyscrapers and malls and</p>
+<p begin="00:12:36.279" end="00:12:44.149" style="s2">green tea same should I add to Japan</p>
+<p begin="00:12:39.920" end="00:12:47.509" style="s2">right not exactly the cost more money</p>
+<p begin="00:12:44.149" end="00:12:49.279" style="s2">here surprisingly you think like all</p>
+<p begin="00:12:47.509" end="00:12:50.569" style="s2">yeah everything&#39;s so cheap but no no</p>
+<p begin="00:12:49.279" end="00:12:52.069" style="s2">that cost more money Dave in Japan</p>
+<p begin="00:12:50.569" end="00:12:54.819" style="s2">that&#39;s probably the only thing though</p>
+<p begin="00:12:52.069" end="00:12:54.819" style="s2">everything else is cheap</p>
+<p begin="00:12:59.660" end="00:13:05.280" style="s2">okay um so yeah I was gonna show you</p>
+<p begin="00:13:03.870" end="00:13:08.910" style="s2">guys quickly I threaded code into what</p>
+<p begin="00:13:05.280" end="00:13:12.900" style="s2">it is so if you&#39;re familiar with Huffman</p>
+<p begin="00:13:08.910" end="00:13:14.460" style="s2">coding - koenings not perfect Huffman</p>
+<p begin="00:13:12.900" end="00:13:17.010" style="s2">coding requires everything be aligned on</p>
+<p begin="00:13:14.460" end="00:13:18.870" style="s2">the bit arithmetic coding uses floats</p>
+<p begin="00:13:17.010" end="00:13:20.640" style="s2">yeah this is if you really want to</p>
+<p begin="00:13:18.870" end="00:13:24.210" style="s2">understand how to encode things like</p>
+<p begin="00:13:20.640" end="00:13:25.790" style="s2">that&#39;s the diagram that shows you maybe</p>
+<p begin="00:13:24.210" end="00:13:29.270" style="s2">we&#39;ll write a little arithmetic coder</p>
+<p begin="00:13:25.790" end="00:13:29.270" style="s2">we&#39;ll see how things go</p>
+<p begin="00:13:32.300" end="00:13:41.640" style="s2">can you please readjust what size and</p>
+<p begin="00:13:34.800" end="00:13:43.910" style="s2">OBS all the screen size yes I can&#39;t is</p>
+<p begin="00:13:41.640" end="00:13:43.910" style="s2">that better</p>
+<p begin="00:13:44.490" end="00:13:47.590" style="s2">[Music]</p>
+<p begin="00:13:50.870" end="00:13:56.400" style="s2">and you guys like where I am or should I</p>
+<p begin="00:13:53.250" end="00:13:56.970" style="s2">move myself somewhere else I&#39;m probably</p>
+<p begin="00:13:56.400" end="00:14:00.150" style="s2">good there</p>
+<p begin="00:13:56.970" end="00:14:01.650" style="s2">all right cool the slaps Lipscomb you&#39;ve</p>
+<p begin="00:14:00.150" end="00:14:13.370" style="s2">gotten so dirty and I haven&#39;t had a good</p>
+<p begin="00:14:01.650" end="00:14:13.370" style="s2">way to clean it so let&#39;s just write it</p>
+<p begin="00:14:13.520" end="00:14:28.820" style="s2">Jen fine you know what I should use</p>
+<p begin="00:14:24.510" end="00:14:28.820" style="s2">Python I should use bad my bad</p>
+<p begin="00:14:38.240" end="00:14:46.430" style="s2">so--but Jen is just going to 4 C of X Y</p>
+<p begin="00:14:55.460" end="00:15:09.120" style="s2">h8c once I shouldn&#39;t even need it all</p>
+<p begin="00:14:59.220" end="00:15:12.630" style="s2">right I don&#39;t know the command in Python</p>
+<p begin="00:15:09.120" end="00:15:15.080" style="s2">I want to do a take like instead of</p>
+<p begin="00:15:12.630" end="00:15:15.080" style="s2">writing this</p>
+<p begin="00:15:43.589" end="00:15:50.079" style="s2">what&#39;s important type for Astor imminent</p>
+<p begin="00:15:47.820" end="00:15:55.149" style="s2">it&#39;s not a star because I read it with</p>
+<p begin="00:15:50.079" end="00:15:58.620" style="s2">its bytes isn&#39;t it banks cuz I read it</p>
+<p begin="00:15:55.149" end="00:15:58.620" style="s2">with that that thing me Oh</p>
+<p begin="00:16:00.970" end="00:16:14.179" style="s2">my name is normal that&#39;s not right</p>
+<p begin="00:16:11.100" end="00:16:14.179" style="s2">[Music]</p>
+<p begin="00:16:20.370" end="00:16:24.759" style="s2">so that&#39;s returning false and true we</p>
+<p begin="00:16:23.199" end="00:16:33.070" style="s2">don&#39;t really want to return false and</p>
+<p begin="00:16:24.759" end="00:16:35.500" style="s2">trail so now we&#39;re getting zeros and</p>
+<p begin="00:16:33.070" end="00:16:42.220" style="s2">ones so we have a big stream of zeros</p>
+<p begin="00:16:35.500" end="00:16:46.209" style="s2">and ones these bit generators now so</p>
+<p begin="00:16:42.220" end="00:16:49.420" style="s2">let&#39;s um let&#39;s write a quick stupid</p>
+<p begin="00:16:46.209" end="00:16:52.290" style="s2">compressor just to get a baseline so</p>
+<p begin="00:16:49.420" end="00:16:52.290" style="s2">first let&#39;s</p>
+<p begin="00:17:07.519" end="00:17:27.360" style="s2">stop narration not fast at all right</p>
+<p begin="00:17:21.569" end="00:17:28.799" style="s2">let&#39;s make n with five let&#39;s even make</p>
+<p begin="00:17:27.360" end="00:17:31.909" style="s2">ever before you guys will get the idea</p>
+<p begin="00:17:28.799" end="00:17:31.909" style="s2">just 10 kilobytes</p>
+<p begin="00:17:47.300" end="00:17:59.340" style="s2">but if it&#39;s sick - so for reference we</p>
+<p begin="00:17:54.420" end="00:18:00.000" style="s2">need gzip and look for doesn&#39;t work oh</p>
+<p begin="00:17:59.340" end="00:18:05.670" style="s2">cool</p>
+<p begin="00:18:00.000" end="00:18:07.890" style="s2">you know you don&#39;t need the duct easy so</p>
+<p begin="00:18:05.670" end="00:18:12.000" style="s2">it for is just the first 10 kilobytes of</p>
+<p begin="00:18:07.890" end="00:18:36.960" style="s2">Wikipedia and when you gzip it it goes</p>
+<p begin="00:18:12.000" end="00:18:46.170" style="s2">down too fast out so if you want to</p>
+<p begin="00:18:36.960" end="00:18:48.870" style="s2">write something stupid we should be able</p>
+<p begin="00:18:46.170" end="00:18:51.059" style="s2">to use we&#39;ll use math I have to think</p>
+<p begin="00:18:48.870" end="00:18:54.690" style="s2">slower and use more math I understand</p>
+<p begin="00:18:51.059" end="00:18:56.720" style="s2">that&#39;s less entertaining but this</p>
+<p begin="00:18:54.690" end="00:18:59.340" style="s2">channel is not all about entertainment</p>
+<p begin="00:18:56.720" end="00:19:01.740" style="s2">it&#39;s about actually trying to publish</p>
+<p begin="00:18:59.340" end="00:19:03.030" style="s2">things useful things because we do</p>
+<p begin="00:19:01.740" end="00:19:08.940" style="s2">useful things on this channel</p>
+<p begin="00:19:03.030" end="00:19:16.610" style="s2">we&#39;re also or are we assholes I don&#39;t</p>
+<p begin="00:19:08.940" end="00:19:16.610" style="s2">know but yeah so</p>
+<p begin="00:19:36.009" end="00:19:44.960" style="s2">now if you want you can build a so we</p>
+<p begin="00:19:41.629" end="00:19:47.779" style="s2">can build something called lookup this</p>
+<p begin="00:19:44.960" end="00:19:57.340" style="s2">is the based idea of a lot of these sort</p>
+<p begin="00:19:47.779" end="00:20:25.639" style="s2">of compresses so we can have lookup be</p>
+<p begin="00:19:57.340" end="00:20:29.230" style="s2">you need a couple here yeah hook up some</p>
+<p begin="00:20:25.639" end="00:20:29.230" style="s2">three backs of one</p>
+<p begin="00:20:55.679" end="00:21:10.270" style="s2">okay so now for each lookup we get a</p>
+<p begin="00:21:06.390" end="00:21:15.580" style="s2">probability and this is the probability</p>
+<p begin="00:21:10.270" end="00:21:18.400" style="s2">that it&#39;s one so that&#39;s the probability</p>
+<p begin="00:21:15.580" end="00:21:25.929" style="s2">of the next bit given the previous four</p>
+<p begin="00:21:18.400" end="00:21:31.750" style="s2">bits so that&#39;s what we&#39;re talking about</p>
+<p begin="00:21:25.929" end="00:21:40.809" style="s2">here it&#39;s the probability that X of I</p>
+<p begin="00:21:31.750" end="00:22:02.020" style="s2">equals equals 1 given that well</p>
+<p begin="00:21:40.809" end="00:22:03.730" style="s2">especially not given that section so</p>
+<p begin="00:22:02.020" end="00:22:05.409" style="s2">this isn&#39;t context tree waiting yet I&#39;m</p>
+<p begin="00:22:03.730" end="00:22:07.539" style="s2">still not exactly show a context tree</p>
+<p begin="00:22:05.409" end="00:22:14.710" style="s2">waiting guess it&#39;s gonna be something</p>
+<p begin="00:22:07.539" end="00:22:16.360" style="s2">kind of like this actually I don&#39;t even</p>
+<p begin="00:22:14.710" end="00:22:18.880" style="s2">need the x 1.0 because we&#39;re using</p>
+<p begin="00:22:16.360" end="00:22:22.929" style="s2">Python 3 yeah a time 5 of 3 is quicker</p>
+<p begin="00:22:18.880" end="00:22:25.210" style="s2">than Python - okay so the closer these</p>
+<p begin="00:22:22.929" end="00:22:28.210" style="s2">if these probabilities are 50% they give</p>
+<p begin="00:22:25.210" end="00:22:33.010" style="s2">you no information um if these</p>
+<p begin="00:22:28.210" end="00:22:35.580" style="s2">probabilities are more than 50% so now</p>
+<p begin="00:22:33.010" end="00:22:35.580" style="s2">what&#39;s the</p>
+<p begin="00:22:38.230" end="00:22:47.149" style="s2">okay</p>
+<p begin="00:22:39.470" end="00:22:48.639" style="s2">so let&#39;s call this P so assuming P of</p>
+<p begin="00:22:47.149" end="00:22:52.940" style="s2">one more 50%</p>
+<p begin="00:22:48.639" end="00:23:01.100" style="s2">let&#39;s check so what&#39;s the entropy</p>
+<p begin="00:22:52.940" end="00:23:04.129" style="s2">equated it&#39;s like the Shannon equation</p>
+<p begin="00:23:01.100" end="00:23:12.919" style="s2">so let me know how many bits the output</p>
+<p begin="00:23:04.129" end="00:23:17.830" style="s2">is yeah it&#39;s this PA is the probability</p>
+<p begin="00:23:12.919" end="00:23:17.830" style="s2">of a given symbol well</p>
+<p begin="00:23:34.500" end="00:23:39.520" style="s2">average number of minimum bits needed to</p>
+<p begin="00:23:36.820" end="00:23:42.450" style="s2">represent a symbol but that&#39;s not</p>
+<p begin="00:23:39.520" end="00:23:42.450" style="s2">exactly right</p>
+<p begin="00:23:56.050" end="00:23:59.130" style="s2">[Music]</p>
+<p begin="00:24:03.510" end="00:24:07.810" style="s2">how do I do log base sir good way to do</p>
+<p begin="00:24:06.340" end="00:24:39.100" style="s2">log those two in Python</p>
+<p begin="00:24:07.810" end="00:24:41.020" style="s2">other than way using change of base 100</p>
+<p begin="00:24:39.100" end="00:24:45.490" style="s2">is this another thing that&#39;s in Python 3</p>
+<p begin="00:24:41.020" end="00:24:47.350" style="s2">oh who loves Python 3 this guy oh look</p>
+<p begin="00:24:45.490" end="00:24:58.520" style="s2">I&#39;m in such a good mood tonight I&#39;m even</p>
+<p begin="00:24:47.350" end="00:25:00.930" style="s2">talking about my love for Python 3 no no</p>
+<p begin="00:24:58.520" end="00:25:03.490" style="s2">[Music]</p>
+<p begin="00:25:00.930" end="00:25:08.250" style="s2">ya hole so stream look we&#39;re not the</p>
+<p begin="00:25:03.490" end="00:25:08.250" style="s2">into generous anymore I&#39;m in a good mood</p>
+<p begin="00:25:08.820" end="00:25:13.590" style="s2">we&#39;re in rapidly industrializing country</p>
+<p begin="00:25:11.320" end="00:25:13.590" style="s2">numbers</p>
+<p begin="00:25:47.929" end="00:25:58.440" style="s2">I&#39;m gonna put the webcam back down in</p>
+<p begin="00:25:50.820" end="00:25:59.610" style="s2">its usual corner I don&#39;t think we&#39;re</p>
+<p begin="00:25:58.440" end="00:26:01.080" style="s2">doing anything interesting there it</p>
+<p begin="00:25:59.610" end="00:26:10.039" style="s2">looks like I&#39;m back to coding over here</p>
+<p begin="00:26:01.080" end="00:26:10.039" style="s2">or something um okay so sure the entropy</p>
+<p begin="00:26:10.429" end="00:26:15.600" style="s2">P is the probability of a given symbol I</p>
+<p begin="00:26:13.230" end="00:26:23.490" style="s2">so I mean that&#39;s it&#39;s obvious that this</p>
+<p begin="00:26:15.600" end="00:26:26.090" style="s2">is true so this this if if you know</p>
+<p begin="00:26:23.490" end="00:26:26.090" style="s2">nothing</p>
+<p begin="00:26:35.040" end="00:26:43.450" style="s2">that works out all right so you know</p>
+<p begin="00:26:41.050" end="00:26:48.820" style="s2">probably the air you limp I know - the</p>
+<p begin="00:26:43.450" end="00:27:02.860" style="s2">one we know that - let&#39;s just try this</p>
+<p begin="00:26:48.820" end="00:27:32.860" style="s2">and see if this is right so that&#39;s the</p>
+<p begin="00:27:02.860" end="00:27:36.550" style="s2">entropy so that&#39;s without using any</p>
+<p begin="00:27:32.860" end="00:27:41.650" style="s2">predictor at all that&#39;s assuming that</p>
+<p begin="00:27:36.550" end="00:27:47.260" style="s2">every symbol has has equal likelihood</p>
+<p begin="00:27:41.650" end="00:27:54.870" style="s2">now that&#39;s the worst you can do if you</p>
+<p begin="00:27:47.260" end="00:27:54.870" style="s2">predict it all well math domain error</p>
+<p begin="00:28:00.060" end="00:28:03.070" style="s2">I&#39;m getting that because I&#39;m sure one of</p>
+<p begin="00:28:02.110" end="00:28:10.030" style="s2">them is zero</p>
+<p begin="00:28:03.070" end="00:28:12.010" style="s2">I guess the log at zero doesn&#39;t exist um</p>
+<p begin="00:28:10.030" end="00:28:20.800" style="s2">so this actually makes me think this is</p>
+<p begin="00:28:12.010" end="00:28:25.690" style="s2">there an equation oh there&#39;s also a</p>
+<p begin="00:28:20.800" end="00:28:27.640" style="s2">chance that well it&#39;s not even something</p>
+<p begin="00:28:25.690" end="00:28:29.320" style="s2">to take it to account again but you</p>
+<p begin="00:28:27.640" end="00:28:31.120" style="s2">can&#39;t use these directly as</p>
+<p begin="00:28:29.320" end="00:28:36.520" style="s2">probabilities the problem with using</p>
+<p begin="00:28:31.120" end="00:28:40.180" style="s2">these directly as probabilities is let&#39;s</p>
+<p begin="00:28:36.520" end="00:28:51.850" style="s2">initialize that to that okay there we go</p>
+<p begin="00:28:40.180" end="00:28:53.110" style="s2">that&#39;s better okay so okay all right</p>
+<p begin="00:28:51.850" end="00:28:54.760" style="s2">that&#39;s giving me an answer that&#39;s like</p>
+<p begin="00:28:53.110" end="00:28:57.070" style="s2">somewhat reasonable but okay the problem</p>
+<p begin="00:28:54.760" end="00:29:01.420" style="s2">zero is you start with a zero base rate</p>
+<p begin="00:28:57.070" end="00:29:03.760" style="s2">right so I get my I do my lookups and I</p>
+<p begin="00:29:01.420" end="00:29:07.840" style="s2">don&#39;t want to increment the tables</p>
+<p begin="00:29:03.760" end="00:29:10.950" style="s2">before I use them that&#39;s cheating</p>
+<p begin="00:29:07.840" end="00:29:10.950" style="s2">obviously don&#39;t cheat</p>
+<p begin="00:29:16.220" end="00:29:21.390" style="s2">okay so this is not answering the</p>
+<p begin="00:29:19.350" end="00:29:22.650" style="s2">question of how much the problem is it</p>
+<p begin="00:29:21.390" end="00:29:26.730" style="s2">doesn&#39;t take into account which the</p>
+<p begin="00:29:22.650" end="00:29:31.020" style="s2">symbol actually is which we know which</p>
+<p begin="00:29:26.730" end="00:29:34.470" style="s2">symbol X actually is if X if the</p>
+<p begin="00:29:31.020" end="00:29:38.789" style="s2">prediction is correct then it&#39;s going to</p>
+<p begin="00:29:34.470" end="00:29:40.500" style="s2">use less than 1 bits if the prediction</p>
+<p begin="00:29:38.789" end="00:29:42.740" style="s2">is wrong it&#39;s going to use more than 1</p>
+<p begin="00:29:40.500" end="00:29:42.740" style="s2">bits</p>
+<p begin="00:29:45.500" end="00:29:51.650" style="s2">[Music]</p>
+<p begin="00:29:48.169" end="00:29:51.650" style="s2">that&#39;s the</p>
+<p begin="00:29:54.460" end="00:29:57.570" style="s2">isn&#39;t right</p>
+<p begin="00:30:25.539" end="00:30:28.440" style="s2">hmm</p>
+<p begin="00:30:29.100" end="00:30:33.240" style="s2">well you know what okay no I might just</p>
+<p begin="00:30:31.470" end="00:30:40.980" style="s2">be - bass - that actually seems kind of</p>
+<p begin="00:30:33.240" end="00:30:53.039" style="s2">right if x equals equals one no I could</p>
+<p begin="00:30:40.980" end="00:30:56.100" style="s2">just say the probability of x equals I&#39;m</p>
+<p begin="00:30:53.039" end="00:30:59.190" style="s2">so I can let you just say H equals -</p>
+<p begin="00:30:56.100" end="00:31:02.789" style="s2">math log to px that&#39;s actually that&#39;s</p>
+<p begin="00:30:59.190" end="00:31:11.100" style="s2">simple right let&#39;s do a quick check -</p>
+<p begin="00:31:02.789" end="00:31:13.649" style="s2">why that&#39;s true well I mean it makes</p>
+<p begin="00:31:11.100" end="00:31:17.340" style="s2">intuitive sense right if so this is</p>
+<p begin="00:31:13.649" end="00:31:22.350" style="s2">gonna be yeah you need less bits to code</p>
+<p begin="00:31:17.340" end="00:31:25.950" style="s2">that you need more bits to code that -</p>
+<p begin="00:31:22.350" end="00:31:31.230" style="s2">w-why is that true okay this make sense</p>
+<p begin="00:31:25.950" end="00:31:35.299" style="s2">right because if you were yeah so</p>
+<p begin="00:31:31.230" end="00:31:35.299" style="s2">there&#39;s gonna be half of it her no</p>
+<p begin="00:31:39.570" end="00:31:43.019" style="s2">have a bet okay</p>
+<p begin="00:31:52.170" end="00:32:00.070" style="s2">you&#39;d one bit if you&#39;re half sure</p>
+<p begin="00:31:56.410" end="00:32:07.260" style="s2">because a bit of information see it&#39;s</p>
+<p begin="00:32:00.070" end="00:32:07.260" style="s2">hard to think in terms of but it is that</p>
+<p begin="00:32:14.030" end="00:32:20.630" style="s2">what is it log what an intuitive</p>
+<p begin="00:32:17.540" end="00:32:24.190" style="s2">understanding of why it&#39;s lock which I</p>
+<p begin="00:32:20.630" end="00:32:24.190" style="s2">said it&#39;s right why is it right</p>
+<p begin="00:32:35.460" end="00:32:40.020" style="s2">I&#39;ve ridden an encoder before I think</p>
+<p begin="00:32:51.240" end="00:32:56.160" style="s2">someone come with a good intuitive</p>
+<p begin="00:32:53.130" end="00:32:59.550" style="s2">understanding of Wyatt&#39;s log I don&#39;t</p>
+<p begin="00:32:56.160" end="00:33:13.470" style="s2">know you people could on almost pretty</p>
+<p begin="00:32:59.550" end="00:33:15.650" style="s2">quiet a lesson you know so why is it</p>
+<p begin="00:33:13.470" end="00:33:15.650" style="s2">locked</p>
+<p begin="00:33:33.639" end="00:33:38.659" style="s2">yeah okay so you have your precision</p>
+<p begin="00:33:36.549" end="00:33:42.649" style="s2">where these are admitted coders work</p>
+<p begin="00:33:38.659" end="00:33:44.269" style="s2">because they they have precision they&#39;re</p>
+<p begin="00:33:42.649" end="00:33:46.989" style="s2">like infinite floats but they have</p>
+<p begin="00:33:44.269" end="00:33:46.989" style="s2">precision limits</p>
+<p begin="00:33:58.200" end="00:34:02.060" style="s2">well this is easier to think about</p>
+<p begin="00:34:05.549" end="00:34:16.919" style="s2">the opposite of log 2 is to to though</p>
+<p begin="00:34:08.659" end="00:34:29.280" style="s2">it&#39;s like to to the point log base 2 of</p>
+<p begin="00:34:16.919" end="00:34:32.309" style="s2">point 5 oh no so no the other way around</p>
+<p begin="00:34:29.280" end="00:34:43.460" style="s2">so that&#39;s that and then 2 raised to the</p>
+<p begin="00:34:32.309" end="00:34:43.460" style="s2">minus 1.0 is 0.5 how many bits</p>
+<p begin="00:34:50.560" end="00:34:55.480" style="s2">okay so this this this explains anything</p>
+<p begin="00:34:53.320" end="00:34:58.330" style="s2">if you have a set of if you have a set</p>
+<p begin="00:34:55.480" end="00:35:00.100" style="s2">of symbols obviously you need log number</p>
+<p begin="00:34:58.330" end="00:35:02.980" style="s2">of bits log two number of bits to encode</p>
+<p begin="00:35:00.100" end="00:35:05.440" style="s2">right if you have 256 possible symbols</p>
+<p begin="00:35:02.980" end="00:35:08.200" style="s2">you&#39;re gonna need log two of 256 to</p>
+<p begin="00:35:05.440" end="00:35:09.370" style="s2">encode them now what&#39;s interesting is</p>
+<p begin="00:35:08.200" end="00:35:12.970" style="s2">when you get into these these other</p>
+<p begin="00:35:09.370" end="00:35:14.890" style="s2">things you get it&#39;s it&#39;s just weird it&#39;s</p>
+<p begin="00:35:12.970" end="00:35:18.340" style="s2">weird to think about logs of things that</p>
+<p begin="00:35:14.890" end="00:35:20.650" style="s2">are less than one um I guess that&#39;s what</p>
+<p begin="00:35:18.340" end="00:35:26.130" style="s2">the log just makes less sense to me but</p>
+<p begin="00:35:20.650" end="00:35:29.620" style="s2">if you have 20 36 possible symbols your</p>
+<p begin="00:35:26.130" end="00:35:37.000" style="s2">way to so like a naive way to get that</p>
+<p begin="00:35:29.620" end="00:35:40.330" style="s2">out of yes so 1 divided by inside the</p>
+<p begin="00:35:37.000" end="00:35:42.790" style="s2">log is the same as doing that right so</p>
+<p begin="00:35:40.330" end="00:35:46.390" style="s2">you could also look at the probability</p>
+<p begin="00:35:42.790" end="00:35:50.200" style="s2">as you know 1 divided by the probability</p>
+<p begin="00:35:46.390" end="00:35:51.970" style="s2">and then you can take the log base 2 of</p>
+<p begin="00:35:50.200" end="00:36:01.750" style="s2">that because that&#39;s effectively how many</p>
+<p begin="00:35:51.970" end="00:36:03.430" style="s2">symbols you have to encode right god I</p>
+<p begin="00:36:01.750" end="00:36:07.330" style="s2">don&#39;t even remember like basic things</p>
+<p begin="00:36:03.430" end="00:36:16.690" style="s2">about logs how you forget math guys</p>
+<p begin="00:36:07.330" end="00:36:19.660" style="s2">don&#39;t forget ok so as you see this isn&#39;t</p>
+<p begin="00:36:16.690" end="00:36:23.670" style="s2">a very good compress we&#39;ve managed to</p>
+<p begin="00:36:19.660" end="00:36:23.670" style="s2">take away 340 bytes</p>
+<p begin="00:36:24.060" end="00:36:28.440" style="s2">there&#39;s a lot of things we&#39;re doing</p>
+<p begin="00:36:25.810" end="00:36:28.440" style="s2">stupidly</p>
+<p begin="00:36:32.180" end="00:36:37.680" style="s2">on my roommates home let me say hi to my</p>
+<p begin="00:36:35.550" end="00:36:40.610" style="s2">roommate just so he doesn&#39;t think I&#39;m</p>
+<p begin="00:36:37.680" end="00:36:40.610" style="s2">weird and talking to myself</p>
+<p begin="00:36:56.440" end="00:36:59.530" style="s2">[Music]</p>
+<p begin="00:37:11.280" end="00:37:19.010" style="s2">so I think I think I</p>
+<p begin="00:37:46.160" end="00:37:49.160" style="s2">yeah</p>
+<p begin="00:38:33.590" end="00:38:36.719" style="s2">[Music]</p>
+<p begin="00:38:49.450" end="00:38:51.990" style="s2">yeah</p>
+<p begin="00:40:31.110" end="00:40:34.110" style="s2">yeah</p>
+<p begin="00:41:15.050" end="00:41:17.080" style="s2">Oh</p>
+<p begin="00:41:28.730" end="00:41:30.730" style="s2">Oh</p>
+<p begin="00:41:37.140" end="00:41:40.440" style="s2">we just</p>
+<p begin="00:44:34.740" end="00:44:36.770" style="s2">Oh</p>
+<p begin="00:44:44.400" end="00:44:51.210" style="s2">Twiggy&#39;s do you hang out for that okay</p>
+<p begin="00:44:49.220" end="00:45:06.240" style="s2">let&#39;s look this place up</p>
+<p begin="00:44:51.210" end="00:45:12.000" style="s2">let&#39;s look up these Highlands and this</p>
+<p begin="00:45:06.240" end="00:45:15.270" style="s2">part this part will be chat um I&#39;m not</p>
+<p begin="00:45:12.000" end="00:45:18.890" style="s2">there it&#39;s actually wrong I&#39;m go look</p>
+<p begin="00:45:15.270" end="00:45:18.890" style="s2">for me all over Georgetown I&#39;m up there</p>
+<p begin="00:45:20.810" end="00:45:29.990" style="s2">hi Lance</p>
+<p begin="00:45:22.800" end="00:45:32.760" style="s2">oh the Cameron highways</p>
+<p begin="00:45:29.990" end="00:45:38.150" style="s2">let&#39;s see well they have a golf club if</p>
+<p begin="00:45:32.760" end="00:45:38.150" style="s2">I only I play golf like it go</p>
+<p begin="00:45:40.160" end="00:45:46.830" style="s2">looks pretty pure Wow looks foggy all</p>
+<p begin="00:45:43.770" end="00:45:55.490" style="s2">cuz its high lands maybe the weather is</p>
+<p begin="00:45:46.830" end="00:45:59.580" style="s2">nice oh let&#39;s say I always do that all</p>
+<p begin="00:45:55.490" end="00:46:03.119" style="s2">reasonable temperature um this is a good</p>
+<p begin="00:45:59.580" end="00:46:06.320" style="s2">time for for trash-talking and chat if</p>
+<p begin="00:46:03.119" end="00:46:06.320" style="s2">anyone&#39;s paying attention</p>
+<p begin="00:46:11.450" end="00:46:16.549" style="s2">yeah now I was thinking of going to the</p>
+<p begin="00:46:13.250" end="00:46:19.990" style="s2">sidewall of a blank Aoi over here see</p>
+<p begin="00:46:16.549" end="00:46:19.990" style="s2">what the weather&#39;s like I&#39;m going tally</p>
+<p begin="00:46:25.390" end="00:46:39.640" style="s2">there&#39;s no one talking the chatter is my</p>
+<p begin="00:46:28.420" end="00:47:03.880" style="s2">thing broken this is making noise which</p>
+<p begin="00:46:39.640" end="00:47:12.790" style="s2">is terrible no when Cowie weather looks</p>
+<p begin="00:47:03.880" end="00:47:14.230" style="s2">marginally better all talking checked it</p>
+<p begin="00:47:12.790" end="00:47:16.120" style="s2">easily broken on the twitch app they</p>
+<p begin="00:47:14.230" end="00:47:16.930" style="s2">have a concede oh ok I see you guys</p>
+<p begin="00:47:16.120" end="00:47:20.440" style="s2">talking now</p>
+<p begin="00:47:16.930" end="00:47:25.680" style="s2">wow so bad no one can talk only right at</p>
+<p begin="00:47:20.440" end="00:47:28.210" style="s2">Tom Cruise I see I see you all talking -</p>
+<p begin="00:47:25.680" end="00:47:36.880" style="s2">yeah Cameron Highlands oh I guess thanks</p>
+<p begin="00:47:28.210" end="00:47:42.340" style="s2">we go one of Malaysia&#39;s most popular</p>
+<p begin="00:47:36.880" end="00:47:45.520" style="s2">tourist destinations tourists no it&#39;s</p>
+<p begin="00:47:42.340" end="00:47:47.080" style="s2">just not scalding lehigh alright so I&#39;ll</p>
+<p begin="00:47:45.520" end="00:47:48.730" style="s2">tell you guys I&#39;ll tell you guys so this</p>
+<p begin="00:47:47.080" end="00:47:50.230" style="s2">is a massive City and none you will ever</p>
+<p begin="00:47:48.730" end="00:47:56.230" style="s2">be able to find me I&#39;m in Kuala Lumpur</p>
+<p begin="00:47:50.230" end="00:47:57.970" style="s2">and it&#39;s oh it&#39;s just ninety degrees and</p>
+<p begin="00:47:56.230" end="00:47:59.410" style="s2">hot every day I wish there were</p>
+<p begin="00:47:57.970" end="00:48:03.550" style="s2">thunderstorms you don&#39;t even see any</p>
+<p begin="00:47:59.410" end="00:48:05.620" style="s2">thunder stories and hot um but I&#39;m not</p>
+<p begin="00:48:03.550" end="00:48:13.960" style="s2">complaining because everything in my</p>
+<p begin="00:48:05.620" end="00:48:17.440" style="s2">life now is wonderful but yeah I&#39;m</p>
+<p begin="00:48:13.960" end="00:48:19.630" style="s2">staying and I&#39;m staying in a Airbnb like</p>
+<p begin="00:48:17.440" end="00:48:21.130" style="s2">thing my host showed up so as I was</p>
+<p begin="00:48:19.630" end="00:48:23.380" style="s2">talking with him that&#39;s that&#39;s where I</p>
+<p begin="00:48:21.130" end="00:48:27.850" style="s2">disappeared - yeah it&#39;s very hot what&#39;s</p>
+<p begin="00:48:23.380" end="00:48:30.040" style="s2">up the major now you&#39;ll never find me</p>
+<p begin="00:48:27.850" end="00:48:32.700" style="s2">here guys this place has more</p>
+<p begin="00:48:30.040" end="00:48:32.700" style="s2">skyscrapers</p>
+<p begin="00:48:35.320" end="00:48:40.220" style="s2">let&#39;s see let&#39;s go on booking and see if</p>
+<p begin="00:48:38.450" end="00:48:41.320" style="s2">there&#39;s reasonable places to stay in</p>
+<p begin="00:48:40.220" end="00:48:44.330" style="s2">this place</p>
+<p begin="00:48:41.320" end="00:48:53.330" style="s2">homestay I don&#39;t know about homestay I</p>
+<p begin="00:48:44.330" end="00:48:55.010" style="s2">don&#39;t think I can do homestay I like</p>
+<p begin="00:48:53.330" end="00:48:57.880" style="s2">this place I stayed in this apartment</p>
+<p begin="00:48:55.010" end="00:48:57.880" style="s2">for the last couple days</p>
+<p begin="00:49:07.000" end="00:49:16.310" style="s2">I&#39;m gonna day later we&#39;ll see we&#39;ll see</p>
+<p begin="00:49:09.829" end="00:49:17.150" style="s2">it the uh no I don&#39;t know looks</p>
+<p begin="00:49:16.310" end="00:49:19.940" style="s2">expensive</p>
+<p begin="00:49:17.150" end="00:49:23.930" style="s2">Oh looks expensive good forget look at</p>
+<p begin="00:49:19.940" end="00:49:25.760" style="s2">that&#39;s expensive you guys oh no no what</p>
+<p begin="00:49:23.930" end="00:49:27.650" style="s2">do you mean that I believe that no one</p>
+<p begin="00:49:25.760" end="00:49:32.660" style="s2">talking to ignore you I&#39;m watching you</p>
+<p begin="00:49:27.650" end="00:49:34.490" style="s2">talk I only have a 13 inch screen you&#39;re</p>
+<p begin="00:49:32.660" end="00:49:41.450" style="s2">in Tokyo you&#39;re gonna come to Malaysia</p>
+<p begin="00:49:34.490" end="00:49:45.320" style="s2">and vine me okay let&#39;s play a little bit</p>
+<p begin="00:49:41.450" end="00:49:49.210" style="s2">more with our compressor before we are</p>
+<p begin="00:49:45.320" end="00:49:49.210" style="s2">done with the stream so</p>
+<p begin="00:49:49.530" end="00:49:52.659" style="s2">[Music]</p>
+<p begin="00:50:00.250" end="00:50:04.849" style="s2">and actually you know we can really do</p>
+<p begin="00:50:02.750" end="00:50:10.970" style="s2">here it doesn&#39;t really matter</p>
+<p begin="00:50:04.849" end="00:50:13.609" style="s2">oh look at how much better it is when we</p>
+<p begin="00:50:10.970" end="00:50:16.849" style="s2">set it to eight bits look at that we&#39;re</p>
+<p begin="00:50:13.609" end="00:50:18.859" style="s2">compressing it all the way down to you</p>
+<p begin="00:50:16.849" end="00:50:23.450" style="s2">know we&#39;re getting a 72% compression</p>
+<p begin="00:50:18.859" end="00:50:26.030" style="s2">ratio but the thing about the number of</p>
+<p begin="00:50:23.450" end="00:50:28.309" style="s2">bits thing is it scales so like we do</p>
+<p begin="00:50:26.030" end="00:50:29.809" style="s2">that oh that seems to still work but if</p>
+<p begin="00:50:28.309" end="00:50:31.240" style="s2">we make it really huge it just won&#39;t</p>
+<p begin="00:50:29.809" end="00:50:35.890" style="s2">work</p>
+<p begin="00:50:31.240" end="00:50:39.170" style="s2">yeah so you can see the scales kind of</p>
+<p begin="00:50:35.890" end="00:51:26.029" style="s2">like oh you know what we should be good</p>
+<p begin="00:50:39.170" end="00:51:30.109" style="s2">about you can see what it looks like and</p>
+<p begin="00:51:26.029" end="00:51:34.069" style="s2">you can see that like the min of that</p>
+<p begin="00:51:30.109" end="00:51:38.200" style="s2">function is right down here at 16 it</p>
+<p begin="00:51:34.069" end="00:51:38.200" style="s2">bounces around a little bit but</p>
+<p begin="00:51:39.210" end="00:51:42.170" style="s2">makes sense</p>
+<p begin="00:51:42.470" end="00:51:49.230" style="s2">LZ SS are Li and Hoffmann yeah yeah</p>
+<p begin="00:51:46.349" end="00:51:50.790" style="s2">those are none of those compressors are</p>
+<p begin="00:51:49.230" end="00:51:52.589" style="s2">nearly as good as the ones that that</p>
+<p begin="00:51:50.790" end="00:52:00.750" style="s2">we&#39;re building I don&#39;t know what is all</p>
+<p begin="00:51:52.589" end="00:52:04.230" style="s2">zss um okay so it&#39;s like the vac</p>
+<p begin="00:52:00.750" end="00:52:06.030" style="s2">reference kind of stuff also like the</p>
+<p begin="00:52:04.230" end="00:52:08.820" style="s2">architecture for the uses of hunter</p>
+<p begin="00:52:06.030" end="00:52:11.520" style="s2">prize compressors see mix is a great one</p>
+<p begin="00:52:08.820" end="00:52:12.630" style="s2">if you want to read a good you want to</p>
+<p begin="00:52:11.520" end="00:52:14.730" style="s2">read a good loss that&#39;s what it looks</p>
+<p begin="00:52:12.630" end="00:52:16.950" style="s2">like this is basically predict the</p>
+<p begin="00:52:14.730" end="00:52:18.540" style="s2">probability distribution of next symbol</p>
+<p begin="00:52:16.950" end="00:52:22.530" style="s2">and then encode that probability</p>
+<p begin="00:52:18.540" end="00:52:24.780" style="s2">distribution with arithmetic use a</p>
+<p begin="00:52:22.530" end="00:52:27.330" style="s2">numerate where should I use a numerator</p>
+<p begin="00:52:24.780" end="00:52:29.400" style="s2">I love a new way it&#39;s one of my favorite</p>
+<p begin="00:52:27.330" end="00:52:34.470" style="s2">we&#39;re not gonna play with desc</p>
+<p begin="00:52:29.400" end="00:52:37.380" style="s2">now we can do better than this we can</p>
+<p begin="00:52:34.470" end="00:52:54.570" style="s2">actually do a mixture model now over the</p>
+<p begin="00:52:37.380" end="00:52:59.520" style="s2">different numbers of bits to initialize</p>
+<p begin="00:52:54.570" end="00:53:00.420" style="s2">it with the probability of 0.5 where</p>
+<p begin="00:52:59.520" end="00:53:02.250" style="s2">Kuala Lumpur</p>
+<p begin="00:53:00.420" end="00:53:03.990" style="s2">we&#39;re being honest this is a happy</p>
+<p begin="00:53:02.250" end="00:53:06.540" style="s2">stream I&#39;m drinking green tea you know</p>
+<p begin="00:53:03.990" end="00:53:19.020" style="s2">when I&#39;m drinking good tea I&#39;m in a good</p>
+<p begin="00:53:06.540" end="00:53:21.750" style="s2">mood okay so we&#39;re still not beating</p>
+<p begin="00:53:19.020" end="00:53:25.700" style="s2">gzip we&#39;re still losing pretty badly to</p>
+<p begin="00:53:21.750" end="00:53:28.680" style="s2">gzip so gzip is getting it down to</p>
+<p begin="00:53:25.700" end="00:53:30.869" style="s2">thirty-seven point two eight and we&#39;re</p>
+<p begin="00:53:28.680" end="00:53:34.380" style="s2">getting it to fifty two point seven</p>
+<p begin="00:53:30.869" end="00:53:35.700" style="s2">seven nothing she&#39;s in seven so there</p>
+<p begin="00:53:34.380" end="00:53:37.230" style="s2">Jesus doing</p>
+<p begin="00:53:35.700" end="00:53:38.730" style="s2">compressing into thirty seven percent of</p>
+<p begin="00:53:37.230" end="00:53:41.520" style="s2">its size and we&#39;re compressing in 52</p>
+<p begin="00:53:38.730" end="00:53:43.349" style="s2">percent of its size so now let&#39;s see if</p>
+<p begin="00:53:41.520" end="00:53:46.290" style="s2">we can implement this context tree</p>
+<p begin="00:53:43.349" end="00:53:48.030" style="s2">waiting stuff so it&#39;s n markup so that</p>
+<p begin="00:53:46.290" end="00:53:49.859" style="s2">number of bits things the end that</p>
+<p begin="00:53:48.030" end="00:53:52.120" style="s2">they&#39;re talking about but I believe that</p>
+<p begin="00:53:49.859" end="00:53:57.070" style="s2">the way they do it it also works for</p>
+<p begin="00:53:52.120" end="00:54:06.520" style="s2">all like it&#39;s a mixture model of all of</p>
+<p begin="00:53:57.070" end="00:54:10.240" style="s2">those number of bits I had to go with 10</p>
+<p begin="00:54:06.520" end="00:54:13.870" style="s2">I got a shower I&#39;m meeting this girl at</p>
+<p begin="00:54:10.240" end="00:54:25.440" style="s2">10:30 she rescheduled she said 10</p>
+<p begin="00:54:13.870" end="00:54:25.440" style="s2">we&#39;re rescheduling for 10:30 we&#39;ll see</p>
+<p begin="00:54:32.460" end="00:54:41.590" style="s2">okay number in general depends of the</p>
+<p begin="00:54:38.350" end="00:54:43.300" style="s2">ash without using symbols binary</p>
+<p begin="00:54:41.590" end="00:54:45.220" style="s2">sequential universal source coding</p>
+<p begin="00:54:43.300" end="00:54:49.650" style="s2">procedures for finite memory resources</p>
+<p begin="00:54:45.220" end="00:54:52.600" style="s2">also often make use of a context tree</p>
+<p begin="00:54:49.650" end="00:54:54.220" style="s2">which contains for each string the</p>
+<p begin="00:54:52.600" end="00:54:55.690" style="s2">number of zeros a number of ones that</p>
+<p begin="00:54:54.220" end="00:54:58.330" style="s2">have followed this context so that&#39;s</p>
+<p begin="00:54:55.690" end="00:54:59.620" style="s2">exactly what we&#39;re doing right there</p>
+<p begin="00:54:58.330" end="00:55:00.760" style="s2">we&#39;re not actually doing the number zero</p>
+<p begin="00:54:59.620" end="00:55:02.230" style="s2">as a number or ones we&#39;re doing the</p>
+<p begin="00:55:00.760" end="00:55:05.470" style="s2">number zeros in the number of total but</p>
+<p begin="00:55:02.230" end="00:55:06.970" style="s2">that&#39;s the same thing um how well does</p>
+<p begin="00:55:05.470" end="00:55:09.910" style="s2">an autoencoder work as compressor well</p>
+<p begin="00:55:06.970" end="00:55:12.100" style="s2">we can get to that kind of stuff so part</p>
+<p begin="00:55:09.910" end="00:55:16.510" style="s2">of the problem with using on neural</p>
+<p begin="00:55:12.100" end="00:55:19.440" style="s2">models as compressors is you have to</p>
+<p begin="00:55:16.510" end="00:55:24.520" style="s2">store the weights of your trained model</p>
+<p begin="00:55:19.440" end="00:55:26.200" style="s2">with your file so you lose a lot of the</p>
+<p begin="00:55:24.520" end="00:55:29.020" style="s2">stuff there unless you want to try</p>
+<p begin="00:55:26.200" end="00:55:31.960" style="s2">online training approaches I believe C</p>
+<p begin="00:55:29.020" end="00:55:34.180" style="s2">mix now which is the state of the art</p>
+<p begin="00:55:31.960" end="00:55:36.720" style="s2">compressor it&#39;s the state of the art</p>
+<p begin="00:55:34.180" end="00:55:44.020" style="s2">compressor the problem is it&#39;s extremely</p>
+<p begin="00:55:36.720" end="00:55:53.290" style="s2">slow but yeah I think I think there&#39;s an</p>
+<p begin="00:55:44.020" end="00:55:56.370" style="s2">LSTA em in their trap probability saw</p>
+<p begin="00:55:53.290" end="00:55:56.370" style="s2">leading to darkens</p>
+<p begin="00:56:00.720" end="00:56:03.770" style="s2">okay so</p>
+<p begin="00:56:10.519" end="00:56:17.660" style="s2">the standard approach given past our</p>
+<p begin="00:56:13.799" end="00:56:17.660" style="s2">symbols one uses this context tree debt</p>
+<p begin="00:56:25.119" end="00:56:29.490" style="s2">thank you for subscribing to assault one</p>
+<p begin="00:56:45.459" end="00:56:52.999" style="s2">model waiting techniques</p>
+<p begin="00:56:48.939" end="00:56:54.679" style="s2">what&#39;s model waiting techniques an</p>
+<p begin="00:56:52.999" end="00:56:56.390" style="s2">advantage of waiting procedures is that</p>
+<p begin="00:56:54.679" end="00:56:59.119" style="s2">they perform well not only on the</p>
+<p begin="00:56:56.390" end="00:57:02.779" style="s2">average but each individual see its</p>
+<p begin="00:56:59.119" end="00:57:10.009" style="s2">model waiting twice universal coding I</p>
+<p begin="00:57:02.779" end="00:57:12.019" style="s2">don&#39;t know what this stuff is founded</p>
+<p begin="00:57:10.009" end="00:57:20.259" style="s2">memory tree sources that allows</p>
+<p begin="00:57:12.019" end="00:57:20.259" style="s2">efficient updating okay</p>
+<p begin="00:57:21.290" end="00:57:34.130" style="s2">so this data structure I believe makes</p>
+<p begin="00:57:27.440" end="00:57:35.960" style="s2">sense right also alter egos are the same</p>
+<p begin="00:57:34.130" end="00:57:37.640" style="s2">suffix set are said to have the same</p>
+<p begin="00:57:35.960" end="00:57:47.720" style="s2">model a model and suffix that are</p>
+<p begin="00:57:37.640" end="00:57:49.580" style="s2">equivalent okay so I think I kind of see</p>
+<p begin="00:57:47.720" end="00:57:55.330" style="s2">where okay so they don&#39;t want to explain</p>
+<p begin="00:57:49.580" end="00:57:55.330" style="s2">our thematic Odin waited context ready</p>
+<p begin="00:58:08.970" end="00:58:11.970" style="s2">Happy&#39;s</p>
+<p begin="00:58:18.619" end="00:58:24.119" style="s2">so another common way to think about</p>
+<p begin="00:58:20.999" end="00:58:26.129" style="s2">these things is to realize that um every</p>
+<p begin="00:58:24.119" end="00:58:28.529" style="s2">single one of these is also a generator</p>
+<p begin="00:58:26.129" end="00:58:31.439" style="s2">right you if you have a probability</p>
+<p begin="00:58:28.529" end="00:58:33.569" style="s2">distribution especially if your source</p>
+<p begin="00:58:31.439" end="00:58:35.009" style="s2">is stationary you can just sample from</p>
+<p begin="00:58:33.569" end="00:58:36.589" style="s2">that and you will get things that look</p>
+<p begin="00:58:35.009" end="00:58:38.579" style="s2">indistinguishable from the sequence</p>
+<p begin="00:58:36.589" end="00:58:40.529" style="s2">there&#39;s some guy who does that there&#39;s a</p>
+<p begin="00:58:38.579" end="00:58:52.859" style="s2">guy who uses like pack eight as a text</p>
+<p begin="00:58:40.529" end="00:58:56.309" style="s2">generator I don&#39;t know where it is but</p>
+<p begin="00:58:52.859" end="00:59:05.429" style="s2">oh yeah it was that there generated</p>
+<p begin="00:58:56.309" end="00:59:09.289" style="s2">authentic text with pack thank you for</p>
+<p begin="00:59:05.429" end="00:59:09.289" style="s2">subscribing six-months lovely</p>
+<p begin="00:59:30.430" end="00:59:39.010" style="s2">pack for sentiment analysis data model</p>
+<p begin="00:59:39.730" end="00:59:44.210" style="s2">yeah so this is an example of random tax</p>
+<p begin="00:59:42.710" end="00:59:45.310" style="s2">generated by pack after compressing</p>
+<p begin="00:59:44.210" end="00:59:48.080" style="s2">Harry Potter</p>
+<p begin="00:59:45.310" end="00:59:55.490" style="s2">chapter 37 the Goblet of Lord Voldemort</p>
+<p begin="00:59:48.080" end="01:00:00.340" style="s2">of the fire bolt mayor um the text is</p>
+<p begin="00:59:55.490" end="01:00:05.780" style="s2">lower quality that I would say a lot of</p>
+<p begin="01:00:00.340" end="01:00:08.930" style="s2">our n ends could do it&#39;s pretty good the</p>
+<p begin="01:00:05.780" end="01:00:11.420" style="s2">stone Harry said battered the you said</p>
+<p begin="01:00:08.930" end="01:00:13.190" style="s2">Ron and Harry in the doorway come</p>
+<p begin="01:00:11.420" end="01:00:15.680" style="s2">whatever Hagrid was looking from</p>
+<p begin="01:00:13.190" end="01:00:17.870" style="s2">understood page so hardly to you said</p>
+<p begin="01:00:15.680" end="01:00:20.150" style="s2">Fred no in the morning they&#39;re not</p>
+<p begin="01:00:17.870" end="01:00:22.490" style="s2">enough we&#39;ll have all to her explain the</p>
+<p begin="01:00:20.150" end="01:00:26.260" style="s2">others had religious importance at</p>
+<p begin="01:00:22.490" end="01:00:26.260" style="s2">Dumbledore he wouldn&#39;t say anything</p>
+<p begin="01:00:35.560" end="01:00:39.650" style="s2">No</p>
+<p begin="01:00:37.010" end="01:00:44.089" style="s2">mostly two girls who have similar kind</p>
+<p begin="01:00:39.650" end="01:00:48.349" style="s2">of cultural backgrounds to me the high</p>
+<p begin="01:00:44.089" end="01:00:51.859" style="s2">school I went to is 40% Asian I mean</p>
+<p begin="01:00:48.349" end="01:00:53.720" style="s2">yeah if you if you understand you got to</p>
+<p begin="01:00:51.859" end="01:00:55.190" style="s2">know the mediums bra if you know the</p>
+<p begin="01:00:53.720" end="01:00:59.510" style="s2">same beams as me if you grew up reading</p>
+<p begin="01:00:55.190" end="01:01:01.430" style="s2">like 4chan and we&#39;ll get along too</p>
+<p begin="01:00:59.510" end="01:01:03.760" style="s2">bad not too many girls did that it&#39;s</p>
+<p begin="01:01:01.430" end="01:01:03.760" style="s2">tragic</p>
+<p begin="01:01:03.819" end="01:01:20.050" style="s2">okay so this is a weighted context tree</p>
+<p begin="01:01:08.720" end="01:01:20.050" style="s2">let&#39;s are these things computed unclear</p>
+<p begin="01:01:34.850" end="01:01:42.510" style="s2">there&#39;s no girls on 4chan I know guys</p>
+<p begin="01:01:37.970" end="01:01:44.220" style="s2">I&#39;m not stupid sometimes what I find is</p>
+<p begin="01:01:42.510" end="01:01:46.620" style="s2">that the second paper so let&#39;s go back</p>
+<p begin="01:01:44.220" end="01:01:48.150" style="s2">to that other paper so I&#39;m gonna find</p>
+<p begin="01:01:46.620" end="01:01:50.070" style="s2">that the papers that improve on things</p>
+<p begin="01:01:48.150" end="01:01:52.200" style="s2">actually explain the original thing I</p>
+<p begin="01:01:50.070" end="01:01:55.790" style="s2">don&#39;t know what that is actually explain</p>
+<p begin="01:01:52.200" end="01:01:55.790" style="s2">the original thing much better Oh</p>
+<p begin="01:01:56.720" end="01:02:09.080" style="s2">background waiting suppose we have a</p>
+<p begin="01:02:06.090" end="01:02:09.080" style="s2">finite set</p>
+<p begin="01:02:12.030" end="01:02:15.760" style="s2">[Music]</p>
+<p begin="01:02:41.570" end="01:02:49.550" style="s2">oh no no you just just you have the same</p>
+<p begin="01:02:44.450" end="01:02:50.750" style="s2">cultural background which will say who</p>
+<p begin="01:02:49.550" end="01:02:55.600" style="s2">knows who knows what we&#39;re gonna find</p>
+<p begin="01:02:50.750" end="01:02:55.600" style="s2">here in Malaysia Malaysia</p>
+<p begin="01:03:19.660" end="01:03:25.690" style="s2">the calendar context you waiting upon a</p>
+<p begin="01:03:23.530" end="01:03:28.329" style="s2">secret prediction technique it is</p>
+<p begin="01:03:25.690" end="01:03:30.940" style="s2">variable order Markov modeling technique</p>
+<p begin="01:03:28.329" end="01:03:34.750" style="s2">um so yeah if you guys know what Markov</p>
+<p begin="01:03:30.940" end="01:03:37.450" style="s2">means Markov means that just like so</p>
+<p begin="01:03:34.750" end="01:03:40.780" style="s2">traditional the traditional definition</p>
+<p begin="01:03:37.450" end="01:03:44.160" style="s2">of a Markovian sequence is that the</p>
+<p begin="01:03:40.780" end="01:03:46.960" style="s2">probability at you know X at time T</p>
+<p begin="01:03:44.160" end="01:03:49.539" style="s2">depends only on the probability of X of</p>
+<p begin="01:03:46.960" end="01:03:51.690" style="s2">T minus one and like that will</p>
+<p begin="01:03:49.539" end="01:03:56.109" style="s2">completely like it does not it&#39;s</p>
+<p begin="01:03:51.690" end="01:03:59.230" style="s2">independent with respect to X of t minus</p>
+<p begin="01:03:56.109" end="01:04:02.260" style="s2">two not a math guy understand my</p>
+<p begin="01:03:59.230" end="01:04:04.270" style="s2">notation is probably a little weird and</p>
+<p begin="01:04:02.260" end="01:04:05.440" style="s2">then so that&#39;s a first-order Markov</p>
+<p begin="01:04:04.270" end="01:04:07.329" style="s2">model you could have a second-order</p>
+<p begin="01:04:05.440" end="01:04:13.780" style="s2">Markov model where you know it depends</p>
+<p begin="01:04:07.329" end="01:04:16.359" style="s2">on X T minus 1 and XT minus 2 but then</p>
+<p begin="01:04:13.780" end="01:04:24.400" style="s2">it&#39;s independent of T minus 3 you know</p>
+<p begin="01:04:16.359" end="01:04:25.960" style="s2">be a second-order Markov so it&#39;s a</p>
+<p begin="01:04:24.400" end="01:04:28.180" style="s2">variable water market modeling technique</p>
+<p begin="01:04:25.960" end="01:04:31.270" style="s2">that works by computing a double mixture</p>
+<p begin="01:04:28.180" end="01:04:34.960" style="s2">over the space of all prediction suffix</p>
+<p begin="01:04:31.270" end="01:04:40.029" style="s2">trees of bounded depth this involves</p>
+<p begin="01:04:34.960" end="01:04:42.369" style="s2">weighting over all PST structures as</p>
+<p begin="01:04:40.029" end="01:04:45.660" style="s2">well as integrating over all possible</p>
+<p begin="01:04:42.369" end="01:04:45.660" style="s2">parameter values</p>
+<p begin="01:04:55.890" end="01:04:58.890" style="s2">No</p>
+<p begin="01:05:09.990" end="01:05:12.990" style="s2">Boxey</p>
+<p begin="01:05:57.220" end="01:06:05.310" style="s2">so um what we made what we made quickly</p>
+<p begin="01:06:02.650" end="01:06:10.510" style="s2">and our little compressor was just a uh</p>
+<p begin="01:06:05.310" end="01:06:13.030" style="s2">with my red just like this is a 16th</p>
+<p begin="01:06:10.510" end="01:06:22.390" style="s2">order Markov model on bits not on bytes</p>
+<p begin="01:06:13.030" end="01:06:33.430" style="s2">so it&#39;s really only 2 bytes no no look</p>
+<p begin="01:06:22.390" end="01:06:35.170" style="s2">okay yeah yeah Peters nice that I&#39;m only</p>
+<p begin="01:06:33.430" end="01:06:38.319" style="s2">gonna answer this question once and</p>
+<p begin="01:06:35.170" end="01:06:41.290" style="s2">anybody else who asks they have to ask</p>
+<p begin="01:06:38.319" end="01:06:43.240" style="s2">that guy for the answer anyone who was</p>
+<p begin="01:06:41.290" end="01:06:51.730" style="s2">here today this is the answer of why I&#39;m</p>
+<p begin="01:06:43.240" end="01:06:54.849" style="s2">traveling around I live in the world but</p>
+<p begin="01:06:51.730" end="01:07:02.520" style="s2">I want to live in the cloud you know</p>
+<p begin="01:06:54.849" end="01:07:02.520" style="s2">like AWS boxes you can&#39;t</p>
+<p begin="01:07:02.760" end="01:07:13.660" style="s2">what is the Colo for real life look like</p>
+<p begin="01:07:07.230" end="01:07:16.329" style="s2">that&#39;s maybe what I&#39;m looking for I&#39;m</p>
+<p begin="01:07:13.660" end="01:07:20.470" style="s2">not traveling around aimlessly and I&#39;m</p>
+<p begin="01:07:16.329" end="01:07:22.210" style="s2">definitely not on a tour I go on</p>
+<p begin="01:07:20.470" end="01:07:24.369" style="s2">dates because this is something I do in</p>
+<p begin="01:07:22.210" end="01:07:25.869" style="s2">San Francisco as well you guys know I go</p>
+<p begin="01:07:24.369" end="01:07:28.540" style="s2">on dates in San Francisco I talk about</p>
+<p begin="01:07:25.869" end="01:07:30.339" style="s2">my dates on my stream um some of the</p>
+<p begin="01:07:28.540" end="01:07:31.540" style="s2">dates go well some of the days don&#39;t go</p>
+<p begin="01:07:30.339" end="01:07:35.980" style="s2">well you know but that&#39;s just the nature</p>
+<p begin="01:07:31.540" end="01:07:39.089" style="s2">of Danny um I met some digital nomads I</p>
+<p begin="01:07:35.980" end="01:07:43.420" style="s2">would not call myself a digital nomad uh</p>
+<p begin="01:07:39.089" end="01:07:48.670" style="s2">I want to move yeah the Colo for real</p>
+<p begin="01:07:43.420" end="01:07:52.150" style="s2">life instead of traveling or vacation I</p>
+<p begin="01:07:48.670" end="01:07:55.300" style="s2">prefer the word quest is that</p>
+<p begin="01:07:52.150" end="01:08:00.410" style="s2">pretentious or what I&#39;m on a quest to</p>
+<p begin="01:07:55.300" end="01:08:03.720" style="s2">find and move to the cloud</p>
+<p begin="01:08:00.410" end="01:08:09.900" style="s2">okay we all happy with that hey I got a</p>
+<p begin="01:08:03.720" end="01:08:11.190" style="s2">go I got a I got a shower but we will we</p>
+<p begin="01:08:09.900" end="01:08:14.610" style="s2">will this will be this will be our new</p>
+<p begin="01:08:11.190" end="01:08:15.630" style="s2">project for a little bit and we&#39;ll go</p>
+<p begin="01:08:14.610" end="01:08:18.180" style="s2">hard on this we&#39;re good we&#39;re gonna</p>
+<p begin="01:08:15.630" end="01:08:25.080" style="s2">implement context tree waiting and maybe</p>
+<p begin="01:08:18.180" end="01:08:27.060" style="s2">even context tree switching yes I want</p>
+<p begin="01:08:25.080" end="01:08:29.640" style="s2">to live in the cloud I am on a quest to</p>
+<p begin="01:08:27.060" end="01:08:33.920" style="s2">find and move to the cloud perfect</p>
+<p begin="01:08:29.640" end="01:08:33.920" style="s2">that&#39;s that&#39;s a good way to summarize it</p>
+<p begin="01:08:40.220" end="01:08:46.070" style="s2">and I want all the great features that</p>
+<p begin="01:08:42.840" end="01:08:51.210" style="s2">the cloud offers you know I want to have</p>
+<p begin="01:08:46.070" end="01:08:55.950" style="s2">backups I want to have multi data set of</p>
+<p begin="01:08:51.210" end="01:08:59.880" style="s2">redundancy I want to have super high</p>
+<p begin="01:08:55.950" end="01:09:02.910" style="s2">bandwidth internet connections one of</p>
+<p begin="01:08:59.880" end="01:09:05.820" style="s2">peter levels I don&#39;t know what Peter</p>
+<p begin="01:09:02.910" end="01:09:07.520" style="s2">levels are that was too much philosophy</p>
+<p begin="01:09:05.820" end="01:09:09.510" style="s2">oh sorry</p>
+<p begin="01:09:07.520" end="01:09:11.820" style="s2">yeah we&#39;re gonna we&#39;re gonna get back</p>
+<p begin="01:09:09.510" end="01:09:14.010" style="s2">we&#39;re gonna we&#39;re gonna be I want you to</p>
+<p begin="01:09:11.820" end="01:09:15.210" style="s2">remember on the stream I&#39;m from here on</p>
+<p begin="01:09:14.010" end="01:09:17.040" style="s2">out this is gonna be less of a</p>
+<p begin="01:09:15.210" end="01:09:19.020" style="s2">degenerate stream I don&#39;t really want to</p>
+<p begin="01:09:17.040" end="01:09:20.550" style="s2">do the FPGA thing anymore I was boring</p>
+<p begin="01:09:19.020" end="01:09:21.900" style="s2">me I was just dealing with like you saw</p>
+<p begin="01:09:20.550" end="01:09:23.520" style="s2">use of that stream where I spent like an</p>
+<p begin="01:09:21.900" end="01:09:26.210" style="s2">hour just dealing with like docker</p>
+<p begin="01:09:23.520" end="01:09:26.210" style="s2"></p>
+<p begin="01:09:28.160" end="01:09:34.140" style="s2">comes up nomad list today you guys ever</p>
+<p begin="01:09:30.690" end="01:09:35.940" style="s2">gonna know that list I also found this</p>
+<p begin="01:09:34.140" end="01:09:38.450" style="s2">other web said I really liked called</p>
+<p begin="01:09:35.940" end="01:09:38.450" style="s2">hood maps</p>
+<p begin="01:09:41.490" end="01:09:52.090" style="s2">no hood maps is great like you know</p>
+<p begin="01:09:49.630" end="01:09:53.830" style="s2">Creek gecko wannabes Chinese med playing</p>
+<p begin="01:09:52.090" end="01:09:56.200" style="s2">chess some of them were really good I</p>
+<p begin="01:09:53.830" end="01:09:58.120" style="s2">was looking at Severns this infinite</p>
+<p begin="01:09:56.200" end="01:09:59.140" style="s2">tourists crack my thoughts up into that</p>
+<p begin="01:09:58.120" end="01:10:05.020" style="s2">crack McDonald</p>
+<p begin="01:09:59.140" end="01:10:08.800" style="s2">um yeah nomads lost places too maybe is</p>
+<p begin="01:10:05.020" end="01:10:11.950" style="s2">Kangoo bali the cloud it&#39;s Bangkok</p>
+<p begin="01:10:08.800" end="01:10:15.010" style="s2">Thailand the cloud no but they&#39;re like</p>
+<p begin="01:10:11.950" end="01:10:16.990" style="s2">these people like oh yeah but digital</p>
+<p begin="01:10:15.010" end="01:10:20.530" style="s2">nomads oh yeah look I&#39;m buying I&#39;m</p>
+<p begin="01:10:16.990" end="01:10:22.150" style="s2">buying Chinese cosmetic products and</p>
+<p begin="01:10:20.530" end="01:10:30.880" style="s2">then I&#39;m selling them two white girls on</p>
+<p begin="01:10:22.150" end="01:10:32.260" style="s2">Etsy Oh Peter levels Oh No I don&#39;t know</p>
+<p begin="01:10:30.880" end="01:10:39.670" style="s2">oh that&#39;s the guy who made this website</p>
+<p begin="01:10:32.260" end="01:10:41.980" style="s2">oh oh yeah</p>
+<p begin="01:10:39.670" end="01:10:45.850" style="s2">but he also made hood maps no I really</p>
+<p begin="01:10:41.980" end="01:10:47.380" style="s2">wasn&#39;t joking I had no idea I didn&#39;t</p>
+<p begin="01:10:45.850" end="01:10:49.830" style="s2">even realize just the same guy this</p>
+<p begin="01:10:47.380" end="01:10:49.830" style="s2">guy&#39;s awesome</p>
+<p begin="01:10:51.450" end="01:10:55.860" style="s2">are you twitchy&#39;s teach me so much</p>
+<p begin="01:11:01.659" end="01:11:04.469" style="s2">Wow</p>
+<p begin="01:11:14.070" end="01:11:20.430" style="s2">wow this guy is he moved to the cloud he</p>
+<p begin="01:11:17.860" end="01:11:20.430" style="s2">did it</p>
+<p begin="01:11:31.420" end="01:11:40.900" style="s2">does that are you a subscriber why do</p>
+<p begin="01:11:34.480" end="01:11:43.060" style="s2">you have a crown your twitchy&#39;s no</p>
+<p begin="01:11:40.900" end="01:11:45.370" style="s2">actually scope ease and twitch ease or</p>
+<p begin="01:11:43.060" end="01:11:45.870" style="s2">copyright comma AI I can&#39;t say them</p>
+<p begin="01:11:45.370" end="01:11:48.429" style="s2">anymore</p>
+<p begin="01:11:45.870" end="01:11:55.770" style="s2">Wow I&#39;m gonna read more about this Peter</p>
+<p begin="01:11:48.429" end="01:11:55.770" style="s2">levels guy where is he</p>
+<p begin="01:12:05.280" end="01:12:11.219" style="s2">crownless twitch Prime you&#39;re okay</p>
+<p begin="01:12:08.429" end="01:12:13.949" style="s2">why can&#39;t you be chat you guys you guys</p>
+<p begin="01:12:11.219" end="01:12:18.449" style="s2">are twitchy&#39;s all right um wow you want</p>
+<p begin="01:12:13.949" end="01:12:23.999" style="s2">to be chat you also coated what maps one</p>
+<p begin="01:12:18.449" end="01:12:25.559" style="s2">stream no no I can&#39;t be this guy I don&#39;t</p>
+<p begin="01:12:23.999" end="01:12:30.239" style="s2">want to go to the cloud if this guy&#39;s</p>
+<p begin="01:12:25.559" end="01:12:35.039" style="s2">already there no yeah she seems pretty</p>
+<p begin="01:12:30.239" end="01:12:37.889" style="s2">cool um alright thank you for joining my</p>
+<p begin="01:12:35.039" end="01:12:40.559" style="s2">stream today we&#39;ll work harder next</p>
+<p begin="01:12:37.889" end="01:12:44.400" style="s2">dream because we would have date</p>
+<p begin="01:12:40.559" end="01:12:45.360" style="s2">schedules drifter date sucks maybe I&#39;ll</p>
+<p begin="01:12:44.400" end="01:12:47.909" style="s2">just come back here quickly</p>
+<p begin="01:12:45.360" end="01:13:01.460" style="s2">maybe she&#39;ll flake I think she&#39;ll fly no</p>
+<p begin="01:12:47.909" end="01:13:01.460" style="s2">I think she looks like JavaScript back</p>
+<p begin="01:13:02.090" end="01:13:05.349" style="s2">all right see you later</p>
+</div>
+</body>
+</tt>

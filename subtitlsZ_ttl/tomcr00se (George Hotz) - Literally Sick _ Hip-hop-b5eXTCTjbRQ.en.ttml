@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.250" end="00:00:04.440" style="s2">[Music]</p>
+<p begin="00:00:01.790" end="00:00:06.480" style="s2">I&#39;m a little feverish and slightly</p>
+<p begin="00:00:04.440" end="00:00:08.160" style="s2">delirious phone dropping the chopping</p>
+<p begin="00:00:06.480" end="00:00:09.870" style="s2">noise next to where the speaker sits and</p>
+<p begin="00:00:08.160" end="00:00:11.880" style="s2">I can barely speak the spit still</p>
+<p begin="00:00:09.870" end="00:00:13.830" style="s2">with that reefer kid cheap and it even</p>
+<p begin="00:00:11.880" end="00:00:15.389" style="s2">that not wanting to give a roll up</p>
+<p begin="00:00:13.830" end="00:00:17.490" style="s2">through the police station peep the cops</p>
+<p begin="00:00:15.389" end="00:00:18.060" style="s2">face when a hot alien wave tells me she</p>
+<p begin="00:00:17.490" end="00:00:19.859" style="s2">raped him dude</p>
+<p begin="00:00:18.060" end="00:00:21.420" style="s2">Seraphin textures of the bottom half a</p>
+<p begin="00:00:19.859" end="00:00:25.199" style="s2">keyboard zoomed in on the middle saying</p>
+<p begin="00:00:21.420" end="00:00:27.300" style="s2">damn dude space is huge probably I be</p>
+<p begin="00:00:25.199" end="00:00:29.429" style="s2">found dead in my apartment how do you</p>
+<p begin="00:00:27.300" end="00:00:31.320" style="s2">eat when you lack little white part and</p>
+<p begin="00:00:29.429" end="00:00:33.030" style="s2">round up a cavewoman stomper out with</p>
+<p begin="00:00:31.320" end="00:00:35.010" style="s2">Doc Martin screaming bitch make me</p>
+<p begin="00:00:33.030" end="00:00:36.899" style="s2">dinner like a little white Cartman and</p>
+<p begin="00:00:35.010" end="00:00:39.570" style="s2">she&#39;s too low to get a face put on milk</p>
+<p begin="00:00:36.899" end="00:00:42.329" style="s2">carton baby buy the milk man no</p>
+<p begin="00:00:39.570" end="00:00:43.950" style="s2">abortion please can I keep it hold quit</p>
+<p begin="00:00:42.329" end="00:00:48.110" style="s2">your talking on the carriage she rocks</p>
+<p begin="00:00:43.950" end="00:00:48.110" style="s2">is off a cliff Clara Barton</p>
+</div>
+</body>
+</tt>

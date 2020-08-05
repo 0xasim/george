@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:21.234" end="00:00:26.234" style="s2">conjurxded2: hi</p>
+<p begin="00:00:24.894" end="00:00:29.894" style="s2">880user088: hi</p>
+<p begin="00:00:25.260" end="00:00:30.260" style="s2">tanoshiizo: KonCha</p>
+<p begin="00:00:26.250" end="00:00:31.250" style="s2">Nebulala: hey</p>
+<p begin="00:00:27.767" end="00:00:32.767" style="s2">n0mad27: hi</p>
+<p begin="00:00:27.775" end="00:00:32.775" style="s2">Elgreko17: 0</p>
+<p begin="00:00:28.953" end="00:00:33.953" style="s2">GreenDolphinSPAM: shhhhh nobody is here...</p>
+<p begin="00:00:30.170" end="00:00:35.170" style="s2">Ziv0: HeyGuys</p>
+<p begin="00:00:33.022" end="00:00:38.022" style="s2">Bombapil0t: long time no see!</p>
+<p begin="00:00:33.039" end="00:00:38.039" style="s2">ImAventus: Ayoo I just watch an ad</p>
+<p begin="00:00:36.914" end="00:00:41.914" style="s2">nightknight0000: YOYOYO</p>
+<p begin="00:00:42.950" end="00:00:47.950" style="s2">Norziack: Yoooo!</p>
+<p begin="00:00:44.211" end="00:00:49.211" style="s2">480i: hi</p>
+<p begin="00:00:44.599" end="00:00:49.599" style="s2">twitchistrash788: Yo</p>
+<p begin="00:00:48.684" end="00:00:53.684" style="s2">iguxsn: Hi</p>
+<p begin="00:00:49.011" end="00:00:54.011" style="s2">Norziack: You&#39;re an inspiration</p>
+<p begin="00:00:49.909" end="00:00:54.909" style="s2">alluxua: Hi, hi</p>
+<p begin="00:00:50.245" end="00:00:55.245" style="s2">k0ntez: are we doing flappy bird</p>
+<p begin="00:00:50.810" end="00:00:55.810" style="s2">coProof: Hello geohot</p>
+<p begin="00:00:56.687" end="00:01:01.687" style="s2">brtk_9: Hi</p>
+<p begin="00:00:57.180" end="00:01:02.180" style="s2">twitchistrash788: I&#39;ve heard Coq is like Prolog</p>
+<p begin="00:00:59.718" end="00:01:04.718" style="s2">evenad3: hi]</p>
+<p begin="00:01:01.196" end="00:01:06.196" style="s2">khalifornia420: I just got off work I’m in HK rn it’s time to party</p>
+<p begin="00:01:05.841" end="00:01:10.841" style="s2">880user088: 1?</p>
+<p begin="00:01:07.416" end="00:01:12.416" style="s2">twitchistrash788: It&#39;s like a logical proofing lang?</p>
+<p begin="00:01:08.665" end="00:01:13.665" style="s2">amaramee1: fappin bird</p>
+<p begin="00:01:11.641" end="00:01:16.641" style="s2">homotron: yo you&#39;re finally back in the us?</p>
+<p begin="00:01:18.293" end="00:01:23.293" style="s2">brtk_9: How are you today?</p>
+<p begin="00:01:19.004" end="00:01:24.004" style="s2">dorkmo: coq fight</p>
+<p begin="00:01:19.038" end="00:01:24.038" style="s2">cromize: long time no see</p>
+<p begin="00:01:22.087" end="00:01:27.087" style="s2">GreenDolphinSPAM: Kreygasm</p>
+<p begin="00:01:22.353" end="00:01:27.353" style="s2">Raiwo: Pog</p>
+<p begin="00:01:23.369" end="00:01:28.369" style="s2">coProof: I did your driver monitoring challenge</p>
+<p begin="00:01:24.610" end="00:01:29.610" style="s2">cuIo1: hell0uu</p>
+<p begin="00:01:28.066" end="00:01:33.066" style="s2">alphanumeral39: &quot;Comma AI owner loves cock&quot;</p>
+<p begin="00:01:35.842" end="00:01:40.842" style="s2">jbyte1988: Not video</p>
+<p begin="00:01:36.032" end="00:01:41.032" style="s2">foxubu: o/ We hoped to see you b4 Christmas :) :D</p>
+<p begin="00:01:37.810" end="00:01:42.810" style="s2">kkjjaa: What up geo</p>
+<p begin="00:02:20.864" end="00:02:25.864" style="s2">foxubu: what have you been using instead of vim?</p>
+<p begin="00:02:26.277" end="00:02:31.277" style="s2">en3rgee: $</p>
+<p begin="00:02:27.089" end="00:02:32.089" style="s2">Ziv0: $</p>
+<p begin="00:02:29.501" end="00:02:34.501" style="s2">luhartt: $</p>
+<p begin="00:02:30.858" end="00:02:35.858" style="s2">480i: OBVIOUSLY HE&#39;S BEEN USING XCODE</p>
+<p begin="00:02:37.578" end="00:02:42.578" style="s2">khalifornia420: Dollar sign</p>
+<p begin="00:02:40.136" end="00:02:45.136" style="s2">khalifornia420: BRUH</p>
+<p begin="00:02:51.428" end="00:02:56.428" style="s2">ImAventus: You back home aka the cloud?????</p>
+<p begin="00:02:59.787" end="00:03:04.787" style="s2">alluxua: Is he in New Jersey home?</p>
+<p begin="00:03:15.710" end="00:03:20.710" style="s2">khalifornia420: I’ve been a traitor to vim too I have to usepycharm for work</p>
+<p begin="00:03:33.761" end="00:03:38.761" style="s2">dorkmo: hes staying at my house</p>
+<p begin="00:03:41.387" end="00:03:46.387" style="s2">newhuman12912: this guy is the most gangster coder i&#39;ve ever seen</p>
+<p begin="00:03:44.223" end="00:03:49.223" style="s2">brtk_9: How are you my boss?</p>
+<p begin="00:03:58.221" end="00:04:03.221" style="s2">alluxua: Your house😛😛😛</p>
+<p begin="00:04:05.683" end="00:04:10.683" style="s2">liindello: I wish</p>
+<p begin="00:04:08.977" end="00:04:13.977" style="s2">homotron: yes</p>
+<p begin="00:04:16.646" end="00:04:21.646" style="s2">nightknight0000: what&#39;s your screen res</p>
+<p begin="00:04:24.931" end="00:04:29.931" style="s2">toolegit2quit_: Are you in the cloud ?</p>
+<p begin="00:04:43.678" end="00:04:48.678" style="s2">un3okapi: a lot of viewers</p>
+<p begin="00:04:55.898" end="00:05:00.898" style="s2">brtk_9: mistake</p>
+<p begin="00:04:58.694" end="00:05:03.694" style="s2">brtk_9: not p but q</p>
+<p begin="00:05:27.777" end="00:05:32.777" style="s2">mattikaldi: what&#39;s the meaning of life?</p>
+<p begin="00:06:25.182" end="00:06:30.182" style="s2">mrmusicmaine: The only reason the halting problem exists is because of the ever z</p>
+<p begin="00:06:40.253" end="00:06:45.253" style="s2">zugzwangpoe: You back in the US?</p>
+<p begin="00:07:05.683" end="00:07:10.683" style="s2">alluxua: He is at dorkmo’s house</p>
+<p begin="00:07:06.866" end="00:07:11.866" style="s2">newhuman12912: what drugs are in your blood bro</p>
+<p begin="00:07:16.912" end="00:07:21.912" style="s2">eionard: LUL</p>
+<p begin="00:07:24.158" end="00:07:29.158" style="s2">dorkmo: chillin in arkansas</p>
+<p begin="00:07:24.923" end="00:07:29.923" style="s2">homotron: cock files episode one</p>
+<p begin="00:07:25.655" end="00:07:30.655" style="s2">Bombapil0t: juliaaabKek</p>
+<p begin="00:07:28.484" end="00:07:33.484" style="s2">worldintro: hi tube</p>
+<p begin="00:07:41.680" end="00:07:46.680" style="s2">foxubu: whaaaaaaaaat</p>
+<p begin="00:07:41.840" end="00:07:46.840" style="s2">liindello: have you been drinking?</p>
+<p begin="00:07:46.273" end="00:07:51.273" style="s2">homotron: every stream he&#39;s accused of being on drugs LMAO</p>
+<p begin="00:07:52.109" end="00:07:57.109" style="s2">RiceroniJabroni: coqadoodledoo</p>
+<p begin="00:08:19.738" end="00:08:24.738" style="s2">gouvernatorn: BloodTrail</p>
+<p begin="00:08:54.213" end="00:08:59.213" style="s2">Cyropn: math is his drug</p>
+<p begin="00:08:54.665" end="00:08:59.665" style="s2">mrmusicmaine: If you had infinite computational resources like some unrealistically insane computer would the halting problem even exist?</p>
+<p begin="00:08:57.333" end="00:09:02.333" style="s2">gouvernatorn: Which drugs?</p>
+<p begin="00:09:13.506" end="00:09:18.506" style="s2">alluxua: Python is his drug</p>
+<p begin="00:09:15.881" end="00:09:20.881" style="s2">TheDkbay: You&#39;re the guy that is making phones drive cars right?</p>
+<p begin="00:09:19.381" end="00:09:24.381" style="s2">ugger123: Wow this guy exists :O</p>
+<p begin="00:09:28.777" end="00:09:33.777" style="s2">TheTallpants: Is this basic programming cause all us viewers are basic bitches</p>
+<p begin="00:09:33.495" end="00:09:38.495" style="s2">RiceroniJabroni: doesnt the halting problem exist foe turing machines with infinite tape though?</p>
+<p begin="00:09:42.485" end="00:09:47.485" style="s2">eionard: LUL</p>
+<p begin="00:09:47.919" end="00:09:52.919" style="s2">Onkelmarcel: bullshit!</p>
+<p begin="00:09:53.492" end="00:09:58.492" style="s2">newhuman12912: why exactly are you doing this</p>
+<p begin="00:09:55.328" end="00:10:00.328" style="s2">glitchedoutt: Square root of 2 is the loneliest number</p>
+<p begin="00:09:57.085" end="00:10:02.085" style="s2">tanoshiizo: 100% paying attention Kappa</p>
+<p begin="00:09:57.803" end="00:10:02.803" style="s2">dorkmo: bs so good</p>
+<p begin="00:09:58.256" end="00:10:03.256" style="s2">homotron: everybody gangsta until the program halts</p>
+<p begin="00:10:00.295" end="00:10:05.295" style="s2">gouvernatorn: bullshit maaaaan</p>
+<p begin="00:10:03.989" end="00:10:08.989" style="s2">amaramee1: hit the shit</p>
+<p begin="00:10:11.289" end="00:10:16.289" style="s2">amaramee1: cock</p>
+<p begin="00:10:14.871" end="00:10:19.871" style="s2">ugger123: Fucking love Coq man</p>
+<p begin="00:10:18.519" end="00:10:23.519" style="s2">liindello: cock KappaPride</p>
+<p begin="00:10:19.978" end="00:10:24.978" style="s2">abadonna6: we&#39;re twitch chat all we do is talk bullshit</p>
+<p begin="00:10:21.444" end="00:10:26.444" style="s2">foxubu: Well ... no way</p>
+<p begin="00:10:29.167" end="00:10:34.167" style="s2">amaramee1: why</p>
+<p begin="00:10:32.609" end="00:10:37.609" style="s2">wantedbuttrfly: why</p>
+<p begin="00:10:34.697" end="00:10:39.697" style="s2">Bombapil0t: coq prevents infinite calculations?</p>
+<p begin="00:10:35.379" end="00:10:40.379" style="s2">dorkmo: pride1 cock</p>
+<p begin="00:10:38.223" end="00:10:43.223" style="s2">Countolafs: why doe</p>
+<p begin="00:10:38.913" end="00:10:43.913" style="s2">alphanumeral39: why?</p>
+<p begin="00:10:48.371" end="00:10:53.371" style="s2">amaramee1: why?</p>
+<p begin="00:10:51.840" end="00:10:56.840" style="s2">RiceroniJabroni: coqblock the halting problem</p>
+<p begin="00:10:54.929" end="00:10:59.929" style="s2">foxubu: #whyfloodattack</p>
+<p begin="00:10:57.048" end="00:11:02.048" style="s2">alxhotel_: Is coq just a functional language ?</p>
+<p begin="00:10:57.786" end="00:11:02.786" style="s2">TheDkbay: Give me mod I&#39;ll timeout them</p>
+<p begin="00:11:49.366" end="00:11:54.366" style="s2">amaramee1: why</p>
+<p begin="00:11:50.553" end="00:11:55.553" style="s2">glitchedoutt: Updates are available</p>
+<p begin="00:11:51.705" end="00:11:56.705" style="s2">alphanumeral39: TOS selling mod</p>
+<p begin="00:11:51.786" end="00:11:56.786" style="s2">abadonna6: subscribe peasant</p>
+<p begin="00:11:56.212" end="00:12:01.212" style="s2">alphanumeral39: banned</p>
+<p begin="00:11:59.848" end="00:12:04.848" style="s2">TheDkbay: lol @abadonna6</p>
+<p begin="00:12:02.900" end="00:12:07.900" style="s2">480i: yay I have hope of being a mod</p>
+<p begin="00:12:04.272" end="00:12:09.272" style="s2">newhuman12912: why are we doing this?</p>
+<p begin="00:12:07.178" end="00:12:12.178" style="s2">newhuman12912: fun?</p>
+<p begin="00:12:09.752" end="00:12:14.752" style="s2">newhuman12912: education?</p>
+<p begin="00:12:21.029" end="00:12:26.029" style="s2">powerdaz: hi</p>
+<p begin="00:12:25.024" end="00:12:30.024" style="s2">dorkmo: 2 b or coq 2 b</p>
+<p begin="00:12:41.842" end="00:12:46.842" style="s2">FrozakenDk: Hello, can you help me. My computer not start :)</p>
+<p begin="00:12:46.488" end="00:12:51.488" style="s2">foxubu: You&#39;re talking too fast :D</p>
+<p begin="00:13:16.750" end="00:13:21.750" style="s2">jimmy_bullard_: have we assumed that root 2 is rational?</p>
+<p begin="00:13:25.740" end="00:13:30.740" style="s2">draft00: wich language?</p>
+<p begin="00:13:55.581" end="00:14:00.581" style="s2">LucavaL: george you are losing frames</p>
+<p begin="00:14:08.080" end="00:14:13.080" style="s2">toolegit2quit_: Anyone else think he should lower his bitrate ? audio is fine but video breaks up every one in a while</p>
+<p begin="00:14:43.996" end="00:14:48.996" style="s2">foxubu: @toolegit2quit_ unfortunately yes</p>
+<p begin="00:14:44.707" end="00:14:49.707" style="s2">jbyte1988: ITS LAG</p>
+<p begin="00:15:10.152" end="00:15:15.152" style="s2">Roudkill: ok buddy</p>
+<p begin="00:15:12.969" end="00:15:17.969" style="s2">Bombapil0t: 407 Kbps - 2000 Kbps</p>
+<p begin="00:15:15.630" end="00:15:20.630" style="s2">newhuman12912: once in a while</p>
+<p begin="00:15:18.072" end="00:15:23.072" style="s2">Bombapil0t: not stable at all</p>
+<p begin="00:15:26.263" end="00:15:31.263" style="s2">ugger123: We hear you fine though</p>
+<p begin="00:15:29.285" end="00:15:34.285" style="s2">newhuman12912: i see him</p>
+<p begin="00:15:34.529" end="00:15:39.529" style="s2">jimmy_bullard_: oooo i looked up coq. looks very interesting</p>
+<p begin="00:15:36.413" end="00:15:41.413" style="s2">mrmusicmaine: no lag for me</p>
+<p begin="00:15:43.591" end="00:15:48.591" style="s2">alluxua: My videos are fine</p>
+<p begin="00:15:45.734" end="00:15:50.734" style="s2">480i: I see him, but the stream freezes a lot</p>
+<p begin="00:15:48.739" end="00:15:53.739" style="s2">KtothePop: oh what a pleasant surprise Mr. Geohot is streaming</p>
+<p begin="00:15:52.207" end="00:15:57.207" style="s2">RiceroniJabroni: i google coq and saw a lot of things</p>
+<p begin="00:15:55.156" end="00:16:00.156" style="s2">toolegit2quit_: Audio is fine and since content is text it’s fine....</p>
+<p begin="00:15:57.873" end="00:16:02.873" style="s2">dorkmo: slow internet at my house sorry</p>
+<p begin="00:16:08.423" end="00:16:13.423" style="s2">newhuman12912: look don&#39;t get insecure but you&#39;re hairline is receding, right?</p>
+<p begin="00:16:15.832" end="00:16:20.832" style="s2">Ziv0: yeah if he lowers the bitrate it should still be fine</p>
+<p begin="00:16:21.453" end="00:16:26.453" style="s2">alluxua: You guys should have 5G</p>
+<p begin="00:16:25.684" end="00:16:30.684" style="s2">Malinax: You can’t even?</p>
+<p begin="00:16:27.148" end="00:16:32.148" style="s2">THX1342: jesus what language is this?</p>
+<p begin="00:16:33.003" end="00:16:38.003" style="s2">480i: coq</p>
+<p begin="00:16:35.150" end="00:16:40.150" style="s2">jimmy_bullard_: what does &#39;&lt;&gt;&#39; mean?</p>
+<p begin="00:16:42.447" end="00:16:47.447" style="s2">dorkmo: boycotting hauwei 5g</p>
+<p begin="00:16:47.089" end="00:16:52.089" style="s2">alluxua: Haha, &lt;&gt;</p>
+<p begin="00:16:50.513" end="00:16:55.513" style="s2">foxubu: unequal probably</p>
+<p begin="00:16:55.690" end="00:17:00.690" style="s2">powerdaz: the audio has latency</p>
+<p begin="00:17:16.388" end="00:17:21.388" style="s2">homotron: its good for me</p>
+<p begin="00:17:17.158" end="00:17:22.158" style="s2">worldintro: != == &lt;&gt;</p>
+<p begin="00:17:19.550" end="00:17:24.550" style="s2">alluxua: Yeah, put its future ceo in jail@dorkmo</p>
+<p begin="00:17:19.796" end="00:17:24.796" style="s2">newhuman12912: yo dude you type so fast</p>
+<p begin="00:17:27.705" end="00:17:32.705" style="s2">Roudkill: @jimmy_bullard_ probably the like !=</p>
+<p begin="00:17:34.878" end="00:17:39.878" style="s2">newhuman12912: how do you type / think so fast? how can i be high iq genius like you? adderall?</p>
+<p begin="00:17:38.916" end="00:17:43.916" style="s2">saulgausin: what&#39;s that language?</p>
+<p begin="00:17:39.828" end="00:17:44.828" style="s2">brtk_9: i just checked what does it mean irrational in english, its mean that you cant express a value in form like a/b</p>
+<p begin="00:18:10.139" end="00:18:15.139" style="s2">homotron: @newhuman12912 use keybr.com to learn touch typing i went from ~60 to ~100wpm using it</p>
+<p begin="00:18:16.080" end="00:18:21.080" style="s2">mrmusicmaine: high iq geniuses don’t exist</p>
+<p begin="00:18:24.908" end="00:18:29.908" style="s2">Muffican: dam this man really whipping his COQ out on stream</p>
+<p begin="00:18:32.175" end="00:18:37.175" style="s2">foxubu: We are believers</p>
+<p begin="00:18:38.160" end="00:18:43.160" style="s2">brtk_9: its math problem</p>
+<p begin="00:18:42.170" end="00:18:47.170" style="s2">jimmy_bullard_: no we need a proof ;)</p>
+<p begin="00:18:42.565" end="00:18:47.565" style="s2">nullbit64: sup</p>
+<p begin="00:18:43.977" end="00:18:48.977" style="s2">newhuman12912: this guy exudes iq</p>
+<p begin="00:18:44.812" end="00:18:49.812" style="s2">mrmusicmaine: anybody read A Whole New Kind Of Science by Stephen Wolfram?</p>
+<p begin="00:18:45.720" end="00:18:50.720" style="s2">Roudkill: @muffican come on man 😂</p>
+<p begin="00:19:01.513" end="00:19:06.513" style="s2">Bombapil0t: show us coq OmegaLuL</p>
+<p begin="00:19:05.574" end="00:19:10.574" style="s2">AresRai: p and q have to be mutually prime numbers between each other</p>
+<p begin="00:19:22.318" end="00:19:27.318" style="s2">alluxua: Lol, geohot is trying his best to learn high school math</p>
+<p begin="00:19:25.399" end="00:19:30.399" style="s2">hurrdurrimasheep: induction =&gt; omega</p>
+<p begin="00:19:43.163" end="00:19:48.163" style="s2">AresRai: @alluxua learning urself &gt; reading it in a book</p>
+<p begin="00:19:46.404" end="00:19:51.404" style="s2">jimmy_bullard_: contradiction is the easiest way</p>
+<p begin="00:19:58.776" end="00:20:03.776" style="s2">newhuman12912: if i was a girl i&#39;d be like uhhhhhhhhhh george</p>
+<p begin="00:20:06.195" end="00:20:11.195" style="s2">coProof: Yes of course</p>
+<p begin="00:20:29.355" end="00:20:34.355" style="s2">THX1342: compared to python this looks like some alien language</p>
+<p begin="00:20:43.507" end="00:20:48.507" style="s2">alluxua: Feel free to like George even he is a guy. I think it is lovely</p>
+<p begin="00:20:44.622" end="00:20:49.622" style="s2">THX1342: looks like some bad movie attempt at showing &#39;code&#39;</p>
+<p begin="00:20:53.989" end="00:20:58.989" style="s2">mrmusicmaine: python is an alien language because it doesn’t even have native arrays ! Smh</p>
+<p begin="00:21:00.287" end="00:21:05.287" style="s2">Nak_Muay07: I got a big boner</p>
+<p begin="00:21:02.997" end="00:21:07.997" style="s2">KtothePop: PogChamp / im hyped</p>
+<p begin="00:21:10.620" end="00:21:15.620" style="s2">bhavc: pls stop saying that word</p>
+<p begin="00:21:16.162" end="00:21:21.162" style="s2">bhavc: its unpleasing tot he ears</p>
+<p begin="00:21:35.175" end="00:21:40.175" style="s2">brtk_9: hehe :D</p>
+<p begin="00:21:35.914" end="00:21:40.914" style="s2">mrmusicmaine: Not objectively</p>
+<p begin="00:22:27.498" end="00:22:32.498" style="s2">WahedSlet: you&#39;re still lagging once in a while</p>
+<p begin="00:22:32.164" end="00:22:37.164" style="s2">coProof: SSX Tricky</p>
+<p begin="00:22:39.039" end="00:22:44.039" style="s2">coProof: Proof by induction</p>
+<p begin="00:22:56.425" end="00:23:01.425" style="s2">AresRai: should just stream in 720 to avoid lags</p>
+<p begin="00:23:07.792" end="00:23:12.792" style="s2">Bombapil0t: Today twichtchies forced to learn some coq</p>
+<p begin="00:23:12.524" end="00:23:17.524" style="s2">alluxua: If you get lagging video, it is your internet problems</p>
+<p begin="00:23:28.634" end="00:23:33.634" style="s2">Silver5005: what we doin in here boys</p>
+<p begin="00:23:31.210" end="00:23:36.210" style="s2">KtothePop: 420 WPM Pog</p>
+<p begin="00:23:50.518" end="00:23:55.518" style="s2">jimmy_bullard_: congrats</p>
+<p begin="00:24:08.186" end="00:24:13.186" style="s2">everybodytwitteraccount: is this still in malaysia?</p>
+<p begin="00:24:24.722" end="00:24:29.722" style="s2">alluxua: Yeah, that is a huge achievement 🌹🌹🌹🌹🌹</p>
+<p begin="00:24:25.561" end="00:24:30.561" style="s2">dorkmo: what we&#39;re on the same network alluxua?</p>
+<p begin="00:24:40.291" end="00:24:45.291" style="s2">Nak_Muay07: Literally just got done with discrete math. And it was about this non sense lol</p>
+<p begin="00:24:41.919" end="00:24:46.919" style="s2">everybodytwitteraccount: why is he using emacs?</p>
+<p begin="00:24:55.229" end="00:25:00.229" style="s2">brtk_9: It is simply. You have sqrt(2) = a/b; 2 = a^2/b^2 =&gt; 2b^2 = a^2 and that is all beacuse every number get squared become EVEN so the thing is that only one EVEN prime exist its 2. It is impossible. sqrt(2) is irrational</p>
+<p begin="00:24:55.310" end="00:25:00.310" style="s2">alluxua: I have 5G @dorkmo</p>
+<p begin="00:25:27.320" end="00:25:32.320" style="s2">AresRai: CoolStoryBob @brtk_9</p>
+<p begin="00:25:29.021" end="00:25:34.021" style="s2">sfmoose: hey party people</p>
+<p begin="00:25:41.104" end="00:25:46.104" style="s2">napoleansolo9: Hey man, can you share the specs of your pc?</p>
+<p begin="00:25:43.088" end="00:25:48.088" style="s2">mrmusicmaine: you guys ever think it’ll be possible to run open pilot locally on the phone/hardware itself via things like wetware?</p>
+<p begin="00:25:44.967" end="00:25:49.967" style="s2">Bombapil0t: juliaaabH</p>
+<p begin="00:25:47.677" end="00:25:52.677" style="s2">homotron: nat is just the past tense of nut</p>
+<p begin="00:25:57.687" end="00:26:02.687" style="s2">warriorfromdomainofdeath: lol nat</p>
+<p begin="00:26:13.595" end="00:26:18.595" style="s2">tomcr00s3: Believe?</p>
+<p begin="00:26:20.601" end="00:26:25.601" style="s2">AresRai: believe</p>
+<p begin="00:26:24.369" end="00:26:29.369" style="s2">warriorfromdomainofdeath: believe</p>
+<p begin="00:26:30.575" end="00:26:35.575" style="s2">alluxua: Me,me</p>
+<p begin="00:26:37.245" end="00:26:42.245" style="s2">sinagul: what mouse and keyboard do you use for this speed of typing??</p>
+<p begin="00:26:39.123" end="00:26:44.123" style="s2">Pryetranka: i wanna believe</p>
+<p begin="00:26:40.714" end="00:26:45.714" style="s2">Malinax: True</p>
+<p begin="00:26:41.309" end="00:26:46.309" style="s2">sfmoose: I believe</p>
+<p begin="00:26:50.060" end="00:26:55.060" style="s2">Jackyitch: believe!</p>
+<p begin="00:26:50.282" end="00:26:55.282" style="s2">warriorfromdomainofdeath: what happend tom, went from hacking to research?</p>
+<p begin="00:26:53.597" end="00:26:58.597" style="s2">480i: iBelieve</p>
+<p begin="00:26:55.502" end="00:27:00.502" style="s2">napoleansolo9: can you share the specs of your PC?</p>
+<p begin="00:26:57.571" end="00:27:02.571" style="s2">alluxua: No, not broken.</p>
+<p begin="00:26:59.616" end="00:27:04.616" style="s2">oD_C: this statement is not true i dont believe it</p>
+<p begin="00:27:00.525" end="00:27:05.525" style="s2">gusfrehse: no</p>
+<p begin="00:27:05.889" end="00:27:10.889" style="s2">JUST_5HEAD: LOL</p>
+<p begin="00:27:09.586" end="00:27:14.586" style="s2">newhuman12912: HELO</p>
+<p begin="00:27:17.982" end="00:27:22.982" style="s2">alluxua: Audio and video are fine</p>
+<p begin="00:27:23.544" end="00:27:28.544" style="s2">sfmoose: are we back in SF and programming in GO?</p>
+<p begin="00:27:24.668" end="00:27:29.668" style="s2">newhuman12912: i believe in the power of the Lord</p>
+<p begin="00:27:32.879" end="00:27:37.879" style="s2">warriorfromdomainofdeath: 2=/=-2</p>
+<p begin="00:27:41.533" end="00:27:46.533" style="s2">480i: @napoleansolo9 IIRC, he uses a 13&quot; MacBook Pro.</p>
+<p begin="00:27:42.860" end="00:27:47.860" style="s2">dorkmo: even times irrational?</p>
+<p begin="00:27:55.670" end="00:28:00.670" style="s2">warriorfromdomainofdeath: even times odd = even</p>
+<p begin="00:27:56.205" end="00:28:01.205" style="s2">un3okapi: F?</p>
+<p begin="00:28:02.403" end="00:28:07.403" style="s2">nightknight0000: frozen</p>
+<p begin="00:28:02.449" end="00:28:07.449" style="s2">WahedSlet: f</p>
+<p begin="00:28:05.834" end="00:28:10.834" style="s2">Zipzipcekirge: stream dead</p>
+<p begin="00:28:06.604" end="00:28:11.604" style="s2">napoleansolo9: @480i what keyboard does he use?</p>
+<p begin="00:28:07.041" end="00:28:12.041" style="s2">hugo_kanazaca: why is the stream always buffering?</p>
+<p begin="00:28:07.875" end="00:28:12.875" style="s2">JUST_5HEAD: hella laggy</p>
+<p begin="00:28:11.411" end="00:28:16.411" style="s2">NoCeasefires: What a pose to freeze at</p>
+<p begin="00:28:12.682" end="00:28:17.682" style="s2">AresRai: 720p homie</p>
+<p begin="00:28:15.782" end="00:28:20.782" style="s2">homotron: not frozen bros hes just singing lmao</p>
+<p begin="00:28:19.708" end="00:28:24.708" style="s2">Jackyitch: Is there any chance you will change the VODs only being for subs ): im too poor</p>
+<p begin="00:28:20.071" end="00:28:25.071" style="s2">warriorfromdomainofdeath: odd times odd is not always even</p>
+<p begin="00:28:23.942" end="00:28:28.942" style="s2">sfmoose: dropping frames like a mofo</p>
+<p begin="00:28:26.469" end="00:28:31.469" style="s2">gusfrehse: x = 2*y, x*x = 2*2*y*y</p>
+<p begin="00:28:38.996" end="00:28:43.996" style="s2">newhuman12912: WHY ARE WE DOING THIS</p>
+<p begin="00:28:40.481" end="00:28:45.481" style="s2">brtk_9: d even number divide by 2</p>
+<p begin="00:28:41.380" end="00:28:46.380" style="s2">jimmy_bullard_: why induction?</p>
+<p begin="00:28:41.643" end="00:28:46.643" style="s2">480i: @napoleansolo9 Whatever&#39;s attached to the MacBook Pro.</p>
+<p begin="00:28:44.906" end="00:28:49.906" style="s2">Pryetranka: what&#39;s the bitrate?</p>
+<p begin="00:28:48.500" end="00:28:53.500" style="s2">napoleansolo9: wow @480i</p>
+<p begin="00:28:54.600" end="00:28:59.600" style="s2">napoleansolo9: that seems awesome</p>
+<p begin="00:28:57.825" end="00:29:02.825" style="s2">warriorfromdomainofdeath: suppose for n=1 then n=k so n=k 1</p>
+<p begin="00:29:02.100" end="00:29:07.100" style="s2">Silver5005: what happened to context tree weighting</p>
+<p begin="00:29:05.018" end="00:29:10.018" style="s2">Silver5005: and what the fuck is this</p>
+<p begin="00:29:07.134" end="00:29:12.134" style="s2">warriorfromdomainofdeath: laggy</p>
+<p begin="00:29:07.429" end="00:29:12.429" style="s2">brtk_9: THERE IS ONLY ONE PRIME EVEN NUMBER</p>
+<p begin="00:29:13.670" end="00:29:18.670" style="s2">warriorfromdomainofdeath: so lag my ass bag</p>
+<p begin="00:29:15.794" end="00:29:20.794" style="s2">ytcracker: @tomcr00s3 hmu when you want to return to the microphone</p>
+<p begin="00:29:24.333" end="00:29:29.333" style="s2">ytcracker: and off the maths</p>
+<p begin="00:29:30.380" end="00:29:35.380" style="s2">RiceroniJabroni: there is only one electron</p>
+<p begin="00:29:33.427" end="00:29:38.427" style="s2">ytcracker: hack the planet</p>
+<p begin="00:29:37.369" end="00:29:42.369" style="s2">sfmoose: betterish now with lower bitrate</p>
+<p begin="00:29:41.126" end="00:29:46.126" style="s2">480i: Is the stream up for anyone?</p>
+<p begin="00:29:45.137" end="00:29:50.137" style="s2">warriorfromdomainofdeath: los</p>
+<p begin="00:29:46.016" end="00:29:51.016" style="s2">Bombapil0t: 1500 Kbps SeemsGood</p>
+<p begin="00:29:46.784" end="00:29:51.784" style="s2">sfmoose: yes</p>
+<p begin="00:29:47.158" end="00:29:52.158" style="s2">Roudkill: the earth is flat</p>
+<p begin="00:29:48.392" end="00:29:53.392" style="s2">warriorfromdomainofdeath: low lag</p>
+<p begin="00:29:52.680" end="00:29:57.680" style="s2">Bagofpotatoes: @Silver5005 I was hoping to see context-tree weighting used as a classifier</p>
+<p begin="00:29:53.356" end="00:29:58.356" style="s2">unDe4dman: yes laggy</p>
+<p begin="00:29:56.624" end="00:30:01.624" style="s2">napoleansolo9: anyways, Hey guys I am a founder of an AI startup based in India.</p>
+<p begin="00:30:04.192" end="00:30:09.192" style="s2">toolegit2quit_: yo that New Jersey bitrate is shite</p>
+<p begin="00:30:07.109" end="00:30:12.109" style="s2">jimmy_bullard_: i did it by assuming rational i.e. sqrt2 = b/a where b and a have no common divisors</p>
+<p begin="00:30:16.699" end="00:30:21.699" style="s2">Bagofpotatoes: might have a go with the auld PAQ myself</p>
+<p begin="00:30:16.821" end="00:30:21.821" style="s2">sfmoose: napolean, just no</p>
+<p begin="00:30:23.033" end="00:30:28.033" style="s2">davidsit_site: and this stream has better quality than some of the other places</p>
+<p begin="00:30:28.154" end="00:30:33.154" style="s2">napoleansolo9: @sfmoose</p>
+<p begin="00:30:29.812" end="00:30:34.812" style="s2">napoleansolo9: ?</p>
+<p begin="00:30:39.715" end="00:30:44.715" style="s2">jimmy_bullard_: then you can find a contradiction by getting that a and b are divisible by 2</p>
+<p begin="00:31:01.586" end="00:31:06.586" style="s2">toolegit2quit_: @napoleansolo9 ok tell us more about it ?</p>
+<p begin="00:31:02.750" end="00:31:07.750" style="s2">sfmoose: exactly</p>
+<p begin="00:31:06.419" end="00:31:11.419" style="s2">warriorfromdomainofdeath: lol</p>
+<p begin="00:31:11.922" end="00:31:16.922" style="s2">sammydigits: hello from Dallas Texas</p>
+<p begin="00:31:12.600" end="00:31:17.600" style="s2">Bombapil0t: indias rapidly industrializing country number?</p>
+<p begin="00:31:16.530" end="00:31:21.530" style="s2">napoleansolo9: well, I guess I am not allowed to @toolegit2quit_</p>
+<p begin="00:31:23.697" end="00:31:28.697" style="s2">RiceroniJabroni: hey guys, I&#39;m the founder of Apple.</p>
+<p begin="00:31:25.497" end="00:31:30.497" style="s2">warriorfromdomainofdeath: i have this startup idea about a selfe driving car</p>
+<p begin="00:31:38.033" end="00:31:43.033" style="s2">gusfrehse: hey guys i am the founder of sony</p>
+<p begin="00:31:39.830" end="00:31:44.830" style="s2">warriorfromdomainofdeath: need some html and done</p>
+<p begin="00:31:39.958" end="00:31:44.958" style="s2">v0sn: is it lagging for anyone else? or is it just me?</p>
+<p begin="00:31:40.065" end="00:31:45.065" style="s2">homotron: pm me ur startup link fam @napoleansolo9</p>
+<p begin="00:31:41.290" end="00:31:46.290" style="s2">Pryetranka: ,</p>
+<p begin="00:31:48.932" end="00:31:53.932" style="s2">napoleansolo9: @homotron</p>
+<p begin="00:31:50.657" end="00:31:55.657" style="s2">brtk_9: fck it let&#39;s hack ps4!!!!@</p>
+<p begin="00:31:51.314" end="00:31:56.314" style="s2">napoleansolo9: alright</p>
+<p begin="00:31:55.683" end="00:32:00.683" style="s2">warriorfromdomainofdeath: lol</p>
+<p begin="00:32:05.242" end="00:32:10.242" style="s2">warriorfromdomainofdeath: hack sony again tom</p>
+<p begin="00:32:23.230" end="00:32:28.230" style="s2">brtk_9: that sucks</p>
+<p begin="00:32:23.424" end="00:32:28.424" style="s2">RiceroniJabroni: how the fuck did comma ai lose tech crunch to mobalytics</p>
+<p begin="00:32:25.860" end="00:32:30.860" style="s2">mrmusicmaine: One of the numbers in the Mandelbrot set i think actually solves this but the # is indeed an irrational one</p>
+<p begin="00:32:28.576" end="00:32:33.576" style="s2">Bagofpotatoes: these full stops look lame, reminds me of Prolog code</p>
+<p begin="00:32:31.399" end="00:32:36.399" style="s2">oD_C: @v0sn ye it stutters for me too but the sound is crystal.</p>
+<p begin="00:32:39.998" end="00:32:44.998" style="s2">homotron: LMAO MOBALYTICS noooo</p>
+<p begin="00:32:42.958" end="00:32:47.958" style="s2">Bagofpotatoes: Idris seems nicer than this</p>
+<p begin="00:32:51.112" end="00:32:56.112" style="s2">warriorfromdomainofdeath: does tom have a degree?</p>
+<p begin="00:33:04.523" end="00:33:09.523" style="s2">alluxua: He graduated from CMU</p>
+<p begin="00:33:05.681" end="00:33:10.681" style="s2">Bombapil0t: Get my ire up, light my fire</p>
+<p begin="00:33:06.304" end="00:33:11.304" style="s2">dorkmo: pride1</p>
+<p begin="00:33:10.807" end="00:33:15.807" style="s2">Caene: Refreshing the channel gets rid of the ad LUL</p>
+<p begin="00:33:16.526" end="00:33:21.526" style="s2">sfmoose: fuck yeah, even facts!</p>
+<p begin="00:33:19.635" end="00:33:24.635" style="s2">brtk_9: next live stream &quot;Proof that 2*2=4&quot;</p>
+<p begin="00:33:22.439" end="00:33:27.439" style="s2">toolegit2quit_: No he didn’t graduate from anything</p>
+<p begin="00:33:22.864" end="00:33:27.864" style="s2">ncandiani: I just arrived now. What is he doing?</p>
+<p begin="00:33:34.412" end="00:33:39.412" style="s2">alluxua: Yes, he did</p>
+<p begin="00:33:43.871" end="00:33:48.871" style="s2">sfmoose: he&#39;s learning about odds and evens</p>
+<p begin="00:33:46.648" end="00:33:51.648" style="s2">toolegit2quit_: Pretty sure the guy dropped out</p>
+<p begin="00:33:48.379" end="00:33:53.379" style="s2">NoCeasefires: I remember him saying he didn&#39;t</p>
+<p begin="00:33:48.838" end="00:33:53.838" style="s2">warriorfromdomainofdeath: does tom just find code for research now?</p>
+<p begin="00:33:49.037" end="00:33:54.037" style="s2">sfmoose: and math</p>
+<p begin="00:33:49.207" end="00:33:54.207" style="s2">brtk_9: xd</p>
+<p begin="00:34:05.265" end="00:34:10.265" style="s2">dorkmo: 1 man * 2 = even pride1</p>
+<p begin="00:34:05.944" end="00:34:10.944" style="s2">brtk_9: there is only math you dont need code :D</p>
+<p begin="00:34:14.210" end="00:34:19.210" style="s2">ibimsmarry: dafuck is this language?</p>
+<p begin="00:34:18.703" end="00:34:23.703" style="s2">ytcracker: coq</p>
+<p begin="00:34:23.043" end="00:34:28.043" style="s2">napoleansolo9: Doesn&#39;t math ever get you burnt out?</p>
+<p begin="00:34:24.044" end="00:34:29.044" style="s2">warriorfromdomainofdeath: html2</p>
+<p begin="00:34:25.128" end="00:34:30.128" style="s2">alluxua: He dropped out from a college , worked a little bit and then went to cmu</p>
+<p begin="00:34:29.624" end="00:34:34.624" style="s2">sfmoose: he&#39;s writing his own bitcoin cash wallet</p>
+<p begin="00:34:31.860" end="00:34:36.860" style="s2">ncandiani: Ohh, I was trying to understand why he was using logic and proofs</p>
+<p begin="00:34:46.324" end="00:34:51.324" style="s2">ytcracker: @tomcr00s3 yo</p>
+<p begin="00:34:47.246" end="00:34:52.246" style="s2">toolegit2quit_: CMU == college right ? Expand your thoughts please</p>
+<p begin="00:34:57.186" end="00:35:02.186" style="s2">v0sn: marlone</p>
+<p begin="00:35:05.802" end="00:35:10.802" style="s2">warriorfromdomainofdeath: cmu = canadian moose college</p>
+<p begin="00:35:28.387" end="00:35:33.387" style="s2">oD_C: vim and emacs? what kind of sin is that?</p>
+<p begin="00:35:39.120" end="00:35:44.120" style="s2">alluxua: He did finish CMU . Donot challenge my memory</p>
+<p begin="00:35:40.573" end="00:35:45.573" style="s2">napoleansolo9: well, vim is pretty cool</p>
+<p begin="00:35:40.602" end="00:35:45.602" style="s2">oD_C: Sinner!</p>
+<p begin="00:35:50.777" end="00:35:55.777" style="s2">BrutalCSkAKAN: Damn it, chromecast doesnt support your stream due to 1080p... much sad</p>
+<p begin="00:35:59.065" end="00:36:04.065" style="s2">napoleansolo9: just takes some time getting used to</p>
+<p begin="00:36:07.669" end="00:36:12.669" style="s2">warriorfromdomainofdeath: lol, seems like there is a phd viewer rn</p>
+<p begin="00:36:11.468" end="00:36:16.468" style="s2">toolegit2quit_: Quoting from his linkedin: under Carnegie Mellon University: « Did one semester; 4.0 taking Operating systems, Compilers, 251, and AI all at once. Activities and Societies: PPP, competition programming »</p>
+<p begin="00:36:13.946" end="00:36:18.946" style="s2">warriorfromdomainofdeath: seeing some info</p>
+<p begin="00:36:30.325" end="00:36:35.325" style="s2">finessin95: Not that bad, your webcam freezes from time to time.</p>
+<p begin="00:36:39.285" end="00:36:44.285" style="s2">Zipzipcekirge: bring to 720p 30 fps</p>
+<p begin="00:36:41.099" end="00:36:46.099" style="s2">ytcracker: @tomcr00s3 we got rapping to do</p>
+<p begin="00:36:43.786" end="00:36:48.786" style="s2">BrutalCSkAKAN: Go down to 720p so i can cast it</p>
+<p begin="00:36:46.147" end="00:36:51.147" style="s2">warriorfromdomainofdeath: man i love computers but math</p>
+<p begin="00:36:56.355" end="00:37:01.355" style="s2">Bombapil0t: get us stable mate</p>
+<p begin="00:36:58.858" end="00:37:03.858" style="s2">foxubu: Are you streaming from a bunker? lol</p>
+<p begin="00:36:58.872" end="00:37:03.872" style="s2">sfmoose: Yes yes wires</p>
+<p begin="00:37:00.982" end="00:37:05.982" style="s2">warriorfromdomainofdeath: laggy as these past 10 mins</p>
+<p begin="00:37:01.519" end="00:37:06.519" style="s2">oD_C: @tomcr00s3 come on man lets debate some things. the things you do we cant understand. quit math. lets debate</p>
+<p begin="00:37:04.852" end="00:37:09.852" style="s2">alluxua: They just donot have 5G</p>
+<p begin="00:37:10.073" end="00:37:15.073" style="s2">warriorfromdomainofdeath: lol</p>
+<p begin="00:37:13.210" end="00:37:18.210" style="s2">dorkmo: my bad</p>
+<p begin="00:37:18.843" end="00:37:23.843" style="s2">warriorfromdomainofdeath: lets debate with the philos9pher</p>
+<p begin="00:37:21.254" end="00:37:26.254" style="s2">alluxua: It is not your problem. You can do nothing</p>
+<p begin="00:37:21.946" end="00:37:26.946" style="s2">RiceroniJabroni: 5g will kill us all</p>
+<p begin="00:37:25.516" end="00:37:30.516" style="s2">sfmoose: This whole time</p>
+<p begin="00:37:32.631" end="00:37:37.631" style="s2">dorkmo: EDGE network out at my house</p>
+<p begin="00:37:42.276" end="00:37:47.276" style="s2">napoleansolo9: @RiceroniJabroni YOu&#39;re actually right about 5g killing us</p>
+<p begin="00:37:46.047" end="00:37:51.047" style="s2">newhuman12912: do you drive bro</p>
+<p begin="00:37:47.284" end="00:37:52.284" style="s2">ytcracker: @tomcr00s3 hacker rap squad</p>
+<p begin="00:37:54.303" end="00:37:59.303" style="s2">foxubu: &quot;It just works&quot; lol</p>
+<p begin="00:38:09.671" end="00:38:14.671" style="s2">warriorfromdomainofdeath: why does tom have access to all users on twich inf9</p>
+<p begin="00:38:10.537" end="00:38:15.537" style="s2">sfmoose: What’s the latest hot Japanese rap tracks?</p>
+<p begin="00:38:12.402" end="00:38:17.402" style="s2">dorkmo: thanks steve</p>
+<p begin="00:38:12.458" end="00:38:17.458" style="s2">480i: REBOOT</p>
+<p begin="00:38:13.530" end="00:38:18.530" style="s2">NoCeasefires: Send it</p>
+<p begin="00:38:15.207" end="00:38:20.207" style="s2">davidsit_site: yes. reboot</p>
+<p begin="00:38:30.774" end="00:38:35.774" style="s2">880user088: Im ready to accept my fate!</p>
+<p begin="00:38:34.379" end="00:38:39.379" style="s2">sinagul: can you repeat please?</p>
+<p begin="00:38:44.371" end="00:38:49.371" style="s2">warriorfromdomainofdeath: Why MAC man?</p>
+<p begin="00:38:53.431" end="00:38:58.431" style="s2">dorkmo: 5G murder machine</p>
+<p begin="00:38:54.137" end="00:38:59.137" style="s2">RiceroniJabroni: @napoleansolo9 lol yeah were done when that shit comes out</p>
+<p begin="00:39:13.026" end="00:39:18.026" style="s2">mrmusicmaine: yo geo ur the man keep it up and good luck, ive been working on implementing memristors to hardware level neural networks; specifically trying to figure out ideal architectures! Fuck the crossbar, it’s all about fractals :P</p>
+<p begin="00:39:16.236" end="00:39:21.236" style="s2">Bombapil0t: the coq files Kreygasm</p>
+<p begin="00:39:23.054" end="00:39:28.054" style="s2">Silver5005: why are we learning COQ files</p>
+<p begin="00:39:24.205" end="00:39:29.205" style="s2">napoleansolo9: @RiceroniJabroni , they use millimeter waves which pose long-term risks</p>
+<p begin="00:39:24.429" end="00:39:29.429" style="s2">Bombapil0t: starring geohot</p>
+<p begin="00:39:30.943" end="00:39:35.943" style="s2">dorkmo: need the xfiles soundboard</p>
+<p begin="00:39:33.927" end="00:39:38.927" style="s2">warriorfromdomainofdeath: why MACCC</p>
+<p begin="00:39:35.670" end="00:39:40.670" style="s2">poopboy7: chief i don&#39;t feel so good ...</p>
+<p begin="00:39:36.411" end="00:39:41.411" style="s2">nightknight0000: why&#39;s your screen res so tiny</p>
+<p begin="00:39:43.346" end="00:39:48.346" style="s2">SatraiCycle: hi dude</p>
+<p begin="00:39:48.446" end="00:39:51.333" style="s2">warriorfromdomainofdeath: he jb when you had to pay for net</p>
+<p begin="00:39:49.057" end="00:39:54.057" style="s2">homotron: are u serious lmao</p>
+<p begin="00:39:53.880" end="00:39:58.880" style="s2">warriorfromdomainofdeath: lol</p>
+<p begin="00:39:57.849" end="00:40:02.849" style="s2">mrmusicmaine: the macos environment is dope af. Better than using windows for sure. Ubuntu is chill but not as nice as Mac os</p>
+<p begin="00:39:58.308" end="00:40:03.308" style="s2">v0sn: new-host-2 are you gay???????????????????????????????????????</p>
+<p begin="00:40:03.026" end="00:40:08.026" style="s2">Bombapil0t: :D</p>
+<p begin="00:40:04.854" end="00:40:09.854" style="s2">gusfrehse: increase the font</p>
+<p begin="00:40:06.429" end="00:40:11.429" style="s2">toolegit2quit_: @tomcr00s3 how was working (interning) at SpaceX ?</p>
+<p begin="00:40:10.973" end="00:40:15.973" style="s2">warriorfromdomainofdeath: legends use Symbian</p>
+<p begin="00:40:11.248" end="00:40:16.248" style="s2">RiceroniJabroni: @napoleansolo9 globalists want to off us Kappa</p>
+<p begin="00:40:20.253" end="00:40:25.253" style="s2">480i: The stream is much better now</p>
+<p begin="00:40:22.385" end="00:40:27.385" style="s2">homotron: i returned my macbook last week to get a windows laptop and I&#39;m definitely switching back to mac now</p>
+<p begin="00:40:24.768" end="00:40:29.768" style="s2">Zipzipcekirge: new-host-2 seems like a nickname fora first time computer user</p>
+<p begin="00:40:30.992" end="00:40:35.992" style="s2">v0sn: @homotron XDDDD</p>
+<p begin="00:40:31.110" end="00:40:36.110" style="s2">warriorfromdomainofdeath: no way he did spaceX</p>
+<p begin="00:40:32.657" end="00:40:37.657" style="s2">newhuman12912: George, what is elon like IRL</p>
+<p begin="00:40:33.872" end="00:40:38.872" style="s2">v0sn: lachkick</p>
+<p begin="00:40:41.666" end="00:40:46.666" style="s2">napoleansolo9: haha, well that&#39;s a conspiracy that needs to be publicized ASAP :D @RiceroniJabroni</p>
+<p begin="00:40:44.620" end="00:40:49.620" style="s2">oD_C: @mrmusicmaine you mean gnome? what is the default de for ubuntu?</p>
+<p begin="00:40:50.026" end="00:40:55.026" style="s2">sfmoose: stop, stop I can only get so hard</p>
+<p begin="00:40:51.469" end="00:40:56.469" style="s2">warriorfromdomainofdeath: html</p>
+<p begin="00:41:06.007" end="00:41:11.007" style="s2">toolegit2quit_: @warriorfromdomainofdeath he was an Avionics intern June 2013 - September 2013</p>
+<p begin="00:41:13.446" end="00:41:18.446" style="s2">napoleansolo9: @oD_C : Default used to be unity but now they are more GNOME oriented</p>
+<p begin="00:41:24.211" end="00:41:29.211" style="s2">sfmoose: better than the pink sweatshirt</p>
+<p begin="00:41:30.681" end="00:41:35.681" style="s2">napoleansolo9: since the 18.04 is out</p>
+<p begin="00:41:33.059" end="00:41:38.059" style="s2">warriorfromdomainofdeath: @toolegit2quit_ if he did work at SX that sick, wonder on what thoigh?</p>
+<p begin="00:41:38.734" end="00:41:43.734" style="s2">newhuman12912: George I read that high IQ are good detectors of other high IQ... would you put Elon above or below you on the IQ spectrum??????????????????????</p>
+<p begin="00:41:41.200" end="00:41:46.200" style="s2">oD_C: @napoleansolo9 unity is gnome.</p>
+<p begin="00:41:41.627" end="00:41:46.627" style="s2">SatraiCycle: which program is this?</p>
+<p begin="00:41:50.528" end="00:41:55.528" style="s2">warriorfromdomainofdeath: DarkMode DarkMode DarkMode DarkMode DarkMode DarkMode DarkMode DarkMode DarkMode DarkMode DarkMode</p>
+<p begin="00:41:51.595" end="00:41:56.595" style="s2">napoleansolo9: what? @oD_C</p>
+<p begin="00:41:57.405" end="00:42:02.405" style="s2">napoleansolo9: no way</p>
+<p begin="00:42:02.047" end="00:42:07.047" style="s2">v0sn: is he using linux or ubuntu?????????????</p>
+<p begin="00:42:07.127" end="00:42:12.127" style="s2">warriorfromdomainofdeath: elon was going for a doctorate on physics so</p>
+<p begin="00:42:08.219" end="00:42:13.219" style="s2">oD_C: @napoleansolo9 Unity Unity logo.svg Ubuntu 16.04 Desktop.png Unity 7.4, with the launcher displayed, running on Ubuntu 16.04. Developer(s) Canonical Ltd., The Ayatana Project[1] contributors, UBports Initial release 9 June 2010; 8 years ago[2] Stable release 7.5[3] / 25 May 2016; 2 years ago[3] Preview release 8.16.1[4] Repository code.launchpad.net/unity Edit this at Wikidata Written in Unity 2D: C  , JavaScript, QML 2.0–7.4: C, C  , Python, Vala[5] 8: C   and QML[6] Operating system Ubuntu Des</p>
+<p begin="00:42:20.706" end="00:42:25.706" style="s2">warriorfromdomainofdeath: ugly</p>
+<p begin="00:42:23.124" end="00:42:28.124" style="s2">oD_C: sorry wrong paste....</p>
+<p begin="00:42:30.285" end="00:42:35.285" style="s2">oD_C: dont ban :P</p>
+<p begin="00:42:38.061" end="00:42:43.061" style="s2">warriorfromdomainofdeath: MaxLOL MaxLOL MaxLOL MaxLOL MaxLOL MaxLOL MaxLOL MaxLOL MaxLOL MaxLOL</p>
+<p begin="00:42:39.220" end="00:42:44.220" style="s2">dorkmo: banned</p>
+<p begin="00:42:44.607" end="00:42:49.607" style="s2">warriorfromdomainofdeath: banned</p>
+<p begin="00:42:47.225" end="00:42:52.225" style="s2">newhuman12912: banned</p>
+<p begin="00:42:55.387" end="00:43:00.387" style="s2">napoleansolo9: @oD_C unity isn&#39;t GNOMW</p>
+<p begin="00:42:58.457" end="00:43:03.457" style="s2">napoleansolo9: *GNOME</p>
+<p begin="00:43:04.214" end="00:43:09.214" style="s2">warriorfromdomainofdeath: no it is html</p>
+<p begin="00:43:08.274" end="00:43:13.274" style="s2">oD_C: @napoleansolo9 Unity is a graphical shell for the GNOME desktop environment</p>
+<p begin="00:43:26.100" end="00:43:31.100" style="s2">warriorfromdomainofdeath: hyper transfer multiplex lambda</p>
+<p begin="00:43:29.410" end="00:43:34.410" style="s2">napoleansolo9: @oD_C they are two different envs</p>
+<p begin="00:43:41.088" end="00:43:46.088" style="s2">ytcracker: @tomcr00s3 i texted you</p>
+<p begin="00:43:45.778" end="00:43:50.778" style="s2">oD_C: yes i know but it is gnome</p>
+<p begin="00:43:50.754" end="00:43:55.754" style="s2">dorkmo: alluxua probly</p>
+<p begin="00:44:05.417" end="00:44:10.417" style="s2">ytcracker: what up fam</p>
+<p begin="00:44:06.087" end="00:44:11.087" style="s2">warriorfromdomainofdeath: Squid1 Squid2 Squid3 Squid4</p>
+<p begin="00:44:10.464" end="00:44:15.464" style="s2">newhuman12912: @tomcr00s3 texted you</p>
+<p begin="00:44:18.148" end="00:44:23.148" style="s2">michinplay: hi there</p>
+<p begin="00:44:21.533" end="00:44:26.533" style="s2">warriorfromdomainofdeath: text my ass</p>
+<p begin="00:44:24.706" end="00:44:29.706" style="s2">warriorfromdomainofdeath: lol</p>
+<p begin="00:44:25.105" end="00:44:30.105" style="s2">Vjasal_: OMEGALUL</p>
+<p begin="00:44:32.513" end="00:44:37.513" style="s2">warriorfromdomainofdeath: DendiFace</p>
+<p begin="00:44:57.740" end="00:45:02.740" style="s2">dorkmo: ( )( )</p>
+<p begin="00:45:10.053" end="00:45:15.053" style="s2">Bombapil0t: BibleThump</p>
+<p begin="00:45:41.500" end="00:45:46.500" style="s2">napoleansolo9: BTW, what is George up to nowadays?</p>
+<p begin="00:45:46.168" end="00:45:51.168" style="s2">brtk_9: omg this is not smart wat you doin</p>
+<p begin="00:45:48.753" end="00:45:53.753" style="s2">brtk_9: im leaving</p>
+<p begin="00:45:57.561" end="00:46:02.561" style="s2">dorkmo: need alpha and omega</p>
+<p begin="00:46:01.230" end="00:46:06.230" style="s2">napoleansolo9: yeah it is mundane</p>
+<p begin="00:46:24.470" end="00:46:29.470" style="s2">newhuman12912: George is Elon&#39;s IQ &gt; your IQ???</p>
+<p begin="00:46:29.825" end="00:46:34.825" style="s2">dorkmo: doin it for the culture</p>
+<p begin="00:46:29.910" end="00:46:34.910" style="s2">480i: nooo :(</p>
+<p begin="00:46:31.668" end="00:46:36.668" style="s2">coProof: I’m neutral about omega</p>
+<p begin="00:46:34.867" end="00:46:39.867" style="s2">napoleansolo9: haha</p>
+<p begin="00:46:37.126" end="00:46:42.126" style="s2">Pryetranka: nice one guys Kappa //</p>
+<p begin="00:46:41.095" end="00:46:46.095" style="s2">coProof: Noooo</p>
+<p begin="00:46:43.779" end="00:46:48.779" style="s2">ytcracker: twitch rules</p>
+<p begin="00:46:44.485" end="00:46:49.485" style="s2">480i: Private stream?</p>
+<p begin="00:46:45.150" end="00:46:50.150" style="s2">coProof: Geohot no</p>
+<p begin="00:46:47.077" end="00:46:52.077" style="s2">MonkaSupreme: come on</p>
+<p begin="00:46:48.289" end="00:46:53.289" style="s2">newhuman12912: nooooooooooo</p>
+<p begin="00:46:49.990" end="00:46:54.990" style="s2">coProof: Stay</p>
+<p begin="00:46:54.357" end="00:46:59.357" style="s2">MonkaSupreme: small minority</p>
+<p begin="00:46:59.418" end="00:47:04.418" style="s2">napoleansolo9: no George don&#39;t leave us alone</p>
+<p begin="00:47:02.283" end="00:47:07.283" style="s2">JUST_5HEAD: :(</p>
+<p begin="00:47:03.233" end="00:47:08.233" style="s2">coProof: Let’s talk about the driver monitoring challenge</p>
+<p begin="00:47:03.343" end="00:47:08.343" style="s2">Bombapil0t: realtalk damn no</p>
+<p begin="00:47:03.775" end="00:47:08.775" style="s2">newhuman12912: don&#39;t be impulsive m8</p>
+<p begin="00:47:07.166" end="00:47:12.166" style="s2">toolegit2quit_: @tomcr00s3 delete the chat</p>
+<p begin="00:47:10.076" end="00:47:15.076" style="s2">pastorgeorge: such a sellout</p>
+<p begin="00:47:13.679" end="00:47:18.679" style="s2">JUST_5HEAD: we dont deserve it :(</p>
+<p begin="00:47:13.782" end="00:47:18.782" style="s2">toolegit2quit_: @tomcr00s3 sub only chat</p>
+<p begin="00:47:13.831" end="00:47:18.831" style="s2">alluxua: Come on, geohot. I think it is super smart and fun!</p>
+<p begin="00:47:14.213" end="00:47:19.213" style="s2">thomasbakp: no tomcroose.. love you</p>
+<p begin="00:47:15.921" end="00:47:20.921" style="s2">ytcracker: there you go</p>
+<p begin="00:47:21.062" end="00:47:26.062" style="s2">Debsonn: o pls</p>
+<p begin="00:47:22.314" end="00:47:27.314" style="s2">Debsonn: no pls</p>
+<p begin="00:47:23.172" end="00:47:28.172" style="s2">Pryetranka: just switch chat to sub only mode</p>
+<p begin="00:47:25.946" end="00:47:30.946" style="s2">Bombapil0t: &quot; And I’m a personification of freedom for all&quot; REMEMBER</p>
+<p begin="00:47:26.359" end="00:47:31.359" style="s2">napoleansolo9: if you make it subscribers only then you will lose potential subscribers</p>
+<p begin="00:47:26.474" end="00:47:31.474" style="s2">ZiklarxD: fucking retards that ruins it for everyone</p>
+<p begin="00:47:27.896" end="00:47:32.896" style="s2">thomasbakp: tomcroosse we love you..dont do private</p>
+<p begin="00:47:29.880" end="00:47:34.880" style="s2">brtk_9: stop hacking twitch</p>
+<p begin="00:47:31.916" end="00:47:36.916" style="s2">brtk_9: reported!</p>
+<p begin="00:47:31.989" end="00:47:36.989" style="s2">alluxua: Please, donot</p>
+<p begin="00:47:36.338" end="00:47:41.338" style="s2">coProof: I’m on my phone and my sub went away this month</p>
+<p begin="00:47:39.127" end="00:47:44.127" style="s2">michinplay: wow one idiot ruins for everyone</p>
+<p begin="00:47:40.454" end="00:47:45.454" style="s2">dorkmo: heyguys1000 we&#39;re all banned</p>
+<p begin="00:47:42.608" end="00:47:47.608" style="s2">MonkaSupreme: Subscriberson</p>
+<p begin="00:47:42.718" end="00:47:47.718" style="s2">everybodytwitteraccount: please dont</p>
+<p begin="00:47:42.758" end="00:47:47.758" style="s2">ipinchkidsz: Is it actually going to be better that way?</p>
+<p begin="00:47:45.482" end="00:47:50.482" style="s2">thomasbakp: we are 5 people here who love you :)</p>
+<p begin="00:47:46.524" end="00:47:51.524" style="s2">alluxua: You are super brilliant</p>
+<p begin="00:47:49.043" end="00:47:54.043" style="s2">coProof: Driving down to Belmont</p>
+<p begin="00:47:53.538" end="00:47:58.538" style="s2">PlayMore: IM HERE</p>
+<p begin="00:48:01.358" end="00:48:06.358" style="s2">un3okapi: Yeah, fucking dumbasses thinking he&#39;s poor LUL</p>
+<p begin="00:48:04.781" end="00:48:09.781" style="s2">ZiklarxD: do subscribers only chat @tomcr00s3</p>
+<p begin="00:48:09.376" end="00:48:14.376" style="s2">PlayMore: I found you on youtube I love this</p>
+<p begin="00:48:10.964" end="00:48:15.964" style="s2">thomasbakp: smart professor hotz dont ...we love you :)</p>
+<p begin="00:48:11.595" end="00:48:16.595" style="s2">newhuman12912: future billionaire here</p>
+<p begin="00:48:19.425" end="00:48:24.425" style="s2">PlayMore: asmoPOGGERS asmoPOGGERS</p>
+<p begin="00:48:21.329" end="00:48:26.329" style="s2">coProof: We like it and we value you geohot</p>
+<p begin="00:48:24.147" end="00:48:29.147" style="s2">napoleansolo9: if you make it subscribers only then you will lose potential subscribers</p>
+<p begin="00:48:25.215" end="00:48:30.215" style="s2">PlayMore: so neat</p>
+<p begin="00:48:32.525" end="00:48:37.525" style="s2">nightknight0000: ban the ruiner</p>
+<p begin="00:48:32.819" end="00:48:37.819" style="s2">ytcracker: fkn</p>
+<p begin="00:48:33.421" end="00:48:38.421" style="s2">pastorgeorge: 60 dollar sub?</p>
+<p begin="00:48:34.606" end="00:48:39.606" style="s2">brtk_9: ok i am sorry please dont close chat</p>
+<p begin="00:48:38.379" end="00:48:43.379" style="s2">newhuman12912: George becomes angry when intellectuallyl challenged ?</p>
+<p begin="00:48:42.171" end="00:48:47.171" style="s2">alluxua: Geohot, you are super lovely. Just ignore those losers</p>
+<p begin="00:48:44.757" end="00:48:49.757" style="s2">ytcracker: we got raps to make</p>
+<p begin="00:48:45.117" end="00:48:50.117" style="s2">PlayMore: asmoDab asmoDab</p>
+<p begin="00:48:51.490" end="00:48:56.490" style="s2">xEHLE_: baited ytcracker into a sub FeelsBadMan</p>
+<p begin="00:48:52.436" end="00:48:57.436" style="s2">PlayMore: asmoRap</p>
+<p begin="00:48:55.582" end="00:49:00.582" style="s2">napoleansolo9: if you want that then you need to be more engaged with your viewers</p>
+<p begin="00:49:03.265" end="00:49:08.265" style="s2">newhuman12912: yea george</p>
+<p begin="00:49:05.884" end="00:49:10.884" style="s2">ytcracker: im rich i dont care</p>
+<p begin="00:49:10.204" end="00:49:15.204" style="s2">un3okapi: This is basic shit. Do something more challenging pls</p>
+<p begin="00:49:12.333" end="00:49:17.333" style="s2">brtk_9: fck it lets hack ps4!</p>
+<p begin="00:49:17.605" end="00:49:22.605" style="s2">PlayMore: 8th grade math PogChamp</p>
+<p begin="00:49:18.434" end="00:49:23.434" style="s2">newhuman12912: we love you</p>
+<p begin="00:49:18.716" end="00:49:23.716" style="s2">toolegit2quit_: Sounds like my imaginary girlfriend breaking up with me “we were going to do something really fun... I’m not saying you should appreciate me...”</p>
+<p begin="00:49:22.947" end="00:49:27.947" style="s2">JUST_5HEAD: we are here, we are watching !</p>
+<p begin="00:49:23.377" end="00:49:28.377" style="s2">newhuman12912: talk to us</p>
+<p begin="00:49:32.384" end="00:49:37.384" style="s2">pastorgeorge: do your thing george we fuck around too</p>
+<p begin="00:49:34.419" end="00:49:39.419" style="s2">un3okapi: :)</p>
+<p begin="00:49:36.652" end="00:49:41.652" style="s2">napoleansolo9: and it is not 8th grade algebra</p>
+<p begin="00:49:42.043" end="00:49:47.043" style="s2">alluxua: I love you, I love you❤️❤️❤️❤️❤️❤️❤️</p>
+<p begin="00:49:49.011" end="00:49:54.011" style="s2">coProof: Light a candle rather than cursing the darkness</p>
+<p begin="00:49:49.484" end="00:49:54.484" style="s2">SatraiCycle: lets hack the ps4 LIVE</p>
+<p begin="00:49:55.930" end="00:50:00.930" style="s2">pastorgeorge: we fuck with you tonight,postively</p>
+<p begin="00:49:56.277" end="00:50:01.277" style="s2">Richardable: Everybody knows it irrational no need to prove ;)</p>
+<p begin="00:50:06.251" end="00:50:11.251" style="s2">newhuman12912: lol</p>
+<p begin="00:50:11.805" end="00:50:16.805" style="s2">PlayMore: asmoBan asmoBan asmoBan</p>
+<p begin="00:50:12.666" end="00:50:17.666" style="s2">napoleansolo9: lol</p>
+<p begin="00:50:14.618" end="00:50:19.618" style="s2">0xferruccio: what lang is that</p>
+<p begin="00:50:15.010" end="00:50:20.010" style="s2">coProof: Let’s find the next prime number</p>
+<p begin="00:50:19.514" end="00:50:24.514" style="s2">pastorgeorge: gimme a mod ima drop the hammer on the guy hard</p>
+<p begin="00:50:22.373" end="00:50:27.373" style="s2">oD_C: come on man i am here for this thing. continue! you have left me hanging.</p>
+<p begin="00:50:23.227" end="00:50:28.227" style="s2">napoleansolo9: let&#39;s do some AI shit</p>
+<p begin="00:50:24.113" end="00:50:29.113" style="s2">un3okapi: Error: Omega can&#39;t solve this system</p>
+<p begin="00:50:27.721" end="00:50:32.721" style="s2">un3okapi: :)</p>
+<p begin="00:50:27.864" end="00:50:32.864" style="s2">MonkaSupreme: lets hack a tesla Kappa</p>
+<p begin="00:50:30.083" end="00:50:35.083" style="s2">toolegit2quit_: @tomcr00s3 mainly here to see someone do it; not that many people make proving sqrt(2) is rational entertaining</p>
+<p begin="00:50:35.267" end="00:50:40.267" style="s2">newhuman12912: what do you expect? unaverage people</p>
+<p begin="00:50:38.863" end="00:50:43.863" style="s2">Zipzipcekirge: no mods in here</p>
+<p begin="00:50:39.086" end="00:50:44.086" style="s2">SatraiCycle: lul</p>
+<p begin="00:50:53.899" end="00:50:58.899" style="s2">JUST_5HEAD: the fuck is wrong with omega bro</p>
+<p begin="00:50:54.230" end="00:50:59.230" style="s2">alluxua: I feel the 17 year old geohot is back</p>
+<p begin="00:50:55.113" end="00:51:00.113" style="s2">SatraiCycle: @Zipzipcekirge selam panpa</p>
+<p begin="00:50:56.665" end="00:51:01.665" style="s2">PlayMore: mods WutFace</p>
+<p begin="00:50:56.851" end="00:51:01.851" style="s2">napoleansolo9: why don&#39;t you do something more fun and something that is practical??</p>
+<p begin="00:51:00.681" end="00:51:05.681" style="s2">coProof: Are you the first person to stream prove that sqrt2 is irrational?</p>
+<p begin="00:51:01.320" end="00:51:06.320" style="s2">teemoxx: i dont even know how to code an i can prove that sqrt2 is irrational lol xD haha Kappa</p>
+<p begin="00:51:03.671" end="00:51:08.671" style="s2">newhuman12912: George is an academic snob</p>
+<p begin="00:51:05.777" end="00:51:10.777" style="s2">brtk_9: you do ps4? -&gt; programming super 4dvanced</p>
+<p begin="00:51:13.610" end="00:51:18.610" style="s2">ytcracker: geo mod YTCracker</p>
+<p begin="00:51:13.930" end="00:51:18.930" style="s2">newhuman12912: no love</p>
+<p begin="00:51:20.083" end="00:51:25.083" style="s2">erichtp: cheer1 cheer1 cheer1 cheer1 cheer1 Hawthorne &gt; Glen Rock</p>
+<p begin="00:51:43.178" end="00:51:48.178" style="s2">alluxua: cheer1 cheer1</p>
+<p begin="00:51:48.927" end="00:51:53.927" style="s2">jurodiwy_777: basic programming stream PogChamp</p>
+<p begin="00:51:55.507" end="00:52:00.507" style="s2">newhuman12912: george, one day thousands of people will be watching an archive of this</p>
+<p begin="00:52:04.015" end="00:52:09.015" style="s2">brtk_9: @jurodiwy_777 oh so its not ps4?</p>
+<p begin="00:52:06.795" end="00:52:11.795" style="s2">teemoxx: is this a udemy corse ?</p>
+<p begin="00:52:15.711" end="00:52:20.711" style="s2">PlayMore: LUL</p>
+<p begin="00:52:24.150" end="00:52:29.150" style="s2">napoleansolo9: :(</p>
+<p begin="00:52:24.676" end="00:52:29.676" style="s2">asus_laptop: RUDE</p>
+<p begin="00:52:27.672" end="00:52:32.672" style="s2">napoleansolo9: :( :(</p>
+<p begin="00:52:27.811" end="00:52:32.811" style="s2">everybodytwitteraccount: twitch chat is ultra toxic</p>
+<p begin="00:52:33.303" end="00:52:38.303" style="s2">PlayMore: BibleThump</p>
+<p begin="00:52:39.179" end="00:52:44.179" style="s2">hartator1: bitch lasagna</p>
+<p begin="00:52:39.309" end="00:52:44.309" style="s2">ipinchkidsz: I don&#39;t understand why you&#39;d need to use the Peano successor function if the environment gives you direct access to numerals and the sum function</p>
+<p begin="00:52:40.552" end="00:52:45.552" style="s2">onu4r: yo</p>
+<p begin="00:52:40.660" end="00:52:45.660" style="s2">napoleansolo9: you&#39;re so condescending</p>
+<p begin="00:52:41.309" end="00:52:46.309" style="s2">homotron: a^2   2ab   b^2</p>
+<p begin="00:52:44.738" end="00:52:49.738" style="s2">pastorgeorge: im quite decent at programming when i care tbf</p>
+<p begin="00:52:45.237" end="00:52:50.237" style="s2">un3okapi: Does geohot really not know integrals????? :)</p>
+<p begin="00:52:45.333" end="00:52:50.333" style="s2">onu4r: where u at dawg</p>
+<p begin="00:52:49.324" end="00:52:54.324" style="s2">toolegit2quit_: Yeah just like that guy who pointed that you don’t know what an integral is</p>
+<p begin="00:52:50.137" end="00:52:55.137" style="s2">pastorgeorge: but now i just wanna chill</p>
+<p begin="00:52:55.931" end="00:53:00.931" style="s2">PlayMore: asmoShame asmoShame asmoShame</p>
+<p begin="00:52:56.318" end="00:53:01.318" style="s2">jurodiwy_777: Does geohot really not know integrals????? :)</p>
+<p begin="00:53:06.687" end="00:53:11.687" style="s2">oD_C: fucking euclid did it with no computers.</p>
+<p begin="00:53:12.558" end="00:53:17.558" style="s2">oD_C: 300bc</p>
+<p begin="00:53:14.575" end="00:53:19.575" style="s2">newhuman12912: george can you tell us about life</p>
+<p begin="00:53:17.834" end="00:53:22.834" style="s2">Fulk33: hey george :) do you know about https://adventofcode.com/</p>
+<p begin="00:53:20.346" end="00:53:25.346" style="s2">coProof: Should I just fork the driver monitoring challenge for someone to review my submission?</p>
+<p begin="00:53:24.352" end="00:53:29.352" style="s2">PlayMore: geohot thats a funny tag</p>
+<p begin="00:53:24.969" end="00:53:29.969" style="s2">Desperat22: just watch and dont trash talk ffs</p>
+<p begin="00:53:26.026" end="00:53:31.026" style="s2">480i: What are some good math books to learn from? AOPS?</p>
+<p begin="00:53:27.322" end="00:53:32.322" style="s2">teemoxx: lol dis programmer doesnt know what integral is xD</p>
+<p begin="00:53:30.396" end="00:53:35.396" style="s2">PlayMore: asmoGrill</p>
+<p begin="00:53:34.353" end="00:53:39.353" style="s2">toolegit2quit_: sarcasm people. He does know what an integral is</p>
+<p begin="00:53:37.268" end="00:53:42.268" style="s2">jurodiwy_777: XDDDD</p>
+<p begin="00:53:47.751" end="00:53:52.751" style="s2">PlayMore: programmer tappy tap</p>
+<p begin="00:53:52.518" end="00:53:57.518" style="s2">PlayMore: asmoDJ</p>
+<p begin="00:54:18.718" end="00:54:23.718" style="s2">PlayMore: ue</p>
+<p begin="00:54:26.768" end="00:54:31.768" style="s2">PlayMore: useless BrokeBack</p>
+<p begin="00:54:38.224" end="00:54:43.224" style="s2">michinplay: this is too salty for my coffee</p>
+<p begin="00:54:56.340" end="00:55:01.340" style="s2">onu4r: yo where u at dawg?</p>
+<p begin="00:55:02.713" end="00:55:07.713" style="s2">480i: We don&#39;t have any mods</p>
+<p begin="00:55:05.524" end="00:55:10.524" style="s2">newhuman12912: who? me?</p>
+<p begin="00:55:11.363" end="00:55:16.363" style="s2">PlayMore: asmoBan asmoBan asmoBan</p>
+<p begin="00:55:23.252" end="00:55:28.252" style="s2">napoleansolo9: haha</p>
+<p begin="00:55:34.962" end="00:55:39.962" style="s2">jurodiwy_777: haha</p>
+<p begin="00:56:02.581" end="00:56:07.581" style="s2">erichtp: cheer1 cheer1 Hawthorne &gt; Glen Rock</p>
+<p begin="00:56:10.323" end="00:56:15.323" style="s2">jurodiwy_777: wow 200 iq stream PogChamp</p>
+<p begin="00:56:16.365" end="00:56:21.365" style="s2">jurodiwy_777: who is this guy PogChamp</p>
+<p begin="00:56:30.522" end="00:56:35.522" style="s2">newhuman12912: george why don&#39;t you just google the solution bro</p>
+<p begin="00:56:36.981" end="00:56:41.981" style="s2">ZiklarxD: @tomcr00s3 what is the most interesting job you&#39;ve ever done? google zer0day project?</p>
+<p begin="00:56:41.465" end="00:56:46.465" style="s2">PlayMore: -200 iq here BrokeBack</p>
+<p begin="00:57:19.470" end="00:57:24.470" style="s2">PlayMore: asmoGreed asmoGreed asmoGreed</p>
+<p begin="00:57:38.319" end="00:57:43.319" style="s2">PlayMore: OK</p>
+<p begin="00:57:43.900" end="00:57:48.900" style="s2">oD_C: @jurodiwy_777 he is famous geohot. hacker since his youth now a billionaire wannabe. he is strong and fast with his mind. have a seat. i dont understand also. but i like to pretend</p>
+<p begin="00:58:02.964" end="00:58:07.964" style="s2">Bombapil0t: It&#39;s hard for the average to follow you at that pace and easier to troll. dont feed them.</p>
+<p begin="00:58:06.847" end="00:58:11.847" style="s2">napoleansolo9: I can totally understand how George feels looking at this chat :D</p>
+<p begin="00:58:09.739" end="00:58:14.739" style="s2">PlayMore: WOW</p>
+<p begin="00:58:18.288" end="00:58:23.288" style="s2">PlayMore: nice</p>
+<p begin="00:58:23.053" end="00:58:28.053" style="s2">PlayMore: PogChamp</p>
+<p begin="00:58:38.083" end="00:58:43.083" style="s2">Richardable: He still on his tour?</p>
+<p begin="00:58:43.748" end="00:58:48.748" style="s2">newhuman12912: if you don&#39;t want money, why are you streaming??? exhibitionism?</p>
+<p begin="00:58:44.926" end="00:58:49.926" style="s2">PlayMore: math</p>
+<p begin="00:58:53.468" end="00:58:58.468" style="s2">PlayMore: 4Head</p>
+<p begin="00:59:00.797" end="00:59:05.797" style="s2">napoleansolo9: All I can see is he&#39;s pissed off at me and some other people</p>
+<p begin="00:59:05.965" end="00:59:10.965" style="s2">Fulk33: do people write actual proofs with coq? or where does this get used?</p>
+<p begin="00:59:16.211" end="00:59:21.211" style="s2">alluxua: It is a distraction from his daily work, kind of like a relaxation</p>
+<p begin="00:59:21.033" end="00:59:26.033" style="s2">jurodiwy_777: 4Head NICE</p>
+<p begin="00:59:27.702" end="00:59:32.702" style="s2">PlayMore: NICW</p>
+<p begin="00:59:33.233" end="00:59:38.233" style="s2">PlayMore: asmoHYPE</p>
+<p begin="00:59:36.750" end="00:59:41.750" style="s2">PlayMore: NICE</p>
+<p begin="00:59:49.557" end="00:59:54.557" style="s2">davidsit_site: exclusive</p>
+<p begin="00:59:59.898" end="01:00:04.898" style="s2">davidsit_site: 1 xor 1</p>
+<p begin="01:00:07.213" end="01:00:12.213" style="s2">davidsit_site: false</p>
+<p begin="01:00:09.441" end="01:00:14.441" style="s2">PlayMore: sub mode only Kappa</p>
+<p begin="01:00:51.153" end="01:00:56.153" style="s2">newhuman12912: he&#39;</p>
+<p begin="01:00:58.600" end="01:01:03.600" style="s2">newhuman12912: he&#39;s pissed because he&#39;s smarter than us</p>
+<p begin="01:01:05.401" end="01:01:10.401" style="s2">napoleansolo9: Mind explaining what language you are typing in?</p>
+<p begin="01:01:19.193" end="01:01:24.193" style="s2">teemoxx: english</p>
+<p begin="01:01:32.491" end="01:01:37.491" style="s2">Fulk33: @napoleansolo9 its not a language per se . https://en.wikipedia.org/wiki/Coq</p>
+<p begin="01:01:33.467" end="01:01:38.467" style="s2">alluxua: Lol</p>
+<p begin="01:01:35.760" end="01:01:40.760" style="s2">newhuman12912: E N G L I S H</p>
+<p begin="01:02:17.217" end="01:02:22.217" style="s2">napoleansolo9: ok so it is mostly for calculus stuff right?</p>
+<p begin="01:02:31.381" end="01:02:36.381" style="s2">Fulk33: no...</p>
+<p begin="01:02:33.686" end="01:02:38.686" style="s2">napoleansolo9: I mean to prove theorems related to Calculus</p>
+<p begin="01:02:41.284" end="01:02:46.284" style="s2">ytcracker: matlab gang</p>
+<p begin="01:03:10.805" end="01:03:15.805" style="s2">frauth: yo yo yo look what I found... https://www.youtube.com/watch?v=9iUvuaChDEg</p>
+<p begin="01:03:18.940" end="01:03:23.940" style="s2">ipinchkidsz: I&#39;ve never used Coq but this seems very roundabout. Is it not possible to use the definition of evenness? Namely, Even(x) &lt;=&gt; exists y. 2*y = x?</p>
+<p begin="01:03:31.913" end="01:03:36.913" style="s2">newhuman12912: I&#39;m gettin sued by sony!</p>
+<p begin="01:04:17.052" end="01:04:22.052" style="s2">newhuman12912: personification of freedom for all</p>
+<p begin="01:04:24.485" end="01:04:29.485" style="s2">alluxua: Come on, guys. No talk of Sony</p>
+<p begin="01:04:32.180" end="01:04:37.180" style="s2">napoleansolo9: I can see that it is being used as a compiler for C programming language, something called CompCert</p>
+<p begin="01:04:57.297" end="01:05:02.297" style="s2">jimmy_bullard_: proof by contradiction is fastest way imo</p>
+<p begin="01:05:19.664" end="01:05:24.664" style="s2">luxbock: if you have not used a proof assistant before, I would say proving the irrationality of sqrt(2) is a pretty tall task, I would do something easier first</p>
+<p begin="01:05:29.522" end="01:05:34.522" style="s2">newhuman12912: yo can you do a Q&amp;A</p>
+<p begin="01:05:35.562" end="01:05:40.562" style="s2">frauth: emacs? bro what happened to vim?</p>
+<p begin="01:05:54.449" end="01:05:59.449" style="s2">erichtp: @ytcracker didi or crim</p>
+<p begin="01:06:22.870" end="01:06:27.870" style="s2">davidsit_site: https://github.com/coq/coq/wiki/MathClasses</p>
+<p begin="01:06:43.046" end="01:06:48.046" style="s2">davidsit_site: https://math-classes.github.io/publications.html</p>
+<p begin="01:06:53.659" end="01:06:58.659" style="s2">jimmy_bullard_: id start by assuming root 2 is rational then finding a contradiction</p>
+<p begin="01:07:57.409" end="01:08:02.409" style="s2">Pryetranka: D:</p>
+<p begin="01:07:59.514" end="01:08:04.514" style="s2">newhuman12912: :&#39;(</p>
+<p begin="01:08:02.313" end="01:08:07.313" style="s2">jotembruv: thats why we&#39;re here BABYYYYYY TO SPAM GARBAGE</p>
+<p begin="01:08:03.834" end="01:08:08.834" style="s2">un3okapi: 90%? You mean 99%</p>
+<p begin="01:08:13.628" end="01:08:18.628" style="s2">oD_C: @napoleansolo9 did he call us trash?</p>
+<p begin="01:08:20.240" end="01:08:25.240" style="s2">newhuman12912: dam</p>
+<p begin="01:08:31.749" end="01:08:36.749" style="s2">napoleansolo9: lol</p>
+<p begin="01:08:33.568" end="01:08:38.568" style="s2">newhuman12912: make me mod i&#39;ll ban &#39;em</p>
+<p begin="01:08:34.109" end="01:08:39.109" style="s2">napoleansolo9: hahaha</p>
+<p begin="01:08:36.425" end="01:08:41.425" style="s2">jimmy_bullard_: ill try prove square of an even number is even haha</p>
+<p begin="01:08:42.222" end="01:08:47.222" style="s2">Pryetranka: you dont even have mods in here what do you mean</p>
+<p begin="01:09:28.888" end="01:09:33.888" style="s2">newhuman12912: god damn</p>
+<p begin="01:09:49.295" end="01:09:54.295" style="s2">newhuman12912: we already got an inferiority complex from you</p>
+<p begin="01:09:58.802" end="01:10:03.802" style="s2">napoleansolo9: I have a solution for you, but I am afraid I must not share that, because if I do then there won&#39;t be any garbage chat anymore - less fun</p>
+<p begin="01:10:25.041" end="01:10:30.041" style="s2">napoleansolo9: but I can still do it if you really want to know that solution.</p>
+<p begin="01:10:36.978" end="01:10:41.978" style="s2">nestradalink2: what language is that?</p>
+<p begin="01:10:44.642" end="01:10:49.642" style="s2">napoleansolo9: @nestradalink2 it Coq</p>
+<p begin="01:11:08.031" end="01:11:13.031" style="s2">newhuman12912: hi George were you ever a retarded twitch chatter like us? Is there hope we can one day be competent, like you?</p>
+<p begin="01:11:18.932" end="01:11:23.932" style="s2">didtux: oD_C he is just here for the subscriptions</p>
+<p begin="01:11:45.461" end="01:11:50.461" style="s2">Pryetranka: PogChamp</p>
+<p begin="01:11:50.495" end="01:11:55.495" style="s2">foxubu: @newhuman12912 are you newtomcr00se?</p>
+<p begin="01:11:53.614" end="01:11:58.614" style="s2">NoCeasefires: all this newfound power</p>
+<p begin="01:11:55.283" end="01:12:00.283" style="s2">ZiklarxD: @tomcr00s3 mod me, ill ban 90% of ur chat</p>
+<p begin="01:11:57.325" end="01:12:02.325" style="s2">Fulk33: next up: There exists infinitely many prime numbers. maybe @tomcr00s3 ?</p>
+<p begin="01:12:15.085" end="01:12:20.085" style="s2">newhuman12912: woa</p>
+<p begin="01:12:37.461" end="01:12:42.461" style="s2">MonkaSupreme: guys lets count to 100 to prove we are smart :)</p>
+<p begin="01:12:38.726" end="01:12:43.726" style="s2">Richardable: Next is the riemann hypothesis</p>
+<p begin="01:12:39.194" end="01:12:44.194" style="s2">MonkaSupreme: 1</p>
+<p begin="01:12:49.592" end="01:12:54.592" style="s2">Pryetranka: no :)</p>
+<p begin="01:12:51.070" end="01:12:56.070" style="s2">napoleansolo9: you will get banned by the time you reach 20</p>
+<p begin="01:12:55.757" end="01:13:00.757" style="s2">napoleansolo9: @MonkaSupreme</p>
+<p begin="01:13:00.440" end="01:13:05.440" style="s2">teemoxx: Who of you hacked my Netflix and reactivated my subscription ?</p>
+<p begin="01:13:08.378" end="01:13:13.378" style="s2">napoleansolo9: since you are a sub that would be 30</p>
+<p begin="01:13:24.645" end="01:13:29.645" style="s2">newhuman12912: i don&#39;t believe in equality</p>
+<p begin="01:13:24.905" end="01:13:29.905" style="s2">Pryetranka: he&#39;s not tho</p>
+<p begin="01:13:33.148" end="01:13:38.148" style="s2">davidsit_site: teemoxx, what was your email again?</p>
+<p begin="01:13:42.978" end="01:13:47.978" style="s2">oD_C: 2</p>
+<p begin="01:13:44.465" end="01:13:49.465" style="s2">dorkmo: is there a user manual on omega?</p>
+<p begin="01:13:57.050" end="01:14:02.050" style="s2">newhuman12912: who is mod</p>
+<p begin="01:14:03.289" end="01:14:08.289" style="s2">gibeg: ur mum</p>
+<p begin="01:14:11.492" end="01:14:16.492" style="s2">jotembruv: rekt lul</p>
+<p begin="01:14:12.586" end="01:14:17.586" style="s2">Pryetranka: jimmy guy</p>
+<p begin="01:14:29.014" end="01:14:34.014" style="s2">jimmy_bullard_: i might go learn this syntax</p>
+<p begin="01:14:36.704" end="01:14:41.704" style="s2">napoleansolo9: **Calls it basic programming Teaches high level shit he himself doesn&#39;t understand**</p>
+<p begin="01:14:51.961" end="01:14:56.961" style="s2">newhuman12912: BAN napolean</p>
+<p begin="01:14:53.610" end="01:14:58.610" style="s2">davidsit_site: haha</p>
+<p begin="01:14:55.461" end="01:15:00.461" style="s2">teemoxx: @dorkmo urmom@gay.com</p>
+<p begin="01:14:58.509" end="01:15:03.509" style="s2">Pryetranka: mrbongS</p>
+<p begin="01:15:05.377" end="01:15:10.377" style="s2">napoleansolo9: why should I be bammed?</p>
+<p begin="01:15:06.520" end="01:15:11.520" style="s2">newhuman12912: BAN teemoxx</p>
+<p begin="01:15:15.160" end="01:15:20.160" style="s2">teemoxx: Wtf</p>
+<p begin="01:15:24.366" end="01:15:29.366" style="s2">oD_C: dont ban napoleon. he tells the truth. this is twitch not some kind of university for supercharged minds.</p>
+<p begin="01:15:31.902" end="01:15:36.902" style="s2">newhuman12912: BAN oD_C</p>
+<p begin="01:15:34.728" end="01:15:39.728" style="s2">oD_C: we understand slow. but we do understand at the end</p>
+<p begin="01:15:38.060" end="01:15:43.060" style="s2">napoleansolo9: exactly @oD_C</p>
+<p begin="01:16:21.163" end="01:16:26.163" style="s2">jotembruv: @napoleansolo9 @oD_C youre wasting your time sadly</p>
+<p begin="01:16:23.114" end="01:16:28.114" style="s2">newhuman12912: look i deserve to be mod because i&#39;ll ban everyone</p>
+<p begin="01:16:44.985" end="01:16:49.985" style="s2">jotembruv: i think newhuman 12912 deserves a ban cuz his name looks dumb</p>
+<p begin="01:16:45.989" end="01:16:50.989" style="s2">napoleansolo9: well, I can&#39;t give a precise timeframe for that &#39;end &#39; to arrive but yeah @oD_C</p>
+<p begin="01:17:21.804" end="01:17:26.804" style="s2">newhuman12912: @jotembruv ur name = dum</p>
+<p begin="01:17:33.585" end="01:17:38.585" style="s2">napoleansolo9: @jotembruv you don&#39;t bully people here</p>
+<p begin="01:17:42.002" end="01:17:47.002" style="s2">teemoxx: Did he finish the compression thing he did last Time ?</p>
+<p begin="01:17:46.902" end="01:17:51.902" style="s2">jotembruv: ill hack your runescape account</p>
+<p begin="01:17:52.441" end="01:17:57.441" style="s2">napoleansolo9: :(</p>
+<p begin="01:17:55.675" end="01:18:00.675" style="s2">newhuman12912: ban jotembruv</p>
+<p begin="01:17:59.567" end="01:18:04.567" style="s2">napoleansolo9: yes please</p>
+<p begin="01:18:02.172" end="01:18:07.172" style="s2">erichtp: @jotembruv not my gp :(</p>
+<p begin="01:18:05.155" end="01:18:10.155" style="s2">PlayMore: he is still at it PogChamp</p>
+<p begin="01:18:11.872" end="01:18:16.872" style="s2">alluxua: Grow up, guys</p>
+<p begin="01:18:13.722" end="01:18:18.722" style="s2">PlayMore: IS HE A MrDestructoid</p>
+<p begin="01:18:19.095" end="01:18:24.095" style="s2">Pryetranka: yup</p>
+<p begin="01:18:24.156" end="01:18:29.156" style="s2">RSPwner_: ayo</p>
+<p begin="01:18:27.814" end="01:18:32.814" style="s2">PlayMore: never stops the grind</p>
+<p begin="01:18:38.955" end="01:18:43.955" style="s2">newhuman12912: let&#39;s make a list of people who deserve to be banned</p>
+<p begin="01:18:40.663" end="01:18:45.663" style="s2">PlayMore: keeps at it</p>
+<p begin="01:18:43.176" end="01:18:48.176" style="s2">PlayMore: asmoDJ</p>
+<p begin="01:18:52.482" end="01:18:57.482" style="s2">PlayMore: tappity tap</p>
+<p begin="01:18:57.015" end="01:19:02.015" style="s2">q7v6rhgfzc8tnj3d: What is the Mission Tonight ?</p>
+<p begin="01:19:03.447" end="01:19:08.447" style="s2">RSPwner_: what is coq?</p>
+<p begin="01:19:17.826" end="01:19:22.826" style="s2">napoleansolo9: something that you see in your pants</p>
+<p begin="01:19:24.050" end="01:19:29.050" style="s2">RSPwner_: l</p>
+<p begin="01:19:25.186" end="01:19:30.186" style="s2">oD_C: @jotembruv yeah stop bullying us. do you think you are more clever? do you really understand this stream?</p>
+<p begin="01:19:26.047" end="01:19:31.047" style="s2">newhuman12912: google it</p>
+<p begin="01:19:33.283" end="01:19:38.283" style="s2">480i: @RSPwner_ https://en.wikipedia.org/wiki/Coq</p>
+<p begin="01:19:36.819" end="01:19:41.819" style="s2">PlayMore: @rspwner_ NICE SUB</p>
+<p begin="01:19:37.927" end="01:19:42.927" style="s2">jotembruv: @oD_C are you serious or?</p>
+<p begin="01:19:40.351" end="01:19:45.351" style="s2">PlayMore: PogChamp</p>
+<p begin="01:19:45.849" end="01:19:50.849" style="s2">newhuman12912: ban @jotembruv, @oD_C , @napoleansolo9</p>
+<p begin="01:19:50.374" end="01:19:55.374" style="s2">Nesquik80: hey</p>
+<p begin="01:19:52.048" end="01:19:57.048" style="s2">newhuman12912: ban me too</p>
+<p begin="01:19:53.657" end="01:19:58.657" style="s2">PlayMore: asmoDJ asmoDJ asmoDJ</p>
+<p begin="01:19:54.939" end="01:19:59.939" style="s2">davidsit_site: Attention, call all Hotz Twitchies. It&#39;s time to rise and grind. Teemoxx&#39;s bank account is in grave danger. Our friend had his login creds trapped by a spoofed advertisement. And the only one who can help hims is you. To save him, what he needs is your credit card number, the three numbers on the back, as well as the expiration month and date. Be swift, twichings. You have got to gather the sacrificial information and then download ublock origin to prevent this from happening again</p>
+<p begin="01:20:00.054" end="01:20:05.054" style="s2">napoleansolo9: yeah calm tf down @newhuman12912</p>
+<p begin="01:20:11.775" end="01:20:16.775" style="s2">PlayMore: tap tap programmer vibe tap tap</p>
+<p begin="01:20:14.306" end="01:20:19.306" style="s2">PlayMore: asmoDJ asmoDJ</p>
+<p begin="01:20:18.337" end="01:20:23.337" style="s2">jimmy_bullard_: whats the mod policy on ableist language?</p>
+<p begin="01:20:27.775" end="01:20:32.775" style="s2">newhuman12912: @davidsit_site wtf spam</p>
+<p begin="01:20:31.754" end="01:20:36.754" style="s2">PlayMore: mods WutFace</p>
+<p begin="01:20:33.787" end="01:20:38.787" style="s2">davidsit_site: lol</p>
+<p begin="01:20:37.692" end="01:20:42.692" style="s2">PlayMore: monkaS</p>
+<p begin="01:20:39.786" end="01:20:44.786" style="s2">Pryetranka: just ban them mrbongHS</p>
+<p begin="01:20:44.513" end="01:20:49.513" style="s2">ytcracker: mod m</p>
+<p begin="01:20:46.359" end="01:20:51.359" style="s2">ytcracker: mod me</p>
+<p begin="01:20:46.952" end="01:20:51.952" style="s2">Pryetranka: rekt</p>
+<p begin="01:20:47.996" end="01:20:52.996" style="s2">erichtp: LUL ableist language</p>
+<p begin="01:20:48.633" end="01:20:53.633" style="s2">jimmy_bullard_: hahaha</p>
+<p begin="01:20:50.248" end="01:20:55.248" style="s2">newhuman12912: lol</p>
+<p begin="01:20:51.436" end="01:20:56.436" style="s2">gibeg: heeeeeeeee</p>
+<p begin="01:20:54.952" end="01:20:59.952" style="s2">jakeadelman: dood gemming out</p>
+<p begin="01:20:58.431" end="01:21:03.431" style="s2">q7v6rhgfzc8tnj3d: what do you wann proof ?</p>
+<p begin="01:20:58.474" end="01:21:03.474" style="s2">dorkmo: bannnnnnnnnned</p>
+<p begin="01:20:58.983" end="01:21:03.983" style="s2">ytcracker: damnit</p>
+<p begin="01:20:59.664" end="01:21:04.664" style="s2">oD_C: ban @newhuman12912 and stop harassing us mate. you make this whole stream even more difficult. i am trying to get my head together</p>
+<p begin="01:20:59.711" end="01:21:04.711" style="s2">napoleansolo9: define stupi dquesitons</p>
+<p begin="01:21:00.482" end="01:21:05.482" style="s2">newhuman12912: George is authoritarian lol</p>
+<p begin="01:21:01.401" end="01:21:06.401" style="s2">PlayMore: unmodded monkaS</p>
+<p begin="01:21:06.185" end="01:21:11.185" style="s2">PlayMore: WutFace</p>
+<p begin="01:21:12.910" end="01:21:17.910" style="s2">oD_C: @tomcr00s3 hey can i be a mod. i am 35 years old and i am very strict</p>
+<p begin="01:21:13.293" end="01:21:18.293" style="s2">foxubu: me :)</p>
+<p begin="01:21:18.545" end="01:21:23.545" style="s2">PlayMore: asmoShame</p>
+<p begin="01:21:22.290" end="01:21:27.290" style="s2">ytcracker: hack the planet</p>
+<p begin="01:21:31.086" end="01:21:36.086" style="s2">PlayMore: hack the cracker</p>
+<p begin="01:21:31.380" end="01:21:36.380" style="s2">papa_picante: oD_C LUL</p>
+<p begin="01:21:35.038" end="01:21:40.038" style="s2">newhuman12912: lol</p>
+<p begin="01:21:39.907" end="01:21:44.907" style="s2">PlayMore: asmoShame</p>
+<p begin="01:21:40.386" end="01:21:45.386" style="s2">napoleansolo9: yes make @oD_C mod</p>
+<p begin="01:21:47.603" end="01:21:52.603" style="s2">ytcracker: i have an interesting collection of rare earth magnets</p>
+<p begin="01:21:51.783" end="01:21:56.783" style="s2">q7v6rhgfzc8tnj3d: @tomcr00s3 Can I be mod I am rich and cool as well, ah and I am 85 and very srict</p>
+<p begin="01:21:59.442" end="01:22:04.442" style="s2">gibeg: hEy LoOk aT Me iM x y/o MODME</p>
+<p begin="01:22:04.581" end="01:22:09.581" style="s2">PlayMore: asmoBan asmoBan</p>
+<p begin="01:22:13.593" end="01:22:18.593" style="s2">ZiklarxD: hi i have 200 iq can i mod plx</p>
+<p begin="01:22:15.559" end="01:22:20.559" style="s2">oD_C: @tomcr00s3 the chat demands that i am the next mod. make it happen and the problems with the chat will be gone in less than 30sec. i promise</p>
+<p begin="01:22:17.643" end="01:22:22.643" style="s2">PlayMore: sub chat mode enabled</p>
+<p begin="01:22:20.322" end="01:22:25.322" style="s2">napoleansolo9: @newhuman12912 what tf is your problem?</p>
+<p begin="01:22:25.210" end="01:22:30.210" style="s2">PlayMore: PurpleStar</p>
+<p begin="01:22:32.001" end="01:22:37.001" style="s2">PlayMore: chat only</p>
+<p begin="01:22:38.666" end="01:22:43.666" style="s2">Pryetranka: no :)</p>
+<p begin="01:22:40.057" end="01:22:45.057" style="s2">PlayMore: asmoShame</p>
+<p begin="01:22:41.149" end="01:22:46.149" style="s2">q7v6rhgfzc8tnj3d: @newhuman12912 for moderator, copy and paste to raise attention</p>
+<p begin="01:23:07.013" end="01:23:12.013" style="s2">PlayMore: asmoBan</p>
+<p begin="01:23:07.103" end="01:23:12.103" style="s2">napoleansolo9: yes ban @newhuman12912</p>
+<p begin="01:23:17.803" end="01:23:22.803" style="s2">napoleansolo9: BAN @newhuman12912</p>
+<p begin="01:23:23.673" end="01:23:28.673" style="s2">jotembruv: i vote  1 for od_c ban</p>
+<p begin="01:23:28.420" end="01:23:33.420" style="s2">PlayMore: @newhuman12912 asmoBan</p>
+<p begin="01:23:40.198" end="01:23:45.198" style="s2">napoleansolo9: @newhuman12912 BAN</p>
+<p begin="01:23:50.801" end="01:23:55.801" style="s2">PlayMore: @napoleansolo9 BAN asmoBan</p>
+<p begin="01:23:55.568" end="01:24:00.568" style="s2">alluxua: I feel back high school seeing you guys chatting here. Damn adorable</p>
+<p begin="01:24:01.800" end="01:24:06.800" style="s2">keepingtrckofthisacct: ----&gt;&gt; guys, cut it out. he&#39;s going to ban the entire chat and shutdown!!!!!</p>
+<p begin="01:24:10.825" end="01:24:15.825" style="s2">jotembruv: ban these banlist spammers please</p>
+<p begin="01:24:16.116" end="01:24:21.116" style="s2">napoleansolo9: yes @oD_C is right</p>
+<p begin="01:24:34.853" end="01:24:39.853" style="s2">Pryetranka: huge</p>
+<p begin="01:24:37.612" end="01:24:42.612" style="s2">napoleansolo9: comeone he&#39;s 29</p>
+<p begin="01:24:52.218" end="01:24:57.218" style="s2">ZiklarxD: actually i&#39;d love to see you run for prez @tomcr00s3</p>
+<p begin="01:25:08.729" end="01:25:13.729" style="s2">jimmy_bullard_: where are we in the proof</p>
+<p begin="01:25:21.941" end="01:25:26.941" style="s2">dorkmo: in the middle</p>
+<p begin="01:25:44.366" end="01:25:49.366" style="s2">Pryetranka: yes i see Kappa</p>
+<p begin="01:25:49.250" end="01:25:54.250" style="s2">jimmy_bullard_: nope</p>
+<p begin="01:25:53.389" end="01:25:58.389" style="s2">yordrar: nop</p>
+<p begin="01:26:01.614" end="01:26:06.614" style="s2">alluxua: @dorkmo , are you a mod?</p>
+<p begin="01:26:03.406" end="01:26:08.406" style="s2">jimmy_bullard_: @dorkmo well</p>
+<p begin="01:26:04.667" end="01:26:09.667" style="s2">dorkmo: please pay attention</p>
+<p begin="01:26:08.267" end="01:26:13.267" style="s2">dorkmo: to the video</p>
+<p begin="01:26:10.057" end="01:26:15.057" style="s2">rattata400: @tomcr00s3 hello finally you are live :D</p>
+<p begin="01:26:13.111" end="01:26:18.111" style="s2">ytcracker: output in LaTeX</p>
+<p begin="01:26:13.185" end="01:26:18.185" style="s2">MonkaSupreme: False means?</p>
+<p begin="01:26:26.763" end="01:26:31.763" style="s2">erichtp: cheer1 cheer1 cheer1 q</p>
+<p begin="01:26:45.205" end="01:26:50.205" style="s2">ytcracker: qed</p>
+<p begin="01:27:09.721" end="01:27:14.721" style="s2">Pryetranka: it has started chat mrbongS</p>
+<p begin="01:27:10.543" end="01:27:15.543" style="s2">davidsit_site: almost always; but in person not on the internet</p>
+<p begin="01:27:15.099" end="01:27:20.099" style="s2">L0lwhatZiga: all the time? they&#39;re called teachers?</p>
+<p begin="01:27:36.565" end="01:27:41.565" style="s2">Reptilia0: what are we doing</p>
+<p begin="01:27:37.112" end="01:27:42.112" style="s2">ZiklarxD: rip</p>
+<p begin="01:27:40.030" end="01:27:45.030" style="s2">Pryetranka: rekt</p>
+<p begin="01:27:49.969" end="01:27:54.969" style="s2">ytcracker: wait does coq have the axioms</p>
+<p begin="01:27:58.833" end="01:28:03.833" style="s2">foxubu: tbh, it is hard to follow without knowing Coq.</p>
+<p begin="01:28:06.804" end="01:28:11.804" style="s2">Reptilia0: what are you trying to prove?</p>
+<p begin="01:28:15.738" end="01:28:20.738" style="s2">ytcracker: sqrt 2 is irrational</p>
+<p begin="01:28:23.899" end="01:28:28.899" style="s2">jimmy_bullard_: can you say the theorems in words? i dont think chat understands coq</p>
+<p begin="01:28:25.907" end="01:28:30.907" style="s2">davidb881: is this Java?</p>
+<p begin="01:28:29.116" end="01:28:34.116" style="s2">foxubu: Though it is kinda intuitiv, yet i&#39;m not sure how to interpret it. Is it like Lisp?</p>
+<p begin="01:28:29.896" end="01:28:34.896" style="s2">ipinchkidsz: apply the definition of evenness again</p>
+<p begin="01:28:35.001" end="01:28:40.001" style="s2">Reptilia0: sqrt (2) i doubt you can prove that by induciton, its proved by contradiction</p>
+<p begin="01:28:38.939" end="01:28:43.939" style="s2">ZiklarxD: lol that really is bullshit</p>
+<p begin="01:28:43.444" end="01:28:48.444" style="s2">josalt1: Hey everyone</p>
+<p begin="01:28:44.214" end="01:28:49.214" style="s2">keepingtrckofthisacct: @davidb881 no</p>
+<p begin="01:28:44.799" end="01:28:49.799" style="s2">jimmy_bullard_: @Reptilia0 yes</p>
+<p begin="01:29:08.074" end="01:29:13.074" style="s2">Reptilia0: @tomcr00s3 which one?</p>
+<p begin="01:29:34.541" end="01:29:39.541" style="s2">Fulk33: what does &quot;even is xor&quot; mean?</p>
+<p begin="01:29:37.986" end="01:29:42.986" style="s2">ipinchkidsz: suppose x is even. then exists y such that 2*y = x. now x   1 = 2*y   1, hence x 1 is odd</p>
+<p begin="01:29:42.129" end="01:29:47.129" style="s2">ytcracker: exclusive or</p>
+<p begin="01:29:44.995" end="01:29:49.995" style="s2">Fulk33: what are we trying to prove</p>
+<p begin="01:30:27.717" end="01:30:32.717" style="s2">Reptilia0: o7</p>
+<p begin="01:31:07.036" end="01:31:12.036" style="s2">ytcracker: o7 eve online</p>
+<p begin="01:31:10.372" end="01:31:15.372" style="s2">ipinchkidsz: suppose x is odd. then exists y such that 2*y   1 = x. now x 1 = 2*y 1 = 2*(y 1), hence x 1 is even</p>
+<p begin="01:31:34.152" end="01:31:39.152" style="s2">Reptilia0: you mean 2y 2</p>
+<p begin="01:31:40.566" end="01:31:45.566" style="s2">ytcracker: select case</p>
+<p begin="01:31:49.145" end="01:31:54.145" style="s2">ipinchkidsz: I did mean that Reptilia0, thanks, typo</p>
+<p begin="01:32:28.252" end="01:32:33.252" style="s2">Reptilia0: What is the lemma we want to prove?</p>
+<p begin="01:32:44.825" end="01:32:49.825" style="s2">ytcracker: 2 evens cant be relatively prime</p>
+<p begin="01:32:51.095" end="01:32:56.095" style="s2">repxanhoe: In what is he programming? And what is he programming</p>
+<p begin="01:33:07.338" end="01:33:12.338" style="s2">foxubu: @repxanhoe see the title</p>
+<p begin="01:33:08.632" end="01:33:13.632" style="s2">Oweiii: Hi mate, greetings from Poland</p>
+<p begin="01:33:26.622" end="01:33:31.622" style="s2">repxanhoe: What is the programming language?</p>
+<p begin="01:33:30.146" end="01:33:35.146" style="s2">ytcracker: coq</p>
+<p begin="01:33:35.206" end="01:33:40.206" style="s2">ipinchkidsz: you know, after banning a handful of people, it&#39;s suddenly less nonsensical in here</p>
+<p begin="01:33:36.210" end="01:33:41.210" style="s2">Fulk33: https://en.wikipedia.org/wiki/Coq</p>
+<p begin="01:33:38.835" end="01:33:43.835" style="s2">Reptilia0: 2 numbers are relatively prime if theri gcd is 1. If they are both even the gcd is 2</p>
+<p begin="01:33:44.235" end="01:33:49.235" style="s2">repxanhoe: Oooh okay hah thank you</p>
+<p begin="01:33:44.395" end="01:33:49.395" style="s2">gibeg: trudat</p>
+<p begin="01:33:45.834" end="01:33:50.834" style="s2">Reptilia0: at least*</p>
+<p begin="01:34:19.523" end="01:34:24.523" style="s2">rattata400: @tomcr00s3 what is the purpose of proving this in this case? :)</p>
+<p begin="01:34:29.781" end="01:34:34.781" style="s2">ytcracker: thought exercise</p>
+<p begin="01:34:49.433" end="01:34:54.433" style="s2">alluxua: Geohot always has a math thing since high school</p>
+<p begin="01:34:51.436" end="01:34:56.436" style="s2">rattata400: @ytcracker ok I thought it was a part of ai</p>
+<p begin="01:34:56.750" end="01:35:01.750" style="s2">rattata400: or something :D</p>
+<p begin="01:36:37.795" end="01:36:42.795" style="s2">dorkmo: https://github.com/geohot/twitchchess</p>
+<p begin="01:37:29.555" end="01:37:34.555" style="s2">Fulk33: @tomcr00s3 de morgan?</p>
+<p begin="01:38:46.896" end="01:38:51.896" style="s2">oD_C: test</p>
+<p begin="01:38:51.732" end="01:38:56.732" style="s2">Reptilia0: test passed</p>
+<p begin="01:39:35.493" end="01:39:40.493" style="s2">oD_C: ok. now i am going to be contructive on the chat.</p>
+<p begin="01:39:37.433" end="01:39:42.433" style="s2">gustavo_mejia15: maje</p>
+<p begin="01:40:06.312" end="01:40:11.312" style="s2">MonkaSupreme: use omega. :)</p>
+<p begin="01:40:13.656" end="01:40:18.656" style="s2">gibeg: in*</p>
+<p begin="01:40:56.282" end="01:41:01.282" style="s2">highfi_cs: what language is this?</p>
+<p begin="01:41:02.437" end="01:41:07.437" style="s2">Reptilia0: coq i think?</p>
+<p begin="01:41:04.237" end="01:41:09.237" style="s2">dorkmo: https://en.wikipedia.org/wiki/Coq</p>
+<p begin="01:41:06.024" end="01:41:11.024" style="s2">Fulk33: @highfi_cs https://en.wikipedia.org/wiki/Coq</p>
+<p begin="01:41:06.125" end="01:41:11.125" style="s2">theoryshop: coq. hence coq files.</p>
+<p begin="01:41:17.780" end="01:41:22.780" style="s2">jimmy_bullard_: doesnt not not a = a?</p>
+<p begin="01:41:53.037" end="01:41:58.037" style="s2">luxbock: are you sure that you want to be mucking around with booleans? I am not familiar with Coq but I have used Lean</p>
+<p begin="01:42:19.203" end="01:42:24.203" style="s2">luxbock: in Lean booleans are not used for talking about propositions</p>
+<p begin="01:42:58.649" end="01:43:03.649" style="s2">jimmy_bullard_: cant you just apply neg to both sides then</p>
+<p begin="01:43:31.492" end="01:43:36.492" style="s2">Fulk33: you can replace the implies with not or</p>
+<p begin="01:43:46.437" end="01:43:51.437" style="s2">jimmy_bullard_: me either mate</p>
+<p begin="01:44:09.332" end="01:44:14.332" style="s2">Vjasal_: case a: reflective. doesn&#39;t work?</p>
+<p begin="01:45:01.378" end="01:45:06.378" style="s2">th3_maj0r: yo boyz</p>
+<p begin="01:45:07.397" end="01:45:12.397" style="s2">gibeg: sup</p>
+<p begin="01:46:29.153" end="01:46:34.153" style="s2">dorkmo: https://en.wikipedia.org/wiki/Square_root_of_2</p>
+<p begin="01:46:29.447" end="01:46:34.447" style="s2">jimmy_bullard_: this reminds me of logicomix</p>
+<p begin="01:46:33.409" end="01:46:38.409" style="s2">MacoNighto: My teachers built this language however I never learn it</p>
+<p begin="01:47:01.913" end="01:47:06.913" style="s2">gibeg: wish i could rewind</p>
+<p begin="01:47:04.892" end="01:47:09.892" style="s2">MacoNighto: However I did Ocaml a lot</p>
+<p begin="01:48:09.341" end="01:48:14.341" style="s2">Vjasal_: destruct on b</p>
+<p begin="01:48:13.888" end="01:48:18.888" style="s2">Vjasal_: instead of a</p>
+<p begin="01:48:17.578" end="01:48:22.578" style="s2">ytcracker: im gonna jam out big homie text me &lt;3</p>
+<p begin="01:48:23.154" end="01:48:28.154" style="s2">ytcracker: peace</p>
+<p begin="01:48:25.336" end="01:48:30.336" style="s2">ytcracker: later chat</p>
+<p begin="01:48:36.956" end="01:48:41.956" style="s2">dorkmo: party1 false = true</p>
+<p begin="01:48:41.098" end="01:48:46.098" style="s2">Fulk33: but but ... false is not true :(</p>
+<p begin="01:49:30.653" end="01:49:35.653" style="s2">nmuntz_: what programming language is that?</p>
+<p begin="01:49:56.171" end="01:50:01.171" style="s2">dorkmo: https://en.wikipedia.org/wiki/Square_root_of_2</p>
+<p begin="01:49:59.245" end="01:50:04.245" style="s2">ZiklarxD: Gallina</p>
+<p begin="01:50:00.525" end="01:50:05.525" style="s2">dorkmo: https://en.wikipedia.org/wiki/Coq</p>
+<p begin="01:50:00.833" end="01:50:05.833" style="s2">Coldius: Coq</p>
+<p begin="01:50:05.830" end="01:50:10.830" style="s2">ZiklarxD: According to wiki</p>
+<p begin="01:50:18.236" end="01:50:23.236" style="s2">davidsit_site: it is ocaml</p>
+<p begin="01:50:50.006" end="01:50:55.006" style="s2">davidsit_site: https://coq.inria.fr/</p>
+<p begin="01:50:55.297" end="01:51:00.297" style="s2">dorkmo: Zik is right.. http://adam.chlipala.net/cpdt/html/Universes.html</p>
+<p begin="01:50:55.689" end="01:51:00.689" style="s2">nmuntz_: thanks!</p>
+<p begin="01:51:41.274" end="01:51:46.274" style="s2">Vjasal_: but it says false</p>
+<p begin="01:52:20.675" end="01:52:25.675" style="s2">davidsit_site: COQ (software) Developer(s) The Coq development team Initial release 1 May 1989; 29 years ago (version 4.10) Stable release 8.8.2[1] / 26 September 2018 Repository github.com/coq/coq Written in OCaml Operating system Cross-platform Available in English Type Proof assistant License LGPL 2.1 Website coq.inria.fr COQ (language) Paradigm Functional First appeared 1984[2] Typing discipline static, strong Filename extensions .v Dialects LEGO (proof assistant) Influenced by ML (programming), LCF (proof</p>
+<p begin="01:52:41.806" end="01:52:46.806" style="s2">foxubu: yes</p>
+<p begin="01:52:43.110" end="01:52:48.110" style="s2">davidsit_site: that did not format well</p>
+<p begin="01:52:57.688" end="01:53:02.688" style="s2">Fulk33: you can write it as 2^(1/2) Kappa</p>
+<p begin="01:53:24.644" end="01:53:29.644" style="s2">tryzniak: sorry folks, i&#39;ve just chimed in. what lang he&#39;s programming in?</p>
+<p begin="01:53:27.202" end="01:53:32.202" style="s2">lightskinxeno: Is it for a challenge? Or project, anybody know this is gonna be on youtube?</p>
+<p begin="01:53:28.994" end="01:53:33.994" style="s2">SHB111: What language is this?</p>
+<p begin="01:53:34.573" end="01:53:39.573" style="s2">Fulk33: https://en.wikipedia.org/wiki/Coq</p>
+<p begin="01:54:24.397" end="01:54:29.397" style="s2">ZiklarxD: @lightskinxeno it will be available here on twitch, you can rewatch the vod if you subscribe :)</p>
+<p begin="01:55:19.475" end="01:55:24.475" style="s2">ZiklarxD: @lightskinxeno and also i believe this is a challenge for ihm</p>
+<p begin="01:55:20.642" end="01:55:25.642" style="s2">ZiklarxD: him</p>
+<p begin="01:55:25.653" end="01:55:30.653" style="s2">lightskinxeno: okay nice</p>
+<p begin="01:56:53.203" end="01:56:58.203" style="s2">quickfloor: @tomcr00s3 hey dude , u still in asia ?</p>
+<p begin="01:57:17.579" end="01:57:22.579" style="s2">quickfloor: :)) its programming with wired langs ?</p>
+<p begin="01:58:20.451" end="01:58:25.451" style="s2">th3_maj0r: I&#39;m not a sheep :(</p>
+<p begin="01:58:28.886" end="01:58:33.886" style="s2">quickfloor: who need that that library and those books ? geohot like PDF</p>
+<p begin="01:58:37.024" end="01:58:42.024" style="s2">n0mad27: i believe</p>
+<p begin="01:58:41.290" end="01:58:46.290" style="s2">lightskinxeno: Easy</p>
+<p begin="01:59:05.999" end="01:59:10.999" style="s2">quickfloor: @lightskinxeno what is this party about ?</p>
+<p begin="01:59:36.686" end="01:59:41.686" style="s2">projectfaro: what language is this?</p>
+<p begin="01:59:38.805" end="01:59:43.805" style="s2">ipinchkidsz: seems excessive... I learned well-founded induction in grad school set theory but I proved the irrationality of sqrt(2) on the first day of undergrad in pure math school</p>
+<p begin="01:59:55.455" end="02:00:00.455" style="s2">ZiklarxD: @projectfaro it&#39;s coq (gallina)</p>
+<p begin="02:00:12.137" end="02:00:17.137" style="s2">Sawfare: Hi i really appreciate your stream and content! I am studying IT and Economics so i am sadly have by far not enough skill nor experience to do such complex tasks as you do, but i wonder where you get those really interesting papers from, and/or you would have advice to find some nice coding topics for a experienced programmer rather than a complete pro as you are :P</p>
+<p begin="02:00:19.519" end="02:00:24.519" style="s2">davidsit_site: kidz, so you can explain it?</p>
+<p begin="02:00:35.653" end="02:00:40.653" style="s2">quickfloor: i need a explain</p>
+<p begin="02:00:51.210" end="02:00:56.210" style="s2">lightskinxeno: @Sawfare Do math, more. Rather than programming.</p>
+<p begin="02:01:09.710" end="02:01:14.710" style="s2">quickfloor: george coding in emacs :|</p>
+<p begin="02:01:18.343" end="02:01:23.343" style="s2">nmuntz_: why is he using emacs today? VoHiYo</p>
+<p begin="02:01:21.449" end="02:01:26.449" style="s2">runner_guy: @lightskinxeno in my senior year of CS... so much this</p>
+<p begin="02:01:28.962" end="02:01:33.962" style="s2">slimydude: nmuntz_ because proof general is great</p>
+<p begin="02:01:32.166" end="02:01:37.166" style="s2">foxubu: @Sawfare Arxiv-http://www.arxiv-sanity.com/top</p>
+<p begin="02:01:40.655" end="02:01:45.655" style="s2">nmuntz_: ahhh makes sense</p>
+<p begin="02:02:12.407" end="02:02:17.407" style="s2">quickfloor: Tools are not matter or matter ? im confuse</p>
+<p begin="02:02:41.824" end="02:02:46.824" style="s2">Sawfare: @lightskinxeno i would, but i only have a good experience in programming and little to no experience in maths :(</p>
+<p begin="02:03:13.838" end="02:03:18.838" style="s2">Sawfare: @foxubu that was excatly what i was looking for! although those papers are probably why to difficult for me to understand..</p>
+<p begin="02:03:30.994" end="02:03:35.994" style="s2">jotembruv: @Sawfare way*</p>
+<p begin="02:03:39.113" end="02:03:44.113" style="s2">ipinchkidsz: have fun with your math George, I&#39;m going to get started with my reverse engineering work for the day</p>
+<p begin="02:03:45.687" end="02:03:50.687" style="s2">quickfloor: i guess geo is in new jersey now</p>
+<p begin="02:04:24.785" end="02:04:29.785" style="s2">ImAventus: no his in the cloud</p>
+<p begin="02:04:58.191" end="02:05:03.191" style="s2">quickfloor: azur or google cloud ? because google has a bad story :|</p>
+<p begin="02:05:03.969" end="02:05:08.969" style="s2">b_______________________b: clintHYPERS</p>
+<p begin="02:05:24.278" end="02:05:29.278" style="s2">Jewishrambo: did he take iq test i asked on his yt video</p>
+<p begin="02:05:46.169" end="02:05:51.169" style="s2">ZiklarxD: @Jewishrambo yeah. his iq was 200</p>
+<p begin="02:05:59.312" end="02:06:04.312" style="s2">Jewishrambo: classical iq test?</p>
+<p begin="02:06:05.886" end="02:06:10.886" style="s2">quickfloor: ya</p>
+<p begin="02:06:14.642" end="02:06:19.642" style="s2">SylensEdits: do you have an external webcam?</p>
+<p begin="02:06:20.527" end="02:06:25.527" style="s2">Jewishrambo: Guess I gotta wait until the youtube video</p>
+<p begin="02:06:27.776" end="02:06:32.776" style="s2">Jewishrambo: that&#39;s insane though</p>
+<p begin="02:06:46.831" end="02:06:51.831" style="s2">julien9877: online tests are unreliable</p>
+<p begin="02:07:18.149" end="02:07:23.149" style="s2">Jewishrambo: tht ones kinda decent</p>
+<p begin="02:07:31.795" end="02:07:36.795" style="s2">ZiklarxD: @julien9877 you can find some that is somehow reliable</p>
+<p begin="02:09:21.184" end="02:09:26.184" style="s2">SylensEdits: no I&#39;m just saying it looks better than my Mac one LUL</p>
+<p begin="02:09:50.549" end="02:09:55.549" style="s2">SylensEdits: never seen it this clear for me</p>
+<p begin="02:09:54.330" end="02:09:59.330" style="s2">geoc0ld: where&#39;s he at rn?</p>
+<p begin="02:10:00.243" end="02:10:05.243" style="s2">davidsit_site: &quot;state&quot;</p>
+<p begin="02:10:08.928" end="02:10:13.928" style="s2">geoc0ld: in which country i mean</p>
+<p begin="02:10:38.691" end="02:10:43.691" style="s2">davidsit_site: prior to reboot &quot;state&quot; was stated. which state the state is in was left unstated</p>
+<p begin="02:12:55.371" end="02:13:00.371" style="s2">DrRobotvinnik: coq au vin for tea? ArgieB8</p>
+<p begin="02:13:41.950" end="02:13:46.950" style="s2">yeah_haey: do you know some homotopy type theory ?</p>
+<p begin="02:15:19.549" end="02:15:24.549" style="s2">Sawfare: is there something like arxiv for more economic related problems?</p>
+<p begin="02:15:21.480" end="02:15:26.480" style="s2">ABAD1DEA: hi nerds</p>
+<p begin="02:15:36.996" end="02:15:41.996" style="s2">foxubu: Order food</p>
+<p begin="02:15:39.274" end="02:15:44.274" style="s2">foxubu: :D</p>
+<p begin="02:16:58.774" end="02:17:03.774" style="s2">DrRobotvinnik: you must order coq au vin</p>
+<p begin="02:17:07.832" end="02:17:12.832" style="s2">DrRobotvinnik: as hommage</p>
+<p begin="02:17:10.913" end="02:17:15.913" style="s2">rattata400: @DrRobotvinnik :D</p>
+<p begin="02:17:11.488" end="02:17:16.488" style="s2">DrRobotvinnik: ArgieB8</p>
+<p begin="02:17:19.999" end="02:17:24.999" style="s2">yeah_haey: can you formalize a program and prove that it has no logic bug with coq you think ?</p>
+<p begin="02:17:46.220" end="02:17:51.220" style="s2">Fulk33: @yeah_haey of course you can</p>
+<p begin="02:18:18.375" end="02:18:23.375" style="s2">Vjasal_: maybe omega will work Kappa</p>
+<p begin="02:18:57.451" end="02:19:02.451" style="s2">luxbock: yeah_haey, CompCert is a compiler for the C language that was formalized and formally proven correct in Coq</p>
+<p begin="02:19:16.315" end="02:19:21.315" style="s2">Kultiviert: hello my autistic role model HeyGuys</p>
+<p begin="02:19:33.292" end="02:19:38.292" style="s2">davidsit_site: huh compcert you say</p>
+<p begin="02:19:54.407" end="02:19:59.407" style="s2">serhejenos: hi, everyone</p>
+<p begin="02:24:43.731" end="02:24:48.731" style="s2">mobcus: TriHard 7</p>
+<p begin="02:26:10.235" end="02:26:15.235" style="s2">yeah_haey: @luxbock sounds interesting</p>
+<p begin="02:28:39.952" end="02:28:44.952" style="s2">SkillzTech: Sup guys what we doing</p>
+<p begin="02:29:00.273" end="02:29:05.273" style="s2">yeah_haey: proving that sqrt(2) is irrational in coq i guess</p>
+<p begin="02:29:58.226" end="02:30:03.226" style="s2">SkillzTech: Ah</p>
+<p begin="02:30:26.326" end="02:30:31.326" style="s2">SkillzTech: sounds like homework....</p>
+<p begin="02:30:27.924" end="02:30:32.924" style="s2">SatraiCycle: what is he coding guys?</p>
+<p begin="02:31:22.687" end="02:31:27.687" style="s2">Vjasal_: Why do it with p and pp? maybe try with just p for now?</p>
+<p begin="02:32:03.732" end="02:32:08.732" style="s2">Obey__GaMeFreaK: what book should I read to learn oriented objects in java</p>
+<p begin="02:32:51.138" end="02:32:56.138" style="s2">keepingtrckofthisacct: @Obey__GaMeFreaK anybook on &#39;pattern&#39; programming</p>
+<p begin="02:33:07.235" end="02:33:12.235" style="s2">Ampalos23: forsen1</p>
+<p begin="02:33:39.507" end="02:33:44.507" style="s2">Obey__GaMeFreaK: Ok I&#39;ll try that</p>
+<p begin="02:37:59.188" end="02:38:04.188" style="s2">maxoilasQc: what is this language ?</p>
+<p begin="02:38:09.179" end="02:38:14.179" style="s2">eggzyul: @Obey__GaMeFreaK I kind of remember the &quot;Head First Design Patterns&quot; from school many years ago</p>
+<p begin="02:39:51.760" end="02:39:56.760" style="s2">SkillzTech: Python?</p>
+<p begin="02:39:59.572" end="02:40:04.572" style="s2">Roronoaa_z: yes</p>
+<p begin="02:40:32.653" end="02:40:37.653" style="s2">serhejenos: @skillztech no)))</p>
+<p begin="02:41:06.342" end="02:41:11.342" style="s2">eggzyul: Its Coq</p>
+<p begin="02:41:30.046" end="02:41:35.046" style="s2">SkillzTech: Never heard of Coq</p>
+<p begin="02:41:36.927" end="02:41:41.927" style="s2">eggzyul: https://coq.inria.fr/</p>
+<p begin="02:42:31.628" end="02:42:36.628" style="s2">SkillzTech: Intresting</p>
+<p begin="02:43:00.358" end="02:43:05.358" style="s2">SkillzTech: out of topic but why are to Comma AI hoodies $70????</p>
+<p begin="02:43:00.823" end="02:43:05.823" style="s2">sobwyn123: Hello from Slovakia ! I see you for the first time :D you&#39;re my programming god.</p>
+<p begin="02:43:18.614" end="02:43:23.614" style="s2">sobwyn123: first time i mean live</p>
+<p begin="02:44:00.341" end="02:44:05.341" style="s2">ipinchkidsz: @SkillzTech we&#39;re trying to keep the chat here relevant to what&#39;s happening on the stream. Perhaps a private message might be better for your question.</p>
+<p begin="02:44:34.618" end="02:44:39.618" style="s2">TeslaMan98: Hi, newcomer around here....is this Coq Gallina?</p>
+<p begin="02:44:46.477" end="02:44:51.477" style="s2">Vjasal_: what is &quot;Prop&quot;?</p>
+<p begin="02:45:16.206" end="02:45:21.206" style="s2">davidsit_site: There is no comma ai chat on this stream</p>
+<p begin="02:45:33.078" end="02:45:38.078" style="s2">SkillzTech: @ipinchkidsz PM to who? George?</p>
+<p begin="02:45:56.583" end="02:46:01.583" style="s2">SkillzTech: yea i dont think george even cares....</p>
+<p begin="02:46:09.834" end="02:46:14.834" style="s2">davidsit_site: tiny tom croose likes the attention</p>
+<p begin="02:46:42.421" end="02:46:47.421" style="s2">sobwyn123: what is that programming language ?</p>
+<p begin="02:46:50.908" end="02:46:55.908" style="s2">davidsit_site: coq ocaml</p>
+<p begin="02:47:13.608" end="02:47:18.608" style="s2">davidsit_site: https://coq.inria.fr/</p>
+<p begin="02:47:30.233" end="02:47:35.233" style="s2">sobwyn123: ty</p>
+<p begin="02:47:34.066" end="02:47:39.066" style="s2">Bombapil0t: coquest</p>
+<p begin="02:47:53.078" end="02:47:58.078" style="s2">davidsit_site: i prefer coq-dates</p>
+<p begin="02:48:36.960" end="02:48:41.960" style="s2">TeslaMan98: @Vjasal_ I think it is a logical proposition.</p>
+<p begin="02:49:10.741" end="02:49:15.741" style="s2">ImAventus: hello</p>
+<p begin="02:49:11.571" end="02:49:16.571" style="s2">eggzyul: Yo geo&#39;s dad</p>
+<p begin="02:49:13.223" end="02:49:18.223" style="s2">SkillzTech: WHATS UP!</p>
+<p begin="02:49:14.152" end="02:49:19.152" style="s2">davidsit_site: Hello!</p>
+<p begin="02:49:16.215" end="02:49:21.215" style="s2">xEHLE_: :) /</p>
+<p begin="02:49:17.957" end="02:49:22.957" style="s2">LoveFeelings: hey dad</p>
+<p begin="02:49:18.317" end="02:49:23.317" style="s2">Bombapil0t: hi from chad HeyGuys</p>
+<p begin="02:49:19.159" end="02:49:24.159" style="s2">880user088: hi</p>
+<p begin="02:49:19.650" end="02:49:24.650" style="s2">Juxtapo8: hi dad :)</p>
+<p begin="02:49:30.115" end="02:49:35.115" style="s2">jrogan993: take that tie off lets get this party started</p>
+<p begin="02:49:31.184" end="02:49:36.184" style="s2">serhejenos: yes</p>
+<p begin="02:49:39.510" end="02:49:44.510" style="s2">ImAventus: both live in the cloud hello geo&#39;s dad</p>
+<p begin="02:49:43.821" end="02:49:48.821" style="s2">alluxua: Hello, mr. hotz</p>
+<p begin="02:49:54.438" end="02:49:59.438" style="s2">Bombapil0t: :D</p>
+<p begin="02:49:58.782" end="02:50:03.782" style="s2">alluxua: Happy holiday!</p>
+<p begin="02:50:13.613" end="02:50:18.613" style="s2">880user088: Bon Appetite</p>
+<p begin="02:50:29.648" end="02:50:34.648" style="s2">DrRobotvinnik: George was born?</p>
+<p begin="02:50:34.343" end="02:50:39.343" style="s2">ImAventus: what for lunch</p>
+<p begin="02:50:42.140" end="02:50:47.140" style="s2">Bombapil0t: Kreygasm</p>
+<p begin="02:50:49.532" end="02:50:54.532" style="s2">SkillzTech: that sounds gross</p>
+<p begin="02:50:49.790" end="02:50:54.790" style="s2">serhejenos: bon appetite</p>
+<p begin="02:51:01.118" end="02:51:06.118" style="s2">serhejenos: ASMR</p>
+<p begin="02:51:03.194" end="02:51:08.194" style="s2">alluxua: What your dad does, geohot?</p>
+<p begin="02:51:05.399" end="02:51:10.399" style="s2">ImAventus: lol</p>
+<p begin="02:52:04.625" end="02:52:09.625" style="s2">ImAventus: what kind of pie????</p>
+<p begin="02:53:02.763" end="02:53:07.763" style="s2">DrRobotvinnik: humble ArgieB8</p>
+<p begin="02:53:53.869" end="02:53:58.869" style="s2">honeybadger_____: whats this environment</p>
+<p begin="02:53:57.068" end="02:54:02.068" style="s2">ipinchkidsz: this proof seems to be combining both infinite ascent (induction) and infinite descent (well-founded induction)</p>
+<p begin="02:54:09.361" end="02:54:14.361" style="s2">ipinchkidsz: that seems overly complicated</p>
+<p begin="02:56:09.955" end="02:56:14.955" style="s2">stathizzzz: What lang is this?</p>
+<p begin="02:59:52.662" end="02:59:57.662" style="s2">ImAventus: Gallina</p>
+<p begin="03:02:15.951" end="03:02:20.951" style="s2">aresfour: are you home for holidays cr00s3</p>
+<p begin="03:02:54.542" end="03:02:59.542" style="s2">alluxua: He is already at home. His dad just showed up a few minutes ago</p>
+<p begin="03:03:22.623" end="03:03:27.623" style="s2">AresRai: dad ? FeelsGoodMan</p>
+<p begin="03:03:34.674" end="03:03:39.674" style="s2">alluxua: Yeah.</p>
+<p begin="03:03:36.378" end="03:03:41.378" style="s2">aresfour: thats nice</p>
+<p begin="03:05:38.146" end="03:05:43.146" style="s2">erend0ru: ım not a programmer but I wonder what is he doing right now ?</p>
+<p begin="03:05:49.759" end="03:05:54.759" style="s2">erend0ru: and which language is that ? xd</p>
+<p begin="03:05:55.529" end="03:06:00.529" style="s2">stathizzzz: Isn&#39;t there a way to debug a step in coq?</p>
+<p begin="03:06:47.956" end="03:06:52.956" style="s2">geoc0ld: how many hours has he been working on this?</p>
+<p begin="03:06:54.646" end="03:06:59.646" style="s2">AresRai: 2:30</p>
+<p begin="03:07:04.084" end="03:07:09.084" style="s2">pmc_eft: kappa1 kappa1 kappa1 kappa1 kappa1 Found you again GeoHot... Ty for the unlock back in the day :D</p>
+<p begin="03:07:24.753" end="03:07:29.753" style="s2">stathizzzz: My teacher always told me if you can&#39;t find a solution to a question, try simplyfying the question</p>
+<p begin="03:07:42.958" end="03:07:47.958" style="s2">geoc0ld: big brain</p>
+<p begin="03:07:59.609" end="03:08:04.609" style="s2">geoc0ld: tactics</p>
+<p begin="03:08:13.187" end="03:08:18.187" style="s2">erend0ru: Is there anyone knows what he is doing ?</p>
+<p begin="03:08:15.821" end="03:08:20.821" style="s2">erend0ru: explaiin</p>
+<p begin="03:08:27.502" end="03:08:32.502" style="s2">pmc_eft: Debugging</p>
+<p begin="03:08:28.170" end="03:08:33.170" style="s2">erend0ru: I need explanation</p>
+<p begin="03:08:43.779" end="03:08:48.779" style="s2">erend0ru: hmm okey</p>
+<p begin="03:08:44.303" end="03:08:49.303" style="s2">geoc0ld: in one word: logic</p>
+<p begin="03:09:00.289" end="03:09:05.289" style="s2">aresfour: bik brain boi</p>
+<p begin="03:09:25.057" end="03:09:30.057" style="s2">AresRai: Oh so coq was made by french peeps, make me want to learn it now</p>
+<p begin="03:09:35.413" end="03:09:40.413" style="s2">phelipe3: dude , your website is sick</p>
+<p begin="03:09:43.405" end="03:09:48.405" style="s2">phelipe3: sikillzz</p>
+<p begin="03:09:52.327" end="03:09:57.327" style="s2">geoc0ld: french people are crazy</p>
+<p begin="03:09:59.598" end="03:10:04.598" style="s2">pmc_eft: @tomcr00s3 Mind telling us how Comma.ai is coming :D</p>
+<p begin="03:10:16.312" end="03:10:21.312" style="s2">cromize: we dont talk about comma here</p>
+<p begin="03:10:36.109" end="03:10:41.109" style="s2">AresRai: We learning here Pepega</p>
+<p begin="03:10:38.851" end="03:10:43.851" style="s2">geoc0ld: we don&#39;t do that here</p>
+<p begin="03:11:42.807" end="03:11:47.807" style="s2">geoc0ld: we just simply hear george&#39;s thoughts as a background noise</p>
+<p begin="03:11:42.954" end="03:11:47.954" style="s2">pmc_eft: build a path then destruct in the term</p>
+<p begin="03:12:08.719" end="03:12:13.719" style="s2">geoc0ld: lmao</p>
+<p begin="03:12:32.875" end="03:12:37.875" style="s2">pmc_eft: Not sure what this is im just throwing ideas // I only know Java</p>
+<p begin="03:12:44.654" end="03:12:49.654" style="s2">geoc0ld: yikes</p>
+<p begin="03:13:04.461" end="03:13:09.461" style="s2">geoc0ld: learn python</p>
+<p begin="03:13:17.946" end="03:13:22.946" style="s2">geoc0ld: python is the answer to all software</p>
+<p begin="03:13:28.072" end="03:13:33.072" style="s2">pmc_eft: @geoc0ld Yeah? I might do that any good places to learn python?</p>
+<p begin="03:13:37.503" end="03:13:42.503" style="s2">davidsit_site: lots</p>
+<p begin="03:13:41.531" end="03:13:46.531" style="s2">davidsit_site: https://realpython.com/python3-object-oriented-programming/</p>
+<p begin="03:13:41.750" end="03:13:46.750" style="s2">cromize: pydocs</p>
+<p begin="03:13:44.822" end="03:13:49.822" style="s2">Vjasal_: your home</p>
+<p begin="03:13:44.931" end="03:13:49.931" style="s2">SkillzTech: @pmc_eft Youtube</p>
+<p begin="03:13:45.614" end="03:13:50.614" style="s2">geoc0ld: lmao</p>
+<p begin="03:13:47.728" end="03:13:52.728" style="s2">davidsit_site: ^ that too</p>
+<p begin="03:13:48.743" end="03:13:53.743" style="s2">geoc0ld: pydocs</p>
+<p begin="03:13:53.584" end="03:13:58.584" style="s2">davidsit_site: 2nd pydocs</p>
+<p begin="03:13:59.336" end="03:14:04.336" style="s2">geoc0ld: and comma ai archive</p>
+<p begin="03:14:26.673" end="03:14:31.673" style="s2">SkillzTech: comma ai archive is for advanced users</p>
+<p begin="03:14:29.811" end="03:14:34.811" style="s2">stathizzzz: I&#39;ve done some prolog int he past, is there any adv in coq compared to a prolog?Ithink the latter has bigger community and better libs overall</p>
+<p begin="03:14:55.350" end="03:15:00.350" style="s2">lightskinxeno: @SkillzTech comma ai killing it.</p>
+<p begin="03:15:04.589" end="03:15:09.589" style="s2">lightskinxeno: gifted users</p>
+<p begin="03:15:21.686" end="03:15:26.686" style="s2">geoc0ld: but for real now, if you want to learn python and you already know java, python is very easy to pick up</p>
+<p begin="03:15:45.352" end="03:15:50.352" style="s2">geoc0ld: ask george about what he thinks about python, he</p>
+<p begin="03:15:49.667" end="03:15:54.667" style="s2">geoc0ld: LOVES</p>
+<p begin="03:15:52.031" end="03:15:57.031" style="s2">geoc0ld: python3</p>
+<p begin="03:15:54.428" end="03:15:59.428" style="s2">geoc0ld: lmao</p>
+<p begin="03:16:04.925" end="03:16:09.925" style="s2">lightskinxeno: Your name is geocold lol</p>
+<p begin="03:16:05.633" end="03:16:10.633" style="s2">SkillzTech: Python feels faster to atleast to me</p>
+<p begin="03:16:22.363" end="03:16:27.363" style="s2">davidsit_site: gifted users...but will that be so when the masses who don&#39;t understand the limits of the tech get it? No. they will trust too much. I thought Hottie liked python2</p>
+<p begin="03:16:28.031" end="03:16:33.031" style="s2">pmc_eft: okay thanks guys. Yeah Im a CS student, onto data structures and algorithms now in my school</p>
+<p begin="03:16:39.982" end="03:16:44.982" style="s2">pmc_eft: Finished my Java part</p>
+<p begin="03:16:41.969" end="03:16:46.969" style="s2">davidsit_site: I&#39;m on recursion</p>
+<p begin="03:16:49.371" end="03:16:54.371" style="s2">stathizzzz: Java is a dead language</p>
+<p begin="03:17:02.695" end="03:17:07.695" style="s2">kumoto: LUL</p>
+<p begin="03:17:05.919" end="03:17:10.919" style="s2">geoc0ld: java is the most alive in the market dude</p>
+<p begin="03:17:06.242" end="03:17:11.242" style="s2">pmc_eft: Java isnt dead but its not used much anymore</p>
+<p begin="03:17:06.527" end="03:17:11.527" style="s2">stathizzzz: Only big corps use it</p>
+<p begin="03:17:14.059" end="03:17:19.059" style="s2">SkillzTech: Java is not dead at all</p>
+<p begin="03:17:14.338" end="03:17:19.338" style="s2">davidsit_site: my printer uses java *defensively hugs printer*</p>
+<p begin="03:17:44.576" end="03:17:49.576" style="s2">stathizzzz: Big corps = difficult to adapt to new data</p>
+<p begin="03:18:01.206" end="03:18:06.206" style="s2">davidsit_site: Java is dead, long live java. COQs looks neat; didn&#39;t know this sort of tool existed</p>
+<p begin="03:18:07.861" end="03:18:12.861" style="s2">geoc0ld: george is literally alone on this challenge lmao</p>
+<p begin="03:18:54.250" end="03:18:59.250" style="s2">SkillzTech: Probably because half of the viewers dont even know what Coq is</p>
+<p begin="03:19:09.565" end="03:19:14.565" style="s2">lightskinxeno: Half, i think more like 98%</p>
+<p begin="03:19:13.891" end="03:19:18.891" style="s2">cromize: totally &quot;basic&quot; programming</p>
+<p begin="03:19:23.813" end="03:19:28.813" style="s2">geoc0ld: yea</p>
+<p begin="03:19:28.237" end="03:19:33.237" style="s2">geoc0ld: &quot;basic&quot;</p>
+<p begin="03:19:44.775" end="03:19:49.775" style="s2">ipinchkidsz: if I may... go back to the basics here, you don&#39;t even need induction, let alone well-founded induction</p>
+<p begin="03:19:54.213" end="03:19:59.213" style="s2">davidsit_site: well; he has 100  people hoping he will succeed (or fail). Or maybe just hoping to hear about more dates</p>
+<p begin="03:20:09.827" end="03:20:14.827" style="s2">geoc0ld: yes, more dates pls</p>
+<p begin="03:20:18.447" end="03:20:23.447" style="s2">davidsit_site: what are basics? I&#39;m in the 99% that doesn&#39;t grok COQs</p>
+<p begin="03:20:23.765" end="03:20:28.765" style="s2">geoc0ld: i laughed my ass off about the ad one</p>
+<p begin="03:21:03.179" end="03:21:08.179" style="s2">stathizzzz: Who introduces this challenges? Can we take part?</p>
+<p begin="03:21:15.157" end="03:21:20.157" style="s2">warriorfromdomainofdeath: who did it</p>
+<p begin="03:21:16.386" end="03:21:21.386" style="s2">SkillzTech: Oh i see it</p>
+<p begin="03:21:28.261" end="03:21:33.261" style="s2">SkillzTech: not really</p>
+<p begin="03:21:28.496" end="03:21:33.496" style="s2">alluxua: I believe geohot will succeed</p>
+<p begin="03:21:28.550" end="03:21:33.550" style="s2">ImAventus: ohhh</p>
+<p begin="03:21:41.226" end="03:21:46.226" style="s2">erend0ru: ooooh yea got it</p>
+<p begin="03:21:42.294" end="03:21:47.294" style="s2">warriorfromdomainofdeath: why is tom a logan pauled</p>
+<p begin="03:21:42.872" end="03:21:47.872" style="s2">lightskinxeno: @alluxua hell yeah he will</p>
+<p begin="03:21:43.533" end="03:21:48.533" style="s2">ImAventus: never doubt geo</p>
+<p begin="03:21:45.561" end="03:21:50.561" style="s2">warriorfromdomainofdeath: paulee</p>
+<p begin="03:21:54.175" end="03:21:59.175" style="s2">erend0ru: xd</p>
+<p begin="03:22:09.602" end="03:22:14.602" style="s2">geoc0ld: we can&#39;t see the trick you ape</p>
+<p begin="03:22:14.714" end="03:22:19.714" style="s2">alluxua: Everybody will succeed if you keep going</p>
+<p begin="03:22:20.443" end="03:22:25.443" style="s2">geoc0ld: camera too BIG</p>
+<p begin="03:22:25.983" end="03:22:30.983" style="s2">warriorfromdomainofdeath: Einstein was azked</p>
+<p begin="03:22:31.892" end="03:22:36.892" style="s2">lightskinxeno: geoc0ld dont be so rude, you got a cool username, dont get perma banned</p>
+<p begin="03:22:48.192" end="03:22:53.192" style="s2">geoc0ld: hol up, we are all apes</p>
+<p begin="03:23:17.132" end="03:23:22.132" style="s2">SkillzTech: Im trying to build a skyscrapper think ill succeed?</p>
+<p begin="03:23:40.203" end="03:23:45.203" style="s2">Bombapil0t: PogChamp</p>
+<p begin="03:23:45.347" end="03:23:50.347" style="s2">SkillzTech: *skyscraper</p>
+<p begin="03:23:48.432" end="03:23:53.432" style="s2">davidsit_site: out of what</p>
+<p begin="03:24:04.621" end="03:24:09.621" style="s2">warriorfromdomainofdeath: Einstein said &quot;I succedd not because i am smarter but because i stay on my problems longer just like tom&quot; SeemsGood RuleFive UnSane</p>
+<p begin="03:24:05.138" end="03:24:10.138" style="s2">SkillzTech: Steel beams</p>
+<p begin="03:24:06.180" end="03:24:11.180" style="s2">ImAventus: where your logan paul sweaters lol</p>
+<p begin="03:25:08.401" end="03:25:13.401" style="s2">lightskinxeno: hi lady</p>
+<p begin="03:25:08.809" end="03:25:13.809" style="s2">Bombapil0t: 4Head</p>
+<p begin="03:25:09.527" end="03:25:14.527" style="s2">ImAventus: hey mama hotz</p>
+<p begin="03:25:16.563" end="03:25:21.563" style="s2">davidsit_site: warriorfromdomainofdeath; that is worth remembering. The race is not always to the swift nor the battle to the strong, but that’s the way to bet.</p>
+<p begin="03:25:40.140" end="03:25:45.140" style="s2">warriorfromdomainofdeath: @davidsit_site you got it bro</p>
+<p begin="03:25:48.944" end="03:25:53.944" style="s2">alluxua: Liked like his sister?</p>
+<p begin="03:26:29.358" end="03:26:34.358" style="s2">pmc_eft: generics Kappa</p>
+<p begin="03:28:25.975" end="03:28:30.975" style="s2">eiscosogin1: what&#39;s happening?</p>
+<p begin="03:28:35.666" end="03:28:40.666" style="s2">eiscosogin1: what are we trying to make?</p>
+<p begin="03:28:42.563" end="03:28:47.563" style="s2">adriaroms: where is the educational?</p>
+<p begin="03:29:21.662" end="03:29:26.662" style="s2">boc5: what are u doing ?</p>
+<p begin="03:29:44.693" end="03:29:49.693" style="s2">jakeadelman: he is teaching how to learn and proving sqrt(2) is irrational i think</p>
+<p begin="03:29:46.011" end="03:29:51.011" style="s2">lightskinxeno: @eiscosogin1 try to prove square root 2 is irrational through something called coq</p>
+<p begin="03:30:10.783" end="03:30:15.783" style="s2">MKN57: i cant even understand the syntax. what is this language?</p>
+<p begin="03:30:14.008" end="03:30:19.008" style="s2">davidsit_site: George is doing COQs rn; attempting inductive proofs of xor and infinite descent</p>
+<p begin="03:30:30.143" end="03:30:35.143" style="s2">davidsit_site: https://en.wikipedia.org/wiki/Coq Language: OCaml</p>
+<p begin="03:30:30.631" end="03:30:35.631" style="s2">lightskinxeno: @MKN57 COQ</p>
+<p begin="03:31:03.683" end="03:31:08.683" style="s2">davidsit_site: https://coq.inria.fr/</p>
+<p begin="03:32:23.876" end="03:32:28.876" style="s2">dorkmo: party100</p>
+<p begin="03:32:54.810" end="03:32:59.810" style="s2">davidsit_site: nice</p>
+<p begin="03:32:57.872" end="03:33:02.872" style="s2">vudu77: hi</p>
+<p begin="03:33:07.937" end="03:33:12.937" style="s2">alluxua: 👏👏👏👏👏👏👏👏</p>
+<p begin="03:33:47.916" end="03:33:52.916" style="s2">pmc_eft: We must protect GeoHot at all costs. He is the new driving force in the valley :D</p>
+<p begin="03:34:54.509" end="03:34:59.509" style="s2">davidsit_site: very punny</p>
+<p begin="03:35:07.006" end="03:35:12.006" style="s2">davidsit_site: i&#39;m not sure the others can actually drive tho</p>
+<p begin="03:35:16.797" end="03:35:21.797" style="s2">pmc_eft: heheh your right</p>
+<p begin="03:35:29.445" end="03:35:34.445" style="s2">jakeadelman: lel the dude is an inspiration</p>
+<p begin="03:38:33.090" end="03:38:38.090" style="s2">vudu77: what the hell is he doing ??????</p>
+<p begin="03:39:07.142" end="03:39:12.142" style="s2">foxubu: https://github.com/coq/coq/</p>
+<p begin="03:39:26.267" end="03:39:31.267" style="s2">boc5: Coqoricoooooo</p>
+<p begin="03:39:53.259" end="03:39:58.259" style="s2">boc5: 2   2 is 4 quick math</p>
+<p begin="03:40:11.901" end="03:40:16.901" style="s2">Obey__GaMeFreaK: geo hot should hot fix fallout 76 lul</p>
+<p begin="03:40:13.518" end="03:40:18.518" style="s2">boc5: KomodoHype</p>
+<p begin="03:41:41.222" end="03:41:46.222" style="s2">foxubu: It is interesting to watch his eye movements while he codes.</p>
+<p begin="03:45:43.922" end="03:45:48.922" style="s2">sfmoose: I like to star DEEP into them</p>
+<p begin="03:45:47.333" end="03:45:52.333" style="s2">sfmoose: stare even</p>
+<p begin="03:47:37.907" end="03:47:42.907" style="s2">svada324: Cx</p>
+<p begin="03:48:02.160" end="03:48:07.160" style="s2">sfmoose: where&#39;s the jetski?</p>
+<p begin="03:48:10.529" end="03:48:15.529" style="s2">Obey__GaMeFreaK: yes looking at him oh baby</p>
+<p begin="03:49:01.284" end="03:49:06.284" style="s2">foxubu: Don&#39;t sound creepy B) or a mod will ban you</p>
+<p begin="03:51:10.615" end="03:51:15.615" style="s2">Sparking: hello Tom</p>
+<p begin="03:52:08.174" end="03:52:13.174" style="s2">r00tdk: you have been live from many hours man</p>
+<p begin="03:52:47.287" end="03:52:52.287" style="s2">r00tdk: hi</p>
+<p begin="03:54:22.070" end="03:54:27.070" style="s2">r00tdk: hello all</p>
+<p begin="03:54:22.197" end="03:54:27.197" style="s2">foxubu: May I suggest using git to create checkpoints?</p>
+<p begin="03:54:59.460" end="03:55:04.460" style="s2">ragemaster999: what language is this?</p>
+<p begin="03:55:18.365" end="03:55:23.365" style="s2">foxubu: @ragemaster999 https://github.com/coq/coq/</p>
+<p begin="03:56:15.346" end="03:56:20.346" style="s2">ragemaster999: qed at the end. nice</p>
+<p begin="03:56:43.680" end="03:56:48.680" style="s2">r00tdk: what language is this???</p>
+<p begin="03:57:02.349" end="03:57:07.349" style="s2">ragemaster999: coq</p>
+<p begin="03:57:30.812" end="03:57:35.812" style="s2">r00tdk: ok, never heard</p>
+<p begin="03:57:38.152" end="03:57:43.152" style="s2">Pryetranka: easy</p>
+<p begin="03:57:46.734" end="03:57:51.734" style="s2">foxubu: :)</p>
+<p begin="03:57:49.368" end="03:57:54.368" style="s2">880user088: lol</p>
+<p begin="03:57:59.361" end="03:58:04.361" style="s2">okeeeeeee: for what this coq thing is needed?</p>
+<p begin="03:58:00.345" end="03:58:05.345" style="s2">ipinchkidsz: you can upload through the web interface</p>
+<p begin="03:58:00.484" end="03:58:05.484" style="s2">foxubu: Pastebin</p>
+<p begin="03:58:03.680" end="03:58:08.680" style="s2">MajesticMack: ^</p>
+<p begin="03:58:11.033" end="03:58:16.033" style="s2">880user088: pastebin</p>
+<p begin="03:58:30.850" end="03:58:35.850" style="s2">ipinchkidsz: AND is not what you want, use implies</p>
+<p begin="03:59:36.219" end="03:59:41.219" style="s2">MajesticMack: quick maths</p>
+<p begin="03:59:43.890" end="03:59:48.890" style="s2">r00tdk: 1.44</p>
+<p begin="03:59:51.449" end="03:59:56.449" style="s2">slidewineder: redsL</p>
+<p begin="04:00:05.897" end="04:00:10.897" style="s2">cromize: why you dont have git acc here?</p>
+<p begin="04:00:37.490" end="04:00:42.490" style="s2">foxubu: Could you post it in the chat please?</p>
+<p begin="04:00:43.402" end="04:00:48.402" style="s2">foxubu: the link</p>
+<p begin="04:00:48.512" end="04:00:53.512" style="s2">b_______________________b: clintChep</p>
+<p begin="04:00:56.905" end="04:01:01.905" style="s2">SilentFourEyes: :o hey</p>
+<p begin="04:01:12.391" end="04:01:17.391" style="s2">foxubu: https://pastebin.com/2tqpbiz5</p>
+<p begin="04:01:19.645" end="04:01:24.645" style="s2">sfmoose: but is zero irrational?</p>
+<p begin="04:01:26.638" end="04:01:31.638" style="s2">b_______________________b: clintPeng 0</p>
+<p begin="04:01:27.130" end="04:01:32.130" style="s2">okeeeeeee: can i say your soundcloud is top though?</p>
+<p begin="04:01:34.590" end="04:01:39.590" style="s2">sophisticatedgaming291a11: lol</p>
+<p begin="04:01:45.825" end="04:01:50.825" style="s2">alluxua: Thank you for sharing, geohot. Happy holiday and enjoy at home!</p>
+<p begin="04:01:53.436" end="04:01:58.436" style="s2">sophisticatedgaming291a11: cbrahYaz</p>
+<p begin="04:02:00.614" end="04:02:05.614" style="s2">sfmoose: aw man best part of my day</p>
+<p begin="04:02:02.401" end="04:02:07.401" style="s2">gde1984: sqrt(2)=sqrt(2) Bullshit-Subjective π=3</p>
+<p begin="04:02:08.867" end="04:02:13.867" style="s2">TeslaMan98: @sfmoose is zero a number even? Kappa</p>
+<p begin="04:02:09.078" end="04:02:14.078" style="s2">sfmoose: dont leave me alone</p>
+<p begin="04:02:11.570" end="04:02:16.570" style="s2">880user088: thank you</p>
+<p begin="04:02:12.252" end="04:02:17.252" style="s2">foxubu: merry christmas</p>
+<p begin="04:02:16.849" end="04:02:21.849" style="s2">MajesticMack: KonCha</p>
+<p begin="04:02:17.620" end="04:02:22.620" style="s2">okeeeeeee: bye</p>
+<p begin="04:02:17.626" end="04:02:22.626" style="s2">r00tdk: bye</p>
+</div>
+</body>
+</tt>
