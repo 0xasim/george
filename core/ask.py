@@ -16,14 +16,14 @@ def ask_prompt(input_q, dir, files):
     tree = ET.parse(os.path.join(dir, ef))
     root = tree.getroot()
     for text in root:
+      # https://www.datacamp.com/community/tutorials/python-xml-elementtree
       st = ET.tostring(text, encoding='utf8').decode('utf8')
       n = 0
       if (input_q in st) and (":" not in st):
         n+=1
-        print(st)
-
-#      if (input_q in text.text) and (":" not in text.text):
-#        print(text.text)
+        time = int(float(text.attrib["start"]))-3
+        url = f"https://youtu.be/{ef[:-8]}?t={time}"
+        print(f"\u001b]8;;{url}\u001b\\{text.text}\u001b]8;;\u001b\\")
 
   print(n)
 

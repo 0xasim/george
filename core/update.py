@@ -6,7 +6,7 @@ def confirm_directory(dir):
 
 def get_subtitles(url, dir):
   vid_opts = {
-    'outtmpl': f'{dir}/%(title)s-%(id)s.%(ext)s',
+    'outtmpl': f'{dir}/%(id)s',
     'subtitlesformat': 'srv1', 
     'skip_download': True,
     'writeautomaticsub': True
