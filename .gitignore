@@ -2,3 +2,7 @@
 *.swp
 __pycache__
 */__pycache__
+subtitles/*
+/subtitles
+subtitles/
+.DS_Store
